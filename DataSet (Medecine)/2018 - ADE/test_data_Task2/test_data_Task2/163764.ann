@@ -1,0 +1,81 @@
+T1	Route 1028 1030	SL
+T2	Drug 1031 1036	Nitro
+T3	Drug 1394 1401	aspirin
+T4	ADE 1430 1435	hives
+T5	ADE 1440 1456	profuse vomiting
+T6	Drug 1494 1501	aspirin
+T7	Drug 1532 1539	aspirin
+T8	Reason 1540 1555	desensitization
+T9	Drug 185 196	Penicillins
+T10	Drug 199 212	Tetracyclines
+T11	Drug 299 306	aspirin
+T12	Reason 307 320	desentization
+T13	Drug 3438 3445	aspirin
+T14	Reason 3446 3459	desentization
+T15	Reason 3471 3474	CAD
+T16	Drug 3486 3492	Plavix
+T17	Drug 3494 3501	Lipitor
+T18	Drug 3503 3513	Metoprolol
+T19	Drug 3515 3525	Lisinopril
+T20	Drug 3531 3538	aspirin
+T21	ADE 3539 3546	allergy
+T22	Drug 3562 3569	aspirin
+T23	Reason 3570 3585	desensitization
+T24	Reason 3937 3940	HTN
+T25	Drug 3952 3957	Imdur
+T26	Drug 3959 3966	Norvasc
+T27	Drug 3968 3978	Metoprolol
+T28	Drug 3980 3990	Lisinopril
+T29	Reason 3995 3999	Endo
+T30	Drug 4010 4017	Levoxyl
+T31	Reason 4022 4025	PPX
+T32	Drug 4030 4038	protonix
+T33	Drug 4231 4236	IMDUR
+T34	Strength 4237 4241	60MG
+T35	Dosage 4243 4246	One
+T36	Route 4247 4255	by mouth
+T37	Frequency 4256 4265	every day
+T38	Drug 4266 4273	LIPITOR
+T39	Strength 4274 4278	80MG
+T40	Dosage 4280 4283	One
+T41	Route 4284 4292	by mouth
+T42	Frequency 4293 4302	every day
+T43	Drug 4303 4313	METOPROLOL
+T44	Strength 4314 4319	100MG
+T45	Dosage 4321 4324	One
+T46	Route 4325 4333	by mouth
+T47	Frequency 4334 4345	twice a day
+T48	Drug 4346 4359	NITROGLYCERIN
+T49	Strength 4360 4365	0.4MG
+T50	Drug 4383 4390	NORVASC
+T51	Strength 4391 4394	5MG
+T52	Dosage 4396 4399	One
+T53	Route 4400 4408	by mouth
+T54	Frequency 4409 4418	every day
+T55	Drug 4419 4429	OMEPRAZOLE
+T56	Strength 4430 4434	20MG
+T57	Dosage 4436 4439	One
+T58	Frequency 4440 4449	every day
+T59	Drug 4450 4456	PLAVIX
+T60	Strength 4457 4461	75MG
+T61	Dosage 4463 4466	One
+T62	Route 4467 4475	by mouth
+T63	Frequency 4476 4485	every day
+T64	Drug 4486 4494	PROTONIX
+T65	Strength 4495 4499	40MG
+T66	Dosage 4506 4509	one
+T67	Route 4510 4518	by mouth
+T68	Frequency 4519 4528	every day
+T69	Drug 4529 4536	ZESTRIL
+T70	Strength 4537 4541	20MG
+T71	Dosage 4543 4546	One
+T72	Route 4547 4555	by mouth
+T73	Frequency 4556 4567	twice a day
+T74	Drug 4568 4575	LEVOXYL
+T75	Strength 4576 4583	137 mcg
+T76	Dosage 4585 4586	1
+T77	Form 4587 4593	tablet
+T78	Route 4597 4605	by mouth
+T79	Frequency 4606 4616	once a day
+T80	Drug 490 497	aspirin
+T81	Reason 498 511	desentization

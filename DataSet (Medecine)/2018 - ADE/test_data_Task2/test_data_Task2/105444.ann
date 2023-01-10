@@ -1,0 +1,209 @@
+T1	Drug 1001 1009	morphine
+T4	Drug 1017 1019	NS
+T5	Drug 10294 10302	tegretol
+T6	Drug 10574 10577	IVF
+T8	Dosage 10582 10583;10584 10589	3 units
+T10	Drug 10593 10598	blood
+T11	Drug 11272 11281	narcotics
+T12	Reason 11351 11353	RA
+T13	Drug 11356 11368	methotrexate
+T14	ADE 11401 11413	pancytopenia
+T15	Reason 11424 11434	Depression
+T16	Drug 11462 11469	Effexor
+T17	Reason 11495 11503	Dementia
+T18	Reason 11504 11512	Delerium
+T19	Drug 11663 11670	Aricept
+T20	Drug 12377 12384	lovenox
+T21	Strength 12385 12389	40mg
+T22	Route 12390 12392	sQ
+T23	Frequency 12393 12398	daily
+T24	Reason 12438 12445	DVT ppx
+T25	Drug 12844 12851	Lipitor
+T26	Strength 12852 12857	20 mg
+T27	Frequency 12858 12863	daily
+T28	Drug 12864 12872	Tegretol
+T29	Strength 12873 12879	200 mg
+T30	Frequency 12880 12883	TID
+T31	Drug 12884 12891	Aricept
+T32	Strength 12892 12897	10 mg
+T33	Frequency 12898 12903	daily
+T34	Drug 12904 12914	Lisinopril
+T35	Strength 12915 12919	5 mg
+T36	Frequency 12920 12925	daily
+T37	Drug 12926 12935	Meloxicam
+T38	Strength 12936 12941	15 mg
+T39	Frequency 12942 12947	daily
+T40	Drug 12948 12957	Metformin
+T41	Strength 12958 12964	500 mg
+T42	Frequency 12965 12970	daily
+T43	Drug 12971 12983	Methotrexate
+T44	Strength 12984 12991	12.5 mg
+T45	Frequency 12992 12998	weekly
+T46	Drug 12999 13006	Effexor
+T47	Strength 13007 13013	150 mg
+T48	Frequency 13014 13019	Daily
+T49	Drug 13048 13053	Senna
+T50	Strength 13054 13060	8.6 mg
+T51	Form 13061 13067	Tablet
+T52	Dosage 13073 13080	One (1)
+T53	Form 13081 13087	Tablet
+T54	Route 13088 13090	PO
+T55	Frequency 13091 13094	BID
+T56	Reason 13125 13137	Constipation
+T57	Drug 13142 13157	Docusate Sodium
+T58	Strength 13158 13164	100 mg
+T59	Form 13165 13172	Capsule
+T60	Dosage 13178 13185	One (1)
+T61	Form 13186 13193	Capsule
+T62	Route 13194 13196	PO
+T63	Frequency 13197 13200	BID
+T64	Drug 13221 13234	Carbamazepine
+T65	Strength 13235 13241	200 mg
+T66	Form 13242 13248	Tablet
+T67	Dosage 13254 13261	One (1)
+T68	Form 13262 13268	Tablet
+T69	Route 13269 13271	PO
+T70	Frequency 13272 13275	TID
+T71	Drug 13296 13306	Enoxaparin
+T72	Strength 13307 13319	40 mg/0.4 mL
+T73	Form 13320 13327	Syringe
+T74	Dosage 13333 13343	Forty (40)
+T75	Form 13344 13346	mg
+T76	Route 13347 13359	Subcutaneous
+T77	Frequency 13360 13365	DAILY
+T78	Duration 13374 13385	for 25 days
+T79	Drug 13430 13447	Calcium Carbonate
+T80	Strength 13448 13454	500 mg
+T81	Form 13455 13471	Tablet, Chewable
+T82	Dosage 13477 13484	One (1)
+T83	Form 13485 13501	Tablet, Chewable
+T84	Route 13502 13504	PO
+T85	Frequency 13505 13508	BID
+T86	Drug 13529 13538	Vitamin D
+T87	Strength 13539 13547	400 unit
+T88	Form 13548 13554	Tablet
+T89	Dosage 13560 13568	Four (4)
+T90	Form 13569 13575	Tablet
+T91	Route 13576 13578	PO
+T92	Frequency 13579 13584	DAILY
+T93	Drug 13597 13608	Venlafaxine
+T94	Strength 13609 13614	75 mg
+T95	Form 13615 13643	Capsule, Sust. Release 24 hr
+T96	Dosage 13649 13656	Two (2)
+T97	Form 13657 13685	Capsule, Sust. Release 24 hr
+T98	Route 13686 13688	PO
+T99	Frequency 13689 13694	DAILY
+T100	Drug 13707 13719	Atorvastatin
+T101	Strength 13720 13725	40 mg
+T102	Form 13726 13732	Tablet
+T103	Dosage 13738 13745	Two (2)
+T104	Form 13746 13752	Tablet
+T105	Route 13753 13755	PO
+T106	Frequency 13756 13761	DAILY
+T107	Drug 13774 13781	Aspirin
+T108	Strength 13782 13787	81 mg
+T109	Form 13788 13804	Tablet, Chewable
+T110	Dosage 13810 13817	One (1)
+T111	Form 13818 13834	Tablet, Chewable
+T112	Route 13835 13837	PO
+T113	Frequency 13838 13843	DAILY
+T114	Drug 13857 13866	Donepezil
+T115	Strength 13867 13871	5 mg
+T116	Form 13872 13878	Tablet
+T117	Dosage 13884 13891	Two (2)
+T118	Form 13892 13898	Tablet
+T119	Route 13899 13901	PO
+T120	Frequency 13902 13904	HS
+T121	Drug 13923 13936	Acetaminophen
+T122	Strength 13937 13943	325 mg
+T123	Form 13944 13950	Tablet
+T124	Dosage 13956 13959	1-2
+T125	Form 13960 13967	Tablets
+T126	Route 13968 13970	PO
+T127	Frequency 13971 13983;13984 14000	Q4H (every 4 hours) as needed
+T128	Reason 14005 14009	pain
+T129	Drug 14015 14034	Metoprolol Tartrate
+T130	Strength 14035 14040	25 mg
+T131	Form 14041 14047	Tablet
+T132	Dosage 14053 14056	0.5
+T133	Form 14057 14063	Tablet
+T134	Route 14064 14066	PO
+T135	Frequency 14067 14070	BID
+T136	Drug 14092 14101	Metformin
+T137	Strength 14102 14108	500 mg
+T138	Form 14109 14134	Tablet Extended Rel 24 hr
+T139	Dosage 14140 14147	One (1)
+T140	Form 14148 14173	Tablet Extended Rel 24 hr
+T141	Route 14174 14176	PO
+T142	Frequency 14177 14187	once a day
+T143	Drug 14193 14201	Percocet
+T144	Strength 14202 14212	2.5-325 mg
+T145	Form 14213 14219	Tablet
+T146	Dosage 14225 14232	One (1)
+T147	Form 14233 14239	Tablet
+T148	Route 14240 14242	PO
+T149	Reason 14280 14284	pain
+T150	ADE 14606 14618	Pancytopenia
+T151	Drug 14633 14645	methotrexate
+T153	Drug 15400 15406	fluids
+T154	Drug 15792 15798	oxygen
+T155	Drug 15912 15924	methotrexate
+T156	Drug 16085 16097	methotrexate
+T157	Drug 16206 16213	lipitor
+T158	Strength 16231 16235	80mg
+T159	Frequency 16236 16241	daily
+T160	Frequency 16267 16272	daily
+T161	Route 16273 16283	injections
+T162	Drug 16287 16294	lovenox
+T163	Reason 16316 16335	prevent blood clots
+T164	Duration 16373 16380	25 days
+T165	Drug 16390 16397	calcium
+T166	Drug 16402 16411	vitamin D
+T167	Reason 16437 16441;16442 16449	bone healing
+T168	Drug 16459 16469	metoprolol
+T169	Strength 16470 16476	12.5mg
+T170	Reason 16497 16514	protect the heart
+T171	Drug 16531 16538	aspirin
+T172	Frequency 16539 16548	every day
+T173	Reason 16552 16569	protect the heart
+T174	Drug 7727 7730	ASA
+T175	Strength 7731 7735	81mg
+T176	Drug 7737 7743	statin
+T177	Strength 7744 7748	80mg
+T178	Frequency 7749 7754	daily
+T179	Drug 7760 7772	beta blocker
+T180	Drug 7774 7779	ACE-I
+T181	ADE 8226 8233	hypoxia
+T182	Drug 8282 8290	morphine
+T183	Reason 8350 8354	pain
+T184	Drug 8412 8421	narcotics
+T185	Reason 8465 8469	Pain
+T186	Drug 8492 8499	tylenol
+T187	Drug 8523 8530	lovenox
+T188	Strength 8531 8535	40mg
+T189	Route 8536 8538	sQ
+T190	Frequency 8539 8544	daily
+T191	Reason 8549 8556	DVT ppx
+T192	ADE 8591 8602	Pancyopenia
+T193	Drug 8786 8798	methotrexate
+T194	Drug 8828 8834	folate
+T195	Drug 8943 8948	DDAVP
+T196	Reason 8963 8976	low platelets
+T197	Drug 8982 8994	methotrexate
+T198	Drug 9031 9041	folic acid
+T199	Drug 9158 9170	methotrexate
+T200	Reason 923 927	pain
+T201	Drug 9400 9403	IVF
+T203	Dosage 9404 9411	boluses
+T204	Drug 9621 9633	methotrexate
+T205	Drug 9781 9789	insuling
+T206	Dosage 9790 9803	sliding scale
+T207	Drug 9810 9820	lisinopril
+T208	Strength 982 984	1g
+T209	Drug 9848 9857	metformin
+T210	Drug 985 992	tylenol
+T211	Drug 9877 9887	lisinopril
+T212	Strength 994 997	2mg
+T2	Route 998 1000	IV
+T3	Dosage 1014 1016	2L
+T7	Route 15397 15399	IV

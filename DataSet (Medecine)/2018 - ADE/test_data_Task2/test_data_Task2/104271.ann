@@ -1,0 +1,164 @@
+T1	Drug 10303 10310	heparin
+T2	Route 10311 10314	gtt
+T3	Reason 11021 11028	Hypoxia
+T4	Drug 11104 11110	oxygen
+T5	Drug 11562 11568	oxygen
+T6	Drug 11629 11635	oxygen
+T8	Drug 11657 11663	fluids
+T10	Drug 11711 11719	contrast
+T11	Reason 12053 12075	pulmonary hypertension
+T12	Drug 12156 12164	Diuresis
+T13	Dosage 12615 12617	2L
+T14	Drug 12618 12624	oxygen
+T15	Route 12629 12642	nasal cannula
+T16	ADE 12869 12872	ATN
+T17	Drug 12878 12884	NSAIDs
+T18	Drug 12940 12946	Motrin
+T19	Reason 12951 12955	pain
+T20	Drug 13086 13089	IVF
+T21	Drug 13221 13230	diuretics
+T22	Reason 13263 13275	hyponatremia
+T23	Reason 13280 13294	fluid overload
+T24	Reason 13371 13387	Staph Bacteremia
+T25	Drug 13471 13481	vancomycin
+T26	Drug 13525 13534	oxacillin
+T27	Duration 13812 13818	14-day
+T29	Drug 13832 13843	antibiotics
+T30	Reason 13913 13925	Hyponatremia
+T31	Reason 14329 14354	total body fluid overload
+T32	Drug 14418 14426	diuretic
+T33	Drug 14438 14443	Lasix
+T34	Strength 14444 14448	20mg
+T35	Drug 14453 14467	spironolactone
+T36	Strength 14468 14472	25mg
+T37	Reason 14515 14518	UTI
+T38	Duration 14599 14604	7 day
+T39	Drug 14615 14627	Levofloxacin
+T40	Drug 14723 14735	Levofloxacin
+T41	Drug 14740 14750	Vancomycin
+T42	Reason 14784 14791	Anxiety
+T43	Reason 15059 15066	anxiety
+T44	Strength 15097 15102	0.5mg
+T45	Drug 15106 15112	Ativan
+T46	ADE 15173 15194	excessively somnolent
+T47	Drug 15224 15231	Remeron
+T48	Reason 15246 15253	anxiety
+T49	Reason 15258 15266;15267 15278	appetite stimulation
+T50	Strength 15323 15327	15mg
+T51	Drug 15328 15335	Remeron
+T52	Frequency 15336 15339	QHS
+T53	Reason 15346 15348	DM
+T54	Drug 15417 15425	glargine
+T55	Drug 15430 15433	ISS
+T56	Reason 15537 15549	Hypertension
+T57	Drug 15585 15588	ASA
+T58	Strength 15589 15594	325mg
+T59	Drug 15599 15609	Metoprolol
+T60	Strength 15610 15616	12.5mg
+T61	Frequency 15617 15620	TID
+T62	Drug 15668 15675	digoxin
+T63	Drug 15740 15748	atenolol
+T64	Strength 15749 15755	12.5mg
+T65	Frequency 15756 15761	daily
+T66	Drug 15766 15769	ASA
+T67	Strength 15770 15775	325mg
+T68	Frequency 15776 15781	daily
+T69	Drug 15837 15847	persantine
+T70	Drug 1640 1647	Heparin
+T71	Reason 16463 16477	Hypothyroidism
+T72	Route 1648 1651	gtt
+T73	Drug 16533 16546	Levothyroxine
+T74	Strength 16547 16554	100 mcg
+T75	Frequency 16555 16560	daily
+T76	Reason 16710 16721	Prophylaxis
+T77	Drug 1676 1679	ASA
+T78	Drug 16774 16784	H2 blocker
+T79	Route 16790 16792	SC
+T80	Drug 16793 16800	heparin
+T81	Drug 1684 1696	beta blocker
+T82	Drug 17120 17134	Spironolactone
+T83	Strength 17135 17139	25mg
+T84	Frequency 17140 17145	daily
+T85	Drug 17148 17153	Lasix
+T86	Strength 17154 17158	20mg
+T87	Frequency 17159 17164	daily
+T88	Drug 17167 17174	Digoxin
+T89	Strength 17175 17182	0.125mg
+T90	Frequency 17183 17188	daily
+T91	Drug 17191 17200	Synthroid
+T92	Strength 17201 17206	0.1mg
+T93	Frequency 17207 17212	daily
+T94	Drug 17215 17225	Folic Acid
+T95	Strength 17226 17229	1mg
+T96	Frequency 17230 17235	daily
+T97	Drug 17238 17247	Diltiazem
+T98	Strength 17248 17252	30mg
+T99	Frequency 17253 17258	daily
+T100	Drug 17261 17268	insulin
+T101	Drug 17295 17309	Spironolactone
+T102	Strength 17310 17314	25mg
+T103	Frequency 17315 17320	daily
+T104	Drug 17323 17333	Furosemide
+T105	Strength 17334 17338	20mg
+T106	Frequency 17339 17344	daily
+T107	Drug 17347 17356	Synthroid
+T108	Strength 17357 17362	0.1mg
+T109	Frequency 17363 17368	daily
+T110	Drug 17371 17381	Folic Acid
+T111	Strength 17382 17385	1mg
+T112	Frequency 17386 17391	daily
+T113	Drug 17394 17403	Diltiazem
+T114	Strength 17404 17408	30mg
+T115	Frequency 17409 17414	daily
+T116	Drug 17417 17428	Mirtazapine
+T117	Strength 17429 17433	15mg
+T118	Frequency 17434 17444	at bedtime
+T119	Drug 17447 17454	Aspirin
+T120	Strength 17455 17459	81mg
+T121	Frequency 17460 17465	daily
+T122	Drug 17468 17477	Combivent
+T123	Strength 17478 17498	103-18 mcg/Actuation
+T124	Form 17499 17506	Aerosol
+T125	Dosage 17507 17508	1
+T126	Form 17509 17513	puff
+T127	Frequency 17514 17517	QID
+T128	Drug 17520 17526	Oxygen
+T129	Dosage 17527 17531	2-3L
+T130	Route 17536 17549	nasal cannula
+T131	Reason 17558 17567	O2 sat>94
+T132	Drug 17571 17578	insulin
+T133	Drug 17893 17899	oxygen
+T134	Dosage 17903 17905	2L
+T135	Route 17910 17923	nasal cannula
+T136	Drug 18147 18153	oxygen
+T137	Drug 1912 1918	bicarb
+T138	Route 1919 1922	gtt
+T139	Reason 1927 1935	acidosis
+T140	Drug 1940 1950	kayexelate
+T141	Drug 1952 1959	insulin
+T142	Drug 1964 1971	glucose
+T143	Reason 1976 1986	elevated K
+T144	Reason 2027 2047	vague opacity in RML
+T145	Drug 2079 2083	levo
+T146	Drug 2084 2088	vanc
+T147	ADE 2410 2413	ARF
+T148	Drug 2428 2433	NSAID
+T149	Drug 405 415	Persantine
+T150	Reason 416 435	cardiac stress test
+T151	Reason 677 685	rib pain
+T152	Drug 786 793	tylenol
+T153	Drug 888 894	motrin
+T154	Reason 903 906;907 911	rib pain
+T155	Drug 9123 9133	Persantine
+T156	Reason 9134 9138	MIBI
+T157	Strength 931 936	600mg
+T158	Frequency 937 950	every 4-5 hrs
+T159	Duration 951 963	for 3-4 days
+T160	Reason 9760 9772	Hyperkalemia
+T161	Drug 9799 9809	kayexelate
+T162	Drug 9811 9818	insulin
+T163	Drug 9823 9830	glucose
+T7	Route 11654 11656	IV
+T9	Route 11708 11710	IV
+T28	Route 13829 13831	IV
+T164	Reason 15551 15554	CAD

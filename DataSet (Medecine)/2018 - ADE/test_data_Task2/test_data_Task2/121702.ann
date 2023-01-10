@@ -1,0 +1,121 @@
+T1	Drug 800 813	Acetaminophen
+T2	Strength 815 821	500 mg
+T3	Form 844 850	Tablet
+T4	Route 851 853	PO
+T5	Drug 427 436	Oxycodone
+T6	Strength 438 442	5 mg
+T7	Form 465 471	Tablet
+T8	Route 472 474	PO
+T9	Drug 1572 1585	Metronidazole
+T10	Strength 1587 1593	500 mg
+T11	Form 1616 1622	Tablet
+T12	Duration 1648 1659	for 11 days
+T13	Route 1623 1625	PO
+T14	Drug 701 708;709 716	Calcium Acetate
+T15	Strength 718 724	667 mg
+T16	Form 748 755	Capsule
+T17	Route 756 758	PO
+T18	Strength 1946 1951	81 mg
+T19	Form 1984 1990;1990 2000	Tablet , Chewable
+T20	Route 2001 2003	PO
+T21	Drug 1937 1943;1943 1944	Aspiri n
+T22	Drug 1483 1490;1491 1500	Heparin (Porcine)
+T23	Strength 1502 1512;1512 1515	5,000 unit /mL
+T24	Form 1540 1549	Injection
+T25	Frequency 1550 1553;1554 1569	TID (3 times a day)
+T26	Drug 1870 1881	Simvastatin
+T27	Strength 1883 1888	40 mg
+T28	Form 1911 1917	Tablet
+T29	Route 1918 1920	PO
+T30	Strength 1759 1764	40 mg
+T31	Form 1811 1817;1817 1841	Tablet , Delayed Release (E.C.)
+T32	Frequency 1845 1849;1850 1866	Q12H (every 12 hours)
+T33	Route 1842 1844	PO
+T34	Drug 1745 1756;1756 1757	Pantoprazol e
+T35	Drug 897 917;917 927	B Complex-Vitamin C- Folic Acid
+T36	Strength 929 933	1 mg
+T37	Form 957 960	Cap
+T38	Route 961 963	PO
+T39	Drug 280 287	Codeine
+T40	Drug 1208 1227	Metoprolol Tartrate
+T41	Strength 1229 1234	25 mg
+T42	Form 1257 1263	Tablet
+T43	Route 1264 1266	PO
+T44	Drug 516 531	Docusate Sodium
+T45	Strength 533 539	100 mg
+T46	Form 642 648	Tablet
+T47	Route 649 651	PO
+T48	Drug 1340 1350;1351 1359	Metoprolol Tartrate
+T49	Strength 1361 1366	25 mg
+T50	Form 1389 1395	Tablet
+T51	Route 1396 1398	PO
+T52	Drug 1662 1676	Clarithromycin
+T53	Strength 1678 1684	250 mg
+T54	Form 1707 1713	Tablet
+T55	Duration 1731 1742	for 11 days
+T56	Route 1714 1716	PO
+T57	Reason 509 513	pain
+T58	Reason 686 698	constipation
+T59	Reason 890 894	pain
+T60	Reason 1089 1098	wheezing.
+T61	Reason 1197 1205	wheezing
+T62	Form 443 449	Tablet
+T63	Dosage 457 464	One (1)
+T64	Frequency 475 487;488 504	Q4H (every 4 hours) as needed
+T65	Form 540 547	Capsule
+T66	Dosage 555 562	One (1)
+T67	Form 563 570	Capsule
+T68	Route 571 573	PO
+T69	Frequency 574 577;578 603	BID (2 times a day) as needed
+T70	Drug 606 611	Senna
+T71	Strength 613 619	8.6 mg
+T72	Form 620 626	Tablet
+T73	Dosage 634 641	One (1)
+T74	Frequency 652 666;667 681	BID (2 times a day) as needed
+T75	Form 725 732	Capsule
+T76	Dosage 740 747	One (1)
+T77	Frequency 759 762;763 797	TID W/MEALS (3 TIMES A DAY WITH MEALS)
+T78	Form 822 828	Tablet
+T79	Dosage 836 843	Two (2)
+T80	Frequency 854 858;859 885	Q12H (every 12 hours) as needed
+T81	Form 934 941	Capsule
+T82	Dosage 949 956	One (1)
+T83	Frequency 964 977	DAILY (Daily)
+T84	Drug 980 997	Albuterol Sulfate
+T85	Strength 999 1019	0.083 % (0.83 mg/mL)
+T86	Form 1020 1028	Solution
+T87	Dosage 1036 1043	One (1)
+T88	Frequency 1055 1084	Q2H (every 2 hours) as needed
+T89	Route 1044 1054	Inhalation
+T90	Drug 1100 1119	Ipratropium Bromide
+T91	Strength 1121 1127	0.02 %
+T92	Form 1128 1136	Solution
+T93	Dosage 1144 1151	One (1)
+T94	Route 1152 1162	Inhalation
+T95	Frequency 1163 1192	Q6H (every 6 hours) as needed
+T96	Form 1235 1241	Tablet
+T97	Dosage 1249 1256	One (1)
+T98	Frequency 1267 1270;1271 1309	QHS (once a day (at bedtime)): On Tu/Th/Sa
+T99	Form 1367 1373	Tablet
+T100	Dosage 1381 1388	One (1)
+T101	Frequency 1399 1402;1403 1418	BID (2 times a day)
+T102	Form 1516 1524	Solution
+T103	Dosage 1532 1539	One (1)
+T104	Form 1594 1600	Tablet
+T105	Dosage 1608 1615	One (1)
+T106	Frequency 1626 1630;1631 1647	Q12H (every 12 hours)
+T107	Form 1685 1691	Tablet
+T108	Dosage 1699 1706	Two (2)
+T109	Frequency 1717 1722;1723 1730	DAILY (Daily)
+T110	Form 1765 1795	Tablet, Delayed Release (E.C.)
+T111	Dosage 1803 1806;1807 1810	One (1)
+T112	Form 1889 1895	Tablet
+T113	Dosage 1903 1910	One (1)
+T114	Frequency 1921 1926;1927 1934	DAILY (Daily)
+T115	Form 1952 1968	Tablet, Chewable
+T116	Dosage 1976 1983	One (1)
+T117	Frequency 2004 2017	DAILY (Daily)
+T118	Drug 2020 2023	NPH
+T119	Strength 2024 2028	16/3
+T120	Drug 2033 2037	HISS
+T121	Frequency 1440 1452	M/W/F/Sunday

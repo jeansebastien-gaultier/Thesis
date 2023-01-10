@@ -1,0 +1,36 @@
+T1	Drug 1000 1025	anticoagulant medications
+T2	Drug 3620 3628	dilaudid
+T4	Frequency 3632 3635	prn
+T5	Route 3685 3687	PO
+T6	Drug 3688 3703	pain medication
+T7	Drug 3739 3743;3744 3754	pain medication
+T8	ADE 4266 4287	altered mental status
+T9	Drug 4304 4310	valium
+T10	Drug 4322 4329	zyprexa
+T11	Drug 5548 5555	insulin
+T12	Dosage 5556 5569	sliding scale
+T13	Drug 5671 5678	insulin
+T14	Dosage 5870 5873	one
+T15	Drug 5874 5879	blood
+T16	Form 5880 5891	transfusion
+T17	Drug 6007 6010	SQH
+T18	Reason 6015 6018;6019 6030	DVT prophylaxis
+T19	Drug 6128 6140	levofloxacin
+T20	Drug 6222 6231	lopressor
+T21	Drug 6250 6257	timolol
+T22	Drug 6282 6301	Metoprolol Tartrate
+T23	Strength 6302 6309	12.5 mg
+T24	Route 6310 6315	PO/NG
+T25	Drug 6335 6350	Timolol Maleate
+T26	Strength 6351 6354	0.5
+T27	Dosage 6356 6357	1
+T28	Form 6358 6362	DROP
+T29	Route 6363 6372	BOTH EYES
+T30	Drug 6391 6403	Levofloxacin
+T31	Strength 6404 6410	500 mg
+T32	Route 6411 6413	PO
+T33	Frequency 6414 6418	Q24H
+T34	Duration 6421 6427	4 days
+T35	Drug 8390 8394;8395 8406	pain medications
+T36	Reason 4266 4287	altered mental status
+T3	Route 3629 3631	IV

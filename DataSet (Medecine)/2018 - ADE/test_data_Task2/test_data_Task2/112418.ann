@@ -1,0 +1,63 @@
+T1	Drug 6145 6151	Colace
+T2	Strength 6159 6165	100 mg
+T3	Form 6152 6158	elixir
+T4	Frequency 6187 6193	b.i.d.
+T5	Drug 854 861	calcium
+T6	Drug 3974 3985	ceftazidime
+T7	Drug 4552 4559	heparin
+T8	Drug 5898 5906	Warfarin
+T9	Strength 5907 5911	5 mg
+T10	Drug 6094 6104;6105 6108	Sertraline HCl
+T11	Strength 6109 6114	50 mg
+T12	Drug 5270 5277	Lovenox
+T13	Form 5278 5288	injections
+T14	Drug 4631 4639	Coumadin
+T15	Drug 5848 5858;5859 5865	Enoxaparin sodium
+T16	Strength 5866 5871	60 mg
+T17	Route 5872 5886	subcutaneously
+T18	Drug 4825 4832	Lovenox
+T19	Drug 5347 5355	Coumadin
+T20	Drug 4708 4716	Coumadin
+T21	Drug 558 565	Roxicet
+T22	Drug 817 825	Prevacid
+T23	Drug 3990 3995	Zosyn
+T24	Strength 6046 6052	150 mg
+T25	Form 6081 6087	elixir
+T26	Drug 6035 6044;6044 6045	Ranitidin e
+T27	Drug 4040 4053	ciprofloxacin
+T28	Drug 6198 6207	Albuterol
+T29	Drug 827 834	Roxicet
+T30	Drug 5116 5123	Lovenox
+T31	Drug 5962 5969	Roxicet
+T32	Drug 4031 4036	Zosyn
+T33	Reason 3898 3919	Pseudomonas pneumonia
+T34	Reason 501 505	pain
+T35	Drug 836 848	multivitamin
+T36	Route 4560 4564	drip
+T37	Form 5124 5134	injections
+T38	Frequency 5887 5893	q.12h.
+T39	Frequency 5912 5916	q.d.
+T40	Form 5970 5976	elixir
+T41	Dosage 5977 5990	5 cc to 10 cc
+T42	Route 5995 6011	jejunostomy tube
+T43	Frequency 6012 6019;6020 6029	q.4-6h. as needed
+T44	Route 6057 6073	jejunostomy tube
+T45	Route 6119 6135	jejunostomy tube
+T46	Frequency 6136 6140	q.d.
+T47	Route 6170 6186	jejunostomy tube
+T48	Route 6216 6223	inhaled
+T49	Frequency 6224 6241	q.4-6h. as needed
+T50	Strength 6208 6215	4 puffs
+T51	Reason 5033 5040	anxiety
+T52	Drug 2457 2468	antiemetics
+T53	Drug 2509 2518	hydration
+T54	Route 2497 2508	intravenous
+T55	Reason 2523 2545;2546 2551	possible postoperative ileus
+T56	Drug 3079 3089	anesthesia
+T57	ADE 3063 3073	aspiration
+T58	Drug 4757 4768	antibiotics
+T59	Drug 4992 4998	oxygen
+T60	Route 5940 5951;5952 5956	jejunostomy tube
+T61	Drug 6305 6310	fiber
+T62	Strength 6314 6317;6318 6329	120 cc per hour
+T63	Reason 4386 4394	thrombus

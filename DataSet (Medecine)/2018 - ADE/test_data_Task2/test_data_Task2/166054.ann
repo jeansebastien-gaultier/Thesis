@@ -1,0 +1,158 @@
+T1	Reason 10270 10290	pleuritic chest pain
+T2	Drug 1031 1039	ambisome
+T3	Drug 10350 10359	oxycontin
+T4	Drug 1041 1053	voriconazole
+T5	Drug 10537 10546	Acyclovir
+T6	Strength 10547 10553	400 mg
+T7	Route 10554 10556	po
+T8	Frequency 10557 10560	bid
+T9	Drug 10578 10590	Voriconazole
+T10	Strength 10591 10597	200 mg
+T11	Route 10598 10600	po
+T12	Frequency 10601 10604	bid
+T13	Drug 10643 10653	Imipenenem
+T14	Strength 10654 10659	500mg
+T15	Frequency 10660 10668	q 6 hour
+T16	Form 10669 10680	Aerosolized
+T17	Drug 10681 10692	pentamidine
+T18	Drug 1069 1080	capsofungin
+T19	Frequency 10693 10699	qmonth
+T20	Drug 10743 10758	Diphenhydramine
+T21	Frequency 10759 10762	prn
+T22	Drug 10763 10775	Oxycodone SR
+T23	Strength 10776 10781	60 mg
+T24	Route 10782 10784	po
+T25	Frequency 10785 10788	bid
+T26	Drug 10789 10798	Oxycodone
+T27	Strength 10799 10806	5-10 mg
+T28	Route 10807 10809	po
+T29	Frequency 10810 10813	q6h
+T30	Drug 10827 10836	Lorazepam
+T31	Strength 10837 10841	2 mg
+T32	Route 10842 10844	po
+T33	Frequency 10845 10850	q4-6h
+T34	Drug 10883 10896	Oxycodone HCl
+T35	Strength 10897 10902	20 mg
+T36	Form 10903 10932	Tablet Sustained Release 12HR
+T37	Dosage 10938 10941;10942 10945	One (1)
+T38	Form 10946 10975	Tablet Sustained Release 12HR
+T39	Route 10976 10978	PO
+T40	Frequency 10979 10983	Q12H
+T41	Drug 1102 1110	ambisome
+T42	Drug 11060 11072	Voriconazole
+T43	Strength 11073 11079	200 mg
+T44	Form 11080 11086	Tablet
+T45	Dosage 11092 11099	One (1)
+T46	Form 11100 11106	Tablet
+T47	Route 11107 11109	PO
+T48	Frequency 11110 11114	Q12H
+T49	Drug 1115 1127	voriconazole
+T50	Drug 11168 11177	Acyclovir
+T51	Strength 11178 11184	200 mg
+T52	Form 11185 11192	Capsule
+T53	Dosage 11198 11205	Two (2)
+T54	Form 11206 11213	Capsule
+T55	Route 11214 11216	PO
+T56	Frequency 11217 11221	Q12H
+T57	Drug 11277 11298	Mycophenolate Mofetil
+T58	Strength 11299 11305	250 mg
+T59	Form 11306 11313	Capsule
+T60	Dosage 11319 11326	One (1)
+T61	Form 11327 11334	Capsule
+T62	Route 11335 11337	PO
+T63	Frequency 11338 11341	BID
+T64	Drug 11395 11405	Prednisone
+T65	Strength 11406 11411	20 mg
+T66	Form 11412 11418	Tablet
+T67	Drug 1142 1150	ambisome
+T68	Dosage 11424 11433	Three (3)
+T69	Form 11434 11440	Tablet
+T70	Route 11441 11443	PO
+T71	Frequency 11444 11449	DAILY
+T72	Duration 11458 11468	for 7 days
+T73	Drug 11607 11620	Oxycodone HCl
+T74	Strength 11621 11625	5 mg
+T75	Form 11626 11632	Tablet
+T76	Dosage 11638 11641	1-2
+T77	Form 11642 11649	Tablets
+T78	Route 11650 11652	PO
+T79	Frequency 11653 11666;11667 11676	Q4-6 hous/prn as needed
+T80	Reason 11681 11685	pain
+T81	Drug 11722 11735	Oxycodone HCl
+T82	Strength 11736 11741	10 mg
+T83	Form 11742 11771	Tablet Sustained Release 12HR
+T84	Dosage 11777 11780;11781 11784	One (1)
+T85	Form 11785 11814	Tablet Sustained Release 12HR
+T86	Route 11815 11817	PO
+T87	Frequency 11818 11829	twice a day
+T88	Drug 11889 11910	Mycophenolate Mofetil
+T89	Drug 1191 1203	voriconazole
+T90	Strength 11911 11917	500 mg
+T91	Form 11918 11924	Tablet
+T92	Dosage 11930 11937	One (1)
+T93	Form 11938 11944	Tablet
+T94	Route 11945 11947	PO
+T95	Frequency 11948 11959	twice a day
+T96	Drug 163 173	Vancomycin
+T97	Drug 176 183	Gleevec
+T98	Drug 186 198	Cefepime Hcl
+T99	Drug 201 212	Clindamycin
+T100	Drug 2161 2169	Morphine
+T101	Strength 2170 2174	8 mg
+T103	Drug 2182 2190	dilaudid
+T104	Strength 2191 2194	8mg
+T106	Reason 2202 2214	pain control
+T107	Dosage 2286 2289	6 L
+T108	Drug 2290 2292	NS
+T109	Drug 2374 2382	Levophed
+T110	Reason 2387 2395;2396 2403	pressure support
+T111	Drug 2888 2896	steroids
+T112	Drug 2902 2913	hydroxyurea
+T113	Drug 3142 3149	cytoxan
+T114	Drug 3242 3249	steroid
+T115	Dosage 3250 3255	taper
+T116	Reason 3512 3515	ALL
+T117	Drug 3548 3559	vincristine
+T118	Drug 3564 3574	prednisone
+T119	Drug 3887 3898	Clofarabine
+T120	Drug 659 670	vincristine
+T121	Drug 672 682	prednisone
+T122	Drug 688 695	Gleevec
+T123	Drug 701 708	Gleevec
+T124	Drug 7090 7099	narcotics
+T125	Drug 7162 7170	levophed
+T126	Drug 7241 7255	fludrocotisone
+T127	Reason 7269 7276;7277 7290	adrenal insufficiency
+T128	Drug 7550 7565	fludrocortisone
+T129	Drug 7570 7584	hydrocortisone
+T130	Drug 7653 7661	ambisome
+T131	Drug 7663 7671	imipenem
+T132	Drug 7673 7685	voriconazole
+T133	Drug 7705 7717	vasopressors
+T134	Drug 7722 7725	IVF
+T135	Drug 785 796	Clofarabine
+T136	Reason 8028 8042	fungal process
+T137	Drug 8048 8056	ambisome
+T138	Drug 8061 8071	vorinazole
+T139	Duration 8072 8077;8078 8084	for 3 months
+T140	Drug 8091 8103	voriconazole
+T141	Reason 8251 8254	CAP
+T142	Drug 8281 8293	levofloxacin
+T143	Drug 8331 8341	Vancomycin
+T144	ADE 8428 8445	periorbital edema
+T145	ADE 8450 8470	diffuse skin etyhema
+T146	ADE 8472 8486	elevated LFT's
+T147	ADE 8491 8503	eosinophilia
+T148	Drug 8529 8539	vancomycin
+T149	Drug 8561 8571	Vancomycin
+T150	Drug 8587 8597	daptomycin
+T151	Drug 8949 8959	vancomycin
+T152	Drug 8967 8979	levofloxacin
+T153	Drug 8995 9007	azithromycin
+T154	Duration 9029 9035	10 day
+T155	Drug 9070 9082	voriconazole
+T156	Reason 9118 9134	fungal infection
+T157	Drug 9580 9592	cyclosporine
+T158	Drug 9630 9642	Mycofenolate
+T102	Route 2175 2177	iv
+T105	Route 2195 2197	iv

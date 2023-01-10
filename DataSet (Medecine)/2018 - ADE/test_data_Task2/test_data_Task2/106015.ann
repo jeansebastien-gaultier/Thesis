@@ -1,0 +1,369 @@
+T1	Drug 10060 10071	CLINDAMYCIN
+T2	Drug 10091 10103	ERYTHROMYCIN
+T3	Drug 10122 10132	GENTAMICIN
+T4	Drug 10153 10165	LEVOFLOXACIN
+T5	Drug 10184 10193	OXACILLIN
+T6	Drug 10215 10233	TRIMETHOPRIM/SULFA
+T7	ADE 1049 1057	diahrrea
+T8	Drug 1067 1079	chemotherapy
+T9	Reason 1100 1112;1113 1122	watery bowel movements
+T10	Reason 12047 12050;12051 12059	SVC syndrome
+T11	Drug 12077 12084	lovenox
+T12	ADE 12133 12153	intractable diarrhea
+T13	Drug 12172 12177	chemo
+T14	Drug 1232 1240	immodium
+T15	Reason 12341 12401	diffuse erythema/ulceration, in esophagus, stomach, duodenum
+T16	Drug 12427 12437	irinotecan
+T17	ADE 12446 12457	GI toxicity
+T18	Drug 1245 1267	diphenoxylate-atropine
+T19	Drug 12477 12480	PPI
+T20	Drug 12485 12493	carafate
+T21	Form 12494 12500	slurry
+T22	Reason 12755 12767	inflammation
+T23	Drug 12870 12877	steroid
+T24	Form 12878 12884	enemas
+T25	Drug 12889 12899	mesalamine
+T26	Form 12900 12913	suppositories
+T27	Reason 12926 12938	inflammation
+T28	Drug 12945 12952	steroid
+T29	Form 12953 12959	enemas
+T30	Drug 12987 12997	mesalamine
+T31	Form 12998 13011	suppositories
+T32	Dosage 13072 13079	3 units
+T33	Drug 13080 13085	PRBCs
+T35	Drug 13101 13104	FFP
+T37	Drug 13342 13352	vancomycin
+T38	Reason 13474 13484	bacteremia
+T39	Drug 13567 13576	nafcillin
+T40	Reason 13598 13602	MSSA
+T41	Drug 13708 13719	crystalloid
+T42	Drug 13724 13731	colloid
+T43	Drug 13733 13740	albumin
+T44	Dosage 13752 13753;13754 13759	2 units
+T46	Drug 13763 13768	blood
+T47	Reason 13770 13783	resuscitation
+T48	Strength 1400 1405	500cc
+T49	Drug 14054 14071	phosphate binders
+T50	Drug 14073 14083	nephrocaps
+T51	Drug 14088 14102	erythropoeitin
+T52	Drug 1409 1411	NS
+T53	Drug 14131 14139	carafate
+T54	ADE 14172 14189	aluminum toxicity
+T55	Drug 14196 14205	nafcillin
+T56	Drug 14226 14235	Cefazolin
+T57	Strength 14242 14245	2mg
+T59	Drug 14462 14471	cefazolin
+T60	Duration 14531 14543;14544 14550	for a 28 day course
+T61	Drug 14554 14563	cefazolin
+T62	Dosage 14798 14803	500cc
+T63	Drug 14804 14806	NS
+T64	Dosage 14807 14812	bolus
+T65	Reason 14858 14880	tacycardic to the 140s
+T66	Dosage 14907 14914	bolused
+T67	Drug 14915 14917	NS
+T68	Drug 14928 14932	PRBC
+T69	Drug 15154 15161	lovenox
+T70	ADE 15355 15363	Diarrhea
+T71	Drug 15447 15473	anti-diarrheal medications
+T72	Drug 15534 15544	irinotecan
+T73	ADE 15553 15564	GI toxicity
+T74	ADE 15569 15588	radiation proctitis
+T75	Drug 16299 16321	DIPHENOXYLATE-ATROPINE
+T76	Strength 16324 16339	2.5 mg-0.025 mg
+T77	Form 16340 16346	Tablet
+T78	Form 16360 16369	Tablet(s)
+T79	Route 16371 16379	by mouth
+T80	Frequency 16380 16394	q6hr as needed
+T83	Drug 16408 16418	ENOXAPARIN
+T84	Drug 16420 16427	LOVENOX
+T85	Strength 16431 16440	150 mg/mL
+T86	Form 16441 16448	Syringe
+T87	Form 16451 16457	Inject
+T88	Strength 16458 16464	150 mg
+T90	Drug 16477 16487	LISINOPRIL
+T91	Strength 16523 16528	10 mg
+T92	Form 16529 16535	Tablet
+T93	Dosage 16538 16539	1
+T94	Form 16540 16549	Tablet(s)
+T95	Route 16550 16558	by mouth
+T96	Frequency 16559 16564	daily
+T97	Drug 16565 16585	METOPROLOL SUCCINATE
+T98	Drug 16587 16596	TOPROL XL
+T99	Strength 16633 16639	100 mg
+T100	Form 16640 16670	Tablet Sustained Release 24 hr
+T101	Dosage 16673 16674	1
+T102	Form 16675 16684	Tablet(s)
+T103	Route 16686 16694	by mouth
+T104	Frequency 16695 16700	daily
+T105	Drug 16701 16714	METRONIDAZOLE
+T106	Drug 16716 16724	METROGEL
+T108	Form 16732 16735	Gel
+T109	Reason 16747 16751	rash
+T110	Frequency 16752 16763	twice a day
+T111	Drug 16764 16788	PROCHLORPERAZINE MALEATE
+T112	Strength 16791 16796	10 mg
+T113	Form 16797 16803	Tablet
+T114	Dosage 16806 16807	1
+T115	Form 16808 16817	Tablet(s)
+T116	Route 16818 16826	by mouth
+T117	Frequency 16827 16841	q6hr as needed
+T118	Reason 16846 16852	nausea
+T119	Drug 16853 16864	SIMVASTATIN
+T120	Strength 16900 16905	20 mg
+T121	Form 16906 16912	Tablet
+T122	Dosage 16915 16916	1
+T123	Form 16918 16927	Tablet(s)
+T124	Route 16928 16936	by mouth
+T125	Frequency 16937 16942	daily
+T126	Drug 16943 16953	LOPERAMIDE
+T127	Drug 16955 16966	IMODIUM A-D
+T128	Strength 16970 16974	2 mg
+T129	Form 16975 16981	Tablet
+T130	Dosage 16984 16985	2
+T131	Form 16986 16995	Tablet(s)
+T132	Route 16996 17004	by mouth
+T133	Frequency 17005 17019	q4he as needed
+T134	Reason 17024 17032	diarrhea
+T135	Drug 17033 17043	PYRIDOXINE
+T136	Strength 17054 17059	50 mg
+T137	Form 17060 17066	Tablet
+T138	Dosage 17069 17070	2
+T139	Form 17071 17077	Tablet
+T140	Route 17081 17089	by mouth
+T142	Drug 17130 17152	Diphenoxylate-Atropine
+T143	Strength 17153 17165	2.5-0.025 mg
+T144	Form 17166 17172	Tablet
+T145	Dosage 17178 17181	1-2
+T146	Form 17182 17189	Tablets
+T147	Route 17190 17192	PO
+T148	Frequency 17193 17222	Q6H (every 6 hours) as needed
+T149	Reason 17227 17235	diarrhea
+T150	Drug 17240 17249	Compazine
+T151	Strength 17250 17255	10 mg
+T152	Form 17256 17262	Tablet
+T153	Dosage 17268 17275	One (1)
+T154	Form 17276 17282	Tablet
+T155	Route 17283 17285	PO
+T156	Frequency 17286 17299;17300 17315	every six (6) hours as needed
+T157	Reason 17320 17326	nausea
+T158	Drug 17331 17342	Simvastatin
+T159	Strength 17343 17348	20 mg
+T160	Form 17349 17355	Tablet
+T161	Dosage 17361 17368	One (1)
+T162	Form 17369 17375	Tablet
+T163	Route 17376 17378	PO
+T164	Frequency 17379 17389	once a day
+T165	Drug 17394 17404	Loperamide
+T166	Strength 17405 17409	2 mg
+T167	Form 17410 17417	Capsule
+T168	Dosage 17423 17430	One (1)
+T169	Form 17431 17438	Capsule
+T170	Route 17439 17441	PO
+T171	Frequency 17442 17452;17453 17472	every four (4) hours as needed
+T172	Reason 17477 17485	diarrhea
+T173	Drug 17490 17500	Pyridoxine
+T174	Strength 17501 17506	50 mg
+T175	Form 17507 17513	Tablet
+T176	Dosage 17519 17526	Two (2)
+T177	Form 17527 17533	Tablet
+T178	Route 17534 17536	PO
+T179	Frequency 17537 17550	DAILY (Daily)
+T180	Drug 17556 17575	Metoprolol Tartrate
+T181	Strength 17576 17581	25 mg
+T182	Form 17582 17588	Tablet
+T183	Dosage 17594 17601	One (1)
+T184	Form 17602 17608	Tablet
+T185	Route 17609 17611	PO
+T186	Frequency 17612 17615;17616 17631	TID (3 times a day)
+T187	Drug 17636 17655	Ipratropium Bromide
+T188	Strength 17656 17660;17661 17662	0.02 % 
+T189	Form 17663 17671	Solution
+T190	Dosage 17677 17684	One (1)
+T191	Form 17685 17688	neb
+T192	Route 17689 17699	Inhalation
+T193	Frequency 17700 17729	Q6H (every 6 hours) as needed
+T194	Reason 17734 17753	shortness of breath
+T195	Reason 17757 17765	wheezing
+T196	Drug 17770 17781	Simethicone
+T197	Strength 17782 17787	80 mg
+T198	Form 17788 17804	Tablet, Chewable
+T199	Dosage 1780 1782	3L
+T200	Dosage 17810 17817	One (1)
+T201	Form 17818 17825;17826 17834	Tablet, Chewable
+T203	Route 17835 17837	PO
+T204	Frequency 17838 17867	QID (4 times a day) as needed
+T205	Drug 1786 1788	NS
+T206	Reason 17872 17880	bloating
+T208	Reason 17882 17885	gas
+T209	Drug 17890 17897	Heparin
+T210	Form 17898 17903	Flush
+T211	Strength 17905 17916	10 units/ml
+T212	Dosage 17918 17919;17920 17922	2 mL
+T215	Frequency 17926 17929	PRN
+T216	Strength 1793 1800	4 grams
+T217	Form 17930 17940	line flush
+T218	Route 17941 17945	PICC
+T219	Drug 17947 17954	heparin
+T220	Form 17966 17971	Flush
+T221	Dosage 17977 17981	10mL
+T222	Drug 17982 17995	Normal Saline
+T223	Drug 18008 18015	Heparin
+T224	Frequency 18025 18030	daily
+T225	Frequency 18035 18038	PRN
+T226	Drug 1804 1806	Mg
+T227	Drug 18054 18065	Ondansetron
+T228	Strength 18066 18070	4 mg
+T230	Frequency 18074 18081	Q8H:PRN
+T231	Reason 18082 18088	nausea
+T232	Drug 18093 18109	Prochlorperazine
+T233	Strength 18110 18115	10 mg
+T235	Frequency 18119 18126	Q6H:PRN
+T236	Reason 18127 18133	nausea
+T237	Drug 18138 18147	CefazoLIN
+T238	Strength 18148 18151	2 g
+T240	Drug 18216 18238	Diphenoxylate-Atropine
+T242	Strength 18239 18251	2.5-0.025 mg
+T243	Form 18252 18258	Tablet
+T244	Dosage 18264 18271	One (1)
+T245	Form 18272 18278	Tablet
+T246	Route 18279 18281	PO
+T247	Frequency 18282 18311	Q6H (every 6 hours) as needed
+T248	Reason 18316 18324	diarrhea
+T249	Drug 18330 18345	Calcium Acetate
+T250	Strength 18346 18352	667 mg
+T251	Form 18353 18360	Capsule
+T252	Dosage 18366 18373	One (1)
+T253	Form 18374 18381	Capsule
+T254	Route 18382 18384	PO
+T255	Frequency 18385 18388;18389 18423	TID W/MEALS (3 TIMES A DAY WITH MEALS)
+T256	Drug 18429 18459	B Complex-Vitamin C-Folic Acid
+T257	Strength 18460 18464	1 mg
+T258	Form 18465 18472	Capsule
+T259	Dosage 18478 18485	One (1)
+T260	Form 18486 18489	Cap
+T261	Route 18490 18492	PO
+T262	Frequency 18493 18506	DAILY (Daily)
+T263	Drug 18512 18529	Heparin (Porcine)
+T264	Strength 18530 18543	1,000 unit/mL
+T265	Form 18544 18552	Solution
+T266	Dosage 18558 18562	4000
+T267	Form 18593 18597	Unit
+T269	Route 18598 18607	Injection
+T2690	Frequency 18608 18633	PRN (as needed) as needed
+T270	Reason 18638 18648	line flush
+T271	Frequency 18656 18659	PRN
+T272	Reason 18660 18670	line flush
+T273	Form 18787 18795	flushing
+T274	Dosage 18801 18806	10 mL
+T275	Drug 18807 18809	NS
+T276	Drug 18822 18829	Heparin
+T277	Drug 18876 18890	Insulin Lispro
+T278	Strength 18891 18902	100 unit/mL
+T279	Form 18903 18911	Solution
+T280	Dosage 18917 18930	Sliding scale
+T281	Route 18937 18949	Subcutaneous
+T282	Frequency 18950 18969	ASDIR (AS DIRECTED)
+T283	Drug 19098 19108	Mesalamine
+T284	Strength 19109 19117	1,000 mg
+T285	Form 19118 19129	Suppository
+T286	Dosage 19135 19142	One (1)
+T287	Form 19143 19154	Suppository
+T288	Route 19155 19161	Rectal
+T289	Frequency 19162 19175	DAILY (Daily)
+T290	Drug 19181 19193	Pantoprazole
+T291	Strength 19194 19199	40 mg
+T292	Form 19200 19230	Tablet, Delayed Release (E.C.)
+T293	Dosage 19236 19239;19240 19243	One (1)
+T294	Frequency 19244 19274	Tablet, Delayed Release (E.C.)
+T295	Route 19275 19277	PO
+T296	Frequency 19278 19299	Q24H (every 24 hours)
+T297	Drug 19305 19322	Albuterol Sulfate
+T298	Strength 19323 19345	2.5 mg /3 mL (0.083 %)
+T299	Form 19346 19358;19359 19371	Solution for Nebulization
+T300	Dosage 19377 19384	One (1)
+T301	Form 19385 19394	nebulizer
+T302	Route 19395 19405	Inhalation
+T303	Frequency 19406 19418;19419 19435	Q6H (every 6 hours) as needed
+T304	Reason 19440 19447	dyspnea
+T305	Drug 19453 19459	Epogen
+T306	Strength 19460 19474	10,000 unit/mL
+T307	Form 19475 19483	Solution
+T308	Form 19512 19521	Injection
+T309	Drug 19575 19592	Heparin (Porcine)
+T310	Strength 19593 19606	5,000 unit/mL
+T311	Form 19607 19615	Solution
+T312	Dosage 19621 19628	One (1)
+T313	Form 19629 19631	mL
+T314	Form 19632 19641	Injection
+T315	Frequency 19642 19661	TID (3 times a day)
+T316	ADE 20024 20032	diarrhea
+T317	Drug 20058 20070	chemotherapy
+T318	Drug 20111 20137	anti-diarrheal medications
+T319	Reason 20272 20283	rehydration
+T321	Drug 20292 20298	fluids
+T322	ADE 20497 20515;20516 20544	ulceration in your esophagus, stomach and colon
+T323	Drug 20581 20593	chemotherapy
+T324	Reason 20646 20658	colon cancer
+T325	Drug 21039 21049	Nephrocaps
+T326	Dosage 21050 21051	1
+T327	Form 21052 21059	capsule
+T328	Frequency 21060 21065	daily
+T329	Drug 21066 21073	Phos-lo
+T330	Strength 21074 21079	667mg
+T331	Form 21080 21097	three times a day
+T332	Drug 21098 21108	mesalamine
+T333	Strength 21109 21115	1000mg
+T334	Form 21116 21129	suppositories
+T335	Frequency 21130 21140	once a day
+T336	Drug 21141 21150	Cefazolin
+T337	Strength 21151 21153	2g
+T338	Drug 21178 21190	pantoprazole
+T339	Strength 21191 21195	40mg
+T340	Frequency 21196 21201	daily
+T341	Drug 21202 21215	Erythropoetin
+T342	Drug 21246 21256	metoprolol
+T343	Strength 21274 21279	100mg
+T344	Frequency 21280 21290	once a day
+T345	Strength 21294 21298	25mg
+T346	Frequency 21299 21304;21305 21316	three times a day
+T347	Drug 21323 21333	lisinopril
+T348	Drug 21338 21348	enoxaparin
+T349	Drug 4620 4639	FOLFOX chemotherapy
+T350	Dosage 4673 4676	two
+T351	Drug 4859 4865	5FU/LV
+T352	Drug 4887 4899	chemotherapy
+T353	Drug 4901 4912	Oxaliplatin
+T354	ADE 4931 4941	neuropathy
+T355	Reason 5030 5042	SVC syndrome
+T356	Drug 5291 5301	enoxaparin
+T357	Drug 5335 5345	ininotecan
+T358	Reason 5350 5367	recurrent disease
+T359	Drug 5455 5464	cetuximab
+T360	Drug 5478 5488	ininotecan
+T361	Reason 5500 5517	allergic reaction
+T362	Drug 5519 5528	cetuximab
+T363	Drug 5544 5555	panitumumab
+T364	Reason 578 592;593 617	blood pressure at triage recorded 60/40
+T365	Dosage 671 678	bolused
+T366	Dosage 684 689	300cc
+T367	Drug 693 696	IVF
+T368	Drug 8709 8720	CLINDAMYCIN
+T369	Drug 8740 8752	ERYTHROMYCIN
+T370	Drug 8771 8781	GENTAMICIN
+T371	Drug 8802 8814	LEVOFLOXACIN
+T372	Drug 8833 8842	OXACILLIN
+T373	Drug 8864 8882	TRIMETHOPRIM/SULFA
+T374	Drug 896 906	irinotecan
+T375	Drug 911 920	panitumab
+T376	Drug 921 933	chemotherapy
+T81	Reason 16399 16407	diarrhea
+T45	Reason 15355 15363	Diarrhea
+T34	Route 13339 13341	IV
+T36	Route 17923 17925	IV
+T82	Route 18071 18073	IV
+T89	Route 18116 18118	IV
+T107	Route 18152 18154	IV
+T141	Route 20289 20291	IV
+T202	Reason 14315 14344	avoiding extra volume loading
+T207	Reason 14288 14295;14296 14310	ease of administration
+T58	Reason 14887 14897	BP 90s/60s

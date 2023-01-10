@@ -1,0 +1,84 @@
+T1	Drug 1004 1013	labatalol
+T2	Route 1014 1017	gtt
+T3	Drug 1060 1068	dilaudid
+T4	Drug 1073 1079	zofran
+T5	Drug 1230 1239	labetalol
+T6	Route 1240 1243	gtt
+T7	Drug 1554 1559	advil
+T8	Frequency 1560 1575	every other day
+T9	Duration 1578 1585	1 month
+T10	Route 3376 3378	PO
+T11	ADE 3757 3760	ATN
+T12	Drug 3808 3813	NSAID
+T13	Drug 5373 5382	labetalol
+T14	Drug 5387 5397	amlodipine
+T15	Reason 5591 5603	hypertensive
+T16	Drug 5634 5638	HCTZ
+T17	Drug 5751 5755	ACEI
+T18	Reason 5761 5780	Hypertriglyergiemia
+T19	Drug 5888 5899	simvastatin
+T20	Strength 5900 5904	10mg
+T21	Route 5905 5907	PO
+T22	Frequency 5908 5913	daily
+T23	Drug 6179 6202	Phos-Lo calcium acetate
+T24	Drug 6800 6803	EPO
+T25	Drug 6886 6892	folate
+T26	Drug 7187 7200	Acetaminophen
+T27	Strength 7201 7207	325 mg
+T28	Form 7208 7214	Tablet
+T29	Dosage 7220 7223	1-2
+T30	Form 7224 7231	Tablets
+T31	Route 7232 7234	PO
+T32	Frequency 7235 7247;7248 7264	Q6H (every 6 hours) as needed
+T33	Reason 7269 7273	pain
+T34	Drug 7310 7325	Calcium Acetate
+T35	Strength 7326 7332	667 mg
+T36	Form 7333 7340	Capsule
+T37	Dosage 7346 7353	Two (2)
+T38	Form 7354 7361	Capsule
+T39	Route 7362 7364	PO
+T40	Frequency 7365 7368	TID
+T41	Drug 7442 7452	Amlodipine
+T42	Strength 7453 7457	5 mg
+T43	Form 7458 7464	Tablet
+T44	Dosage 7470 7477	Two (2)
+T45	Form 7478 7484	Tablet
+T46	Route 7485 7487	PO
+T47	Frequency 7488 7493	DAILY
+T48	Drug 7538 7543	Senna
+T49	Strength 7544 7550	8.6 mg
+T50	Form 7551 7557	Tablet
+T51	Dosage 7563 7570	One (1)
+T52	Form 7571 7577	Tablet
+T53	Route 7578 7580	PO
+T54	Frequency 7581 7584	BID
+T55	Drug 7637 7652	Docusate Sodium
+T56	Strength 7653 7659	100 mg
+T57	Form 7660 7667	Capsule
+T58	Dosage 7673 7680	One (1)
+T59	Form 7681 7688	Capsule
+T60	Route 7689 7691	PO
+T61	Frequency 7692 7695	BID
+T62	Drug 7749 7758	Labetalol
+T63	Strength 7759 7765	200 mg
+T64	Form 7766 7772	Tablet
+T65	Dosage 7778 7787	Three (3)
+T66	Form 7788 7794	Tablet
+T67	Route 7795 7797	PO
+T68	Frequency 7798 7801	TID
+T69	Drug 7855 7865	Folic Acid
+T70	Strength 7866 7870	1 mg
+T71	Form 7871 7877	Tablet
+T72	Dosage 7883 7890	One (1)
+T73	Form 7891 7897	Tablet
+T74	Route 7898 7900	PO
+T75	Frequency 7901 7911	once a day
+T76	Drug 7948 7957	Multi-Day
+T77	Form 7962 7968	Tablet
+T78	Dosage 7974 7981	One (1)
+T79	Form 7982 7988	Tablet
+T80	Route 7989 7991	PO
+T81	Frequency 7992 8002	once a day
+T82	Drug 8816 8839	Phos-Lo calcium acetate
+T83	Drug 3379 3383	meds
+T84	Reason 3359 3362	HTN

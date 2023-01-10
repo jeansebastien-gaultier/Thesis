@@ -1,0 +1,103 @@
+T1	Drug 1224 1234	vancomycin
+T2	Drug 1236 1247	ceftriaxone
+T3	Drug 1253 1259	flagyl
+T4	Reason 1264 1284	aspiration pneumonia
+T5	Drug 1301 1310	vitamin K
+T7	Strength 1314 1319	10 mg
+T8	Reason 1324 1336	coagulopathy
+T9	Dosage 1424 1427	1 L
+T10	Drug 1428 1431	IVF
+T11	Reason 1486 1497	bradycardic
+T12	Strength 1568 1572	1 mg
+T13	Drug 1573 1581	atropine
+T14	Dosage 1612 1618	500 cc
+T15	Drug 1619 1624	fluid
+T16	Dosage 1625 1630	bolus
+T17	Dosage 1633 1634	2
+T18	Reason 5832 5843	bradycardic
+T19	Drug 5861 5869	atropine
+T20	Drug 5893 5901	pressors
+T21	Reason 6121 6128	SBP 80s
+T22	Dosage 6136 6141	500cc
+T23	Drug 6142 6147	fluid
+T24	Dosage 6148 6153	bolus
+T25	Dosage 6156 6157	2
+T26	Drug 6504 6509	fluid
+T27	Dosage 6510 6517	boluses
+T28	Drug 6870 6878	Dopamine
+T29	Reason 6891 6921;6922 6936	supporting both blood pressure and heart rate
+T30	Drug 7062 7069	pressor
+T31	Dosage 7099 7110	stress dose
+T32	Drug 7111 7119	steroids
+T33	Reason 7133 7140;7141 7154	adrenal insufficiency
+T34	Reason 7314 7341;7342 7347	Hospital Acquired Pneumonia (HAP)
+T35	Drug 7353 7363	vancomycin
+T36	Drug 7368 7373	zosyn
+T37	Drug 7401 7411	Vancomycin
+T38	Drug 7416 7424	Cefepime
+T39	Reason 7744 7755	Bradycardia
+T41	Drug 7871 7879	atropine
+T42	Drug 7956 7964	Dopamine
+T43	Reason 7984 7994	Meningitis
+T44	Drug 8214 8224	Ampicillin
+T45	Reason 8229 8237	listeria
+T46	Drug 8239 8249	Vancomycin
+T47	Drug 8250 8258	Cefepime
+T48	Reason 8263 8268	Staph
+T49	Reason 8294 8308	Hypothyroidism
+T50	Drug 8476 8491	thyroid hormone
+T51	Route 8509 8522	intravenously
+T52	Reason 8842 8854	Coagulopathy
+T53	Drug 8891 8906	anticoagulation
+T54	Drug 8915 8924	vitamin K
+T55	Drug 8929 8932	FFP
+T56	Drug 9092 9105	Acetaminophen
+T57	Strength 9106 9112	325 mg
+T58	Frequency 9113 9116	PRN
+T59	Drug 9141 9157	Milk of Magnesia
+T60	Frequency 9158 9161	PRN
+T61	Drug 9162 9170	Dulcolax
+T62	Strength 9171 9176	10 mg
+T63	Route 9177 9183	Rectal
+T64	Form 9184 9195	Suppository
+T65	Frequency 9196 9199	PRN
+T66	Drug 9200 9211	Fleet Enema
+T67	Frequency 9212 9215	PRN
+T68	Drug 9216 9225	Albuterol
+T69	Route 9226 9229	INH
+T70	Frequency 9230 9233	PRN
+T71	Drug 9234 9242	Coumadin
+T72	Strength 9243 9249	2.5 mg
+T73	Frequency 9250 9255	DAILY
+T74	Drug 9256 9262	Flomax
+T75	Strength 9263 9269	0.4 mg
+T76	Frequency 9270 9275	DAILY
+T77	Drug 9276 9291	Ferrous Sulfate
+T78	Strength 9292 9298	325 mg
+T79	Frequency 9299 9304	DAILY
+T80	Drug 9305 9318	Levothyroxine
+T81	Strength 9319 9326	125 mcg
+T82	Frequency 9327 9332	DAILY
+T83	Drug 9333 9338	Lasix
+T84	Strength 9339 9344	20 mg
+T85	Frequency 9345 9350	DAILY
+T86	Drug 9351 9361	Lisinopril
+T87	Strength 9362 9368	2.5 mg
+T88	Frequency 9369 9374	DAILY
+T89	Drug 9375 9390	Magnesium Oxide
+T90	Strength 9391 9397	400 mg
+T91	Frequency 9398 9403	DAILY
+T92	Drug 9404 9411	Calcium
+T93	Strength 9412 9415	500
+T94	Drug 9421 9430	Vitamin D
+T95	Frequency 9431 9436	DAILY
+T96	Drug 9437 9444	Proscar
+T97	Strength 9445 9449	5 mg
+T98	Frequency 9450 9455	DAILY
+T99	Drug 9456 9466	Ranitidine
+T100	Strength 9467 9473	150 mg
+T101	Frequency 9474 9479	DAILY
+T102	Drug 9480 9487	Zyprexa
+T103	Strength 9488 9494	2.5 mg
+T6	Route 1311 1313	IV
+T40	Reason 8269 8274	Strep

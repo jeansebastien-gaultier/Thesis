@@ -1,0 +1,213 @@
+T1	Drug 12545 12555	argatroban
+T2	Drug 13021 13030	verapamil
+T3	Drug 14059 14067;14068 14074	Docusate Sodium
+T4	Strength 14075 14081	100 mg
+T5	Form 14103 14110	Capsule
+T6	Route 14111 14113	PO
+T7	Frequency 15242 15245	Q6H
+T8	Strength 14145 14151	8.6 mg
+T9	Form 14172 14178	Tablet
+T10	Route 14179 14181	PO
+T11	Drug 15042 15051	Bisacodyl
+T12	Strength 15052 15057	10 mg
+T13	Form 15083 15094	Suppository
+T14	Drug 12686 12694	coumadin
+T15	Drug 12433 12443	Argatroban
+T16	Drug 14611 14624	Hydromorphone
+T17	Strength 14625 14629	2 mg
+T18	Form 14650 14656	Tablet
+T19	Route 14657 14659	PO
+T20	Drug 922 929	Lovenox
+T21	Drug 11036 11046	argatroban
+T22	Drug 15133 15140	Insulin
+T23	Drug 13482 13493;13494 13501	Ipratropium Bromide
+T24	Strength 13502 13508;13508 13518	17 mcg /Actuation
+T25	Form 13519 13526	Aerosol
+T26	Drug 178 185	Bactrim
+T27	Drug 14771 14780	Lorazepam
+T28	Strength 14781 14787	0.5 mg
+T29	Form 14808 14814	Tablet
+T30	Route 14815 14817	PO
+T31	Drug 14517 14536	Silver Sulfadiazine
+T32	Drug 15158 15165	Insulin
+T33	Drug 12343 12349	ativan
+T34	Strength 12350 12355	0.5mg
+T35	Frequency 12359 12362;12363 12366	TID PRN
+T36	Route 12356 12358	PO
+T37	Drug 13882 13890	Nystatin
+T38	Strength 13891 13903;13903 13906	100,000 unit /mL
+T39	Route 13935 13937	PO
+T40	Drug 11071 11080	diltiazem
+T41	Strength 14241 14245	3 mg
+T42	Form 14267 14274	Lozenge
+T43	Drug 1345 1353	fentanyl
+T44	Drug 13590 13602	Atorvastatin
+T45	Strength 13603 13608	10 mg
+T46	Form 13629 13635	Tablet
+T47	Route 13636 13638	PO
+T48	Drug 11972 11978	flagyl
+T49	Drug 12874 12882	coumadin
+T50	Strength 12883 12888	7.5mg
+T51	Drug 13003 13009	Advair
+T52	Drug 10447 10454	HEPARIN
+T53	Drug 13011 13019	Protonix
+T54	Drug 13041 13048	aspirin
+T55	Strength 14699 14705	325 mg
+T56	Form 14726 14732	Tablet
+T57	Route 14733 14735	PO
+T58	Drug 14685 14697;14697 14698	Acetaminophe n
+T59	Drug 199 206;207 213	Heparin Agents
+T60	Drug 15141 15148	Insulin
+T61	Drug 188 196	Prilosec
+T62	Drug 15842 15850	fentanyl
+T63	Drug 13411 13420;13421 13424	Diltiazem HCl
+T64	Strength 13425 13430	60 mg
+T65	Form 13447 13454	Tablets
+T66	Dosage 13443 13446	1.5
+T67	Route 13455 13457	PO
+T68	Drug 14436 14455	Metoprolol Tartrate
+T69	Strength 14456 14461	50 mg
+T70	Form 14482 14488	Tablet
+T71	Route 14489 14491	PO
+T72	Drug 1041 1051	argatroban
+T73	Drug 10600 10607	heparin
+T74	Drug 14954 14962	Warfarin
+T75	Strength 14963 14967	3 mg
+T76	Form 14988 14994	Tablet
+T77	Frequency 14998 15013;15014 15016	Once Daily at 4 PM
+T78	Route 14995 14997	PO
+T79	Drug 12071 12079	coumadin
+T80	Drug 14853 14862;14863 14872	Magnesium Hydroxide
+T81	Strength 14873 14879;14879 14884	400 mg /5 mL
+T82	Drug 12626 12636	argatroban
+T83	Drug 13167 13178;13178 13189	Fluticasone -Salmeterol
+T84	Drug 14312 14324	Pantoprazole
+T85	Strength 14325 14330	40 mg
+T86	Form 14331 14337;14337 14361	Tablet , Delayed Release (E.C.)
+T87	Drug 13301 13308	Aspirin
+T88	Strength 13309 13314	81 mg
+T89	Form 13315 13321;13321 13345	Tablet , Delayed Release (E.C.)
+T90	Drug 1061 1069	coumadin
+T91	Reason 1074 1081	her DVT
+T93	Reason 11051 11066	anticoagulation
+T94	Reason 11983 11994	prophylaxis
+T95	Reason 12367 12374	anxiety
+T96	Drug 164 175	Penicillins
+T97	Reason 934 949	DVT prophylaxis
+T98	Route 1052 1056	drip
+T99	ADE 1014 1017	HIT
+T100	ADE 10608 10615;10616 10632	induced thrombocytopenia
+T101	Drug 11966 11971	vanco
+T102	Reason 12080 12095	anticoagulation
+T103	Reason 12282 12307;12308 12326	adjustment d/o with mixed anxiety/depression
+T104	Drug 12727 12736	Silvadine
+T105	Reason 12752 12768	right foot wound
+T106	Strength 13031 13034	240
+T107	Strength 13036 13040	baby
+T108	Drug 13077 13095	Miconazole Nitrate
+T109	Strength 13096 13099	2 %
+T110	Form 13100 13106	Powder
+T111	Dosage 13112 13119	One (1)
+T112	Form 13120 13124	Appl
+T113	Route 13125 13132	Topical
+T114	Frequency 13133 13136;13137 13162	TID (3 times a day) as needed
+T115	Strength 13190 13205	250-50 mcg/Dose
+T116	Form 13206 13222	Disk with Device
+T117	Dosage 13228 13235	One (1)
+T118	Form 13236 13252	Disk with Device
+T119	Route 13253 13263	Inhalation
+T120	Frequency 13282 13295	2 times a day
+T121	Frequency 13393 13406	DAILY (Daily)
+T122	Dosage 13351 13358	One (1)
+T123	Form 13359 13389	Tablet, Delayed Release (E.C.)
+T124	Route 13390 13392	PO
+T125	Form 13431 13437	Tablet
+T126	Frequency 13458 13472;13473 13477	QID (4 times a day)
+T127	Dosage 13532 13539	Two (2)
+T128	Frequency 13556 13585	Q6H (every 6 hours) as needed
+T129	Route 13545 13555	Inhalation
+T130	Form 13540 13544	Puff
+T131	Form 13609 13615	Tablet
+T132	Dosage 13621 13628	One (1)
+T133	Frequency 13639 13644;13645 13652	DAILY (Daily)
+T134	Drug 13657 13666	Albuterol
+T135	Drug 13756 13773	Albuterol Sulfate
+T136	Strength 13667 13683	90 mcg/Actuation
+T137	Form 13684 13691	Aerosol
+T138	Dosage 13697 13705	Four (4)
+T139	Form 13706 13710	Puff
+T140	Route 13711 13721	Inhalation
+T141	Frequency 13722 13751	Q4H (every 4 hours) as needed
+T142	Strength 13774 13796	2.5 mg /3 mL (0.083 %)
+T143	Form 13797 13809;13810 13822	Solution for Nebulization
+T144	Dosage 13828 13835	One (1)
+T145	Route 13837 13847	Inhalation
+T146	Frequency 13848 13870;13871 13877	Q6H (every 6 hours) as needed
+T147	Form 13907 13917	Suspension
+T148	Dosage 13923 13934	Five (5) ML
+T149	Frequency 13938 13941;13942 13957	QID (4 times a day)
+T150	Drug 13963 13982	Ipratropium Bromide
+T151	Strength 13983 13989	0.02 %
+T152	Form 13990 13998	Solution
+T153	Dosage 14004 14011	One (1)
+T154	Route 14013 14023	Inhalation
+T155	Frequency 14024 14053	Q6H (every 6 hours) as needed
+T156	Form 14082 14089	Capsule
+T157	Dosage 14095 14102	One (1)
+T158	Frequency 14114 14117;14118 14133	BID (2 times a day)
+T159	Drug 14139 14144	Senna
+T160	Form 14152 14158	Tablet
+T161	Dosage 14164 14171	One (1)
+T162	Frequency 14182 14196;14197 14211	BID (2 times a day) as needed
+T163	Drug 14217 14240	Menthol-Cetylpyridinium
+T164	Form 14246 14253	Lozenge
+T165	Dosage 14259 14266	One (1)
+T166	Route 14275 14290	Mucous membrane
+T167	Frequency 14291 14306	PRN (as needed)
+T168	Dosage 14367 14370;14371 14374	One (1)
+T169	Form 14375 14405	Tablet, Delayed Release (E.C.)
+T170	Route 14406 14408	PO
+T171	Frequency 14409 14430	Q24H (every 24 hours)
+T172	Dosage 15226 15239	Sliding Scale
+T173	Route 15223 15225	SC
+T174	Drug 15215 15222	Insulin
+T175	Form 14462 14468	Tablet
+T176	Dosage 14474 14481	One (1)
+T177	Frequency 14492 14495;14496 14511	BID (2 times a day)
+T178	Strength 14537 14540	1 %
+T179	Frequency 14591 14604	2 times a day
+T180	Form 14541 14546	Cream
+T181	Dosage 14552 14559	One (1)
+T182	Form 14560 14564	Appl
+T183	Route 14565 14572	Topical
+T184	Form 14630 14636	Tablet
+T185	Dosage 14642 14649	One (1)
+T186	Frequency 14660 14670;14671 14679	Q4H (every 4 hours)
+T187	Dosage 14718 14725	Two (2)
+T188	Form 14706 14712	Tablet
+T189	Frequency 14736 14739;14740 14765	Q6H (every 6 hours) as needed
+T190	Form 14788 14794	Tablet
+T191	Dosage 14800 14807	One (1)
+T192	Frequency 14818 14830;14831 14847	Q8H (every 8 hours) as needed
+T193	Form 14885 14895	Suspension
+T194	Dosage 14901 14912;14913 14915	Thirty (30) ML
+T195	Route 14916 14918	PO
+T196	Frequency 14919 14948	Q6H (every 6 hours) as needed
+T197	Form 14968 14974	Tablet
+T198	Dosage 14980 14987	One (1)
+T199	Form 15058 15069	Suppository
+T200	Dosage 15075 15082	One (1)
+T201	Route 15095 15101	Rectal
+T202	Frequency 15102 15127	HS (at bedtime) as needed
+T204	Dosage 15183 15196	Sliding Scale
+T205	Drug 15262 15269	Insulin
+T206	Drug 10782 10788;10789 10808	direct thrombin inhibitors
+T207	Reason 10761 10776	anticoagulation
+T208	Drug 10950 10962	thrombolysis
+T209	Drug 11744 11756	argatatroban
+T211	Reason 12666 12680	anticoagulated
+T212	Reason 1001 1017	suspicion of HIT
+T213	Route 12741 12748	applied
+T214	Drug 15303 15306	D50
+T215	Form 15299 15302	amp
+T216	Reason 15275 15287	0-60   mg/dL

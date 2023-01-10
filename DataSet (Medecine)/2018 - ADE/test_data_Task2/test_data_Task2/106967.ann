@@ -1,0 +1,253 @@
+T1	Drug 10339 10346	bactrim
+T2	Reason 10351 10354	PCP
+T3	Drug 10407 10417	creatinine
+T4	Drug 10474 10492	immunosuppressants
+T5	Drug 10634 10652	immunosuppressants
+T6	Drug 10658 10665	bactrim
+T7	Reason 10670 10673	PCP
+T8	Frequency 10702 10707	Daily
+T9	Drug 10708 10718	tacrolimus
+T10	Strength 10857 10860	2mg
+T11	Drug 10888 10898	tacrolimus
+T12	Drug 10900 10908	Cellcept
+T13	ADE 10951 10961	leukopenia
+T14	Drug 11020 11025	tacro
+T15	Drug 11081 11098	immunosuppression
+T16	Reason 11136 11161	Antiphospholipid syndrome
+T17	Drug 11176 11191	anticoagulation
+T18	Drug 11197 11205	warfarin
+T19	Drug 11404 11412	warfarin
+T20	Drug 11503 11511	Coumadin
+T21	Strength 11529 11532	1mg
+T22	Frequency 11533 11538	daily
+T23	Drug 11602 11610	coumadin
+T24	Reason 12129 12141	hypertension
+T25	Drug 12155 12165	metoprolol
+T26	Drug 12311 12314	IVF
+T27	Reason 12341 12344	HTN
+T28	Drug 12351 12361	metoprolol
+T29	Drug 12556 12567	simvastatin
+T30	Drug 12758 12761	IVF
+T31	Dosage 12762 12767	bolus
+T32	ADE 12798 12810	Osteoporosis
+T33	Drug 12912 12926	glucocorticoid
+T34	Drug 12991 13012	Mycophenolate Mofetil
+T35	Strength 13013 13020	1000 mg
+T36	Route 13021 13023	PO
+T37	Frequency 13024 13027	BID
+T38	Drug 13031 13044	Acetaminophen
+T39	Strength 13045 13051	650 mg
+T40	Route 13052 13054	PO
+T42	Route 13055 13057	NG
+T43	Frequency 13058 13065	Q6H:PRN
+T44	Reason 13066 13071	fever
+T46	Reason 13073 13077	pain
+T47	Drug 13081 13091	PredniSONE
+T48	Strength 13092 13096	5 mg
+T49	Route 13097 13099	PO
+T51	Route 13100 13102	NG
+T52	Frequency 13103 13108	DAILY
+T53	Drug 13112 13120	CefePIME
+T54	Strength 13121 13124	1 g
+T56	Frequency 13128 13132	Q24H
+T57	Drug 13136 13158	Sulfameth/Trimethoprim
+T59	Dosage 13162 13163	1
+T60	Form 13164 13167	TAB
+T61	Route 13168 13170	PO
+T63	Route 13171 13173	NG
+T64	Frequency 13174 13179	DAILY
+T65	Drug 13183 13193	Cinacalcet
+T66	Strength 13194 13199	30 mg
+T67	Route 13200 13202	PO
+T68	Frequency 13203 13208	DAILY
+T69	Drug 13212 13222	Tacrolimus
+T70	Strength 13223 13227	2 mg
+T71	Route 13228 13230	PO
+T72	Frequency 13231 13235	Q12H
+T73	Drug 13239 13249	Famotidine
+T74	Strength 13250 13255	20 mg
+T75	Route 13256 13258	PO
+T77	Route 13259 13261	NG
+T78	Frequency 13262 13266	Q24H
+T79	Drug 13270 13284	ValGANCIclovir
+T80	Strength 13285 13291	450 mg
+T81	Route 13292 13294	PO
+T82	Frequency 13295 13300	DAILY
+T84	Drug 13305 13326	MetRONIDAZOLE (FLagyl
+T86	Strength 13328 13334	500 mg
+T88	Frequency 13338 13341	Q8H
+T89	Drug 13346 13354	Warfarin
+T90	Strength 13355 13359	1 mg
+T91	Route 13360 13362	PO
+T93	Route 13363 13365	NG
+T94	Frequency 13366 13371	DAILY
+T95	Duration 13371 13373	16
+T96	Drug 13599 13609	tacrolimus
+T97	Drug 13684 13694	cinacalcet
+T98	Strength 13695 13700	30 mg
+T99	Form 13701 13707	Tablet
+T101	Dosage 13713 13720	One (1)
+T102	Form 13721 13727	Tablet
+T103	Route 13728 13730	PO
+T104	Frequency 13731 13736	DAILY
+T105	Drug 13750 13760	famotidine
+T106	Strength 13761 13766	20 mg
+T107	Form 13767 13773	Tablet
+T109	Dosage 13779 13786	One (1)
+T110	Form 13787 13793	Tablet
+T111	Route 13794 13796	PO
+T112	Frequency 13797 13801	Q24H
+T113	Drug 13823 13833	prednisone
+T114	Strength 13834 13838	5 mg
+T115	Form 13839 13845	Tablet
+T117	Dosage 13851 13858	One (1)
+T118	Form 13859 13865	Tablet
+T119	Route 13866 13868	PO
+T120	Frequency 13869 13874	DAILY
+T121	Drug 13888 13907	metoprolol tartrate
+T122	Strength 13908 13913	25 mg
+T123	Form 13914 13920	Tablet
+T125	Dosage 13926 13933	One (1)
+T126	Form 13934 13940	Tablet
+T127	Route 13941 13943	PO
+T128	Frequency 13944 13947	BID
+T129	Drug 13968 13982	valganciclovir
+T130	Strength 13983 13989	450 mg
+T131	Form 13990 13996	Tablet
+T133	Dosage 14002 14009	One (1)
+T134	Form 14010 14016	Tablet
+T135	Route 14017 14019	PO
+T136	Frequency 14020 14025;14026 14035	EVERY OTHER DAY
+T137	Drug 14058 14066	warfarin
+T138	Strength 14067 14071	1 mg
+T139	Form 14072 14078	Tablet
+T141	Dosage 14084 14091	One (1)
+T142	Form 14092 14098	Tablet
+T143	Route 14099 14101	PO
+T144	Frequency 14102 14112	once a day
+T146	Drug 14162 14172	tacrolimus
+T147	Strength 14173 14177	1 mg
+T148	Form 14178 14185	Capsule
+T150	Dosage 14191 14198	Two (2)
+T151	Form 14199 14206	Capsule
+T152	Route 14207 14209	PO
+T153	Frequency 14210 14214	Q12H
+T154	Frequency 14222 14230	12 hours
+T156	Drug 14237 14266	sulfamethoxazole-trimethoprim
+T158	Strength 14267 14276	400-80 mg
+T159	Form 14277 14283	Tablet
+T161	Dosage 14289 14296	One (1)
+T162	Form 14297 14303	Tablet
+T163	Route 14304 14306	PO
+T165	Frequency 14307 14312	DAILY
+T166	Drug 14326 14335	glipizide
+T167	Strength 14336 14340	5 mg
+T168	Form 14341 14347	Tablet
+T170	Dosage 14353 14360	One (1)
+T171	Form 14361 14367	Tablet
+T172	Route 14368 14370	PO
+T173	Frequency 14371 14381	once a day
+T174	Drug 14387 14400	ciprofloxacin
+T175	Strength 14401 14407	500 mg
+T176	Form 14408 14414	Tablet
+T178	Dosage 14420 14427	One (1)
+T179	Form 14428 14434	Tablet
+T180	Route 14435 14437	PO
+T181	Frequency 14438 14442	Q24H
+T182	Duration 14460 14471	for 11 days
+T183	Drug 14509 14519	vancomycin
+T184	Strength 14520 14526	250 mg
+T185	Form 14527 14534	Capsule
+T187	Dosage 14540 14547	One (1)
+T188	Form 14548 14555	Capsule
+T189	Route 14556 14558	PO
+T190	Frequency 14559 14562	Q6H
+T191	Duration 14579 14590	for 25 days
+T193	ADE 15212 15218	C diff
+T194	Drug 15252 15269	immunosuppression
+T195	Drug 15346 15357	antibiotics
+T196	ADE 15407 15445	INR level has been higher than optimal
+T197	Drug 15459 15470	antibiotics
+T198	Drug 15490 15498	coumadin
+T199	Drug 15513 15521	coumadin
+T200	Drug 15651 15659	coumadin
+T201	Drug 15749 15759	tacrolimus
+T202	Strength 15763 15766	2mg
+T203	Frequency 15767 15778	twice a day
+T204	Drug 15784 15789	cipro
+T205	Duration 15790 15806	for 11 more days
+T206	Drug 15837 15847	vancomycin
+T207	Duration 15848 15864	for 25 more days
+T208	Drug 15901 15922	mycophenolate mofetil
+T209	Drug 15924 15932	cellcept
+T210	Drug 16006 16014	coumadin
+T211	Strength 16015 16018	1mg
+T212	Frequency 16019 16024	daily
+T213	Drug 165 175	Lisinopril
+T216	Dosage 1755 1765	two liters
+T218	Drug 1769 1772	IVF
+T220	Dosage 1778 1785	one amp
+T221	Drug 178 187	Oxycodone
+T223	Drug 1789 1792	D50
+T224	Reason 1797 1809	hypoglycemia
+T225	Strength 1825 1827	1g
+T226	Drug 1836 1846	vancomycin
+T227	Drug 1848 1856	cefepime
+T228	Drug 1862 1875	acetaminophen
+T229	Dosage 1885 1890	liter
+T230	Drug 1894 1896	NS
+T231	Drug 2891 2898	heparin
+T232	Route 2899 2903	gtts
+T233	Drug 2924 2932	Coumadin
+T234	Drug 393 401	warfarin
+T235	Drug 6355 6363	AMIKACIN
+T236	Drug 6386 6396	AMPICILLIN
+T238	Drug 6417 6437	AMPICILLIN/SULBACTAM
+T240	Drug 6448 6456	CEFEPIME
+T241	Drug 6479 6490	CEFTAZIDIME
+T242	Drug 6510 6521	CEFTRIAXONE
+T243	Drug 6541 6554	CIPROFLOXACIN
+T244	Drug 6572 6582	GENTAMICIN
+T245	Drug 6603 6612	MEROPENEM
+T247	Drug 6634 6651	PIPERACILLIN/TAZO
+T248	Drug 6665 6675	TOBRAMYCIN
+T249	Drug 7969 7995	broad-spectrum antibiotics
+T250	Drug 8001 8011	vancomycin
+T251	Drug 8016 8024	cefepime
+T252	Reason 8283 8288	cdiff
+T253	Drug 8316 8322	flagyl
+T254	Drug 8378 8389	antibiotics
+T255	Drug 8420 8433	ciprofloxacin
+T256	Drug 8439 8445	flagyl
+T257	Drug 8669 8679	antibiotic
+T258	Drug 8859 8864	cipro
+T259	Drug 8865 8871	flagyl
+T260	ADE 8886 8896	leukopenia
+T261	Drug 8901 8907	flagyl
+T262	ADE 8947 8957	leukopenia
+T263	Route 8974 8976	PO
+T264	Drug 8977 8987	vancomycin
+T265	Route 9007 9009	PO
+T266	Drug 9010 9015	vanco
+T267	Drug 9125 9130	vanco
+T268	Drug 9173 9178	vanco
+T269	Duration 9179 9190	for 2 weeks
+T270	Duration 9213 9219	2 week
+T271	Drug 9230 9235	cipro
+T272	Drug 9445 9466	mycophenolate mofetil
+T273	ADE 9517 9527	leukopenia
+T274	Drug 9529 9536	Bactrim
+T275	Drug 9541 9548	valcyte
+T276	ADE 9572 9582	leukopenia
+T277	ADE 9674 9684	leukopenia
+T278	Drug 9717 9723	flagyl
+T279	Drug 9747 9752	cipro
+T281	Drug 9753 9758	vanco
+T282	Drug 9769 9772	MMF
+T283	ADE 9840 9851	neutropenia
+T284	Drug 9930 9938	cellcept
+T285	Drug 9940 9950	tacrolimus
+T286	Drug 9955 9965	prednisone
+T287	Drug 9977 9987	creatinine
+T41	Route 13125 13127	IV
+T45	Route 13335 13337	IV

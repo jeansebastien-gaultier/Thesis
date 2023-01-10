@@ -1,0 +1,141 @@
+T1	Drug 10153 10159	diovan
+T2	Drug 10161 10165	HCTZ
+T3	Drug 10171 10180	clonidine
+T4	Reason 10200 10210	BP control
+T5	Drug 10319 10336	antihypertensives
+T6	Drug 10439 10445	diovan
+T7	Reason 10950 10964	Hypothyroidism
+T8	Drug 10977 10986	synthroid
+T9	Drug 110 121	Hydralazine
+T10	Drug 11198 11206	coumadin
+T11	Drug 11232 11239	heparin
+T12	Reason 11244 11259	anticoagulation
+T13	Drug 11362 11369	heparin
+T14	Reason 11861 11869	Cystitis
+T15	Reason 12070 12075;12076 12084	yeast in urine
+T16	Duration 12109 12114	7 day
+T17	Drug 12125 12136	fluconazole
+T18	Drug 12218 12226	coumadin
+T19	Strength 12227 12230	6mg
+T20	Frequency 12231 12246	6 days per week
+T21	Strength 12248 12251	7mg
+T22	Frequency 12252 12266	1 day per week
+T23	Drug 12270 12276	diovan
+T24	Strength 12277 12282	160mg
+T25	Frequency 12283 12286	qam
+T26	Drug 12290 12294	HCTZ
+T27	Strength 12295 12301	12.5mg
+T28	Frequency 12302 12307	q day
+T29	Drug 12311 12319	Prevacid
+T30	Drug 12323 12332	Synthroid
+T31	Strength 12333 12339	175mcg
+T32	Frequency 12340 12345	q day
+T33	Drug 12349 12358	clonidine
+T34	Strength 12359 12364	0.1mg
+T35	Drug 12409 12429	Levothyroxine Sodium
+T36	Strength 12430 12437	175 mcg
+T37	Form 12438 12444	Tablet
+T38	Dosage 12450 12457	One (1)
+T39	Form 12458 12464	Tablet
+T40	Route 12465 12467	PO
+T41	Frequency 12468 12473	DAILY
+T42	Drug 12486 12503	Zolpidem Tartrate
+T43	Strength 12504 12508	5 mg
+T44	Form 12509 12515	Tablet
+T45	Dosage 12521 12528	One (1)
+T46	Form 12529 12535	Tablet
+T47	Route 12536 12538	PO
+T48	Frequency 12539 12541	HS
+T49	Drug 12569 12578	Valsartan
+T50	Strength 12579 12584	80 mg
+T51	Form 12585 12592	Capsule
+T52	Dosage 12598 12605	One (1)
+T53	Form 12606 12613	Capsule
+T54	Route 12614 12616	PO
+T55	Frequency 12617 12622	DAILY
+T56	Drug 12668 12681	Acetaminophen
+T57	Strength 12682 12688	325 mg
+T58	Form 12689 12695	Tablet
+T59	Dosage 12701 12704	1-2
+T60	Form 12705 12712	Tablets
+T61	Route 12713 12715	PO
+T62	Frequency 12716 12728;12729 12752	Q4-6H (every 4 to 6 hours) as needed
+T63	Reason 12757 12762	fever
+T64	Drug 12776 12795	Pantoprazole Sodium
+T65	Strength 12796 12801	40 mg
+T66	Form 12802 12832	Tablet, Delayed Release (E.C.)
+T67	Dosage 12838 12845	One (1)
+T68	Form 12846 12876	Tablet, Delayed Release (E.C.)
+T69	Route 12877 12879	PO
+T70	Frequency 12880 12884	Q12H
+T71	Drug 12907 12918	Simethicone
+T72	Strength 12919 12924	80 mg
+T73	Form 12925 12941	Tablet, Chewable
+T74	Dosage 12947 12954	One (1)
+T75	Form 12955 12962;12963 12971	Tablet, Chewable
+T76	Route 12972 12974	PO
+T77	Frequency 12975 12978	QID
+T78	Drug 12999 13012	Lidocaine HCl
+T80	Form 13017 13020	Gel
+T81	Dosage 13026 13033	One (1)
+T82	Form 13034 13038	Appl
+T83	Route 13039 13047	Urethral
+T84	Frequency 13048 13056	Q4-6 PRN
+T85	Reason 13074 13091	rectal discomfort
+T86	Drug 14106 14112	diovan
+T87	Drug 1445 1456	ceftriaxone
+T88	Strength 1457 1460	1gm
+T89	Drug 1465 1477	azithromycin
+T90	Strength 1478 1483	500mg
+T91	Reason 1497 1500	PNA
+T92	Drug 4633 4644	ceftriaxone
+T93	Drug 4649 4661	azithromycin
+T94	Reason 4680 4683	CAP
+T95	Reason 4990 5000	bronchitis
+T96	Drug 5022 5032	prednisone
+T97	Form 5043 5052	nebulized
+T98	Drug 5053 5062	albuterol
+T99	Drug 5067 5075	atrovent
+T100	Drug 5135 5137	O2
+T101	Route 5141 5143	NC
+T102	Drug 5310 5319	albuterol
+T103	Drug 5323 5331	atrovent
+T104	Drug 5605 5613	coumadin
+T105	Drug 5627 5634	heparin
+T106	Reason 5651 5666	anticoagulation
+T108	Drug 5711 5719	protonix
+T109	Drug 6229 6237	Protonix
+T110	Route 6253 6257	oral
+T111	Drug 6275 6285	sucralfate
+T112	Reason 6322 6333	esophagitis
+T113	Drug 6413 6423	sucralfate
+T114	Drug 6463 6471	protonix
+T115	Frequency 6472 6477;6478 6483	twice daily
+T116	Dosage 6664 6670	2units
+T117	Drug 6671 6676	PRBCs
+T118	Drug 7025 7032	Heparin
+T119	Dosage 7078 7084	2units
+T120	Drug 7085 7090	PRBCs
+T121	Drug 7283 7287	PRBC
+T122	Route 7288 7299	transfusion
+T123	Drug 7461 7468	heparin
+T124	Reason 7473 7488	anticoagulation
+T125	Drug 7491 7498	Heparin
+T126	Drug 7595 7602	heparin
+T127	Drug 7671 7678	Heparin
+T128	Drug 8347 8354	heparin
+T129	Drug 8427 8434	heparin
+T130	Drug 8439 8446	heparin
+T131	Dosage 8500 8501	1
+T132	Drug 8510 8518	coumadin
+T133	Strength 8519 8522	5mg
+T134	Reason 8542 8557	anticoagulation
+T135	Drug 8775 8782	Heparin
+T136	Dosage 9320 9326	2units
+T137	Drug 9327 9330	FFP
+T138	Dosage 9380 9386	2units
+T139	Drug 9390 9395	PRBCs
+T140	Drug 9439 9443	PRBC
+T79	Route 5708 5710	IV
+T107	Drug 5241 5243	O2
+T141	Reason 12767 12771	pain

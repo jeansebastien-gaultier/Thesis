@@ -1,0 +1,131 @@
+T1	Drug 162 173	Simvastatin
+T2	Drug 176 188	Rosuvastatin
+T3	Reason 3300 3309	diuresing
+T4	Drug 3319 3324	lasix
+T5	Reason 3375 3405;3406 3418	acute on chronic diastolic CHF exacerbation
+T6	Reason 4173 4207	Diastolic Congestive Heart Failure
+T7	Drug 4339 4344	lasix
+T8	Drug 4384 4389	lasix
+T9	Strength 4390 4394	40mg
+T10	Frequency 4395 4400	daily
+T11	Drug 4621 4626	lasix
+T12	Reason 4881 4891	resusitate
+T13	Drug 4901 4906	fluid
+T14	Drug 4911 4918	albumin
+T15	Drug 5090 5095	vanco
+T16	Drug 5096 5101	cipro
+T17	Drug 5102 5108	flagyl
+T18	Drug 5317 5327	amlodipine
+T19	Strength 5328 5331	5mg
+T22	Strength 5350 5355	360mg
+T23	Drug 5359 5368	moexipril
+T24	Strength 5369 5373	15mg
+T25	Drug 5634 5637	ACE
+T26	Reason 5708 5727	Atrial Fibrillation
+T27	Drug 5736 5744	Coumadin
+T28	Drug 5800 5808	coumadin
+T29	Drug 5864 5881	albuterol sulfate
+T30	Strength 5882 5888	90 mcg
+T31	Drug 5891 5901	amlodipine
+T32	Strength 5902 5903	5
+T33	Drug 5906 5918	atorvastatin
+T34	Strength 5919 5921	80
+T35	Drug 5924 5934	calcitriol
+T36	Strength 5935 5939	0.25
+T37	Frequency 5941 5946	M-W-F
+T38	Drug 5948 5958	cilostazol
+T39	Strength 5959 5962	100
+T40	Drug 5965 5978	diltiazem HCl
+T41	Form 5979 5981	XR
+T42	Strength 5982 5985	360
+T43	Drug 5988 6010	fluticasone-salmeterol
+T44	Strength 6011 6025	250 mcg-50 mcg
+T45	Drug 6029 6039	furosemide
+T46	Strength 6040 6042	40
+T47	Drug 6045 6054	moexipril
+T48	Strength 6055 6057	15
+T49	Drug 6060 6078	tiotropium bromide
+T50	Strength 6079 6085	18 mcg
+T51	Drug 6088 6096	warfarin
+T52	Strength 6097 6098	3
+T54	Drug 6101 6109;6110 6114	ascorbic acid
+T55	Strength 6115 6120	1,000
+T56	Drug 6123 6130	aspirin
+T57	Strength 6131 6133	81
+T58	Drug 6136 6153	calcium carbonate
+T59	Strength 6154 6157	250
+T60	Drug 6160 6171	hexavitamin
+T61	Drug 6200 6207	aspirin
+T62	Strength 6208 6213	81 mg
+T63	Form 6214 6230	Tablet, Chewable
+T64	Dosage 6236 6243	One (1)
+T65	Form 6244 6260	Tablet, Chewable
+T66	Route 6261 6263	PO
+T67	Frequency 6264 6277	DAILY (Daily)
+T68	Drug 6282 6304	fluticasone-salmeterol
+T69	Strength 6305 6320	250-50 mcg/dose
+T70	Form 6321 6337	Disk with Device
+T71	Dosage 6343 6350	One (1)
+T72	Form 6351 6367	Disk with Device
+T73	Route 6368 6378	Inhalation
+T74	Frequency 6397 6410	2 times a day
+T75	Drug 6416 6425	bisacodyl
+T76	Strength 6426 6430	5 mg
+T77	Form 6431 6454	Tablet, Delayed Release
+T78	Dosage 6467 6474	Two (2)
+T79	Form 6475 6498	Tablet, Delayed Release
+T80	Route 6506 6508	PO
+T81	Frequency 6509 6532	DAILY (Daily) as needed
+T82	Reason 6537 6549	constipation
+T83	Drug 6554 6566	atorvastatin
+T84	Strength 6567 6572	80 mg
+T85	Form 6573 6579	Tablet
+T86	Dosage 6585 6592	One (1)
+T87	Form 6593 6599	Tablet
+T88	Route 6600 6602	PO
+T89	Frequency 6603 6608;6609 6616	DAILY (Daily)
+T90	Drug 6621 6638	albuterol sulfate
+T91	Strength 6639 6655	90 mcg/actuation
+T92	Form 6656 6675	HFA Aerosol Inhaler
+T93	Dosage 6681 6688	Two (2)
+T94	Form 6689 6693	Puff
+T95	Route 6694 6704	Inhalation
+T96	Frequency 6705 6734	Q6H (every 6 hours) as needed
+T97	Reason 6739 6744	astma
+T98	Drug 6750 6760	omeprazole
+T99	Strength 6761 6766	20 mg
+T100	Form 6767 6791	Capsule, Delayed Release
+T101	Dosage 6803 6810	One (1)
+T102	Form 6811 6835	Capsule, Delayed Release
+T103	Route 6842 6844	PO
+T104	Frequency 6845 6858	DAILY (Daily)
+T105	Drug 6863 6868	senna
+T106	Strength 6869 6875	8.6 mg
+T107	Form 6876 6882	Tablet
+T108	Dosage 6888 6895	One (1)
+T109	Form 6896 6902	Tablet
+T110	Route 6903 6905	PO
+T111	Frequency 6906 6920;6921 6935	BID (2 times a day) as needed
+T112	Reason 6940 6952	constipation
+T113	Drug 6957 6972	docusate sodium
+T114	Strength 6973 6979	100 mg
+T115	Form 6980 6987	Capsule
+T116	Dosage 6993 7000	One (1)
+T117	Form 7001 7008	Capsule
+T118	Route 7009 7011	PO
+T119	Frequency 7012 7015	BID
+T120	Drug 7036 7046	furosemide
+T121	Strength 7047 7052	40 mg
+T122	Form 7053 7059	Tablet
+T123	Dosage 7065 7072	One (1)
+T124	Form 7073 7079	Tablet
+T125	Route 7080 7082	PO
+T126	Frequency 7083 7096	DAILY (Daily)
+T127	Drug 7103 7111	warfarin
+T128	Strength 7112 7115	1mg
+T129	Frequency 7116 7123	tonight
+T130	Strength 9760 9765	325mg
+T131	Form 9767 9781	enteric coated
+T132	Drug 9782 9789	aspirin
+T133	Frequency 9790 9795	daily
+T20	Drug 5333 5346;5347 5349	diltiazem HCl XR

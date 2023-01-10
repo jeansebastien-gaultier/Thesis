@@ -1,0 +1,155 @@
+T1	Drug 10162 10178	anti-coagulation
+T2	Reason 10400 10418	cardioembolic clot
+T4	Drug 10460 10463	tPA
+T5	Dosage 10837 10839	2U
+T6	Drug 10840 10845	PRBCs
+T7	Frequency 11230 11233	PRN
+T8	Route 11234 11244	sublingual
+T9	Drug 11245 11253	morphine
+T10	Drug 11263 11274	scopolamine
+T11	Form 11275 11280	patch
+T12	Drug 113 124	Penicillins
+T13	Drug 11338 11353	docusate sodium
+T14	Strength 11354 11360	100 mg
+T15	Form 11361 11368	Capsule
+T16	Dosage 11393 11400	One (1)
+T17	Form 11401 11408	Capsule
+T18	Route 11409 11411	PO
+T20	Drug 11437 11442	senna
+T21	Strength 11443 11449	8.6 mg
+T22	Form 11450 11456	Tablet
+T23	Dosage 11481 11488	One (1)
+T24	Form 11489 11495	Tablet
+T25	Route 11496 11498	PO
+T26	Frequency 11499 11514	HS (at bedtime)
+T27	Drug 11519 11526	aspirin
+T28	Strength 11527 11532	81 mg
+T29	Form 11533 11549	Tablet, Chewable
+T30	Dosage 11574 11581	One (1)
+T31	Form 11582 11598	Tablet, Chewable
+T32	Route 11599 11601	PO
+T33	Frequency 11602 11615	DAILY (Daily)
+T34	Drug 11620 11633	levothyroxine
+T35	Strength 11634 11641	100 mcg
+T36	Form 11642 11648	Tablet
+T37	Dosage 11673 11680	One (1)
+T38	Form 11681 11687	Tablet
+T39	Route 11688 11690	PO
+T40	Frequency 11691 11696	DAILY
+T41	Drug 11700 11710	lisinopril
+T42	Strength 11711 11715	5 mg
+T43	Form 11716 11722	Tablet
+T44	Dosage 11747 11754	One (1)
+T45	Form 11755 11761	Tablet
+T46	Route 11762 11764	PO
+T47	Frequency 11765 11778	DAILY (Daily)
+T48	Drug 11884 11893	megestrol
+T49	Strength 11894 11917	400 mg/10 mL (40 mg/mL)
+T50	Form 11918 11928	Suspension
+T51	Dosage 11953 11960	One (1)
+T52	Form 11961 11965	pill
+T53	Route 11966 11968	PO
+T54	Frequency 11969 11982	DAILY (Daily)
+T55	Drug 11987 12015	cholecalciferol (vitamin D3)
+T56	Strength 12016 12024	400 unit
+T57	Form 12025 12031	Tablet
+T58	Dosage 12056 12063	Two (2)
+T59	Form 12064 12070	Tablet
+T60	Route 12071 12073	PO
+T61	Frequency 12074 12087	DAILY (Daily)
+T62	Drug 12092 12109	calcium carbonate
+T63	Strength 12110 12125	200 mg (500 mg)
+T64	Form 12126 12142	Tablet, Chewable
+T65	Dosage 12167 12170;12171 12174	One (1)
+T66	Form 12175 12191	Tablet, Chewable
+T67	Route 12192 12194	PO
+T68	Frequency 12195 12214	TID (3 times a day)
+T69	Drug 12220 12230	sertraline
+T70	Strength 12231 12236	50 mg
+T71	Form 12237 12243	Tablet
+T72	Dosage 12268 12275	Two (2)
+T73	Form 12276 12282	Tablet
+T74	Route 12283 12285	PO
+T75	Frequency 12286 12291;12292 12299	DAILY (Daily)
+T76	Drug 12305 12312	digoxin
+T77	Strength 12313 12320	125 mcg
+T78	Form 12321 12327	Tablet
+T79	Dosage 12352 12359	One (1)
+T80	Form 12360 12366	Tablet
+T81	Route 12367 12369	PO
+T82	Frequency 12370 12381;12382 12403	EVERY OTHER DAY (Every Other Day)
+T83	Drug 12409 12433	polyethylene glycol 3350
+T84	Strength 12434 12446	17 gram/dose
+T85	Form 12447 12453	Powder
+T86	Dosage 12478 12485	One (1)
+T87	Form 12486 12492	packet
+T88	Route 12493 12495	PO
+T89	Frequency 12496 12519	DAILY (Daily) as needed
+T90	Reason 12524 12536	constipation
+T91	Drug 12542 12551	bisacodyl
+T92	Strength 12552 12557	10 mg
+T93	Form 12558 12569	Suppository
+T94	Dosage 12594 12601	One (1)
+T95	Form 12602 12613	Suppository
+T96	Route 12614 12620	Rectal
+T97	Frequency 12621 12644	DAILY (Daily) as needed
+T98	Reason 12649 12661	constipation
+T99	Drug 12667 12677	olanzapine
+T100	Strength 12678 12682	5 mg
+T101	Form 12683 12705	Tablet, Rapid Dissolve
+T102	Drug 127 138	Amoxicillin
+T103	Dosage 12730 12733	0.5
+T104	Form 12734 12741;12742 12756	Tablet, Rapid Dissolve
+T105	Route 12757 12759	PO
+T106	Frequency 12760 12779	BID (2 times a day)
+T107	Drug 12785 12814	cyanocobalamin (vitamin B-12)
+T108	Strength 12815 12822	250 mcg
+T109	Form 12823 12829	Tablet
+T110	Dosage 12854 12861	One (1)
+T111	Form 12862 12868	Tablet
+T112	Route 12869 12871	PO
+T113	Frequency 12872 12885	DAILY (Daily)
+T114	Drug 12891 12903	lansoprazole
+T115	Strength 12904 12909	30 mg
+T116	Form 12910 12935	Tablet,Rapid Dissolve, DR
+T117	Dosage 12963 12970	One (1)
+T118	Form 12971 12996	Tablet,Rapid Dissolve, DR
+T119	Frequency 13023 13036	DAILY (Daily)
+T120	Drug 13042 13055	acetaminophen
+T121	Strength 13056 13062	325 mg
+T122	Form 13063 13069	Tablet
+T123	Dosage 13097 13104	Two (2)
+T124	Form 13105 13111	Tablet
+T125	Route 13112 13114	PO
+T127	Frequency 13115 13118;13119 13144	Q6H (every 6 hours) as needed
+T128	Reason 13149 13159	pain fever
+T129	Drug 13165 13175	enoxaparin
+T130	Strength 13176 13188	30 mg/0.3 mL
+T131	Form 13189 13196	Syringe
+T132	Dosage 13224 13231	One (1)
+T133	Form 13232 13239	syringe
+T134	Route 13240 13252	Subcutaneous
+T135	Frequency 13253 13282	QHS (once a day (at bedtime))
+T136	Duration 13283 13294	for 10 days
+T137	Drug 13324 13335	mirtazapine
+T138	Strength 13336 13341	15 mg
+T139	Form 13342 13348	Tablet
+T140	Dosage 13370 13377	One (1)
+T141	Form 13378 13384	Tablet
+T142	Route 13385 13387	PO
+T143	Frequency 13388 13398	at bedtime
+T144	Drug 13405 13425	metoprolol succinate
+T145	Strength 13426 13431	25 mg
+T146	Form 13432 13462	Tablet Sustained Release 24 hr
+T147	Dosage 13484 13487	1.5
+T148	Form 13488 13519	Tablet Sustained Release 24 hrs
+T149	Route 13520 13522	PO
+T150	Frequency 13523 13533	once a day
+T151	Drug 1461 1465	t-PA
+T152	Drug 1543 1547	t-PA
+T153	Drug 1741 1745	t-PA
+T155	Drug 260 263	tPA
+T156	Reason 274 280	stroke
+T157	Drug 478 486	coumadin
+T3	Route 257 259	IV
+T19	Route 10457 10459	IV

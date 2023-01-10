@@ -1,0 +1,178 @@
+T1	Drug 13445 13457	Theophylline
+T2	Strength 13458 13463	200mg
+T3	Drug 13575 13582	Mucinex
+T4	Strength 13583 13588	400mg
+T6	Strength 14880 14886	18 mcg
+T7	Form 14887 14894;14894 14915	Capsule , w/Inhalation Device
+T8	Strength 13843 13847	5 mg
+T9	Form 13848 13854;13854 13878	Tablet , Delayed Release (E.C.)
+T10	Drug 13833 13841;13841 13842	Bisacody l
+T11	Drug 12554 12559	zosyn
+T12	Strength 14103 14107	5 mg
+T13	Form 14128 14134	Tablet
+T14	Route 14135 14137	PO
+T15	Drug 14092 14101;14101 14102	Olanzapin e
+T16	Drug 11542 11550	coumadin
+T17	Drug 9796 9802	versed
+T18	Drug 13338 13344	Diamox
+T19	Strength 13345 13350	500mg
+T20	Drug 13431 13437	Duoneb
+T21	Frequency 13438 13441	QID
+T22	Drug 13597 13603	Viagra
+T23	Strength 13604 13609	100mg
+T24	Drug 14368 14375	Heparin
+T25	Drug 14512 14519	digoxin
+T26	Drug 165 175	Lisinopril
+T27	Drug 13094 13100	flagyl
+T28	Route 13091 13093	PO
+T29	Drug 13736 13744;13745 13751	Docusate Sodium
+T30	Strength 13752 13757;13757 13762	50 mg /5 mL
+T31	Route 13784 13786	PO
+T32	Drug 13360 13369	Torsemide
+T33	Strength 13370 13375	100mg
+T34	Drug 14600 14606;14607 14614	Diamox Sequels
+T35	Strength 14615 14621	500 mg
+T36	Form 14622 14629;14629 14648	Capsule , Sustained Release
+T37	Drug 13618 13625	Chantix
+T38	Drug 13173 13181	coumadin
+T39	Drug 1344 1352	dopamine
+T40	Drug 13505 13512	Flovent
+T41	Strength 13513 13519	110mcg
+T42	Drug 11076 11084	levophed
+T43	Strength 14032 14037	20 mg
+T44	Form 14058 14064	Tablet
+T45	Route 14065 14067	PO
+T46	Drug 14021 14030;14030 14031	Famotidin e
+T47	Drug 14279 14287	Warfarin
+T48	Strength 14288 14292	5 mg
+T49	Form 14313 14319	Tablet
+T50	Route 14320 14322	PO
+T51	Drug 12616 12627	ceftriaxone
+T52	Drug 13385 13392	Digoxin
+T53	Strength 13393 13399	0.25mg
+T54	Drug 14539 14547	Atenolol
+T55	Strength 14548 14553	50 mg
+T56	Form 14574 14580	Tablet
+T57	Frequency 14584 14590;14591 14594	once a day
+T58	Route 14581 14583	PO
+T59	Drug 13654 13667	Acetaminophen
+T60	Strength 13668 13674	325 mg
+T61	Form 13691 13698	Tablets
+T62	Dosage 13687 13690	1-2
+T63	Route 13699 13701	PO
+T64	Drug 11483 11490	heparin
+T65	Drug 12254 12259	Lasix
+T66	Drug 13409 13417	Coumadin
+T67	Strength 13418 13421	5mg
+T68	Drug 12516 12524	levaquin
+T69	Drug 13541 13548	Spiriva
+T70	Drug 12264 12274	metolazone
+T71	Drug 12526 12537	ceftriaxone
+T72	Drug 14448 14455	Digoxin
+T73	Strength 14456 14463	250 mcg
+T74	Form 14484 14490	Tablet
+T75	Frequency 14494 14500;14501 14504	once a day
+T76	Route 14491 14493	PO
+T77	Strength 14718 14724	100 mg
+T78	Form 14745 14751	Tablet
+T79	Frequency 14755 14761;14762 14765	once a day
+T80	Route 14752 14754	PO
+T81	Drug 14708 14716;14716 14717	Torsemid e
+T82	Strength 14205 14210	81 mg
+T83	Form 14241 14247;14247 14257	Tablet , Chewable
+T84	Drug 14197 14203;14203 14204	Aspiri n
+T85	Drug 13559 13566	Tylenol
+T86	Drug 13304 13312	Atenolol
+T87	Strength 13313 13317	50mg
+T88	Drug 12539 12549	vancomycin
+T89	Reason 14172 14181	agitation
+T90	Reason 1320 1339	blood pressure fell
+T91	Route 9803 9807	drip
+T92	Reason 11085 11100	pressor support
+T93	Duration 11115 11122	15 days
+T94	Route 11491 11495	drip
+T95	Reason 12275 12283	diuresis
+T96	Reason 12642 12657	strep pneumonia
+T97	Reason 13130 13141	Prophylaxis
+T98	Drug 13165 13168	hep
+T99	Route 13169 13172	gtt
+T100	Drug 13199 13202	PPi
+T101	Frequency 13351 13356	daily
+T102	Frequency 13376 13381	daily
+T103	Frequency 13400 13405	daily
+T104	Frequency 13422 13427	daily
+T105	Drug 13484 13492	Floridil
+T106	Duration 13493 13501	x1 month
+T107	Frequency 13549 13554	daily
+T108	Frequency 13567 13570	PRN
+T109	Frequency 13589 13592	PRN
+T110	Frequency 13610 13613	PRN
+T111	Form 13675 13681	Tablet
+T112	Frequency 13702 13714;13715 13731	Q6H (every 6 hours) as needed
+T113	Frequency 13787 13793;13794 13806	BID (2 times a day)
+T114	Dosage 13884 13891	Two (2)
+T115	Form 13892 13922	Tablet, Delayed Release (E.C.)
+T116	Route 13923 13925	PO
+T117	Frequency 13926 13949	DAILY (Daily) as needed
+T118	Drug 13954 13959	Senna
+T119	Strength 13960 13966	8.6 mg
+T120	Form 13967 13973	Tablet
+T121	Dosage 13979 13986	One (1)
+T122	Form 13987 13993	Tablet
+T123	Route 13994 13996	PO
+T124	Frequency 13997 14011;14012 14016	BID (2 times a day)
+T125	Form 14038 14044	Tablet
+T126	Dosage 14050 14057	One (1)
+T127	Frequency 14068 14082;14083 14087	BID (2 times a day)
+T128	Form 14108 14114	Tablet
+T129	Dosage 14120 14127	One (1)
+T130	Frequency 14138 14152;14153 14167	QID (4 times a day) as needed
+T131	Reason 14185 14192	anxiety
+T132	Form 14211 14227	Tablet, Chewable
+T133	Dosage 14233 14240	One (1)
+T134	Route 14258 14260	PO
+T135	Frequency 14261 14274	DAILY (Daily)
+T136	Form 14293 14299	Tablet
+T137	Dosage 14305 14312	One (1)
+T138	Frequency 14323 14336	DAILY (Daily)
+T139	Route 14376 14380	Drip
+T140	Form 14464 14470	Tablet
+T141	Dosage 14476 14483	One (1)
+T142	Form 14554 14560	Tablet
+T143	Dosage 14566 14573	One (1)
+T144	Dosage 14654 14657;14658 14661	One (1)
+T145	Form 14662 14688	Capsule, Sustained Release
+T146	Route 14689 14691	PO
+T147	Frequency 14692 14702	once a day
+T148	Form 14725 14731	Tablet
+T149	Dosage 14737 14744	One (1)
+T151	Strength 14783 14800	110 mcg/Actuation
+T152	Form 14801 14808	Aerosol
+T153	Form 14822 14827	puffs
+T154	Dosage 14814 14821	Two (2)
+T155	Route 14828 14838	Inhalation
+T156	Frequency 14839 14850	twice a day
+T157	Form 14931 14938	capsule
+T158	Route 14939 14949	Inhalation
+T159	Frequency 14950 14960	once a day
+T164	Drug 1221 1223	O2
+T165	Dosage 1251 1259	3 liters
+T166	Drug 1523 1525	O2
+T167	Dosage 1510 1517	1 liter
+T168	Drug 8189 8197	CONTRAST
+T169	Drug 8271 8279	CONTRAST
+T171	Drug 9482 9497	pain medication
+T172	Reason 11023 11034	hypotension
+T173	Drug 11214 11228	HTN medication
+T174	Drug 11385 11400	anticoagulation
+T175	Drug 12162 12170	contrast
+T176	ADE 12171 12182	nephropathy
+T177	Drug 12468 12478	antibiotic
+T178	Drug 13155 13158	sch
+T179	Reason 12448 12462	GPC bacteremia
+T180	Form 13763 13769	Liquid
+T181	Dosage 13775 13782	One (1)
+T182	Form 14779 14782	HFA
+T183	Form 14869 14879	HandiHaler
+T5	Drug 14856 14863	Spiriva
+T150	Drug 14771 14778	Flovent

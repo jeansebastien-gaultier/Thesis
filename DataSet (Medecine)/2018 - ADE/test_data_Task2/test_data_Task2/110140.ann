@@ -1,0 +1,72 @@
+T1	Drug 4322 4327	Sarna
+T2	Drug 1091 1109	potassium chloride
+T3	Strength 1110 1115	20mEq
+T4	Drug 3974 3985	Allopurinol
+T5	Strength 3986 3991	100mg
+T6	Route 3992 3994	PO
+T7	Drug 1063 1076	metronidazole
+T8	Strength 1077 1082	500mg
+T10	Drug 3496 3504	coumadin
+T11	Drug 4235 4242	Nasonex
+T12	Strength 4243 4248	50mcg
+T13	Drug 1035 1047	levofloxacin
+T14	Drug 4300 4313	Acetaminophen
+T15	Drug 4002 4012	Amiodarone
+T16	Strength 4013 4018	200mg
+T17	Route 4019 4021	PO
+T18	Drug 4272 4280	Warfarin
+T19	Strength 4281 4286	2.5mg
+T20	Route 4287 4289	PO
+T21	Drug 4209 4218	Lopressor
+T22	Strength 4219 4223	25mg
+T23	Frequency 4227 4230	bid
+T24	Route 4224 4226	PO
+T25	Drug 4179 4189	Lisinopril
+T26	Strength 4190 4195	2.5mg
+T27	Route 4196 4198	PO
+T28	Drug 4116 4123	Aranesp
+T29	Drug 4332 4342	Omeprazole
+T30	Strength 4343 4347	20mg
+T31	Frequency 4351 4354	bid
+T32	Route 4348 4350	PO
+T33	Drug 1815 1825	amiodarone
+T34	Drug 4090 4100	Colchicine
+T35	Strength 4101 4105	.6mg
+T36	Route 4106 4108	PO
+T37	Drug 4127 4137	Furosemide
+T38	Strength 4138 4143	120mg
+T39	Frequency 4147 4150	tid
+T40	Route 4144 4146	PO
+T41	Drug 4060 4070	Calcitriol
+T42	Strength 4071 4077	.25mcg
+T43	Route 4078 4080	PO
+T44	Drug 4154 4163	Lidocaine
+T45	Form 4164 4169	patch
+T46	Drug 4031 4044	Betamethasone
+T47	Form 4045 4050	cream
+T48	Strength 1048 1051;1052 1054	750 mg
+T50	Dosage 1060 1061	1
+T51	Dosage 1088 1089	1
+T53	Dosage 1121 1122	1
+T54	Drug 1131 1137	NS IVF
+T55	Dosage 1128 1130	1L
+T56	Reason 3473 3492	atrial fibrillation
+T57	Frequency 3995 3998	qod
+T58	Frequency 4022 4027	daily
+T59	Frequency 4051 4056	daily
+T60	Frequency 4081 4086	q MWF
+T61	Frequency 4109 4112	qod
+T62	Frequency 4170 4175	daily
+T63	Frequency 4199 4204	daily
+T64	Route 4249 4261	intranasally
+T65	Frequency 4262 4267	daily
+T66	Frequency 4290 4295	daily
+T67	Frequency 4314 4317	prn
+T68	Reason 1727 1746	Atrial Fibrillation
+T69	Drug 3691 3697	fluids
+T70	Route 3679 3690	intravenous
+T71	Reason 3613 3624	hypotension
+T72	Reason 3656 3664	diarrhea
+T9	Route 1055 1057	IV
+T49	Route 1083 1085	IV
+T52	Route 1116 1118	IV

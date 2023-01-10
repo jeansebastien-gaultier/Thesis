@@ -1,0 +1,54 @@
+T1	Drug 1094 1101	Lipitor
+T2	Drug 1103 1123	Tylenol with Codeine
+T3	Drug 1125 1133	Dilantin
+T4	Drug 1149 1157	Decadron
+T5	Frequency 1158 1163	q.i.d
+T6	Duration 1178 1186	one week
+T7	Drug 2689 2698	Oxacillin
+T8	Reason 2797 2807;2808 2819	ophthalmic involvement
+T9	Frequency 2964 2972	q.1 hour
+T10	Drug 2973 2983	Pred Forte
+T11	Route 3003 3006	eye
+T12	Drug 3175 3202	Vaseline hydrated petroleum
+T13	Reason 3218 3244	decrease insensible losses
+T14	Drug 402 410	Dilantin
+T15	Reason 431 450	seizure prophylaxis
+T16	Route 4536 4547	intravenous
+T17	Drug 4548 4557	Oxacillin
+T18	Drug 4742 4752	Vancomycin
+T19	ADE 482 495	eye discharge
+T20	Drug 4827 4837	Vancomycin
+T21	Drug 5200 5209;5210 5215	Petroleum jelly
+T22	Frequency 5216 5227	twice a day
+T23	Drug 547 554	sulfate
+T24	Drug 5488 5498	Pred Forte
+T25	Route 555 565	ophthalmic
+T26	Form 566 571	drops
+T27	Drug 5892 5897	Boost
+T28	Reason 5900 5918	Infectious Disease
+T29	Drug 5974 5985	antibiotics
+T30	ADE 600 610	oral sores
+T31	ADE 615 619	rash
+T32	Reason 6633 6652	cystic tumor status
+T33	Drug 6739 6747	Dilantin
+T34	Drug 6869 6877	Dilantin
+T35	Drug 6909 6924	anticonvulsants
+T36	ADE 814 820	fevers
+T37	ADE 822 830	weakness
+T38	ADE 836 844	diarrhea
+T39	Drug 8750 8758	Dilantin
+T40	Drug 8966 8976	Polysporin
+T41	Form 8977 8990	ophthalmology
+T42	Route 8991 8994	O.U
+T43	Frequency 8996 9001	q.i.d
+T44	Drug 9004 9022	hydrated Petroleum
+T45	Frequency 9023 9032	as needed
+T46	Drug 9034 9041	Lipitor
+T47	Strength 9042 9047	10 mg
+T48	Route 9048 9051	p.o
+T49	Frequency 9053 9056	q.d
+T50	Drug 9059 9067	Nystatin
+T51	Frequency 9075 9080	t.i.d
+T52	Drug 9275 9283	DILANTIN
+T53	Drug 9288 9296	TEGRETOL
+T54	Drug 9365 9373	DILANTIN

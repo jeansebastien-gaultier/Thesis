@@ -1,0 +1,127 @@
+T1	Dosage 10375 10383	One unit
+T2	Drug 10384 10388	PRBC
+T3	Reason 10414 10421	low hct
+T4	Drug 10436 10443	aspirin
+T5	Drug 10448 10454	Plavix
+T6	Duration 10455 10460;10461 10478	for a total of 3 months
+T8	Reason 11006 11009	CAD
+T9	Drug 11290 11297	aspirin
+T10	Drug 11299 11305	plavix
+T11	Drug 11307 11317	metoprolol
+T12	Drug 11322 11329	Lipitor
+T13	Reason 11336 11364	Chronic Systolic Dysfunction
+T14	Drug 11423 11427	ACEi
+T15	Dosage 11493 11496;11497 11501	low dose
+T16	Drug 11502 11506	ACEi
+T17	Drug 11530 11535	Lasix
+T18	Strength 11536 11541	20 mg
+T19	Route 11542 11544	PO
+T20	Reason 11549 11555;11556 11564	inc TR gradient
+T21	ADE 11570 11578	Diarrhea
+T22	Drug 11596 11607	antibiotics
+T23	Drug 11732 11742	prednisone
+T24	ADE 11749 11763;11764 11770	serosanguinous oozing
+T25	Reason 11905 11927	Polymyalgia Rheumatica
+T26	Drug 11940 11948	steroids
+T27	Drug 12183 12191	atenolol
+T28	Strength 12192 12196	25mg
+T29	Frequency 12197 12202	daily
+T30	Drug 12203 12210	aspirin
+T31	Strength 12211 12215	81mg
+T32	Frequency 12216 12221	daily
+T33	Drug 12222 12229	lipitor
+T34	Strength 12230 12234	10mg
+T35	Frequency 12235 12255	QOD (every other am)
+T36	Drug 12256 12266	prednisone
+T37	Strength 12267 12271	10mg
+T38	Frequency 12272 12277	daily
+T39	Drug 12278 12291	tamulosiin SR
+T40	Strength 12292 12297	0.4mg
+T41	Frequency 12298 12306	qevening
+T42	Drug 12307 12319	multivitamin
+T43	Dosage 12320 12321	1
+T44	Form 12322 12325	tab
+T45	Frequency 12326 12331	daily
+T46	Drug 12332 12340	fish oil
+T47	Form 12341 12348	capsule
+T48	Strength 12349 12355	1000mg
+T49	Frequency 12356 12367	twice a day
+T50	Drug 12368 12389	systane lubricant eye
+T51	Form 12390 12395	drops
+T52	Dosage 12396 12397	1
+T53	Route 12397 12400	gtt
+T54	Frequency 12401 12404	TID
+T55	Drug 12674 12694	metoprolol succinate
+T56	Strength 12695 12700	50 mg
+T57	Form 12701 12730	Tablet Extended Release 24 hr
+T58	Dosage 12736 12739	1.5
+T59	Form 12740 12770	Tablet Extended Release 24 hrs
+T60	Route 12771 12773	PO
+T61	Frequency 12774 12784	once a day
+T62	Drug 12844 12851	aspirin
+T63	Strength 12852 12857	81 mg
+T64	Form 12858 12874	Tablet, Chewable
+T65	Dosage 12880 12887	One (1)
+T66	Form 12888 12904	Tablet, Chewable
+T67	Route 12905 12907	PO
+T68	Frequency 12908 12921	DAILY (Daily)
+T69	Drug 12926 12938	atorvastatin
+T70	Strength 12939 12944	10 mg
+T71	Form 12945 12951	Tablet
+T72	Dosage 12957 12964	One (1)
+T73	Form 12965 12971	Tablet
+T74	Route 12972 12974	PO
+T75	Frequency 12975 12987;12988 13011	QODHS (every other day (at bedtime))
+T76	Drug 13016 13026	prednisone
+T77	Strength 13027 13032	10 mg
+T78	Form 13033 13039	Tablet
+T79	Dosage 13045 13052	One (1)
+T80	Form 13053 13059	Tablet
+T81	Route 13060 13062	PO
+T82	Frequency 13063 13076	DAILY (Daily)
+T83	Drug 13082 13092	tamsulosin
+T84	Strength 13093 13099	0.4 mg
+T85	Form 13100 13126	Capsule, Ext Release 24 hr
+T86	Dosage 13132 13139	One (1)
+T87	Form 13140 13166	Capsule, Ext Release 24 hr
+T88	Route 13167 13169	PO
+T89	Frequency 13170 13185	HS (at bedtime)
+T90	Drug 13190 13202	multivitamin
+T91	Form 13207 13213	Tablet
+T92	Dosage 13219 13226	One (1)
+T93	Form 13227 13233	Tablet
+T94	Route 13234 13236	PO
+T95	Frequency 13237 13250	DAILY (Daily)
+T96	Drug 13256 13275	omega-3 fatty acids
+T97	Form 13280 13287	Capsule
+T98	Dosage 13293 13300	One (1)
+T99	Form 13301 13308	Capsule
+T100	Route 13309 13311	PO
+T101	Frequency 13312 13315;13316 13331	BID (2 times a day)
+T102	Drug 13336 13347	clopidogrel
+T103	Strength 13348 13353	75 mg
+T104	Form 13354 13360	Tablet
+T105	Dosage 13366 13373	One (1)
+T106	Form 13374 13380	Tablet
+T107	Route 13381 13383	PO
+T108	Frequency 13384 13389;13390 13397	DAILY (Daily)
+T109	Reason 13950 13969	bioprosthetic valve
+T110	Drug 13993 13999	asprin
+T111	Drug 14004 14010	Plavix
+T112	Duration 14011 14023	for 3 months
+T113	Reason 14024 14063	to prevent blood clots around the valve
+T115	Drug 14084 14091	aspirin
+T116	Drug 14096 14102	Plavix
+T117	Drug 14629 14646	blood transfusion
+T118	Reason 14651 14657	anemia
+T119	Drug 15098 15106	Atenolol
+T120	Drug 15113 15123	metoprolol
+T121	Reason 15135 15145;15146 15156	lower your heart rate
+T124	Drug 15205 15211	plavix
+T125	Frequency 15212 15221	every day
+T126	Reason 15222 15244	to prevent blood clots
+T128	Reason 9835 9849	cardiac arrest
+T129	Drug 9925 9936	epinephrine
+T7	Form 12795 12827	Tablet Extended Release 24 hr(s)
+T114	Form 13408 13417	Tablet(s)
+T122	Reason 15161 15188	help your heart pump better

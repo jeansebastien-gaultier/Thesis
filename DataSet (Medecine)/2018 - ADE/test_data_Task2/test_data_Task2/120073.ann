@@ -1,0 +1,14 @@
+T1	Reason 1074 1083	intubated
+T2	Drug 1087 1095	propofol
+T3	Reason 2821 2833	hyponatremic
+T4	Drug 2882 2886	salt
+T5	Form 2887 2891	tabs
+T6	Reason 3073 3084	hypotensive
+T7	Drug 3109 3120	crystalloid
+T8	Reason 3184 3195	hypotension
+T9	Dosage 3239 3246	boluses
+T10	Drug 3250 3254	IVFs
+T11	Drug 3795 3807	vasopressors
+T12	Reason 612 617	L SDH
+T13	Drug 657 665	dilantin
+T14	Drug 781 789	propofol

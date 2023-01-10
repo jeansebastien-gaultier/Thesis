@@ -1,0 +1,119 @@
+T1	Form 10010 10015	cream
+T2	Drug 10018 10030	Multivitamin
+T3	Frequency 10031 10036	daily
+T4	Drug 10039 10045	Zyrtec
+T5	Strength 10046 10050	10mg
+T6	Frequency 10051 10054	qAM
+T7	Drug 10057 10068	Hydroxyzine
+T8	Strength 10069 10073	50mg
+T9	Drug 10093 10104	Fluconazole
+T10	Strength 10105 10110	150mg
+T11	Frequency 10111 10116	daily
+T12	Drug 10119 10130	Risperidone
+T13	Strength 10131 10134	5mg
+T14	Drug 10154 10165	Benztropine
+T15	Strength 10166 10169	1mg
+T16	Frequency 10170 10173	TID
+T17	Drug 10176 10183	Inderal
+T18	Strength 10184 10188	30mg
+T19	Frequency 10189 10192	TID
+T20	Drug 10195 10201	Ambien
+T21	Strength 10202 10205	5mg
+T22	Frequency 10206 10209	qHS
+T23	Drug 10239 10244	Luvox
+T24	Drug 10315 10333	miconazole nitrate
+T26	Form 10338 10344	Powder
+T27	Dosage 10350 10357	One (1)
+T28	Form 10358 10362	Appl
+T29	Route 10363 10370	Topical
+T30	Frequency 10389 10402	2 times a day
+T31	Reason 10418 10434	fungal infection
+T32	Drug 10484 10495	terbinafine
+T34	Form 10500 10505	Cream
+T35	Dosage 10511 10518	One (1)
+T36	Form 10519 10523	Appl
+T37	Route 10524 10531	Topical
+T38	Frequency 10550 10557;10558 10563	2 times a day
+T39	Reason 10578 10582	rash
+T40	Drug 10664 10675	propranolol
+T41	Strength 10676 10681	10 mg
+T42	Form 10682 10688	Tablet
+T43	Dosage 10694 10703	Three (3)
+T44	Form 10704 10710	Tablet
+T45	Route 10711 10713	PO
+T46	Frequency 10714 10717	TID
+T47	Drug 10738 10753	docusate sodium
+T48	Strength 10754 10760	100 mg
+T49	Form 10761 10768	Capsule
+T50	Dosage 10774 10781	One (1)
+T51	Form 10782 10789	Capsule
+T52	Route 10790 10792	PO
+T53	Frequency 10793 10796	BID
+T54	Reason 10827 10839	constipation
+T55	Drug 10877 10882	senna
+T56	Strength 10883 10889	8.6 mg
+T57	Form 10890 10896	Tablet
+T58	Dosage 10902 10909	One (1)
+T59	Form 10910 10916	Tablet
+T60	Route 10917 10919	PO
+T61	Frequency 10920 10923	BID
+T62	Reason 10954 10966	constipation
+T63	Drug 11003 11012	bisacodyl
+T64	Strength 11013 11018	10 mg
+T65	Form 11019 11030	Suppository
+T66	Dosage 11036 11043	One (1)
+T67	Form 11044 11055	Suppository
+T68	Route 11056 11062	Rectal
+T69	Frequency 11063 11068	DAILY
+T70	Reason 11091 11103	constipation
+T71	Drug 11112 11118	colace
+T72	Drug 11123 11128	senna
+T73	Drug 11186 11203	Risperidone M-Tab
+T74	Strength 11204 11208	1 mg
+T75	Form 11209 11231	Tablet, Rapid Dissolve
+T76	Dosage 11237 11245	Five (5)
+T77	Form 11246 11268	Tablet, Rapid Dissolve
+T78	Route 11269 11271	PO
+T79	Frequency 11272 11275	BID
+T80	Strength 11309 11312	5mg
+T81	Form 11313 11317	tabs
+T82	ADE 11708 11728	low body temperature
+T83	Drug 11800 11825	antipsychotic medications
+T84	Drug 11941 11964	psychiatric medications
+T85	ADE 11974 11986;11987 11996	some urinary retention
+T86	Reason 1223 1227	rash
+T87	Drug 1302 1313	Fluconazole
+T88	Drug 166 172	Ativan
+T89	Strength 1743 1747	20mg
+T90	Route 1748 1750	PO
+T91	Drug 175 181	Keflex
+T92	Drug 1751 1757	Haldol
+T93	Dosage 1804 1805	2
+T94	Form 1806 1812	liters
+T95	Drug 1821 1823	NS
+T100	Dosage 6449 6450;6451 6457	2 liters
+T102	Drug 6468 6474	saline
+T103	ADE 7219 7236	Poor urine output
+T104	Drug 7389 7405	anticholinergics
+T105	Drug 7435 7449	antipsychotics
+T106	Drug 7689 7695	Cystex
+T107	Frequency 7696 7699	tid
+T108	Drug 7820 7834	antipsychotics
+T109	Drug 7846 7862	anticholinergics
+T110	Drug 7887 7895	Cogentin
+T111	ADE 7999 8016	urinary retention
+T112	Reason 8451 8455	Rash
+T113	Drug 8555 8566	fluconazole
+T114	Route 8617 8624	topical
+T115	Drug 8625 8636	terbinafine
+T116	Drug 8859 8868	risperdal
+T117	Strength 8873 8876	5mg
+T118	Route 8877 8879	po
+T119	Frequency 8880 8883	bid
+T120	Drug 9015 9023	clozaril
+T121	Drug 9201 9210	risperdal
+T122	Reason 9277 9291	anti-psychotic
+T123	ADE 9429 9445	Thrombocytopenia
+T124	Drug 9491 9514	psychiatric medications
+T125	Drug 9518 9529	fluconazole
+T126	Drug 9993 10000	Minerin

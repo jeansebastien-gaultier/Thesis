@@ -1,0 +1,71 @@
+T1	Drug 1148 1157	ibuprofen
+T2	Drug 1162 1170	naproxen
+T3	Drug 1201 1204	ASA
+T4	Strength 1205 1210	325mg
+T5	Strength 1469 1474	150cc
+T6	Drug 1475 1477	NS
+T7	Dosage 1888 1890	1L
+T8	Drug 1891 1894	IVF
+T10	Drug 1969 1977	protonix
+T11	Form 1978 1981	gtt
+T12	Drug 6046 6051	NSAID
+T14	Drug 6130 6135	PRBCs
+T15	Drug 6409 6415	NSAIDs
+T16	Drug 6968 6971	ASA
+T17	Strength 6972 6975	325
+T18	Drug 7099 7102	ASA
+T19	Strength 7106 7108	81
+T20	Frequency 7109 7114	daily
+T21	Drug 7116 7119	ASA
+T22	Reason 7224 7227	HTN
+T23	Drug 7235 7245	metoprolol
+T24	Drug 7252 7262	lisinopril
+T25	Reason 7358 7361	HLD
+T26	Drug 7369 7381	atorvastatin
+T27	Drug 7817 7827	Lisinopril
+T28	Strength 7828 7832	5 mg
+T29	Route 7833 7835	PO
+T30	Frequency 7836 7841	DAILY
+T31	Drug 7845 7868	Metoprolol Succinate XL
+T32	Strength 7869 7874	25 mg
+T33	Route 7875 7877	PO
+T34	Frequency 7878 7883	DAILY
+T35	Drug 7887 7899	Atorvastatin
+T36	Strength 7900 7905	40 mg
+T37	Route 7906 7908	PO
+T38	Frequency 7909 7914	DAILY
+T39	Drug 7918 7925	Aspirin
+T40	Strength 7926 7932	325 mg
+T41	Route 7933 7935	PO
+T42	Frequency 7936 7941	DAILY
+T43	Drug 7970 7982	Atorvastatin
+T44	Strength 7983 7988	40 mg
+T45	Route 7989 7991	PO
+T46	Frequency 7992 7997	DAILY
+T47	Drug 8001 8008	Aspirin
+T48	Strength 8009 8014	81 mg
+T49	Route 8015 8017	PO
+T50	Frequency 8018 8023	DAILY
+T51	Drug 8028 8035	aspirin
+T52	Strength 8036 8041	81 mg
+T53	Dosage 8042 8043	1
+T54	Form 8044 8050	tablet
+T55	Route 8054 8062	by mouth
+T56	Frequency 8063 8068	daily
+T57	Drug 8100 8123	Metoprolol Succinate XL
+T58	Strength 8124 8129	25 mg
+T59	Route 8130 8132	PO
+T60	Frequency 8133 8138	DAILY
+T61	Drug 8142 8152	Omeprazole
+T62	Strength 8153 8158	40 mg
+T63	Route 8159 8161	PO
+T64	Frequency 8162 8165	BID
+T65	Drug 8170 8180	omeprazole
+T66	Strength 8181 8186	40 mg
+T67	Dosage 8187 8188	1
+T68	Form 8189 8196	capsule
+T69	Route 8200 8208	by mouth
+T70	Frequency 8209 8220	twice a day
+T71	ADE 8732 8737	ulcer
+T72	Drug 8785 8794	ibuprofen
+T73	Drug 8799 8807	naproxen

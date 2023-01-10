@@ -1,0 +1,122 @@
+T1	Drug 2304 2315	Carboplatin
+T2	Drug 7810 7820	vancomycin
+T3	Drug 2563 2573	paclitaxel
+T4	Strength 2574 2579;2579 2582	50 mg /m2
+T5	Drug 2180 2191	carboplatin
+T6	Drug 10761 10771	olanzapine
+T7	Drug 10562 10570	atenolol
+T8	Strength 10571 10577	100 mg
+T9	Drug 7822 7830	cefepime
+T10	Drug 8975 8983	morphine
+T11	Drug 2192 2202	paclitaxel
+T12	Drug 2322 2332	paclitaxel
+T13	Strength 2333 2338;2338 2341	50 mg /m2
+T14	Drug 9619 9626	aspirin
+T15	Strength 9627 9632	325mg
+T16	Drug 2626 2637	Carboplatin
+T17	Drug 10005 10013	morphine
+T18	Drug 919 926	Aspirin
+T19	Drug 409 419	paclitaxel
+T20	Drug 7835 7847	levofloxacin
+T21	Drug 10398 10406	morphine
+T22	Drug 8863 8871	morphine
+T23	Drug 2464 2475	Carboplatin
+T24	Drug 10789 10813	prochlorperazine maleate
+T25	Strength 10814 10819	10 mg
+T26	Form 10820 10826	Tablet
+T27	Frequency 10827 10829;10830 10833	q6 PRN
+T28	Drug 2545 2556	Carboplatin
+T29	Drug 554 565	Carboplatin
+T30	Drug 8876 8897	albuterol/ipratropium
+T31	Drug 2224 2235	Carboplatin
+T32	Drug 2482 2492	paclitaxel
+T33	Strength 2493 2498;2498 2501	50 mg /m2
+T34	Drug 10675 10685	fluoxetine
+T35	Strength 10686 10691	40 mg
+T36	Drug 180 186	Ativan
+T37	Form 8898 8908	nebulizers
+T38	Drug 572 582	paclitaxel
+T39	Drug 2242 2252	paclitaxel
+T40	Strength 2253 2258;2258 2261	50 mg /m2
+T41	Drug 2402 2412	paclitaxel
+T42	Strength 2413 2418;2418 2421	50 mg /m2
+T43	Drug 397 408	carboplatin
+T44	Drug 2384 2395	Carboplatin
+T45	Drug 10451 10459	morphine
+T46	Drug 2644 2654	paclitaxel
+T47	Strength 2655 2660;2660 2663	50 mg /m2
+T48	Form 11012 11021	Mouthwash
+T49	Drug 10584 10596	atorvastatin
+T50	Strength 10597 10602	20 mg
+T51	Drug 9817 9827	olanzapine
+T52	Drug 10917 10936	lidocaine-diphenhyd
+T53	Strength 10740 10746	0.3 mg
+T54	Form 10747 10753	Tablet
+T55	Drug 10726 10738;10738 10739	nitroglyceri n
+T56	Drug 9705 9712	aspirin
+T57	Drug 10474 10482	morphine
+T58	Drug 9965 9975	olanzapine
+T59	Strength 10619 10623	4 mg
+T60	Form 10644 10650	Tablet
+T61	Route 10651 10653	PO
+T62	Drug 10609 10617;10617 10618	doxazosi n
+T63	Drug 9079 9087	morphine
+T64	Drug 8568 8575	bactrim
+T65	Reason 8527 8530;8531 8540	PCP pneumonia
+T66	Reason 10028 10035	comfort
+T67	Reason 11095 11099	pain
+T68	Drug 166 177	Penicillins
+T69	Strength 583 585;586 591	50 mg/m2
+T70	Drug 860 875	magic mouthwash
+T71	Reason 790 823	radiation-induced mid-esophagitis
+T72	Reason 7796 7805	pneumonia
+T73	Drug 8323 8331	steroids
+T74	Reason 8341 8350;8351 8362	radiation pneumonitis
+T75	Reason 8824 8857	controlling tachypnea and dyspnea
+T76	Reason 8998 9023	assistance with breathing
+T77	Frequency 8984 8993	as needed
+T78	Route 9088 9092	drip
+T79	Strength 9889 9893	15mg
+T80	Frequency 9894 9897	qHS
+T81	Strength 9976 9980	10mg
+T82	Frequency 9981 9984	qHS
+T83	Frequency 10014 10023	as needed
+T84	Dosage 10407 10414	boluses
+T85	Dosage 10460 10467	boluses
+T86	Route 10483 10487	drip
+T87	Frequency 10578 10580	qd
+T88	Frequency 10603 10605	qd
+T89	Dosage 10636 10643	One (1)
+T90	Frequency 10654 10669	HS (at bedtime)
+T91	Frequency 10692 10694	qd
+T92	Drug 10698 10711	levothyroxine
+T93	Strength 10712 10719	175 mcg
+T94	Frequency 10720 10722	qd
+T95	Frequency 10782 10785	qHS
+T96	Drug 10837 10860	triamcinolone acetonide
+T97	Strength 10861 10866	0.1 %
+T98	Form 10867 10875	Ointment
+T99	Drug 10897 10909	multivitamin
+T100	Frequency 10910 10912	qd
+T101	Strength 10989 11011	200-25-400-40 mg/30 mL
+T102	Dosage 11027 11043	One (1) teaspoon
+T103	Frequency 11060 11074;11075 11090	every four (4) hours as needed
+T104	Drug 3283 3287	pack
+T105	Drug 1257 1262	fluid
+T106	Form 1263 1270	boluses
+T107	Drug 8649 8653;8654 8660	Beta glucan
+T109	Reason 9871 9876	sleep
+T110	Reason 351 371	NSCLC adenocarcinoma
+T111	Dosage 420 422	x6
+T112	Drug 514 526	chemotherapy
+T113	Drug 8578 8586	Steroids
+T114	Reason 8609 8612	PCP
+T115	Drug 8767 8775	steroids
+T116	Drug 9507 9510	TPA
+T118	Reason 9734 9742	Insomnia
+T119	Reason 10349 10376	increased work of breathing
+T120	Form 10624 10630	Tablet
+T121	Frequency 10754 10757	prn
+T122	Route 11044 11059	Mucous membrane
+T108	Drug 7246 7254	contrast
+T117	Route 7243 7245	IV

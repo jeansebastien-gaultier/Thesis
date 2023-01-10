@@ -1,0 +1,140 @@
+T1	Strength 10014 10015	2
+T2	Dosage 10017 10018	1
+T3	Form 10019 10023	Appl
+T4	Route 10024 10026	TP
+T5	Frequency 10027 10034	TID:PRN
+T6	Reason 10035 10039	rash
+T7	Drug 10066 10083	Enoxaparin Sodium
+T8	Strength 10084 10090	110 mg
+T9	Route 10091 10093	SC
+T10	Frequency 10094 10098	Q12H
+T11	Drug 10103 10113	Clonazepam
+T12	Strength 10114 10120	0.5 mg
+T13	Route 10121 10123	PO
+T14	Frequency 10124 10131	QHS:PRN
+T15	Reason 10132 10139	anxiety
+T16	Reason 10140 10148	insomnia
+T17	Drug 10153 10166	MetRONIDAZOLE
+T18	Drug 10168 10174	FLagyl
+T19	Strength 10176 10182	500 mg
+T20	Route 10183 10185	PO
+T21	Frequency 10186 10189	Q8H
+T22	Duration 10200 10206	7 Days
+T23	Drug 10233 10254	Albuterol-Ipratropium
+T24	Form 10265 10269	PUFF
+T25	Route 10270 10272	IH
+T26	Frequency 10273 10280	Q6H:PRN
+T27	Reason 10281 10284	sob
+T28	Reason 10285 10291	wheeze
+T29	Reason 11423 11427	clot
+T30	Drug 11473 11499	blood thinning medications
+T31	Reason 11522 11531	infection
+T32	Drug 11590 11601	antibiotics
+T33	Drug 11645 11656	antibiotics
+T34	Strength 1240 1244	12mg
+T36	Drug 1248 1257	lorazepam
+T37	Drug 1273 1285	levofloxacin
+T38	Reason 1417 1426	intubated
+T39	Drug 1431 1439	propofol
+T40	Drug 163 178	Diphenhydramine
+T41	Reason 2266 2274	agitated
+T42	Dosage 2292 2297	bolus
+T43	Drug 2301 2307	versed
+T44	Reason 7768 7783	edematous cords
+T45	Drug 7816 7824	steroids
+T46	Reason 8222 8253	Ventilator Associated Pneumonia
+T47	Duration 8280 8286	7 days
+T48	Drug 8290 8301	antibiotics
+T49	Reason 8345 8363	Pulmonary Embolism
+T50	Drug 8484 8491	lovenox
+T51	Drug 8553 8561	Coumadin
+T52	Duration 8577 8584	6 month
+T53	Drug 8682 8686	LMWH
+T54	Reason 8691 8703	solid tumors
+T55	Drug 8709 8717	coumadin
+T56	Reason 8722 8752	Alcohol Dependence, withdrawal
+T57	Drug 8760 8768	thiamine
+T58	Drug 8770 8780	folic acid
+T59	Drug 8782 8794	multivitamin
+T60	Reason 8842 8871	Clostridium difficile Colitis
+T61	Duration 8913 8923	for 10 day
+T62	Route 8934 8936	PO
+T63	Drug 8937 8943	Flagyl
+T64	Drug 9016 9026	clonazepam
+T65	Reason 9031 9038	anxiety
+T66	Drug 9389 9401	pantoprazole
+T67	Strength 9402 9406	40mg
+T68	Frequency 9407 9412	daily
+T69	Drug 9416 9429	acetaminophen
+T70	Strength 9430 9435	650mg
+T71	Frequency 9436 9439	Q6h
+T72	Frequency 9440 9443	prn
+T73	Drug 9447 9454	heparin
+T74	Dosage 9455 9464	5000units
+T75	Route 9465 9467	SC
+T76	Frequency 9468 9471	Q8h
+T77	Strength 947 951	20mg
+T78	Drug 9475 9491	artificial tears
+T79	Drug 9495 9508	chlorhexidine
+T80	Dosage 9509 9513	15ml
+T81	Frequency 9514 9517	TID
+T83	Drug 9521 9529	propofol
+T84	Strength 9530 9535	100ml
+T86	Frequency 9539 9542	Q4h
+T87	Drug 9546 9556	vecuronium
+T88	Drug 955 964	lorazepam
+T89	Strength 9557 9560	8mg
+T90	Frequency 9561 9564	Q6h
+T92	Frequency 9568 9571	prn
+T93	Drug 9575 9584	lorazepam
+T94	Frequency 9585 9588	Q2h
+T96	Frequency 9592 9595	prn
+T97	Reason 9596 9600	CIWA
+T98	Drug 9604 9616	levofloxacin
+T99	Strength 9617 9622	100ml
+T101	Frequency 9626 9630	Q24h
+T102	Drug 9635 9646	guaifenesin
+T103	Strength 9647 9652	200mg
+T104	Frequency 9653 9656	Q4h
+T105	Frequency 9657 9660	prn
+T106	Drug 9665 9678	nitroglycerin
+T107	Strength 9679 9684	0.4mg
+T108	Frequency 9685 9687	SL
+T109	Frequency 9688 9691	prn
+T110	Drug 9720 9733	Acetaminophen
+T111	Strength 9734 9740	650 mg
+T112	Route 9741 9743	PO
+T113	Frequency 9744 9751	Q8H:PRN
+T114	Reason 9752 9756	pain
+T115	Drug 9760 9770	Clonazepam
+T116	Strength 9771 9775	1 mg
+T117	Route 9776 9778	PO
+T118	Frequency 9779 9782	BID
+T119	Drug 9818 9828	FoLIC Acid
+T120	Strength 9829 9833	1 mg
+T121	Route 9834 9836	PO
+T122	Frequency 9837 9842	DAILY
+T123	Drug 9846 9858	Pantoprazole
+T124	Strength 9859 9864	20 mg
+T125	Route 9865 9867	PO
+T126	Frequency 9868 9872	Q24H
+T127	Drug 9876 9887	Mirtazapine
+T128	Strength 9888 9894	7.5 mg
+T129	Route 9895 9897	PO
+T130	Frequency 9898 9900	HS
+T131	Drug 9936 9944	Thiamine
+T132	Strength 9945 9951	100 mg
+T133	Reason 995 1005	withdrawal
+T134	Route 9952 9954	PO
+T135	Frequency 9955 9960	DAILY
+T136	Drug 9964 9977	Multivitamins
+T137	Dosage 9978 9979	1
+T138	Form 9980 9983	TAB
+T139	Route 9984 9986	PO
+T140	Frequency 9987 9992	DAILY
+T141	Drug 9996 10013	Miconazole Powder
+T35	Route 952 954	IV
+T82	Route 1245 1247	IV
+T85	Route 9565 9567	IV
+T91	Route 9589 9591	IV
+T95	Route 9623 9625	IV

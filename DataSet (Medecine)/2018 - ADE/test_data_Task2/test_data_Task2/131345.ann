@@ -1,0 +1,165 @@
+T1	Reason 1003 1007	pain
+T2	Drug 10084 10093	Labetalol
+T3	Strength 10094 10100	300 mg
+T4	Form 10101 10107	Tablet
+T5	Dosage 10113 10122	Three (3)
+T6	Form 10123 10129	Tablet
+T7	Route 10130 10132	PO
+T8	Frequency 10133 10144;10145 10150	three times a day
+T9	Drug 10189 10197	Coumadin
+T10	Strength 10198 10202	2 mg
+T11	Form 10203 10209	Tablet
+T12	Dosage 10215 10222	One (1)
+T13	Form 10223 10229	Tablet
+T14	Route 10230 10232	PO
+T15	Frequency 10233 10243	at bedtime
+T16	Drug 1026 1033	Vicodin
+T17	Drug 10309 10318	Lactulose
+T18	Strength 10319 10332	10 gram/15 mL
+T19	Form 10333 10341	Solution
+T20	Dosage 10347 10352;10353 10355	15-30 ml
+T22	Route 10356 10358	PO
+T23	Frequency 10359 10365;10366 10369	once a day
+T24	Reason 10675 10689	SVC thrombosis
+T25	Drug 10693 10701	coumadin
+T26	Drug 11175 11184	labetalol
+T27	Reason 11382 11398	hamstring injury
+T28	Drug 11432 11448	pain medications
+T29	Drug 11583 11588	cipro
+T30	Reason 11607 11610	UTI
+T31	Drug 11897 11905	coumadin
+T32	Drug 11972 11981	lactulose
+T33	Reason 11986 11998	constipation
+T34	Drug 162 173	Penicillins
+T35	Strength 1648 1653	90 mg
+T37	Drug 1660 1669	labetalol
+T38	Drug 1674 1684	nitropaste
+T39	Drug 1714 1723	labetalol
+T40	Route 1724 1728	drip
+T41	Reason 1733 1749	her hypertension
+T42	Drug 176 184	Percocet
+T43	Strength 1895 1899	4 mg
+T45	Drug 1906 1914	morphine
+T46	Strength 1919 1923	1 mg
+T48	Drug 1930 1943	hydromorphone
+T49	Reason 1952 1960	leg pain
+T50	Reason 2016 2025	infection
+T51	Dosage 2041 2044	one
+T52	Form 2045 2051	tablet
+T53	Drug 2055 2065	DS TMP/SMX
+T54	Reason 2094 2122	Systemic lupus erythematosus
+T55	Drug 2243 2250	cytoxan
+T56	Drug 2252 2260	cellcept
+T57	Drug 2275 2285	prednisone
+T58	Drug 3238 3249	DepoProvera
+T59	Route 3250 3259	injection
+T60	Reason 6997 7017	Hypertensive urgency
+T61	Drug 7031 7040	labetalol
+T62	Route 7041 7045	drip
+T63	ADE 7085 7091	nausea
+T64	Dosage 7283 7284	1
+T65	Form 7284 7285	L
+T66	Drug 7286 7289	IVF
+T67	Strength 7290 7295	bolus
+T68	Reason 7992 7996	Pain
+T69	Drug 8014 8022	dilaudid
+T70	Reason 8396 8405	Hyperpara
+T71	Drug 8419 8428	sevelamer
+T72	Drug 8461 8465	tums
+T73	Dosage 8536 8537	2
+T74	Form 8537 8538	u
+T75	Drug 8539 8543	pRBC
+T76	Drug 8621 8624	Epo
+T77	Drug 8660 8665	cipro
+T78	Reason 8854 8866	SVC thrombus
+T79	Drug 8878 8886	warfarin
+T80	Drug 8964 8972	coumadin
+T81	Reason 8984 9012	Systemic lupus erythematosus
+T82	Drug 9024 9034	prednisone
+T83	Drug 9131 9141	Nifedipine
+T84	Strength 9142 9147	60 mg
+T85	Route 9148 9150	PO
+T86	Frequency 9151 9154	qhs
+T87	Drug 9155 9164	Labetalol
+T88	Strength 9165 9171	900 mg
+T89	Route 9172 9174	PO
+T90	Frequency 9175 9178	tid
+T91	Drug 9179 9190	Hydralazine
+T92	Strength 9191 9196	50 mg
+T93	Route 9197 9199	PO
+T94	Frequency 9200 9203	tid
+T95	Drug 9204 9213	Clonidine
+T96	Strength 9214 9223	0.3 mg/hr
+T97	Form 9224 9229	patch
+T98	Frequency 9230 9234	qWED
+T99	Drug 9235 9244	Vitamin D
+T100	Frequency 9245 9256	once weekly
+T101	Drug 9257 9264	Vicodin
+T102	Frequency 9265 9268	prn
+T103	Drug 9269 9278	Aliskiren
+T104	Strength 9279 9285	150 mg
+T105	Drug 9303 9313	Prednisone
+T106	Strength 9314 9318	5 mg
+T107	Frequency 9319 9324	daily
+T108	Drug 9353 9363	Prednisone
+T109	Strength 9364 9368	5 mg
+T110	Form 9369 9375	Tablet
+T111	Dosage 9381 9388	One (1)
+T112	Form 9389 9395	Tablet
+T113	Route 9396 9398	PO
+T114	Frequency 9399 9404	DAILY
+T115	Drug 9418 9426	Coumadin
+T116	Strength 9427 9431	2 mg
+T117	Form 9432 9438	Tablet
+T118	Dosage 9444 9451	One (1)
+T119	Form 9452 9458	Tablet
+T120	Route 9459 9461	PO
+T121	Frequency 9462 9472	at bedtime
+T122	Drug 9477 9487	Nifedipine
+T123	Strength 9488 9493	30 mg
+T124	Form 9494 9518	Tablet Sustained Release
+T125	Dosage 9524 9531	Two (2)
+T126	Form 9532 9538;9539 9556	Tablet Sustained Release
+T127	Route 9557 9559	PO
+T128	Frequency 9560 9565	DAILY
+T129	Drug 9578 9589	Hydralazine
+T130	Strength 9590 9595	50 mg
+T131	Form 9596 9602	Tablet
+T132	Dosage 9608 9615	One (1)
+T133	Form 9616 9622	Tablet
+T134	Route 9623 9625	PO
+T135	Frequency 9626 9629	Q8H
+T136	Drug 9650 9659	Clonidine
+T137	Strength 9660 9672	0.3 mg/24 hr
+T138	Form 9673 9678	Patch
+T139	Frequency 9679 9685	Weekly
+T140	Dosage 9691 9698	One (1)
+T141	Form 9699 9704	Patch
+T142	Frequency 9705 9711	Weekly
+T143	Route 9712 9723	Transdermal
+T144	Frequency 9724 9728	QWED
+T145	Drug 9751 9765	Ergocalciferol
+T146	Strength 9779 9790	50,000 unit
+T147	Form 9791 9798	Capsule
+T148	Dosage 9804 9811	One (1)
+T149	Form 9812 9819	Capsule
+T150	Route 9820 9822	PO
+T151	Frequency 9823 9829	WEEKLY
+T152	Drug 9837 9846	Aliskiren
+T153	Strength 9847 9853	150 mg
+T154	Form 9854 9860	Tablet
+T155	Dosage 9866 9873	One (1)
+T156	Form 9874 9880	Tablet
+T157	Route 9881 9883	PO
+T158	Frequency 9884 9887	bid
+T159	Drug 9895 9910	Docusate Sodium
+T160	Strength 9911 9917	100 mg
+T161	Form 9918 9925	Capsule
+T162	Dosage 9931 9938	One (1)
+T163	Form 9939 9946	Capsule
+T164	Route 9947 9949	PO
+T165	Frequency 9950 9953	BID
+T166	Reason 8672 8675	UTI
+T21	Route 1657 1659	IV
+T36	Route 1903 1905	IV
+T44	Route 1927 1929	IV

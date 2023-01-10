@@ -1,0 +1,32 @@
+T1	Drug 198 206	Atenolol
+T2	Strength 207 220	25 milligrams
+T3	Route 221 223	po
+T4	Frequency 224 229	q day
+T5	Drug 235 241	Zoloft
+T6	Strength 242 256	125 milligrams
+T7	Route 257 259	po
+T8	Frequency 260 265	q day
+T9	Drug 271 281	Vancomycin
+T10	Strength 282 288	1 gram
+T12	Frequency 292 297	q day
+T13	Drug 404 410	Flomax
+T14	Strength 411 425	0.4 milligrams
+T15	Route 426 428	po
+T16	Frequency 429 434	q day
+T17	Drug 440 453	Multi vitamin
+T18	Dosage 454 457	one
+T19	Route 458 460	po
+T20	Frequency 461 466	q day
+T21	Drug 472 478	Reglan
+T22	Strength 479 492	10 milligrams
+T23	Route 493 495	po
+T24	Frequency 496 499	qid
+T25	Drug 505 514	Oxycodone
+T26	Strength 515 533	5 to 10 milligrams
+T27	Route 534 536	po
+T28	Frequency 537 556	q four to six hours
+T29	Drug 589 597	Protonix
+T30	Strength 598 611	40 milligrams
+T31	Route 612 614	po
+T32	Frequency 615 620	q day
+T11	Route 289 291	IV

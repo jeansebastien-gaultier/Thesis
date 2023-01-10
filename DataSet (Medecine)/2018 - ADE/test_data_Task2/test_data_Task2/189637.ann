@@ -1,0 +1,275 @@
+T1	Strength 10007 10009	90
+T2	Drug 10053 10061	Warfarin
+T3	Strength 10061 10065	5 mg
+T4	Frequency 10066 10071	daily
+T5	Drug 10076 10086	Furosemide
+T6	Strength 10087 10092	40 mg
+T7	Frequency 10093 10098	daily
+T8	Drug 10103 10113	Lisinopril
+T9	Strength 10114 10119	10 mg
+T10	Frequency 10120 10125	daily
+T11	Drug 10130 10144	Insulin Lispro
+T12	Dosage 10145 10149	32 u
+T13	Frequency 10150 10152	AM
+T14	Dosage 10154 10158	10 u
+T15	Frequency 10159 10161	PM
+T16	Drug 10166 10181	Insulin Regular
+T17	Dosage 10182 10195	sliding scale
+T18	Drug 10200 10211	Fluticasone
+T19	Strength 10212 10215	220
+T20	Route 10216 10219	INH
+T21	Drug 10265 10276	Clopidogrel
+T22	Strength 10277 10282	75 mg
+T23	Form 10283 10289	Tablet
+T24	Dosage 10308 10315	One (1)
+T25	Form 10316 10322	Tablet
+T26	Route 10323 10325	PO
+T27	Frequency 10326 10331	DAILY
+T28	Drug 10344 10356	Atorvastatin
+T29	Strength 10357 10362	20 mg
+T30	Form 10363 10369	Tablet
+T31	Dosage 10388 10395	One (1)
+T32	Form 10396 10402	Tablet
+T33	Route 10403 10405	PO
+T34	Frequency 10406 10411	DAILY
+T35	Drug 10424 10438	Paroxetine HCl
+T36	Strength 10439 10444	20 mg
+T37	Form 10445 10451	Tablet
+T38	Dosage 10470 10477	One (1)
+T39	Form 10478 10484	Tablet
+T40	Route 10485 10487	PO
+T41	Frequency 10488 10493	DAILY
+T42	Drug 10506 10523	Albuterol Sulfate
+T43	Strength 10524 10535	2.5 mg/3 mL
+T44	Form 10536 10561	Solution for Nebulization
+T45	Dosage 10580 10592	Three (3) mL
+T46	Route 10593 10603	Inhalation
+T47	Frequency 10604 10633	Q4H (every 4 hours) as needed
+T48	Reason 10638 10657	shortness of breath
+T49	Reason 10661 10669	wheezing
+T50	Drug 10674 10693	Ipratropium Bromide
+T51	Strength 10694 10698	0.02 
+T52	Form 10701 10709	Solution
+T53	Dosage 10728 10737	Three (3)
+T54	Route 10738 10748	Inhalation
+T55	Frequency 10749 10778	Q4H (every 4 hours) as needed
+T56	Reason 10783 10802	shortness of breath
+T57	Reason 10806 10814	wheezing
+T58	Drug 10819 10826	Aspirin
+T59	Strength 10827 10833	325 mg
+T60	Form 10834 10840	Tablet
+T61	Dosage 10859 10866	One (1)
+T62	Form 10867 10873	Tablet
+T63	Drug 1087 1092	nitro
+T64	Route 10874 10876	PO
+T65	Frequency 10877 10882	DAILY
+T66	Drug 10895 10900	Senna
+T67	Strength 10901 10907	8.6 mg
+T68	Form 10908 10914	Tablet
+T69	Route 1093 1096	gtt
+T70	Dosage 10933 10940	One (1)
+T71	Form 10941 10947	Tablet
+T72	Route 10948 10950	PO
+T73	Frequency 10951 10965;10966 10980	BID (2 times a day) as needed
+T74	Drug 1098 1103	lasix
+T75	Reason 10985 10997	constipation
+T76	Drug 11034 11043	Toprol XL
+T77	Strength 11044 11049	25 mg
+T78	Form 11050 11080	Tablet Sustained Release 24 hr
+T79	Dosage 11099 11106	One (1)
+T80	Form 11107 11137	Tablet Sustained Release 24 hr
+T81	Drug 1112 1120	steroids
+T82	Route 11138 11140	PO
+T83	Frequency 11141 11151	once a day
+T84	Drug 11156 11166	Furosemide
+T85	Strength 11167 11172	40 mg
+T86	Form 11173 11179	Tablet
+T87	Dosage 11198 11205	One (1)
+T88	Form 11206 11212	Tablet
+T89	Route 11213 11215	PO
+T90	Frequency 11216 11221	DAILY
+T91	Drug 1122 1134	levofloxacin
+T92	Drug 11236 11246	Lisinopril
+T93	Strength 11247 11252	10 mg
+T94	Form 11253 11259	Tablet
+T95	Dosage 11278 11285	One (1)
+T96	Form 11286 11292	Tablet
+T97	Route 11293 11295	PO
+T98	Frequency 11296 11301	DAILY
+T99	Drug 11315 11325	Enoxaparin
+T100	Strength 11326 11335	100 mg/mL
+T101	Form 11336 11343	Syringe
+T102	Dosage 11362 11376	Ninety (90) mg
+T103	Route 11377 11389	Subcutaneous
+T104	Frequency 11390 11394	Q12H
+T105	Drug 11419 11427	coumadin
+T106	Drug 11446 11462	Insulin Glargine
+T107	Strength 11463 11474	100 unit/mL
+T108	Form 11475 11484	Cartridge
+T109	Dosage 11503 11518;11519 11524	Thirty Six (36) units
+T110	Route 11525 11537	Subcutaneous
+T111	Frequency 11538 11541	qAM
+T112	Drug 11572 11580	Warfarin
+T113	Strength 11581 11585	5 mg
+T114	Form 11586 11592	Tablet
+T115	Dosage 11611 11618	Two (2)
+T116	Form 11619 11625	Tablet
+T117	Route 11626 11628	PO
+T118	Frequency 11629 11633	Once
+T119	Frequency 11634 11644;11645 11647	Daily at 4 PM
+T120	Drug 11686 11698	Lansoprazole
+T121	Strength 11699 11704	30 mg
+T122	Form 11705 11730	Tablet,Rapid Dissolve, DR
+T123	Dosage 11758 11765	One (1)
+T124	Form 11766 11791	Tablet,Rapid Dissolve, DR
+T125	Frequency 11818 11828	once a day
+T126	Drug 11885 11892	Digoxin
+T127	Strength 11893 11900	125 mcg
+T128	Form 11901 11907	Tablet
+T129	Dosage 11935 11938	0.5
+T130	Form 11939 11945	Tablet
+T131	Route 11946 11948	PO
+T132	Frequency 11949 11959	once a day
+T133	Drug 11997 12003	Colace
+T134	Strength 12004 12010	100 mg
+T135	Form 12011 12018	Capsule
+T136	Dosage 12046 12053	One (1)
+T137	Form 12054 12061	Capsule
+T138	Route 12062 12064	PO
+T139	Frequency 12065 12076	twice a day
+T140	Drug 12082 12095	Acetaminophen
+T141	Strength 12096 12102	325 mg
+T142	Form 12103 12109	Tablet
+T143	Dosage 12137 12140	1-2
+T144	Form 12141 12148	Tablets
+T145	Route 12149 12151	PO
+T146	Frequency 12152 12164;12165 12181	Q6H (every 6 hours) as needed
+T147	Reason 12186 12191	fever
+T148	Reason 12195 12199	pain
+T149	Drug 12215 12222	Insulin
+T150	Dosage 12243 12256	sliding scale
+T151	Drug 12273 12281	Dulcolax
+T152	Strength 12282 12286	5 mg
+T153	Form 12287 12310	Tablet, Delayed Release
+T154	Dosage 12345 12352	Two (2)
+T155	Form 12353 12376	Tablet, Delayed Release
+T156	Route 12384 12386	PO
+T157	Frequency 12387 12407	once a day as needed
+T158	Reason 12412 12424	constipation
+T159	ADE 12871 12876;12877 12890	blood pressure fell
+T160	Drug 12907 12919	azithromycin
+T161	ADE 12958 12975	allergic reaction
+T162	Drug 13153 13164	antibiotics
+T163	Drug 13250 13257	lovenox
+T164	Drug 13267 13275	coumadin
+T165	Reason 13289 13307	clots in your lung
+T166	Drug 13582 13587	Senna
+T167	Dosage 13588 13589	1
+T168	Form 13590 13596	tablet
+T169	Frequency 13597 13618	twice daily as needed
+T170	Reason 13623 13635	constipation
+T171	Drug 13639 13645	Colace
+T172	Dosage 13646 13647	1
+T173	Form 13648 13654	tablet
+T174	Frequency 13655 13676	twice daily as needed
+T175	Reason 13681 13693	constipation
+T176	Drug 13697 13705	Warfarin
+T177	Strength 13706 13711	10 mg
+T178	Frequency 13712 13717	daily
+T179	Drug 13721 13733	Lansoprazole
+T180	Strength 13734 13739	30 mg
+T181	Form 13740 13746	tablet
+T182	Frequency 13747 13752	daily
+T183	Drug 13756 13763	Digoxin
+T184	Form 13775 13781	tablet
+T185	Strength 13783 13792	0.0625 mg
+T186	Frequency 13794 13799	daily
+T187	Drug 13803 13810	Lovenox
+T188	Strength 13811 13815	90mg
+T189	Route 13816 13818	SQ
+T190	Frequency 13819 13833	every 12 hours
+T191	Drug 164 176	Azithromycin
+T192	ADE 575 587	hypoglycemia
+T193	Drug 607 614	insulin
+T194	ADE 6834 6846	hypoglycemia
+T195	Drug 6866 6873	insulin
+T196	Reason 7124 7134	COPD flare
+T197	Drug 7136 7144	steroids
+T198	Reason 7147 7150	CHF
+T199	Drug 7159 7164	lasix
+T200	Drug 7166 7171	nitro
+T201	Route 7172 7175	gtt
+T202	Reason 7182 7185	PNA
+T203	Drug 7187 7195	levaquin
+T204	Drug 7281 7288	heparin
+T205	Route 7289 7292	gtt
+T206	Drug 7378 7388	antibiotic
+T207	Drug 7415 7418	CTX
+T208	Drug 7419 7424	vanco
+T209	Drug 7429 7441	azithromycin
+T210	Drug 7472 7484	azithromycin
+T211	ADE 7514 7525	hypotensive
+T2120	Reason 7514 7525	hypotensive
+T212	Drug 7536 7544	pressors
+T213	Drug 7546 7550	levo
+T214	Drug 7552 7555	neo
+T215	Drug 7557 7561	vaso
+T216	ADE 7578 7595	allergic reaction
+T217	Drug 7603 7615	azithromycin
+T218	Drug 7617 7625	Pressors
+T219	Drug 7764 7772	steroids
+T220	Dosage 7871 7873	1U
+T221	Drug 7874 7878	PRBC
+T222	Reason 7918 7929	hypotension
+T223	Drug 7947 7955	pressors
+T224	Drug 7957 7961	levo
+T225	Drug 7963 7966	neo
+T226	Drug 7968 7972	vaso
+T227	Duration 7979 7984	12hrs
+T228	Drug 8156 8163	heparin
+T229	Route 8164 8167	gtt
+T230	Drug 8799 8803	Vanc
+T231	Drug 8804 8812	Cefepime
+T232	Drug 8862 8878	antihypertensive
+T233	Drug 8929 8937	glargine
+T234	Reason 8956 8979	better glycemic control
+T235	Drug 8999 9008	albuterol
+T236	Drug 9013 9021	atrovent
+T237	Frequency 9022 9025	prn
+T238	Reason 9030 9049	shortness of breath
+T239	Reason 9050 9058	wheezing
+T240	Drug 9107 9122	anticoagulation
+T241	Reason 9448 9463	anticoagulation
+T242	Drug 9492 9500	coumadin
+T243	Drug 9508 9515	lovenox
+T244	Drug 9579 9586	lovenox
+T245	Route 9587 9589	SQ
+T246	Drug 9623 9631	coumadin
+T247	Strength 9632 9637	10 mg
+T248	Frequency 9638 9643	daily
+T249	Drug 9650 9657	lovenox
+T250	Drug 9786 9797	Clopidogrel
+T251	Strength 9798 9803	75 mg
+T252	Frequency 9804 9809	daily
+T253	Drug 9813 9825	Atorvastatin
+T254	Strength 9826 9831	20 mg
+T255	Frequency 9832 9837	daily
+T256	Drug 9841 9855	Paroxetine HCl
+T257	Strength 9856 9861	20 mg
+T258	Frequency 9862 9867	daily
+T259	Drug 9871 9880	Albuterol
+T260	Route 9881 9884	INH
+T261	Frequency 9885 9888	PRN
+T262	Drug 9892 9903	Ipratropium
+T263	Route 9904 9907	INH
+T264	Frequency 9908 9911	PRN
+T265	Drug 9915 9921	Toprol
+T266	Strength 9922 9927	25 mg
+T267	Frequency 9928 9933	daily
+T268	Drug 9937 9945	Docusate
+T269	Dosage 9946 9947	1
+T270	Form 9948 9951	cap
+T271	Drug 9972 9979	Aspirin
+T272	Strength 9980 9986	325 mg
+T273	Frequency 9987 9992	daily
+T274	Drug 9996 10006	Enoxaparin

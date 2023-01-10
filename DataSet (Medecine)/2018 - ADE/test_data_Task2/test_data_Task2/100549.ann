@@ -1,0 +1,155 @@
+T1	Reason 10983 10986	AML
+T2	Drug 11005 11012	Dacogen
+T3	Drug 11130 11139	platelets
+T4	ADE 11145 11161	thrombocytopenia
+T5	Reason 11573 11595	bloody bowel movements
+T6	Drug 11626 11632	amicar
+T7	Route 11633 11637	drip
+T8	Duration 11638 11649	for 8 hours
+T900	Dosage 12282 12295	several units
+T10	Drug 12299 12303	PRBC
+T11	Drug 12308 12317	platelets
+T12	Drug 1261 1269	benadryl
+T13	Drug 1271 1278	demerol
+T14	Drug 1280 1287	tylenol
+T15	Drug 1289 1303	hydrocortisone
+T16	Reason 12977 12997	bloody watery stools
+T17	Drug 13013 13019	amicar
+T18	Route 13020 13024	drip
+T19	Duration 13025 13036	for 8 hours
+T2000	ADE 13249 13265	thrombocytopenia
+T21	Drug 13280 13292	chemotherapy
+T22	Reason 1329 1340	hypotensive
+T23	Form 13357 13368	transfusion
+T24	Drug 13372 13381	platelets
+T25	ADE 13571 13596	two transfusion reactions
+T26	Drug 13600 13609	platelets
+T27	Drug 1363 1366	IVF
+T28	Drug 13657 13672	anti-histamines
+T29	Dosage 1367 1372	bolus
+T30	Drug 13734 13740	Amicar
+T33	Strength 13758 13768	1gram/hour
+T35	Form 13772 13780	infusion
+T36	Reason 13892 13904	positive PRA
+T37	Drug 13918 13939	HLA matched platelets
+T38	Drug 14096 14103	aspirin
+T39	Drug 14108 14114	plavix
+T40	Drug 14226 14234	platelet
+T41	Form 14235 14247	transfusions
+T42	ADE 14300 14320	transfusion reaction
+T43	ADE 14321 14333	PRA positive
+T44	Drug 14375 14383	platelet
+T45	Form 14384 14395	transfusion
+T46	Drug 14469 14479	famotidine
+T47	Drug 14481 14489	benadryl
+T48	Drug 14495 14509	hydrocortisone
+T49	Drug 14588 14597	platelets
+T50	Reason 14619 14631	PRA positive
+T51	Drug 14645 14666	HLA matched platelets
+T52	Drug 14763 14784	HLA matched platelets
+T53	Drug 14874 14895	HLA matched platelets
+T54	Drug 15023 15031	platelet
+T55	Form 15032 15044	transfusions
+T56	Reason 15094 15121	MDS with AML transformation
+T58	Drug 15309 15316	Dacogen
+T59	Drug 15370 15377	Dacogen
+T60	Reason 15466 15470	GERD
+T61	Drug 15510 15513	PPI
+T62	ADE 15771 15791	transfusion reaction
+T63	Drug 15795 15804	platelets
+T64	Reason 15865 15877	PRA positive
+T65	Drug 15896 15917	HLA matched platelets
+T66	Drug 15981 15991	loratadine
+T67	Strength 15992 15997	10 mg
+T68	Form 15998 16004	Tablet
+T69	Dosage 16010 16017	One (1)
+T70	Form 16018 16024	Tablet
+T71	Route 16025 16027	PO
+T72	Frequency 16028 16033	daily
+T73	Drug 16041 16051	omeprazole
+T74	Strength 16052 16057	20 mg
+T75	Form 16058 16088	Capsule, Delayed Release(E.C.)
+T76	Dosage 16094 16101	Two (2)
+T77	Form 16102 16132	Capsule, Delayed Release(E.C.)
+T78	Route 16133 16135	PO
+T79	Frequency 16136 16149	DAILY (Daily)
+T80	Drug 16154 16178	polyethylene glycol 3350
+T81	Strength 16179 16186	17 gram
+T82	Form 16187 16203	Powder in Packet
+T83	Dosage 16209 16212;16213 16216	One (1)
+T84	Form 16217 16233	Powder in Packet
+T85	Route 16234 16236	PO
+T86	Frequency 16237 16266	QHS (once a day (at bedtime))
+T87	Drug 16271 16290	magnesium hydroxide
+T88	Strength 16291 16302	400 mg/5 mL
+T89	Form 16303 16313	Suspension
+T90	Dosage 16319 16330;16331 16333	Thirty (30) ML
+T91	Route 16334 16336	PO
+T92	Frequency 16337 16366	QHS (once a day (at bedtime))
+T93	Drug 16371 16386	docusate sodium
+T94	Strength 16387 16393	100 mg
+T95	Form 16394 16401	Capsule
+T96	Drug 164 176	Erythromycin
+T97	Dosage 16407 16414	One (1)
+T98	Form 16415 16422	Capsule
+T99	Route 16423 16425	PO
+T101	Drug 16451 16462	allopurinol
+T102	Strength 16463 16469	300 mg
+T103	Form 16470 16476	Tablet
+T104	Dosage 16482 16485	0.5
+T105	Form 16486 16492	Tablet
+T106	Route 16493 16495	PO
+T107	Frequency 16496 16506	once a day
+T108	Drug 16568 16578	loratadine
+T109	Strength 16579 16584	10 mg
+T110	Form 16585 16591	Tablet
+T111	Dosage 16597 16604	One (1)
+T1120	Form 16605 16611	Tablet
+T113	Route 16612 16614	PO
+T114	Frequency 16615 16620	daily
+T115	Drug 16628 16638	omeprazole
+T116	Strength 16639 16644	40 mg
+T117	Form 16645 16675	Capsule, Delayed Release(E.C.)
+T118	Dosage 16681 16688	One (1)
+T119	Form 16689 16719	Capsule, Delayed Release(E.C.)
+T120	Route 16720 16722	PO
+T121	Frequency 16723 16733	once a day
+T122	Drug 16738 16745	Miralax
+T123	Strength 16746 16753	17 gram
+T124	Form 16754 16770	Powder in Packet
+T125	Dosage 16776 16783	One (1)
+T126	Route 16785 16787	PO
+T127	Frequency 16788 16798;16799 16808	at bedtime as needed
+T128	Reason 16813 16825	constipation
+T129	Drug 16830 16846	Milk of Magnesia
+T130	Strength 16847 16858	400 mg/5 mL
+T131	Form 16859 16869	Suspension
+T132	Dosage 16875 16889	Thirty (30) ml
+T133	Route 16890 16892	PO
+T134	Frequency 16893 16913	at bedtime as needed
+T135	Reason 16918 16930	constipation
+T136	Drug 16935 16950	docusate sodium
+T137	Strength 16951 16957	100 mg
+T138	Form 16958 16965	Capsule
+T139	Dosage 16971 16978	One (1)
+T140	Form 16979 16986	Capsule
+T141	Route 16987 16989	PO
+T142	Frequency 16990 16995;16996 17001	twice a day
+T143	ADE 17502 17522	transfusion reaction
+T144	Drug 17537 17546	platelets
+T145	Drug 184 189	Sulfa
+T146	Drug 18698 18704	Amicar
+T147	Reason 18716 18720;18721 18731	clot stabilizer
+T148	Frequency 19013 19021	five day
+T149	Drug 19031 19043	chemotherapy
+T150	Drug 19064 19069	chemo
+T151	Drug 191 214	Sulfonamide Antibiotics
+T152	Drug 19305 19333	anti-hypertensive medication
+T153	Drug 19404 19415	allopurinol
+T154	Drug 218 229	clindamycin
+T155	Drug 4139 4146	aranesp
+T156	Frequency 4147 4152	qweek
+T157	Drug 955 965	decitabine
+T9	Strength 13742 13743;13744 13749	2 grams
+T20	Route 13750 13752	IV
+T31	Route 13769 13771	IV

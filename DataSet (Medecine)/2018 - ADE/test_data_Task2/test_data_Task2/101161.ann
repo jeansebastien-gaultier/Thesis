@@ -1,0 +1,68 @@
+T1	Drug 1008 1016	decadron
+T2	Drug 1650 1658	dilaudid
+T3	Strength 1659 1662	4mg
+T5	Dosage 1668 1669	2
+T6	Reason 1676 1680	pain
+T7	Drug 170 177	Heparin
+T8	Route 1840 1848	epidural
+T9	Drug 1849 1858	narcotics
+T10	Drug 187 193	Motrin
+T11	Drug 1917 1928	carboplatin
+T12	Route 439 450	intrathecal
+T13	Drug 451 460	narcotics
+T14	Reason 4656 4665	pneumonia
+T15	Drug 4772 4776	levo
+T16	Drug 4777 4783	flagyl
+T17	Drug 4982 4986	levo
+T18	Drug 4987 4993	flagyl
+T19	Reason 4998 5021	L shoulder/humerus pain
+T20	Drug 5326 5334	dilaudid
+T21	Form 5335 5338	PCA
+T22	Drug 5368 5376	fentanyl
+T23	Form 5377 5382	patch
+T24	Reason 5481 5491	thyroid ca
+T25	Drug 5583 5596	Levothyroxine
+T26	Drug 5621 5629	neupogen
+T27	Reason 5665 5671	thrush
+T28	Drug 5745 5753	nystatin
+T29	Form 5754 5757	S&S
+T30	Dosage 7227 7235	22 units
+T31	Drug 7239 7245	PRBC's
+T32	Drug 7380 7392	Fondiparinox
+T33	Reason 7416 7428	HIT positive
+T34	Reason 7723 7743	Temps as high as 102
+T35	Drug 7774 7779	Zosyn
+T36	Drug 8717 8727	gabapentin
+T37	Strength 8728 8739	300/300/900
+T38	Drug 8741 8754	hydromorphone
+T39	Strength 8755 8761	4-8 mg
+T40	Frequency 8762 8765	Q8H
+T41	Frequency 8766 8769	PRN
+T42	Drug 8771 8781	tizanidine
+T43	Strength 8782 8785	2mg
+T44	Frequency 8786 8791	t.i.d
+T45	Drug 8794 8802	fentanyl
+T46	Form 8803 8808	patch
+T47	Strength 8809 8824	75 mcg per hour
+T48	Frequency 8825 8841	every three days
+T49	Drug 8843 8851	lidoderm
+T50	Form 8852 8857	patch
+T51	Strength 8858 8860	50
+T52	Dosage 8862 8863	3
+T53	Form 8864 8871	patches
+T54	Frequency 8872 8877	a day
+T55	Drug 8878 8887	lorazepam
+T56	Strength 8888 8893	0.5mg
+T57	Frequency 8894 8903	Q4-6H PRN
+T59	Drug 8904 8917	levothyroxine
+T60	Strength 8918 8923	0.125
+T61	Frequency 8924 8926	qd
+T62	Drug 8927 8935	protonix
+T63	Strength 8936 8938	40
+T64	Frequency 8939 8941	qd
+T65	Drug 8942 8952	folic acid
+T66	Drug 8953 8961	decadron
+T67	Strength 8962 8965	2mg
+T68	Strength 8992 8995	4mg
+T4	Route 1663 1665	IV
+T58	Reason 5493 5511	metastatic disease

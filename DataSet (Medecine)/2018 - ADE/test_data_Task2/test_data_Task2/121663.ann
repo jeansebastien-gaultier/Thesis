@@ -1,0 +1,140 @@
+T1	Drug 7105 7114	diltiazem
+T2	Drug 1987 1995	atenolol
+T3	Strength 1939 1942	5mg
+T4	Drug 8324 8331	heparin
+T5	Drug 9526 9534	coumadin
+T6	Drug 1542 1551	diltiazem
+T7	Drug 11975 11985	amiodarone
+T8	Drug 10056 10066	Amiodarone
+T9	Strength 10067 10073	200 mg
+T10	Form 10094 10100	Tablet
+T11	Route 10101 10103	PO
+T12	Drug 7916 7926	amiodarone
+T13	Drug 8395 8403	coumadin
+T14	Drug 8140 8146;8147 8149	Toprol XL
+T15	Drug 1485 1494	diltiazem
+T16	Strength 1477 1481	35mg
+T17	Route 1504 1506	PO
+T18	Drug 9871 9879	Atenolol
+T19	Strength 9880 9884	50mg
+T20	Route 9885 9887	PO
+T21	Drug 2000 2009	diltiazem
+T22	Drug 6801 6810	Diltiazem
+T23	Strength 6811 6815	30mg
+T24	Route 6816 6818	PO
+T25	Drug 9891 9900;9901 9903	Diltiazem CD
+T26	Strength 9904 9909	240mg
+T27	Route 9910 9912	PO
+T28	Drug 7176 7186	amiodarone
+T29	Drug 8154 8164	amiodarone
+T30	Drug 9499 9506	heparin
+T31	Drug 8094 8100;8101 8103	Toprol XL
+T32	Strength 8104 8109	300mg
+T33	Route 8110 8112	PO
+T34	Drug 863 871	atropine
+T35	Drug 10364 10374;10375 10384	Metoprolol Succinate
+T36	Strength 10385 10391	100 mg
+T37	Form 10392 10398;10399 10421	Tablet Sustained Release 24HR
+T38	Drug 1122 1130	dopamine
+T39	Strength 1138 1144;1144 1147	15 mcg /hr
+T40	Drug 1507 1516	diltiazem
+T41	Drug 7338 7348	amiodarone
+T42	Drug 876 884	glucagon
+T43	Drug 9963 9971	Coumadin
+T44	Strength 9972 9976	1 mg
+T45	Form 9999 10005	Tablet
+T46	Route 10006 10008	PO
+T47	Drug 8753 8758	lasix
+T48	Drug 10674 10682	atenolol
+T49	Route 10467 10469	PO
+T50	Drug 8243 8251	Coumadin
+T51	Drug 886 893	calcium
+T52	Drug 6883 6892	diltiazem
+T53	Strength 6920 6924	60mg
+T54	Frequency 6925 6928	TID
+T55	Drug 1529 1537	atenolol
+T56	Drug 9916 9924	Warfarin
+T57	Strength 9925 9928	5mg
+T58	Route 9929 9931	PO
+T59	Drug 1890 1898	warfarin
+T60	Strength 1920 1923	2mg
+T61	Drug 10687 10696	diltiazem
+T63	Dosage 872 874	x2
+T64	Dosage 898 902	1.5L
+T65	Drug 903 905	NS
+T66	Route 1131 1134	gtt
+T68	Strength 1499 1503	60mg
+T69	Frequency 1924 1927	QHS
+T70	Frequency 1943 1946	QHS
+T71	ADE 6349 6360	bradycardia
+T72	Drug 6409 6412	CCB
+T73	Drug 6417 6419	BB
+T74	Drug 6564 6566	BB
+T75	Frequency 6819 6822	QID
+T76	Reason 6949 6971	persistent tachycardia
+T77	Reason 6756 6767	afib w/ RVR
+T78	Strength 7206 7211	400mg
+T79	Route 7212 7214	PO
+T80	Frequency 7215 7218	TID
+T81	Duration 7219 7226	x1 week
+T82	Frequency 7294 7296	QD
+T83	Duration 7281 7288	x1 week
+T84	Drug 7968 7980	beta-blocker
+T85	Drug 8017 8029	beta-blocker
+T86	Strength 8057 8061	75mg
+T87	Route 8062 8064	PO
+T88	Frequency 8065 8068	QID
+T89	Frequency 8113 8115	QD
+T90	Route 8332 8335	gtt
+T91	Strength 8388 8391	3mg
+T92	Reason 8739 8747	diuresis
+T93	Drug 9045 9048	IVF
+T94	Route 9507 9510	gtt
+T95	Drug 9593 9596	PPI
+T96	Frequency 9888 9890	QD
+T97	Frequency 9913 9915	QD
+T98	Frequency 9932 9935	QHS
+T99	Form 9977 9983	Tablet
+T100	Dosage 9989 9998	Three (3)
+T101	Frequency 10009 10019	at bedtime
+T102	Dosage 10086 10093	Two (2)
+T103	Form 10074 10080	Tablet
+T104	Frequency 10104 10116;10117 10123	TID (3 times a day)
+T105	Strength 10137 10142	400mg
+T106	Dosage 10144 10145	2
+T107	Form 10146 10153	tablets
+T108	Frequency 10155 10172	three times a day
+T109	Duration 10173 10178;10179 10188	for 4 more days
+T110	Dosage 10219 10220	2
+T111	Form 10221 10228	tablets
+T112	Strength 10230 10235	400mg
+T113	Frequency 10237 10248	twice a day
+T114	Duration 10249 10261	for one week
+T115	Dosage 10296 10297	2
+T116	Form 10298 10305	tablets
+T117	Strength 10307 10312	400mg
+T118	Frequency 10314 10318;10319 10325	once a day.
+T119	Dosage 10427 10436	Three (3)
+T120	Form 10437 10466	Tablet Sustained Release 24HR
+T121	Frequency 10470 10483	DAILY (Daily)
+T122	ADE 10611 10634	Symptomatic bradycardia
+T123	ADE 10639 10650	hypotension
+T124	Reason 7989 8003;8004 8012	his rate under control.
+T125	Reason 1431 1446	rate controlled
+T126	Drug 6389 6403	nodal blockade
+T127	Reason 7141 7170	control his rhythm (and rate)
+T128	Frequency 8404 8409	daily
+T130	Reason 9484 9487	PPX
+T131	Drug 11604 11612	coumadin
+T132	Drug 11614 11622	warfarin
+T133	Dosage 9027 9034;9035 9041	several liters
+T136	Drug 6258 6261	CCB
+T137	ADE 6208 6219	hypotension
+T138	ADE 6224 6235	bradycardia
+T139	Drug 6266 6268	BB
+T140	Reason 6293 6297	afib
+T141	Reason 8202 8241	achieve a resting heart rate of 90-100s
+T142	Drug 8636 8639	IVF
+T144	Drug 9235 9238	IVF
+T148	Dosage 10664 10673	high dose
+T62	Route 1482 1484	IV

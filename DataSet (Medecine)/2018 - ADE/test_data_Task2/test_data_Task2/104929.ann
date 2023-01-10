@@ -1,0 +1,136 @@
+T1	Reason 10311 10324	Afib with RVR
+T3	Reason 10417 10421	Afib
+T4	Drug 10552 10563	metroprolol
+T6	Drug 10571 10575	dilt
+T7	Route 10576 10580	drip
+T8	Drug 10879 10886	aspirin
+T9	Reason 11508 11511	CAP
+T10	Drug 11539 11551	Levofloxacin
+T11	Duration 11553 11560	14 days
+T12	Drug 11702 11710	Morphine
+T13	Drug 11715 11723	fentanyl
+T14	Reason 11724 11736	pleuritic CP
+T15	Drug 11917 11927	antibiotic
+T16	Drug 11940 11945	NSAID
+T17	Drug 11970 11979	diuretics
+T18	Drug 11985 11990	lasix
+T19	Reason 12029 12037	effusion
+T20	Drug 12383 12386	IVF
+T21	Reason 12390 12406	maintain preload
+T22	Drug 12703 12708	NSAID
+T23	Reason 12721 12726;12727 12739	viral pericarditis
+T24	Reason 12805 12808	CAP
+T25	Duration 12928 12936	two week
+T26	Drug 12947 12959	levofloxacin
+T27	ADE 13000 13008	Diarrhea
+T28	Drug 13058 13069	antibiotics
+T29	Drug 13205 13211	NSAIDs
+T30	Reason 13262 13269	low UOP
+T31	Drug 13291 13294	IVF
+T32	Drug 14238 14245	ASPIRIN
+T33	Form 14246 14249	TAB
+T34	Strength 14250 14254	81MG
+T35	Form 14255 14257	EC
+T36	Drug 14259 14266	ASPIRIN
+T37	Dosage 14268 14269	1
+T38	Frequency 14270 14272	QD
+T39	Drug 14301 14325	polyethylene glycol 3350
+T40	Strength 14326 14338	17 gram/dose
+T41	Form 14339 14345	Powder
+T42	Dosage 14351 14358	One (1)
+T43	Form 14359 14363	pack
+T44	Route 14364 14366	PO
+T45	Frequency 14367 14390	DAILY (Daily) as needed
+T46	Reason 14395 14407	constipation
+T47	Drug 14442 14454	levofloxacin
+T48	Strength 14455 14461	750 mg
+T49	Form 14462 14468	Tablet
+T50	Dosage 14474 14481	One (1)
+T51	Form 14482 14488	Tablet
+T52	Route 14489 14491	PO
+T53	Frequency 14492 14497;14498 14505	DAILY (Daily)
+T54	Duration 14506 14516	for 4 days
+T55	Drug 14552 14561	lidocaine
+T56	Strength 14562 14579	5 %(700 mg/patch)
+T57	Form 14580 14605	Adhesive Patch, Medicated
+T58	Dosage 14611 14618	One (1)
+T59	Form 14619 14644	Adhesive Patch, Medicated
+T60	Route 14645 14652	Topical
+T61	Frequency 14653 14666	DAILY (Daily)
+T62	Drug 14721 14730	ibuprofen
+T63	Strength 14731 14737	600 mg
+T64	Form 14738 14744	Tablet
+T65	Dosage 14750 14757	One (1)
+T66	Form 14758 14764	Tablet
+T67	Route 14765 14767	PO
+T68	Frequency 14768 14780;14781 14787	Q8H (every 8 hours)
+T69	Drug 14792 14798	Colace
+T70	Strength 14799 14805	100 mg
+T71	Form 14806 14813	Capsule
+T72	Dosage 14819 14826	One (1)
+T73	Form 14827 14834	Capsule
+T74	Route 14835 14837	PO
+T75	Frequency 14838 14849	twice a day
+T76	Drug 14854 14862	Benadryl
+T77	Strength 14863 14868	25 mg
+T78	Form 14869 14876	Capsule
+T79	Dosage 14882 14889	One (1)
+T80	Form 14890 14897	Capsule
+T81	Route 14898 14900	PO
+T82	Frequency 14901 14914;14915 14930	every six (6) hours as needed
+T83	Drug 14944 14952	Morphine
+T84	Drug 14973 14981	Morphine
+T85	ADE 14996 15003	itching
+T86	Reason 14996 15003	itching
+T860	Drug 15092 15100	morphine
+T87	Strength 15101 15106	10 mg
+T88	Form 15107 15135	Capsule, Ext Release Pellets
+T89	Dosage 15141 15148	One (1)
+T90	Form 15149 15177	Capsule, Ext Release Pellets
+T91	Route 15178 15180	PO
+T92	Frequency 15181 15210	every six (6) hours as needed
+T93	Reason 15215 15219	pain
+T94	Reason 1544 1551	hypoxia
+T95	Drug 1573 1575	O2
+T96	Route 1579 1582	N/C
+T98	Drug 1589 1592	CTX
+T99	Drug 15904 15910	oxygen
+T100	Drug 1597 1600	lev
+T101	Drug 16015 16026	antibiotics
+T102	Drug 16031 16040	ibuprofen
+T103	Drug 16094 16102	levaquin
+T104	Drug 16104 16113	ibuprofen
+T105	Drug 16115 16122	miralax
+T106	Drug 16124 16132	morphine
+T107	Drug 16134 16143	lidocaine
+T108	Form 16144 16149	patch
+T109	Drug 16151 16159	benadryl
+T110	Drug 16161 16169	morphine
+T111	Drug 16171 16177	colace
+T112	Drug 16187 16194	aspirin
+T113	Drug 16348 16353	Lasix
+T114	Drug 165 174	Compazine
+T115	Drug 177 183	Reglan
+T116	Drug 186 193	Opioids
+T117	Drug 194 202	Morphine
+T118	Reason 3041 3064	LYME DISEASE meningitis
+T119	Duration 3080 3087	3 years
+T120	Drug 3091 3094	abx
+T121	Drug 3104 3113	plaquinel
+T122	Drug 3119 3130	doxycycline
+T123	Drug 3148 3162	clarithromycin
+T124	Reason 592 606	pleuritic pain
+T125	Reason 796 804	pleurisy
+T126	Drug 825 831	motrin
+T127	Strength 832 837	800mg
+T128	Frequency 838 841	TID
+T129	Reason 849 853	pain
+T130	Drug 882 888	motrin
+T131	ADE 8850 8858	effusion
+T132	Drug 8873 8878	NSAID
+T133	ADE 9018 9037	acute renal failure
+T134	Drug 9067 9072	NSAID
+T135	Drug 9567 9575	levaquin
+T136	Reason 9580 9583	CAP
+T97	Drug 1585 1588	abx
+T2	Route 10564 10566	IV

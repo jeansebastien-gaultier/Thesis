@@ -1,0 +1,118 @@
+T1	Drug 10183 10200	antihypertensives
+T2	Drug 2864 2872	Propofol
+T3	Drug 7163 7171	Atenolol
+T4	Drug 7202 7221	metoprolol tartrate
+T5	Drug 7838 7848	Amlodipine
+T6	Strength 7849 7854	10 mg
+T7	Drug 7855 7863	Atenolol
+T8	Strength 7864 7869	50 mg
+T9	Drug 7870 7885	Lisinopril/HCTZ
+T10	Strength 7886 7894	20/25 mg
+T11	Drug 7912 7921	Doxazosin
+T12	Frequency 7922 7925	QHS
+T13	Drug 7968 7985	heparin (porcine)
+T14	Strength 7986 7999	5,000 unit/mL
+T15	Form 8000 8008	Solution
+T17	Dosage 8014 8024	One (1) ml
+T18	Route 8025 8034	Injection
+T20	Frequency 8035 8054	TID (3 times a day)
+T21	Drug 8059 8069	amlodipine
+T22	Strength 8070 8074	5 mg
+T23	Form 8075 8081	Tablet
+T24	Dosage 8087 8094	Two (2)
+T25	Form 8095 8101	Tablet
+T26	Route 8102 8104	PO
+T27	Frequency 8105 8110	QNOON
+T28	Drug 8118 8137	hydrochlorothiazide
+T29	Strength 8138 8143	50 mg
+T30	Form 8144 8150	Tablet
+T31	Dosage 8156 8163	One (1)
+T32	Form 8164 8170	Tablet
+T33	Route 8171 8173	PO
+T34	Frequency 8174 8178;8179 8184	once a day
+T35	Drug 8189 8208	metoprolol tartrate
+T36	Strength 8209 8214	50 mg
+T37	Form 8215 8221	Tablet
+T38	Dosage 8227 8234	Two (2)
+T39	Form 8235 8241	Tablet
+T40	Route 8242 8244	PO
+T41	Frequency 8245 8248	TID
+T42	Drug 8269 8279	lisinopril
+T43	Strength 8280 8285	30 mg
+T44	Form 8286 8292	Tablet
+T45	Dosage 8298 8305	One (1)
+T46	Form 8306 8312	Tablet
+T47	Route 8313 8315	PO
+T48	Frequency 8316 8327	twice a day
+T49	Drug 8332 8341	doxazosin
+T50	Strength 8342 8346	4 mg
+T51	Form 8347 8353	Tablet
+T52	Dosage 8359 8366	Two (2)
+T53	Form 8367 8373	Tablet
+T54	Route 8374 8376	PO
+T55	Frequency 8377 8379	HS
+T56	Drug 8398 8415	albuterol sulfate
+T57	Strength 8416 8432	90 mcg/Actuation
+T58	Form 8433 8452	HFA Aerosol Inhaler
+T59	Dosage 8458 8466	Four (4)
+T60	Form 8467 8471	Puff
+T61	Route 8472 8482	Inhalation
+T62	Frequency 8483 8512	Q4H (every 4 hours) as needed
+T63	Reason 8517 8525	wheezing
+T64	Drug 8530 8549	ipratropium bromide
+T65	Strength 8550 8554	0.02 
+T66	Form 8557 8565	Solution
+T67	Dosage 8571 8578	One (1)
+T68	Form 8579 8582	NEB
+T69	Route 8583 8593	Inhalation
+T70	Frequency 8594 8623	Q4H (every 4 hours) as needed
+T71	Reason 8633 8641	wheezing
+T72	Drug 8646 8663	albuterol sulfate
+T73	Strength 8664 8676	2.5 mg /3 mL
+T74	Form 8687 8699;8700 8712	Solution for Nebulization
+T75	Dosage 8718 8725	One (1)
+T76	Form 8726 8729	NEB
+T77	Route 8730 8740	Inhalation
+T78	Frequency 8741 8763;8764 8770	Q4H (every 4 hours) as needed
+T79	Reason 8779 8787	Wheezing
+T80	Drug 8793 8801	baclofen
+T81	Strength 8802 8807	10 mg
+T82	Form 8808 8814	Tablet
+T83	Dosage 8820 8823	0.5
+T84	Form 8824 8830	Tablet
+T85	Route 8831 8833	PO
+T86	Frequency 8834 8845	twice a day
+T87	Drug 8851 8861	famotidine
+T88	Strength 8903 8914	20 mg/50 mL
+T89	Form 8915 8924	Piggyback
+T90	Dosage 8930 8940	Fifty (50)
+T92	Route 8944 8955	Intravenous
+T93	Frequency 8956 8960	Q12H
+T94	Drug 8983 8992	bisacodyl
+T95	Strength 8993 8998	10 mg
+T96	Form 8999 9010	Suppository
+T97	Dosage 9016 9023	One (1)
+T98	Form 9024 9035	Suppository
+T99	Route 9036 9042	Rectal
+T100	Frequency 9043 9046	QHS
+T101	Drug 9078 9083	senna
+T102	Strength 9084 9095	8.8 mg/5 mL
+T103	Form 9096 9101	Syrup
+T104	Dosage 9107 9115	Five (5)
+T105	Route 9119 9121	PO
+T106	Frequency 9122 9125	BID
+T107	Drug 9147 9162	docusate sodium
+T108	Strength 9163 9173	50 mg/5 mL
+T109	Form 9174 9180	Liquid
+T111	Dosage 9186 9197	Ten (10) ml
+T112	Route 9198 9200	PO
+T113	Frequency 9201 9204	BID
+T114	Drug 9226 9250	polyethylene glycol 3350
+T115	Strength 9251 9263	17 gram/dose
+T116	Form 9264 9270	Powder
+T117	Dosage 9276 9283	One (1)
+T118	Form 9284 9288	dose
+T119	Route 9289 9291	PO
+T120	Frequency 9292 9297	DAILY
+T16	Reason 8775 8778	SOB
+T19	Reason 8628 8631	sob

@@ -1,0 +1,348 @@
+T1	Drug 10109 10117	propofol
+T2	Drug 10154 10161	heparin
+T3	Drug 10362 10365	D5W
+T4	Strength 10369 10375	30cc/h
+T5	Drug 10563 10568	lasix
+T6	Dosage 10569 10574	bolus
+T7	Drug 10678 10683	Lasix
+T8	Route 10684 10687	gtt
+T9	Drug 10697 10707	Carvedilol
+T10	Drug 10727 10735	Coumadin
+T11	Drug 10922 10932	carvedilol
+T12	Drug 10934 10937	ace
+T13	Drug 10939 10948	aldactone
+T14	Drug 11028 11033	Lasix
+T15	Strength 11034 11038	20mg
+T17	Dosage 11043 11044	1
+T18	Drug 11090 11098	coumadin
+T19	Dosage 11101 11102	1
+T20	Drug 11159 11167	coumadin
+T21	Drug 11200 11208	glargine
+T22	Drug 11235 11243	coumadin
+T23	Strength 11244 11247	3mg
+T24	Drug 11260 11268	Coumadin
+T25	Strength 11280 11283	2mg
+T27	Drug 11496 11505	Linezolid
+T28	Drug 11510 11519	Meropenem
+T29	Drug 11531 11539	Coumadin
+T30	Drug 11918 11924	Lantus
+T31	Dosage 11929 11942	sliding scale
+T32	Drug 11943 11950	insulin
+T33	Drug 12703 12713	Amiodarone
+T34	Strength 12714 12720	200 mg
+T35	Frequency 12721 12726	DAILY
+T36	Drug 12727 12739	Atorvastatin
+T37	Strength 12740 12745	40 mg
+T38	Frequency 12746 12751	DAILY
+T39	Drug 12752 12776	Polyethylene Glycol 3350
+T40	Strength 12777 12789	17 gram/dose
+T41	Drug 12807 12820	Amitriptyline
+T42	Strength 12821 12826	10 mg
+T43	Frequency 12827 12829	HS
+T44	Drug 12830 12845	Docusate Sodium
+T45	Strength 12846 12852	100 mg
+T46	Drug 12870 12875	Senna
+T47	Strength 12876 12882	8.6 mg
+T48	Drug 12900 12909	Captopril
+T49	Strength 12910 12915	25 mg
+T50	Frequency 12916 12919	TID
+T51	Drug 12920 12929	Lactulose
+T52	Strength 12930 12932	30
+T53	Frequency 12933 12962	Q8H (every 8 hours) as needed
+T54	Reason 12967 12979	constipation
+T55	Drug 12981 12988	Aspirin
+T56	Strength 12989 12994	81 mg
+T57	Frequency 12995 13000	Daily
+T58	Drug 13001 13010	Lorazepam
+T59	Strength 13011 13017	0.5 mg
+T60	Frequency 13018 13031	Q4H as needed
+T61	Reason 13036 13043	anxiety
+T62	Drug 13044 13057	Levetiracetam
+T63	Strength 13058 13064	500 mg
+T64	Frequency 13065 13068	QHS
+T65	Drug 13069 13079	Gabapentin
+T66	Strength 13080 13086	400 mg
+T67	Frequency 13087 13090	Q8H
+T68	Drug 13093 13101	Warfarin
+T69	Strength 13102 13106	5 mg
+T70	Frequency 13107 13112	Daily
+T71	Drug 13113 13122	Oxycodone
+T72	Strength 13123 13127	5 mg
+T73	Frequency 13128 13141	Q4H as needed
+T74	Reason 13146 13150	pain
+T75	Drug 13152 13165	Acetaminophen
+T76	Strength 13166 13172	500 mg
+T77	Frequency 13173 13191	q8 hours as needed
+T78	Reason 13196 13200	pain
+T79	Drug 13201 13210	Bisacodyl
+T80	Strength 13211 13216	10 mg
+T81	Frequency 13234 13237	prn
+T82	Drug 13238 13255	Albuterol Sulfate
+T83	Strength 13256 13262	90 mcg
+T84	Dosage 13263 13264	2
+T85	Form 13265 13270	Puffs
+T86	Route 13271 13273	IH
+T87	Frequency 13274 13281	Q6H prn
+T88	Drug 13282 13301	Ipratropium Bromide
+T89	Strength 13302 13318	17 mcg/Actuation
+T90	Frequency 13319 13322	QID
+T91	Drug 13325 13334	Meropenem
+T92	Strength 13335 13341	500 mg
+T93	Frequency 13342 13344	q6
+T94	Drug 13345 13359	Spironolactone
+T95	Strength 13360 13365	25 mg
+T96	Frequency 13366 13371	DAILY
+T97	Drug 13372 13381	Torsemide
+T98	Strength 13382 13387	20 mg
+T99	Drug 13405 13415	Metolazone
+T100	Strength 13416 13420	5 mg
+T101	Drug 13438 13448	Metoprolol
+T102	Strength 13449 13456	12.5 mg
+T103	Drug 13474 13492	Potassium Chloride
+T104	Strength 13493 13499	20 mEq
+T105	Frequency 13500 13510	once a day
+T106	Drug 13511 13527	Insulin Glargine
+T107	Dosage 13528 13536	40 units
+T108	Route 13537 13549	Subcutaneous
+T109	Frequency 13550 13560	at bedtime
+T110	Drug 13561 13575	Insulin Lispro
+T111	Dosage 13580 13593	sliding scale
+T112	Drug 13621 13634	Acetaminophen
+T113	Strength 13635 13641	325 mg
+T114	Form 13642 13648	Tablet
+T115	Dosage 13654 13657	1-2
+T116	Form 13658 13665	Tablets
+T117	Route 13666 13668	PO
+T118	Frequency 13669 13681;13682 13698	Q6H (every 6 hours) as needed
+T119	Reason 13703 13708	fever
+T120	Reason 13712 13716	pain
+T121	Drug 13721 13735	Spironolactone
+T122	Strength 13736 13741	25 mg
+T123	Form 13742 13748	Tablet
+T124	Dosage 13754 13761	One (1)
+T125	Form 13762 13768	Tablet
+T126	Route 13769 13771	PO
+T127	Frequency 13772 13777;13778 13785	DAILY (Daily)
+T128	Drug 13790 13795	Senna
+T129	Strength 13796 13802	8.6 mg
+T130	Form 13803 13809	Tablet
+T131	Dosage 13815 13822	One (1)
+T132	Form 13823 13829	Tablet
+T133	Route 13830 13832	PO
+T134	Frequency 13833 13847;13848 13862	BID (2 times a day) as needed
+T135	Reason 13867 13879	constipation
+T136	Drug 13884 13899	Docusate Sodium
+T137	Strength 13900 13906	100 mg
+T138	Form 13907 13914	Capsule
+T139	Dosage 13920 13927	One (1)
+T140	Form 13928 13935	Capsule
+T141	Route 13936 13938	PO
+T142	Frequency 13939 13945;13946 13968	TID (3 times a day) as needed
+T143	Reason 13973 13985	constipation
+T144	Drug 13990 14007	Albuterol Sulfate
+T145	Strength 14008 14030	2.5 mg /3 mL (0.083 %)
+T146	Form 14031 14043;14044 14056	Solution for Nebulization
+T147	Dosage 14062 14069	One (1)
+T148	Form 14070 14073	neb
+T149	Route 14074 14084	Inhalation
+T150	Frequency 14085 14107;14108 14114	Q6H (every 6 hours) as needed
+T151	Reason 14119 14138	shortness of breath
+T152	Reason 14142 14150	wheezing
+T153	Drug 14155 14174	Ipratropium Bromide
+T154	Strength 14175 14179	0.02 
+T155	Form 14182 14190	Solution
+T156	Dosage 14196 14203	One (1)
+T157	Form 14204 14207	neb
+T158	Route 14208 14218	Inhalation
+T159	Frequency 14219 14248	Q6H (every 6 hours) as needed
+T160	Reason 14253 14272	shortness of breath
+T161	Reason 14276 14284	wheezing
+T162	Drug 14289 14301	Pantoprazole
+T163	Strength 14302 14307	40 mg
+T164	Form 14308 14338	Tablet, Delayed Release (E.C.)
+T165	Dosage 14344 14347;14348 14351	One (1)
+T166	Form 14352 14382	Tablet, Delayed Release (E.C.)
+T167	Route 14383 14385	PO
+T168	Frequency 14386 14407	Q24H (every 24 hours)
+T169	Drug 14412 14420	Warfarin
+T170	Strength 14421 14427	2.5 mg
+T171	Form 14428 14434	Tablet
+T172	Dosage 14440 14447	One (1)
+T173	Form 14448 14454	Tablet
+T174	Route 14455 14457	PO
+T175	Frequency 14458 14472	DAILY at 16:00
+T177	Drug 14575 14586	Ondansetron
+T178	Strength 14587 14591	4 mg
+T180	Frequency 14595 14602	Q8H:PRN
+T181	Reason 14603 14609	nausea
+T182	Drug 14614 14623	Oxycodone
+T183	Strength 14624 14633	5 mg/5 mL
+T184	Form 14634 14642	Solution
+T185	Dosage 14648 14655	5-10 mg
+T186	Route 14656 14658	PO
+T188	Frequency 14659 14671;14672 14688	Q6H (every 6 hours) as needed
+T189	Reason 14693 14697	pain
+T190	Drug 14703 14709	Ativan
+T191	Strength 14710 14716	0.5 mg
+T192	Form 14717 14723	Tablet
+T193	Form 14741 14750	Tablet(s)
+T194	Route 14757 14759	SL
+T195	Route 14761 14763	PO
+T196	Frequency 14764 14769;14770 14789	every 6-8 hours as needed
+T197	Reason 14794 14801	Anxiety
+T198	Drug 14807 14819	Atorvastatin
+T199	Strength 14820 14825	40 mg
+T200	Form 14826 14832	Tablet
+T201	Dosage 14838 14845	One (1)
+T202	Form 14846 14852	Tablet
+T203	Route 14853 14855	PO
+T204	Frequency 14856 14866	at bedtime
+T205	Drug 14873 14882	Torsemide
+T206	Strength 14883 14888	20 mg
+T207	Form 14889 14895	Tablet
+T208	Dosage 14901 14908	One (1)
+T209	Form 14909 14915	Tablet
+T210	Route 14916 14918	PO
+T211	Frequency 14919 14930	twice a day
+T212	Drug 14936 14946	Metolazone
+T213	Strength 14947 14951	5 mg
+T214	Form 14952 14958	Tablet
+T215	Dosage 14964 14971	One (1)
+T216	Form 14972 14978	Tablet
+T217	Route 14979 14981	PO
+T218	Frequency 14982 14993	twice a day
+T219	Drug 14999 15018	Metoprolol Tartrate
+T220	Strength 15019 15024	25 mg
+T221	Form 15025 15031	Tablet
+T222	Dosage 15037 15040	0.5
+T223	Form 15041 15047	Tablet
+T224	Route 15048 15050	PO
+T225	Frequency 15051 15058;15059 15062	twice a day
+T226	Drug 15068 15086	Potassium Chloride
+T227	Strength 15087 15093	10 mEq
+T228	Form 15094 15118	Tablet Sustained Release
+T229	Dosage 15124 15127;15128 15131	Two (2)
+T230	Form 15132 15156	Tablet Sustained Release
+T231	Route 15157 15159	PO
+T232	Frequency 15160 15170	once a day
+T233	Drug 15176 15189	Levetiracetam
+T234	Strength 15190 15196	500 mg
+T235	Form 15197 15203	Tablet
+T236	Dosage 15209 15216	One (1)
+T237	Form 15217 15223	Tablet
+T238	Route 15224 15226	PO
+T239	Frequency 15227 15229;15230 15237	at bedtime
+T240	Drug 15243 15252	Neurontin
+T241	Strength 15253 15259	400 mg
+T242	Form 15260 15267	Capsule
+T243	Dosage 15273 15280	One (1)
+T244	Form 15281 15288	Capsule
+T245	Route 15289 15291	PO
+T246	Frequency 15292 15303;15304 15309	three times a day
+T247	Drug 15315 15325	Amiodarone
+T248	Strength 15326 15332	200 mg
+T249	Form 15333 15339	Tablet
+T250	Dosage 15345 15352	One (1)
+T251	Form 15353 15359	Tablet
+T252	Route 15360 15362	PO
+T253	Frequency 15363 15373	once a day
+T254	Drug 15380 15393	Amitriptyline
+T255	Strength 15394 15399	10 mg
+T256	Form 15400 15406	Tablet
+T257	Dosage 15412 15419	One (1)
+T258	Form 15420 15426	Tablet
+T259	Route 15427 15429	PO
+T260	Frequency 15430 15432;15433 15440	at bedtime
+T261	Drug 15446 15455	Captopril
+T262	Strength 15456 15461	25 mg
+T263	Form 15462 15468	Tablet
+T264	Dosage 15474 15481	One (1)
+T265	Form 15482 15488	Tablet
+T266	Route 15489 15491	PO
+T267	Frequency 15492 15505;15506 15509	three times a day
+T268	Drug 15515 15529	Insulin Lispro
+T269	Strength 15530 15541	100 unit/mL
+T270	Form 15542 15550	Solution
+T271	Dosage 15556 15566	4-22 units
+T272	Route 15567 15579	Subcutaneous
+T273	Frequency 15580 15591	As directed
+T274	Drug 15596 15611	Humalog Insulin
+T275	Dosage 15612 15625	Sliding Scale
+T276	Drug 15631 15637	Lantus
+T277	Strength 15638 15649	100 unit/mL
+T278	Form 15650 15658	Solution
+T279	Dosage 15664 15680	Forty (40) units
+T280	Route 15681 15693	Subcutaneous
+T281	Frequency 15694 15704	at bedtime
+T282	Drug 15722 15738	Morphine Sulfate
+T283	Strength 15739 15745	2-4 mg
+T285	Frequency 15749 15756	Q6H:PRN
+T286	Reason 15757 15774	Breakthrough Pain
+T287	Drug 16197 16205	Coumadin
+T288	Reason 16206 16217	prophylaxis
+T289	Reason 1654 1664	bacteremia
+T290	Reason 1703 1712	bactermia
+T291	Drug 1722 1732	vancomycin
+T292	Duration 1748 1755	4 weeks
+T293	Drug 1756 1766	daptomycin
+T294	Frequency 17650 17661	twice daily
+T295	Drug 17665 17673	Coumadin
+T296	Drug 17675 17683	Warfarin
+T297	Reason 17744 17758	thin the blood
+T298	Drug 17807 17815	Warfarin
+T299	Reason 17855 17870	thins the blood
+T300	Reason 1799 1814	pseudomonas UTI
+T301	Drug 1829 1837	cefepime
+T302	Duration 1840 1847	14 days
+T303	Reason 1853 1864;1865 1868	pseudomonas UTI
+T304	Drug 18770 18778	Coumadin
+T305	Drug 18785 18793	warfarin
+T306	Drug 18803 18811	Coumadin
+T307	Drug 18813 18821	Warfarin
+T308	Drug 1883 1892	meropenem
+T309	Drug 18886 18894	warfarin
+T310	Duration 1895 1902	14 days
+T311	Drug 19053 19061	warfarin
+T312	Drug 19085 19094	vitamin K
+T313	Drug 19129 19138	vitamin K
+T314	Drug 19170 19178	warfarin
+T315	Drug 19240 19249	vitamin K
+T316	Drug 19320 19329	vitamin K
+T317	Drug 19359 19368	vitamin K
+T318	Drug 1946 1951	zosyn
+T319	Duration 1954 1961	14 days
+T320	Drug 19763 19771	Coumadin
+T321	Drug 19778 19786	warfarin
+T322	Reason 1985 1990	Hep C
+T323	Drug 19887 19895	Coumadin
+T324	Drug 19902 19910	warfarin
+T325	Drug 20182 20190	Coumadin
+T326	Drug 20197 20205	warfarin
+T327	Drug 20638 20646	Coumadin
+T328	Drug 20653 20661	warfarin
+T329	Drug 20776 20784	Coumadin
+T330	Drug 20791 20799	warfarin
+T331	Drug 2088 2091	IFN
+T332	Drug 2092 2101	ribavirin
+T333	Drug 20945 20956	antibiotics
+T334	Drug 2199 2205	opiate
+T335	Drug 2219 2224	benzo
+T336	Reason 8715 8729	ischemic bowel
+T338	Drug 8792 8798	fluids
+T340	Drug 8849 8859	Vancomycin
+T341	Drug 8864 8869	Zosyn
+T342	Drug 8901 8909	Fentanyl
+T344	Frequency 8913 8916	PRN
+T345	Reason 8921 8925	pain
+T346	Drug 8930 8936	Valium
+T347	Reason 8941 8949	sedation
+T348	Drug 9831 9838	heparin
+T349	Drug 9857 9860	FFP
+T350	Dosage 9861 9868	2 untis
+T16	Route 8846 8848	IV
+T26	Route 8910 8912	IV
+T176	Route 11039 11041	IV
+T179	Route 11493 11495	IV
+T187	Route 14592 14594	IV
+T284	Route 15746 15748	IV
+T337	Route 8789 8791	IV

@@ -1,0 +1,85 @@
+T1	Drug 1136 1143	Aspirin
+T2	Strength 1144 1150	325 mg
+T3	Frequency 1151 1161	once daily
+T4	Drug 1166 1185	Hydrochlorothiazide
+T5	Strength 1186 1191	25 mg
+T6	Frequency 1192 1202	once daily
+T7	Drug 1207 1213	Zoloft
+T8	Strength 1214 1219	50 mg
+T9	Frequency 1220 1230	once daily
+T10	Drug 1235 1245	Lisinopril
+T11	Strength 1246 1251	10 mg
+T12	Frequency 1252 1262	once daily
+T13	Drug 1267 1276	Ibuprofen
+T14	Strength 1277 1283	600 mg
+T15	Frequency 1284 1294	once daily
+T16	Drug 1305 1310	Serax
+T17	Strength 1311 1316	15 mg
+T18	Frequency 1317 1322	t.i.d
+T19	Drug 2467 2472	Lasix
+T20	Reason 2473 2481	diuresis
+T21	Duration 2844 2853	seven day
+T22	Drug 2864 2874	vancomycin
+T23	Drug 2879 2887	Levaquin
+T24	ADE 3452 3475	change in mental status
+T25	Drug 3576 3581	Serax
+T27	Drug 5312 5321	Albuterol
+T28	Form 5322 5332	nebulizers
+T29	Frequency 5333 5342	q 6 hours
+T30	Drug 5353 5362	Lopressor
+T31	Strength 5363 5367	5 mg
+T32	Route 5368 5381	intravenously
+T33	Frequency 5382 5391	q 6 hours
+T34	Drug 5480 5487	Zyprexa
+T35	Strength 5488 5492	5 mg
+T36	Route 5493 5496	p.o
+T39	Frequency 5522 5527	daily
+T40	Drug 5532 5539	Roxicet
+T42	Form 5540 5546	elixir
+T43	Dosage 5547 5551	5-10
+T44	Form 5552 5554	cc
+T45	Route 5555 5558	p.o
+T47	Route 5563 5579	nasogastric tube
+T48	Frequency 5580 5589	q 4 hours
+T49	Reason 5604 5608	pain
+T50	Drug 5613 5618	Serax
+T51	Strength 5619 5624	15 mg
+T52	Route 5625 5628	p.o
+T54	Route 5637 5653	nasogastric tube
+T55	Frequency 5654 5659	t.i.d
+T56	Drug 5664 5671	Heparin
+T57	Strength 5672 5683	5,000 units
+T58	Route 5684 5698	subcutaneously
+T59	Frequency 5699 5704	t.i.d
+T60	Drug 5709 5717	Dilaudid
+T61	Strength 5718 5728	0.5-2.0 mg
+T62	Route 5729 5742	intravenously
+T64	Route 5746 5760	subcutaneously
+T66	Reason 5785 5789	pain
+T67	Drug 5794 5801	Insulin
+T68	Dosage 5802 5815	sliding scale
+T69	Reason 5825 5837	blood sugars
+T70	Drug 5985 5992	insulin
+T71	Drug 6026 6034	Atrovent
+T72	Form 6035 6045	nebulizers
+T73	Route 6046 6053	inhaled
+T74	Frequency 6054 6063	q 6 hours
+T75	Drug 6080 6086	Ativan
+T76	Strength 6087 6097	0.5-1.0 mg
+T77	Route 6098 6111	intravenously
+T78	Frequency 6112 6121	q 6 hours
+T79	Drug 6138 6146	Prevacid
+T80	Strength 6147 6152	30 mg
+T81	Route 6157 6173	nasogastric tube
+T82	Frequency 6174 6184	q 24 hours
+T83	Drug 6195 6201	Zoloft
+T84	Strength 6202 6208	100 mg
+T85	Route 6209 6212	p.o
+T87	Route 6221 6237	nasogastric tube
+T88	Frequency 6238 6243	daily
+T89	Drug 6578 6583	Serax
+T90	Drug 6593 6599	Ativan
+T91	Reason 6611 6630	withdrawal symptoms
+T92	Drug 898 905	Heparin
+T65	Frequency 5761 5764;5765 5780	q 4    hours p.r.n.
+T37	Route 5505 5521	nasogastric tube

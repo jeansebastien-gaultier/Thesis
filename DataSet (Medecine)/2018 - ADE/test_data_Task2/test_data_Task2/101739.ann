@@ -1,0 +1,6 @@
+T1	Drug 283 296	Sulfasalazine
+T2	Drug 299 307	Percocet
+T3	Drug 403 406	NPH
+T4	Dosage 407 408;409 414	8 units
+T6	Route 415 417	sc
+T7	Frequency 418 421	qAm

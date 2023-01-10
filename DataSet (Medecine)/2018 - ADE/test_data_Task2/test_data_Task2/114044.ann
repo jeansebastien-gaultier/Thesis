@@ -1,0 +1,82 @@
+T1	Drug 1858 1868	vancomycin
+T2	Strength 1869 1871	1g
+T3	Drug 14151 14161	Lisinopril
+T4	Strength 14162 14167	20 mg
+T5	Route 14168 14170	PO
+T6	Strength 14358 14363	50 mg
+T7	Route 14364 14366	PO
+T8	Drug 14347 14356;14356 14357	Sertralin e
+T9	Drug 1873 1885	azithromycin
+T10	Strength 1886 1891	500mg
+T11	Drug 11221 11231	vancomycin
+T12	Drug 14230 14243;14244 14254	HYDROmorphone (Dilaudid)
+T13	Route 14262 14264	PO
+T14	Drug 14108 14121	Dexamethasone
+T15	Strength 14122 14128	0.5 mg
+T16	Route 14129 14131	PO
+T17	Drug 11998 12004	Versed
+T18	Drug 11233 11241	cefepime
+T19	Drug 14306 14315;14316 14330	Oxycodone SR (OxyconTIN)
+T20	Strength 14331 14336	60 mg
+T21	Frequency 14340 14343	Q8H
+T22	Route 14337 14339	PO
+T23	Drug 14180 14199	Metoprolol Tartrate
+T24	Strength 14200 14205	50 mg
+T25	Route 14206 14208	PO
+T26	Drug 1574 1582	Dilaudid
+T27	Strength 1583 1586	1mg
+T28	Drug 12006 12014	fentanyl
+T29	Drug 3367 3373	Zometa
+T30	Drug 1516 1530	hydrocortisone
+T31	Drug 11247 11253	flagyl
+T32	Drug 11505 11519	Norepinephrine
+T33	Drug 1842 1853	ceftriaxone
+T34	Strength 1854 1856	1g
+T35	Drug 12020 12028	propofol
+T36	Drug 13223 13231	dilaudid
+T37	Drug 10872 10880	Dopamine
+T41	Drug 1286 1293	steroid
+T42	Dosage 1294 1299	taper
+T43	Drug 1315 1318	dex
+T44	Strength 1319 1323	1 mg
+T45	Frequency 1324 1330	qdaily
+T46	Strength 1347 1352	0.5mg
+T47	Frequency 1353 1368	every other day
+T48	Strength 1512 1515	100
+T49	Dosage 1532 1534	2L
+T50	Drug 1535 1537	NS
+T51	Drug 1543 1550	Albumin
+T52	Strength 1551 1569	5% (12.5g / 250mL)
+T53	Dosage 1571 1572	1
+T54	Reason 3342 3365	widespread bony disease
+T55	Drug 10790 10795	fluid
+T56	Dosage 10796 10803	boluses
+T57	Drug 10851 10859	dopamine
+T58	Drug 10897 10908	vasopressin
+T59	Reason 10638 10649	hypotension
+T60	Dosage 11273 11284	stress dose
+T61	Drug 11285 11293	steroids
+T62	Reason 11295 11314	Fluid resuscitation
+T63	Drug 11334 11345	crystalloid
+T64	Drug 11350 11357	colloid
+T65	Reason 11464 11472;11473 11482	oliguric to anuric
+T66	Reason 12043 12051	sedation
+T67	Reason 12908 12913;12914 12927	fluid resuscitation
+T68	Drug 12933 12944	crystalloid
+T69	Drug 12948 12955	colloid
+T70	Reason 13199 13203	pain
+T71	Form 13232 13235	PCA
+T72	Frequency 14132 14147	EVERY OTHER DAY
+T73	Frequency 14171 14176	DAILY
+T74	Frequency 14209 14218	DAILY PRN
+T75	Strength 14255 14261	2-6 mg
+T76	Frequency 14265 14272	Q3H:PRN
+T77	Reason 14273 14277	pain
+T78	Frequency 14367 14372	DAILY
+T79	Drug 490 498	axitinib
+T80	Duration 507 519	for ~5 weeks
+T81	Reason 451 472;473 482	metastatic renal cell carcinoma
+T82	Dosage 1588 1589	3
+T83	Route 10808 10812	PICC
+T84	Reason 10941 10948	ascites
+T86	Drug 11651 11661;11662 11673	vasoactive medications

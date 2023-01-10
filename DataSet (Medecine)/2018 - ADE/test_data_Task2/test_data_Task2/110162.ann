@@ -1,0 +1,227 @@
+T1	Reason 10005 10013	swelling
+T2	Drug 10095 10105	solumedrol
+T3	Strength 10106 10108	60
+T5	Drug 10115 10125	famotidine
+T6	Strength 10126 10130	20mg
+T7	Dosage 10146 10149	one
+T8	Drug 10158 10163	zosyn
+T9	Drug 10185 10191	unasyn
+T10	Reason 10214 10235	soft tissue infection
+T11	Drug 10427 10435	Decadron
+T12	Dosage 10440 10445	three
+T13	Drug 10742 10752	Lisinopril
+T14	Reason 10888 10909	soft tissue infection
+T15	Drug 10926 10935	Augmentin
+T16	Duration 10951 10957	5 days
+T17	Drug 111 118	Bactrim
+T18	Drug 11195 11204	eye drops
+T19	ADE 11238 11259	Altered Mental Status
+T20	ADE 11283 11292	lethargic
+T21	Drug 11312 11318	Haldol
+T22	Reason 11505 11513	agitated
+T23	Reason 11518 11527	combative
+T24	Strength 11541 11546	1.5mg
+T25	Drug 11547 11553	Haldol
+T26	Strength 11577 11580	5mg
+T27	Drug 11584 11591	Zyprexa
+T28	Strength 119 121	Ds
+T29	Reason 12043 12062	sublinical seizures
+T30	Drug 12082 12088	keppra
+T31	Drug 124 131	Zyprexa
+T32	Drug 12544 12550	Keppra
+T33	Strength 12551 12557	1000mg
+T34	Duration 12575 12587	for one week
+T35	Strength 12611 12617	1500mg
+T36	Reason 12778 12781	UTI
+T37	Reason 12788 12800	Enterococcus
+T38	Drug 1282 1292	Polysporin
+T39	Drug 12830 12836	Unasyn
+T40	Duration 12837 12848	for 10 days
+T42	Drug 12954 12964	vancomycin
+T43	Reason 13019 13038	Parkinson's Disease
+T44	Drug 13050 13057	Sinemet
+T45	Reason 13121 13141	Hypertension, benign
+T46	Drug 13143 13153	Lisinopril
+T47	ADE 13184 13194	angioedema
+T48	Drug 13196 13204	Atenolol
+T49	Reason 13225 13239	Hyperlipidemia
+T50	Drug 13251 13257	statin
+T51	Reason 13263 13277	Hypothyroidism
+T52	ADE 1328 1343	hypersensitivty
+T53	Drug 13382 13395	levothyroxine
+T54	Drug 134 144	Lisinopril
+T55	Reason 13401 13412	Diabetes II
+T56	Drug 13454 13461	insulin
+T57	Dosage 13462 13475	sliding scale
+T58	Drug 13584 13591	insulin
+T59	Dosage 13616 13629	sliding scale
+T60	Drug 13810 13817	Tylenol
+T61	Strength 13818 13824	1000mg
+T62	Route 13825 13827	PO
+T63	Frequency 13828 13839	twice daliy
+T64	Drug 13840 13847	Aspirin
+T65	Strength 13848 13852	81mg
+T66	Frequency 13853 13858	daily
+T67	Drug 13859 13867	Atenolol
+T68	Strength 13868 13872	25mg
+T69	Frequency 13873 13878	daily
+T70	Drug 13879 13897	Carbidopa/Levodopa
+T71	Strength 13898 13906	25/100mg
+T72	Drug 1390 1394	Pred
+T73	Frequency 13907 13924	three times daily
+T74	Drug 13925 13932	Enablex
+T75	Strength 13933 13938	7.5mg
+T77	Frequency 13942 13947	daily
+T78	Drug 13948 13956	Fish Oil
+T79	Strength 1395 1396	1
+T80	Strength 13957 13963	1000mg
+T81	Frequency 13964 13969	daily
+T82	Drug 13970 13982	Levothyroxin
+T83	Frequency 1398 1401	TID
+T84	Strength 13983 13989	125mcg
+T85	Frequency 13990 13995	daily
+T86	Drug 13996 14006	Lisinopril
+T87	Strength 14007 14011	20mg
+T88	Frequency 14012 14017	daily
+T89	Drug 14018 14029	Simvastatin
+T90	Route 1402 1404	OS
+T91	Strength 14030 14034	10mg
+T92	Frequency 14035 14040	daily
+T93	Drug 14041 14055	Cyanocobalamin
+T94	Strength 14056 14063	1000mcg
+T95	Drug 1406 1413	Timolol
+T96	Frequency 14064 14069	daily
+T97	Drug 14070 14078	Docusate
+T98	Strength 14079 14084	100mg
+T99	Frequency 14085 14090	daily
+T100	Drug 14091 14095	Pred
+T101	Strength 14096 14097	1
+T102	Frequency 14099 14102	TID
+T103	Route 14103 14105	OS
+T104	Drug 14106 14113	Timolol
+T105	Strength 14114 14117	0.5
+T106	Route 14136 14138	OU
+T107	Drug 14139 14146	Xalatan
+T108	Strength 1414 1417	0.5
+T109	Frequency 14147 14150	QHS
+T110	Route 14151 14153	OS
+T111	Drug 14154 14162	Tobradex
+T112	Route 14163 14165	OS
+T113	Frequency 14166 14169	QHS
+T114	Drug 14198 14209	Latanoprost
+T115	Strength 14210 14215	0.005 
+T116	Form 14218 14223	Drops
+T117	Dosage 14229 14236	One (1)
+T118	Form 14237 14241	Drop
+T119	Route 14242 14252	Ophthalmic
+T120	Frequency 14253 14259;14260 14268	HS (at bedtime)
+T121	Drug 14273 14297	Tobramycin-Dexamethasone
+T122	Strength 14298 14305	0.3-0.1 
+T123	Form 14308 14316	Ointment
+T124	Dosage 14322 14329	One (1)
+T125	Form 14330 14334	Appl
+T126	Route 14335 14345	Ophthalmic
+T127	Frequency 14346 14375	QHS (once a day (at bedtime))
+T128	Route 1436 1438	OU
+T129	Drug 14380 14395	Timolol Maleate
+T130	Strength 14396 14399	0.5 
+T131	Drug 1440 1447	Xalatan
+T132	Form 14402 14407	Drops
+T133	Dosage 14413 14420	One (1)
+T134	Form 14421 14425	Drop
+T135	Route 14426 14436	Ophthalmic
+T136	Frequency 14455 14468	2 times a day
+T137	Drug 14474 14494	Prednisolone Acetate
+T138	Frequency 1448 1451	QHS
+T140	Form 14499 14516	Drops, Suspension
+T141	Route 1452 1454	OS
+T142	Dosage 14522 14529	One (1)
+T143	Form 14530 14534	Drop
+T144	Route 14535 14545	Ophthalmic
+T145	Frequency 14546 14559	DAILY (Daily)
+T146	Drug 1456 1464	Tobradex
+T147	Drug 14564 14572	Atenolol
+T148	Strength 14573 14578	25 mg
+T149	Form 14579 14585	Tablet
+T150	Dosage 14591 14598	One (1)
+T151	Form 14599 14605	Tablet
+T152	Route 14606 14608	PO
+T153	Frequency 14609 14622	DAILY (Daily)
+T154	Drug 14627 14645	Carbidopa-Levodopa
+T155	Strength 14646 14655	25-100 mg
+T156	Form 14656 14662	Tablet
+T157	Dosage 14668 14675	One (1)
+T158	Form 14676 14682	Tablet
+T159	Route 14683 14685	PO
+T160	Frequency 14686 14705	TID (3 times a day)
+T161	Drug 14710 14723	Levothyroxine
+T162	Strength 14724 14731	125 mcg
+T163	Form 14732 14738	Tablet
+T164	Dosage 14744 14751	One (1)
+T165	Form 14752 14758	Tablet
+T166	Route 14759 14761	PO
+T167	Frequency 14762 14767;14768 14775	DAILY (Daily)
+T168	Drug 14780 14791	Simvastatin
+T169	Strength 14792 14797	10 mg
+T170	Form 14798 14804	Tablet
+T171	Dosage 14810 14817	One (1)
+T172	Form 14818 14824	Tablet
+T173	Route 14825 14827	PO
+T174	Frequency 14828 14833;14834 14841	DAILY (Daily)
+T175	Drug 14846 14861	Docusate Sodium
+T176	Strength 14862 14868	100 mg
+T177	Form 14869 14876	Capsule
+T178	Dosage 14882 14889	One (1)
+T179	Form 14890 14897	Capsule
+T180	Route 14898 14900	PO
+T181	Frequency 14901 14907;14908 14920	BID (2 times a day)
+T182	Drug 14926 14931	Senna
+T183	Strength 14932 14938	8.6 mg
+T184	Form 14939 14945	Tablet
+T185	Dosage 14951 14958	One (1)
+T186	Form 14959 14965	Tablet
+T187	Route 14966 14968	PO
+T188	Frequency 14969 14983;14984 14988	BID (2 times a day)
+T189	Drug 14994 15003	Bisacodyl
+T190	Strength 15004 15009	10 mg
+T191	Form 15010 15021	Suppository
+T192	Dosage 15027 15034	One (1)
+T193	Form 15035 15046	Suppository
+T194	Route 15047 15053	Rectal
+T195	Frequency 15054 15067	DAILY (Daily)
+T196	Drug 15073 15080	Aspirin
+T197	Strength 15081 15087	325 mg
+T198	Form 15088 15094	Tablet
+T199	Dosage 15100 15107	One (1)
+T200	Form 15108 15114	Tablet
+T201	Route 15115 15117	PO
+T202	Frequency 15118 15131	DAILY (Daily)
+T203	Drug 15138 15151	Levetiracetam
+T204	Strength 15152 15158	500 mg
+T205	Form 15159 15165	Tablet
+T206	Dosage 15171 15178	Two (2)
+T207	Form 15179 15185	Tablet
+T208	Route 15186 15188	PO
+T209	Frequency 15189 15195;15196 15208	BID (2 times a day)
+T210	Duration 15210 15222	for one week
+T211	Strength 15241 15247	1500mg
+T212	Drug 15270 15279	Augmentin
+T213	Strength 15280 15290	875-125 mg
+T214	Form 15291 15297	Tablet
+T215	Dosage 15303 15310	One (1)
+T216	Form 15311 15317	Tablet
+T217	Route 15318 15320	PO
+T218	Frequency 15321 15328;15329 15332	twice a day
+T219	Duration 15333 15343	for 5 days
+T220	Reason 15806 15829	urinary tract infection
+T221	Drug 15849 15860	antibiotics
+T222	Drug 2526 2532	Haldol
+T223	Strength 2617 2620	5mg
+T225	Drug 2989 3001	Azithromycin
+T226	Drug 3003 3013	Vancomycin
+T227	Drug 3019 3030	Ceftriaxone
+T228	Reason 9535 9537	CT
+T230	Drug 9567 9575	contrast
+T231	Reason 9937 9952	tonsillar edema
+T4	Route 2621 2623	IV
+T41	Route 9564 9566	IV

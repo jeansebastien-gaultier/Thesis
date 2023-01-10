@@ -1,0 +1,218 @@
+T1	Reason 11121 11124;11125 11141	b/l subsegmental PEs
+T2	Reason 11168 11176	b/l DVTs
+T4	Drug 11197 11204	heparin
+T5	Route 11205 11208	ggt
+T6	Drug 11241 11264	anticoagulation regimen
+T7	Drug 11268 11276	coumadin
+T8	Drug 11285 11292	lovenox
+T9	Reason 11481 11489	agitated
+T11	Reason 11558 11562;11563 11573	ETOH withdrawal
+T12	Drug 11599 11605	valium
+T13	Dosage 11606 11610	CIWA
+T14	Drug 11615 11623	klonipin
+T15	Strength 11624 11627	1mg
+T16	Frequency 11628 11631	TID
+T17	ADE 11978 11994	behavioral issue
+T18	Drug 12043 12052	valproate
+T19	Drug 12078 12084	haldol
+T21	Reason 12093 12102	agitation
+T22	Strength 12123 12126	5mg
+T23	Frequency 12127 12130	PRN
+T24	Strength 12142 12146	10mg
+T25	Frequency 12147 12150	QHS
+T26	Strength 1226 1229	2mg
+T28	Drug 1233 1239	ativan
+T29	Drug 12366 12369	MVI
+T30	Drug 12371 12379	thiamine
+T31	Drug 12381 12387	folate
+T32	Reason 12393 12406	Afib with RVR
+T33	ADE 1245 1255	somnolence
+T34	Drug 12592 12601	diltiazem
+T35	ADE 1260 1266	apenea
+T36	Drug 12606 12616	flecainide
+T37	Drug 12644 12654	Metoprolol
+T38	Drug 12667 12677	metoprolol
+T39	Strength 12681 12686	75 mg
+T40	Route 12687 12689	po
+T41	Frequency 12690 12693	qid
+T42	Reason 12774 12800	rapid ventricular response
+T44	Drug 12820 12829	lopressor
+T45	Strength 12830 12834	5 mg
+T46	Dosage 12837 12838	1
+T47	Reason 12862 12877	episodes of RVR
+T48	Drug 12957 12966	diltiazem
+T49	Route 12967 12971	drip
+T50	Drug 12999 13008	diltiazem
+T51	Form 13009 13011	ER
+T52	Strength 13012 13018	120 mg
+T53	Frequency 13019 13024	daily
+T54	Drug 13030 13040	metoprolol
+T55	Strength 13052 13058	200 mg
+T56	Drug 13062 13082	metoprolol succinate
+T57	Drug 13377 13385	Depakote
+T59	Form 13386 13388	ER
+T60	Strength 13389 13403	1250/1500/1500
+T61	Drug 13408 13421	Oxcarbazepine
+T62	Strength 13422 13428	600 mg
+T64	Drug 13517 13525	Depakote
+T65	ADE 13571 13579	delirium
+T66	Drug 13724 13732	depakote
+T67	Drug 14114 14124	Clonazepam
+T68	Strength 14125 14129	1 mg
+T69	Frequency 14130 14133	QID
+T70	Drug 14136 14146	Divalproex
+T71	Strength 14147 14153	250 mg
+T72	Form 14154 14171	Sustained Release
+T73	Frequency 14172 14175	qAM
+T74	Drug 14178 14186	Depakote
+T76	Form 14187 14189	ER
+T77	Strength 14190 14196	500 mg
+T78	Form 14197 14206	tab- tabs
+T79	Frequency 14207 14210	qAM
+T80	Dosage 14212 14213	3
+T81	Form 14214 14218	tabs
+T82	Frequency 14226 14235	afternoon
+T83	Dosage 14240 14241	3
+T84	Form 14242 14246	tabs
+T85	Frequency 14247 14250	qPM
+T86	Drug 14253 14263	Omeprazole
+T87	Strength 14264 14269	20 mg
+T88	Form 14270 14285	delayed release
+T89	Frequency 14286 14291	daily
+T90	Drug 14294 14307	Oxcarbazepine
+T91	Strength 14308 14314	600 mg
+T92	Drug 14334 14337	ASA
+T93	Strength 14338 14343	81 mg
+T94	Frequency 14344 14349	daily
+T95	Drug 14404 14411	Lovenox
+T96	Strength 14412 14421	100 mg/mL
+T97	Form 14422 14429	Syringe
+T98	Dosage 14435 14442	One (1)
+T99	Route 14444 14456	Subcutaneous
+T100	Frequency 14457 14464;14465 14468	twice a day
+T101	Duration 14469 14480	for 10 days
+T102	Drug 14515 14528	oxcarbazepine
+T103	Strength 14529 14535	600 mg
+T104	Form 14536 14542	Tablet
+T105	Dosage 14548 14555	One (1)
+T106	Form 14556 14562	Tablet
+T107	Route 14563 14565	PO
+T108	Frequency 14566 14572;14573 14585	BID (2 times a day)
+T109	Drug 14590 14600	clonazepam
+T110	Strength 14601 14605	1 mg
+T111	Form 14606 14612	Tablet
+T112	Dosage 14618 14625	One (1)
+T113	Form 14626 14632	Tablet
+T114	Route 14633 14635	PO
+T115	Frequency 14636 14648;14649 14652	four times a day
+T116	Drug 14657 14667	omeprazole
+T117	Strength 14668 14673	20 mg
+T119	Form 14674 14704	Capsule, Delayed Release(E.C.)
+T120	Dosage 14710 14717	One (1)
+T122	Form 14718 14748	Capsule, Delayed Release(E.C.)
+T123	Route 14749 14751	PO
+T124	Frequency 14752 14765	DAILY (Daily)
+T125	Drug 14770 14778	warfarin
+T126	Strength 14779 14783	5 mg
+T127	Form 14784 14790	Tablet
+T128	Dosage 14796 14803	One (1)
+T129	Form 14804 14810	Tablet
+T130	Route 14811 14813	PO
+T1330	Frequency 14814 14829;14830 14832	Once Daily at 4 PM
+T133	Drug 14869 14882	diltiazem HCl
+T134	Strength 14883 14889	120 mg
+T136	Form 14890 14916	Capsule, Sustained Release
+T137	Dosage 14922 14929	One (1)
+T139	Form 14930 14956	Capsule, Sustained Release
+T140	Route 14957 14959	PO
+T141	Frequency 14960 14973	DAILY (Daily)
+T142	Drug 15030 15040	divalproex
+T143	Strength 15041 15047	250 mg
+T145	Form 15048 15078	Tablet Sustained Release 24 hr
+T146	Dosage 15084 15091	One (1)
+T148	Form 15092 15122	Tablet Sustained Release 24 hr
+T149	Route 15123 15125	PO
+T150	Frequency 15126 15129	QAM
+T151	Drug 15154 15162	depakote
+T152	Strength 15163 15169	500 mg
+T153	Form 15179 15183	tabs
+T154	Strength 15202 15216;15217 15219	1250/1500/1500 mg
+T155	Drug 15225 15235	divalproex
+T156	Strength 15236 15242	500 mg
+T158	Form 15243 15273	Tablet Sustained Release 24 hr
+T159	Form 15279 15284;15285 15288	Three (3)
+T161	Form 15289 15319	Tablet Sustained Release 24 hr
+T162	Route 15320 15322	PO
+T163	Frequency 15323 15333	QAFTERNOON
+T164	Drug 15341 15351	divalproex
+T165	Strength 15352 15358	500 mg
+T166	Form 15359 15389	Tablet Sustained Release 24 hr
+T167	Dosage 15395 15400;15401 15404	Three (3)
+T169	Form 15405 15435	Tablet Sustained Release 24 hr
+T170	Route 15436 15438	PO
+T173	Frequency 15439 15458;15459 15467	QHS (once a day (at bedtime)
+T174	Drug 15474 15484	divalproex
+T175	Strength 15485 15491	500 mg
+T177	Form 15492 15522	Tablet Sustained Release 24 hr
+T178	Dosage 15528 15531;15532 15535	Two (2)
+T180	Form 15536 15566	Tablet Sustained Release 24 hr
+T181	Route 15567 15569	PO
+T182	Frequency 15570 15573	QAM
+T183	Strength 15595 15601	250 mg
+T184	Strength 15619 15626	1250 mg
+T185	Frequency 15627 15640	every morning
+T186	Drug 15646 15654	nicotine
+T187	Strength 15655 15666	14 mg/24 hr
+T189	Form 15667 15678	Patch 24 hr
+T190	Dosage 15684 15691	One (1)
+T192	Form 15692 15703	Patch 24 hr
+T193	Route 15704 15715	Transdermal
+T195	Frequency 15716 15729	DAILY (Daily)
+T196	Drug 15772 15792	metoprolol succinate
+T197	Strength 15793 15799	200 mg
+T199	Form 15800 15830	Tablet Sustained Release 24 hr
+T200	Reason 1583 1586	SVT
+T201	Dosage 15836 15843	One (1)
+T203	Form 15844 15874	Tablet Sustained Release 24 hr
+T204	Route 15875 15877	PO
+T205	Frequency 15878 15888	once a day
+T206	Form 15899 15905	Tablet
+T207	Drug 15950 15957	aspirin
+T208	Strength 15958 15963	81 mg
+T209	Form 15964 15970	Tablet
+T210	Dosage 15976 15983	One (1)
+T211	Form 15984 15990	Tablet
+T212	Route 15991 15993	PO
+T213	Frequency 15994 16004	once a day
+T214	Strength 1624 1628	9 mg
+T216	Drug 1632 1642	metoprolol
+T219	Reason 16543 16585	atrial fibrillation (irregular heart rate)
+T220	Drug 16610 16619	diltiazem
+T221	Drug 16624 16634	metoprolol
+T222	Reason 17020 17029;17030 17076	deep vein thrombosis (blood clots in your lung and legs)
+T223	Drug 17164 17172	Coumadin
+T224	Reason 17176 17207	prevent more clots from forming
+T225	Drug 17315 17322	Lovenox
+T226	Reason 17332 17337;17338 17345	blood thinner
+T227	Drug 17409 17417	Coumadin
+T228	Drug 17485 17494	diltiazem
+T229	Strength 17495 17501	120 mg
+T230	Frequency 17502 17511	every day
+T231	Drug 17525 17535	metoprolol
+T232	Strength 17536 17542	200 mg
+T233	Frequency 17543 17548	daily
+T234	Drug 17562 17570	warfarin
+T235	Strength 17571 17575	5 mg
+T236	Frequency 17576 17581	daily
+T237	Drug 17595 17602	lovenox
+T238	Form 17603 17608	shots
+T239	Frequency 17609 17620	twice a day
+T240	Reason 714 736	EtOH and cocaine abuse
+T3	Route 1230 1232	IV
+T10	Route 1629 1631	IV
+T20	Drug 8158 8166	contrast
+T27	Route 8155 8157	IV
+T43	Route 12817 12819	IV
+T58	Route 13468 13470	IV
+T63	Drug 2768 2770	O2
+T75	ADE 11995 12003	delerium

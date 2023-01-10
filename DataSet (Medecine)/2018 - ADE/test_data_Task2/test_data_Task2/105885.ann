@@ -1,0 +1,43 @@
+T1	Drug 1043 1053	Penicillin
+T2	ADE 1072 1076	rash
+T3	Drug 1096 1102	Toprol
+T4	Strength 1103 1106	100
+T5	Drug 1112 1119	Lipitor
+T6	Strength 1120 1122	10
+T7	Frequency 1123 1126	q.d
+T8	Drug 1132 1139	Cardura
+T9	Strength 1140 1141	2
+T10	Frequency 1142 1145	q.d
+T11	Drug 2834 2846	Levofloxacin
+T12	Drug 2848 2856	steroids
+T13	Form 2861 2870	nebulized
+T14	Drug 2871 2880	Albuterol
+T15	Drug 2885 2893	Atrovent
+T16	Reason 2903 2922;2923 2953	chronic obstructive pulmonary disease exacerbation
+T17	Drug 3117 3129	Levofloxacin
+T18	Reason 3920 3926;3927 3939	atrial fibrillation
+T19	Drug 4011 4020	Diltiazem
+T20	Drug 4049 4058	Diltiazem
+T21	Route 4059 4063	drip
+T22	Dosage 4090 4097	boluses
+T23	Drug 4101 4110	Diltiazem
+T24	Route 4200 4202	po
+T25	Drug 4203 4213	Metoprolol
+T27	Reason 4318 4334;4335 4346	supraventricular tachycardia
+T28	Drug 4403 4411	pressers
+T29	Frequency 4471 4476	b.i.d
+T30	Drug 4478 4488	Metoprolol
+T31	Drug 5081 5096	anticoagulation
+T34	Dosage 5499 5500;5501 5506	2 units
+T36	Drug 5510 5532	packed red blood cells
+T37	Drug 6246 6256	Metoprolol
+T38	Drug 6262 6268	Colace
+T39	Drug 6274 6283	Bisacodyl
+T40	Drug 6289 6297	Nicotine
+T41	Form 6298 6303	patch
+T42	Drug 6309 6318	Doxazosin
+T43	Drug 6324 6333	Albuterol
+T44	Drug 6339 6347	Atrovent
+T45	Drug 6352 6363	Fluticasone
+T26	Reason 4283 4313	paroxysmal atrial fibrillation
+T32	Reason 5105 5135	paroxysmal atrial fibrillation

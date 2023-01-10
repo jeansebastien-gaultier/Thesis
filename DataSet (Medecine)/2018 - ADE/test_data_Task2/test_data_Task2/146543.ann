@@ -1,0 +1,134 @@
+T1	Strength 1445 1448	1gm
+T2	Drug 1449 1459	Vancomycin
+T3	Strength 1461 1463	2g
+T4	Drug 1464 1473	Aztreonam
+T5	Strength 1475 1480	500mg
+T6	Drug 1481 1487	Flagyl
+T7	Drug 165 176	Penicillins
+T8	Drug 1698 1706	Diazepam
+T9	Drug 1708 1717	Phenobarb
+T10	Drug 1719 1726	Tylenol
+T11	Drug 1731 1742	Ondansetron
+T14	Drug 1759 1761	NS
+T15	Drug 179 185	Keflex
+T16	Drug 188 201	Ciprofloxacin
+T17	Drug 204 209	Sulfa
+T18	Drug 227 241	Clarithromycin
+T19	Drug 244 251	Demerol
+T20	Duration 4486 4492	10 day
+T21	Drug 4503 4509	Flagyl
+T23	Reason 4535 4543	diarrhea
+T24	Reason 4835 4855	aspiration pneumonia
+T25	Drug 4877 4888	Clindamycin
+T26	Drug 4893 4905	Levofloxacin
+T27	ADE 4924 4932	diarrhea
+T28	ADE 4963 4970	colitis
+T29	Drug 4976 4989	Ciprofloxacin
+T30	Drug 5022 5034	Levofloxacin
+T31	Drug 5065 5077	Azithromycin
+T32	Drug 5421 5430	aztreonam
+T33	Drug 5435 5445	vancomycin
+T34	Drug 5718 5728	antibiotic
+T35	ADE 5740 5748	diarrhea
+T36	Reason 5754 5762	diarrhea
+T37	Drug 5802 5808	flagyl
+T38	Duration 5811 5817	6 days
+T39	ADE 5902 5919	Dystonic reaction
+T40	Drug 5923 5929	Haldol
+T41	Drug 6147 6153	haldol
+T42	Strength 6154 6157	2.5
+T44	Frequency 6161 6166	daily
+T45	Reason 6192 6200	agitated
+T46	Drug 6290 6298	Benadryl
+T47	Strength 6299 6301	50
+T49	Drug 6309 6315	Ativan
+T50	Strength 6316 6317	1
+T52	Frequency 6321 6324	TID
+T53	Reason 6345 6353	dystonia
+T54	Drug 6370 6381	Benztropine
+T55	Reason 7213 7229	Seizure Disorder
+T56	Drug 7260 7273	Phenobarbital
+T57	Drug 7363 7369	Valium
+T58	Frequency 7370 7373	QHS
+T59	Reason 7378 7384	spasms
+T60	Reason 7389 7407	Ulcerative Colitis
+T61	Drug 7429 7435	Asacol
+T62	Reason 7463 7467	GERD
+T63	Drug 7505 7508	PPI
+T64	Drug 7513 7523	H2-Blocker
+T65	Drug 7552 7562	Famotidine
+T66	Strength 7563 7567	20mg
+T67	Drug 7585 7593	Glycolax
+T68	Dosage 7594 7595	1
+T69	Form 7596 7599	cap
+T70	Frequency 7600 7605	daily
+T71	Drug 7606 7612	Asacol
+T72	Strength 7613 7619	1200mg
+T73	Drug 7637 7643	Celexa
+T74	Strength 7644 7648	20mg
+T75	Frequency 7649 7654	daily
+T76	Drug 7655 7663	Prevacid
+T77	Strength 7664 7668	30mg
+T78	Frequency 7669 7674	daily
+T79	Drug 7675 7688	Phenobarbital
+T80	Strength 7689 7696	96.12mg
+T81	Frequency 7708 7711	qhs
+T82	Drug 7712 7720	Diazepam
+T83	Strength 7721 7724	6mg
+T84	Frequency 7725 7728	qhs
+T85	Drug 7757 7767	Famotidine
+T86	Strength 7768 7773	20 mg
+T87	Form 7774 7780	Tablet
+T88	Dosage 7786 7793	One (1)
+T89	Form 7794 7800	Tablet
+T90	Route 7801 7803	PO
+T91	Frequency 7804 7808	Q12H
+T92	Drug 7830 7840	Citalopram
+T93	Strength 7841 7846	20 mg
+T94	Form 7847 7853	Tablet
+T95	Dosage 7859 7866	One (1)
+T96	Form 7867 7873	Tablet
+T97	Route 7874 7876	PO
+T98	Frequency 7877 7882	DAILY
+T99	Drug 7896 7909	Phenobarbital
+T100	Strength 7910 7915	30 mg
+T101	Form 7916 7922	Tablet
+T102	Dosage 7928 7937	Three (3)
+T103	Form 7938 7944	Tablet
+T104	Route 7945 7947	PO
+T105	Frequency 7948 7950	HS
+T106	Drug 7968 7976	Prevacid
+T107	Strength 7977 7982	30 mg
+T108	Form 7983 8013	Susp,Delayed Release for Recon
+T109	Dosage 8019 8026	One (1)
+T110	Form 8027 8033	tablet
+T111	Route 8034 8036	PO
+T112	Frequency 8037 8047	once a day
+T113	Drug 8052 8060	Diazepam
+T114	Strength 8061 8065	2 mg
+T115	Form 8066 8072	Tablet
+T116	Dosage 8078 8087	Three (3)
+T117	Form 8088 8094	Tablet
+T118	Route 8095 8097	PO
+T119	Frequency 8098 8101	QHS
+T120	Drug 8132 8142	Mesalamine
+T121	Strength 8143 8149	400 mg
+T122	Form 8150 8173	Tablet, Delayed Release
+T123	Dosage 8186 8191;8192 8195	Three (3)
+T124	Form 8196 8219	Tablet, Delayed Release
+T125	Route 8227 8229	PO
+T126	Frequency 8230 8233	BID
+T127	Drug 8311 8319	GlycoLax
+T128	Strength 8320 8327	17 gram
+T129	Form 8336 8352	Powder in Packet
+T130	Dosage 8358 8365	One (1)
+T131	Form 8366 8372	caplet
+T132	Route 8373 8375	PO
+T133	Frequency 8376 8396	once a day as needed
+T134	Reason 8401 8413	constipation
+T12	Dosage 1756 1758	3L
+T13	Route 4510 4512	IV
+T22	Route 6158 6160	IV
+T43	Route 6302 6304	IV
+T48	Drug 2565 2567	O2
+T51	Route 6318 6320	IV

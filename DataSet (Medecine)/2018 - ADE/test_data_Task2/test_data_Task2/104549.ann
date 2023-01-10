@@ -1,0 +1,322 @@
+T1	Drug 10048 10056	AMIKACIN
+T2	Drug 10079 10099	AMPICILLIN/SULBACTAM
+T3	Drug 10110 10119	CEFAZOLIN
+T4	Drug 10141 10149	CEFEPIME
+T5	Drug 10172 10183	CEFTAZIDIME
+T6	Drug 10203 10214	CEFTRIAXONE
+T7	Drug 10234 10247	CIPROFLOXACIN
+T8	Drug 10265 10275	GENTAMICIN
+T9	Drug 10296 10305	MEROPENEM
+T10	Drug 10327 10337	TOBRAMYCIN
+T11	Drug 10358 10376	TRIMETHOPRIM/SULFA
+T12	Drug 1065 1071	Keppra
+T13	Reason 13780 13783	PNA
+T14	Drug 13798 13802	Vanc
+T15	Drug 13803 13808	Zosyn
+T16	Drug 13809 13814	Tobra
+T17	Reason 14592 14600	seizures
+T18	Drug 14696 14702	Keppra
+T19	Strength 14711 14717	1500mg
+T20	Strength 14750 14755	500mg
+T21	Drug 14788 14794	Keppra
+T22	Drug 14847 14860	Oxcarbazepine
+T23	Strength 14861 14866	150mg
+T24	Drug 15110 15117	insulin
+T25	Reason 16495 16513	Fistula thrombosis
+T26	Drug 16852 16859	heparin
+T27	Route 16860 16864	drip
+T28	Drug 16868 16876	warfarin
+T29	Reason 16893 16903	thrombosis
+T30	Reason 16960 16974	Line infection
+T31	Duration 17238 17247	two weeks
+T32	Drug 17253 17263	vancomycin
+T33	Drug 17268 17276	cefepime
+T34	Reason 17318 17362	Retroperitoneal bleed with subsequent anemia
+T37	Drug 17631 17635	pRBC
+T38	Drug 17931 17937	Epogen
+T39	Reason 17955 17964	Pneumonia
+T40	Drug 18106 18111	vanco
+T41	Drug 18113 18118	zosyn
+T42	Drug 18123 18128	tobra
+T43	Duration 18144 18150	9 days
+T44	Drug 18184 18195	antibiotics
+T45	Reason 18227 18231	ESRD
+T46	Reason 1829 1837	Epilepsy
+T47	Drug 18358 18367	sevelamer
+T48	Drug 18372 18382	nephrocaps
+T49	Reason 18629 18632	CAD
+T50	Drug 1868 1874	Keppra
+T51	Drug 18700 18707	aspirin
+T52	Drug 18709 18715	statin
+T53	Drug 18717 18727	metoprolol
+T54	Drug 18733 18741	coumadin
+T55	Strength 1878 1884	1500mg
+T56	Reason 18848 18867	multiple thromboses
+T57	Drug 18923 18930	heparin
+T58	Route 18931 18935	drip
+T59	Drug 18970 18978	coumadin
+T60	Reason 18984 18994	Depression
+T61	Drug 18999 19009	fluoxetine
+T62	Strength 1906 1911	500mg
+T63	ADE 19069 19081	hypoglycemia
+T64	ADE 19093 19110;19111 19120	lower the seizure threshold
+T65	Drug 1948 1954	Keppra
+T66	Drug 19534 19541	aspirin
+T67	Strength 19542 19547	81 mg
+T68	Form 19548 19564	Tablet, Chewable
+T69	Dosage 19570 19577	One (1)
+T70	Form 19578 19594	Tablet, Chewable
+T71	Route 19596 19598	PO
+T72	Frequency 19599 19612	DAILY (Daily)
+T73	Drug 19617 19630	acetaminophen
+T74	Strength 19631 19637	325 mg
+T75	Form 19638 19644	Tablet
+T76	Dosage 19650 19657	One (1)
+T77	Form 19658 19664	Tablet
+T78	Route 19665 19667	PO
+T82	Reason 19703 19707	pain
+T83	Reason 19708 19713	fever
+T84	Drug 19718 19748	B complex-vitamin C-folic acid
+T85	Strength 19749 19753	1 mg
+T86	Form 19754 19761	Capsule
+T87	Dosage 19767 19774	One (1)
+T88	Form 19775 19778	Cap
+T89	Route 19780 19782	PO
+T90	Frequency 19783 19796	DAILY (Daily)
+T91	Drug 19801 19816	docusate sodium
+T92	Strength 19817 19823	100 mg
+T93	Form 19824 19831	Capsule
+T94	Dosage 19837 19844	One (1)
+T95	Form 19845 19852	Capsule
+T96	Route 19853 19855	PO
+T100	Drug 19881 19891	fluoxetine
+T101	Strength 19892 19897	20 mg
+T102	Form 19898 19905	Capsule
+T103	Dosage 19911 19918	One (1)
+T104	Form 19919 19926	Capsule
+T105	Route 19927 19929	PO
+T106	Frequency 19930 19935;19936 19943	DAILY (Daily)
+T107	Drug 19948 19961	levetiracetam
+T108	Strength 19962 19968	500 mg
+T109	Form 19969 19975	Tablet
+T110	Dosage 19981 19988	Two (2)
+T111	Form 19989 19995	Tablet
+T112	Route 19996 19998	PO
+T113	Frequency 19999 20005;20006 20018	BID (2 times a day)
+T114	Drug 20023 20036	levetiracetam
+T115	Strength 20037 20043	500 mg
+T116	Form 20044 20050	Tablet
+T117	Dosage 20056 20063	One (1)
+T118	Form 20064 20070	Tablet
+T119	Route 20071 20073	PO
+T121	Drug 20103 20122	metoprolol tartrate
+T122	Strength 20123 20128	50 mg
+T123	Form 20129 20135	Tablet
+T124	Dosage 20141 20148	Two (2)
+T125	Form 20149 20155	Tablet
+T126	Route 20156 20158	PO
+T127	Frequency 20159 20162;20163 20178	BID (2 times a day)
+T128	Drug 20183 20196	oxcarbazepine
+T129	Strength 20197 20203	150 mg
+T130	Form 20204 20210	Tablet
+T131	Dosage 20216 20223	One (1)
+T132	Form 20224 20230	Tablet
+T133	Route 20231 20233	PO
+T135	Frequency 20234 20240;20241 20253	BID (2 times a day)
+T136	Drug 20259 20271	pantoprazole
+T137	Strength 20272 20277	40 mg
+T138	Form 20278 20308	Tablet, Delayed Release (E.C.)
+T139	Dosage 20314 20317;20318 20321	One (1)
+T140	Form 20322 20352	Tablet, Delayed Release (E.C.)
+T141	Route 20353 20355	PO
+T142	Frequency 20356 20377	Q24H (every 24 hours)
+T143	Drug 20383 20407	polyethylene glycol 3350
+T144	Strength 20408 20420	17 gram/dose
+T145	Form 20421 20427	Powder
+T146	Dosage 20433 20440	One (1)
+T147	Route 20441 20443	PO
+T148	Frequency 20444 20467	DAILY (Daily) as needed
+T149	Reason 20472 20484	constipation
+T150	Drug 20490 20495	senna
+T151	Strength 20496 20502	8.6 mg
+T152	Form 20503 20509	Tablet
+T153	Dosage 20515 20522	One (1)
+T154	Form 20523 20529	Tablet
+T155	Route 20530 20532	PO
+T156	Frequency 20533 20547;20548 20552	BID (2 times a day)
+T157	Drug 20558 20577	sevelamer carbonate
+T158	Strength 20578 20584	800 mg
+T159	Form 20585 20591	Tablet
+T160	Dosage 20597 20604	One (1)
+T161	Form 20605 20611	Tablet
+T162	Route 20612 20614	PO
+T163	Frequency 20615 20632	three times a day
+T164	Drug 20638 20649	simvastatin
+T165	Strength 20650 20655	40 mg
+T166	Form 20656 20662	Tablet
+T167	Dosage 20668 20675	One (1)
+T168	Form 20676 20682	Tablet
+T169	Route 20683 20685	PO
+T170	Frequency 20686 20691;20692 20699	DAILY (Daily)
+T171	Drug 20705 20713	Coumadin
+T172	Strength 20714 20718	3 mg
+T173	Form 20719 20725	Tablet
+T174	Dosage 20731 20740	Three (3)
+T175	Form 20741 20747	Tablet
+T176	Route 20748 20750	PO
+T177	Frequency 20751 20761	once a day
+T178	Drug 20823 20836	acetaminophen
+T179	Strength 20837 20843	325 mg
+T180	Form 20844 20850	Tablet
+T181	Dosage 20856 20863	One (1)
+T182	Form 20864 20870	Tablet
+T183	Route 20871 20873	PO
+T184	Frequency 20874 20883;20884 20903	every six (6) hours as needed
+T185	Reason 20908 20913	fever
+T186	Reason 20917 20921	pain
+T187	Drug 20926 20956	B complex-vitamin C-folic acid
+T188	Strength 20957 20961	1 mg
+T189	Form 20962 20969	Capsule
+T190	Dosage 20975 20982	One (1)
+T191	Form 20983 20990	Capsule
+T192	Route 20991 20993	PO
+T193	Frequency 20994 21004	once a day
+T194	Drug 21009 21024	docusate sodium
+T195	Strength 21025 21031	100 mg
+T196	Form 21032 21039	Capsule
+T197	Dosage 21045 21052	One (1)
+T198	Form 21053 21060	Capsule
+T199	Route 21061 21063	PO
+T200	Frequency 21064 21069;21070 21075	twice a day
+T201	Drug 21080 21093	levetiracetam
+T202	Strength 21094 21105	500 mg/5 mL
+T203	Form 21106 21114	Solution
+T204	Dosage 21120 21134	1500 (1500) mg
+T205	Route 21135 21146	Intravenous
+T206	Frequency 21147 21158	twice a day
+T207	Drug 21163 21176	LeVETiracetam
+T208	Strength 21177 21183	500 mg
+T210	Frequency 21187 21190	MWF
+T211	Drug 21208 21227	metoprolol tartrate
+T212	Strength 21228 21233	50 mg
+T213	Form 21234 21240	Tablet
+T214	Dosage 21246 21253	One (1)
+T215	Form 21254 21260	Tablet
+T216	Route 21261 21263	PO
+T217	Frequency 21264 21269;21270 21275	twice a day
+T218	Drug 21303 21327	polyethylene glycol 3350
+T219	Strength 21328 21335	17 gram
+T220	Form 21336 21352	Powder in Packet
+T221	Dosage 21358 21361;21362 21365	One (1)
+T222	Route 21367 21369	PO
+T223	Frequency 21370 21390	once a day as needed
+T224	Reason 21395 21407	constipation
+T225	Drug 21412 21417	senna
+T226	Strength 21418 21424	8.6 mg
+T227	Form 21425 21432	Capsule
+T228	Dosage 21438 21445	One (1)
+T229	Form 21446 21453	Capsule
+T230	Route 21454 21456	PO
+T231	Frequency 21457 21468	twice a day
+T232	Drug 21473 21492	sevelamer carbonate
+T233	Strength 21493 21499	800 mg
+T234	Form 21500 21506	Tablet
+T235	Dosage 21512 21519	One (1)
+T236	Form 21520 21526	Tablet
+T237	Route 21527 21529	PO
+T238	Frequency 21530 21547	three times a day
+T239	Drug 21553 21564	simvastatin
+T240	Strength 21565 21570	40 mg
+T241	Form 21571 21577	Tablet
+T242	Dosage 21583 21590	One (1)
+T243	Form 21591 21597	Tablet
+T244	Route 21598 21600	PO
+T245	Frequency 21601 21611	once a day
+T246	Drug 21618 21635	heparin (porcine)
+T247	Strength 21636 21649	1,000 unit/mL
+T248	Form 21650 21658	Solution
+T249	Form 21674 21683	Injection
+T250	Frequency 21684 21709	PRN (as needed) as needed
+T251	Reason 21714 21724	line flush
+T252	Dosage 21726 21760;21761 21765	4000-[**Numeric Identifier 2249**] UNIT
+T253	Dosage 21901 21906	10 mL
+T254	Drug 21907 21909	NS
+T255	Drug 21922 21929	Heparin
+T256	Drug 21974 21982	warfarin
+T257	Strength 21983 21987	5 mg
+T258	Form 21988 21994	Tablet
+T259	Dosage 22000 22007	One (1)
+T260	Form 22008 22014	Tablet
+T261	Route 22015 22017	PO
+T262	Frequency 22018 22033;22034 22036	Once Daily at 4 PM
+T263	Drug 22082 22099	heparin (porcine)
+T264	Strength 22100 22113	1,000 unit/mL
+T265	Form 22114 22122	Solution
+T266	Form 22138 22147	Injection
+T267	Frequency 22148 22173	PRN (as needed) as needed
+T268	Reason 22178 22186	dialysis
+T269	Drug 22188 22201	Heparin Dwell
+T270	Strength 22203 22216	1000 Units/mL
+T271	Dosage 22229 22238	8000 UNIT
+T272	Frequency 22245 22248	PRN
+T273	Reason 22249 22257	dialysis
+T274	Drug 22289 22299	lacosamide
+T275	Strength 22300 22312	200 mg/20 mL
+T276	Form 22313 22321	Solution
+T277	Strength 22327 22340	Fifty (50) mg
+T278	Route 22341 22352	Intravenous
+T279	Frequency 22371 22384	2 times a day
+T280	Drug 22391 22408	vancomycin in D5W
+T281	Strength 22409 22422	1 gram/200 mL
+T282	Form 22423 22432	Piggyback
+T283	Strength 22438 22447	One (1) g
+T284	Route 22448 22459	Intravenous
+T285	Duration 22487 22497	for 4 days
+T286	Drug 22503 22511	cefepime
+T287	Strength 22512 22518	1 gram
+T288	Form 22519 22529	Recon Soln
+T289	Dosage 22535 22542	One (1)
+T290	Form 22543 22553	Recon Soln
+T291	Form 22554 22563	Injection
+T292	Frequency 22564 22585	Q24H (every 24 hours)
+T293	Duration 22586 22596	for 4 days
+T294	Drug 22602 22625	heparin (porcine) in NS
+T295	Route 22627 22638	Intravenous
+T296	Drug 22643 22655	pantoprazole
+T297	Strength 22656 22661	40 mg
+T298	Form 22662 22692	Tablet, Delayed Release (E.C.)
+T299	Dosage 22698 22701;22702 22705	One (1)
+T300	Form 22706 22736	Tablet, Delayed Release (E.C.)
+T301	Route 22737 22739	PO
+T302	Frequency 22740 22750	once a day
+T303	Drug 23883 23890	aspirin
+T304	Drug 23913 23921	coumadin
+T305	Drug 23927 23937	fluoxetine
+T306	ADE 23963 23975	hypoglycemia
+T307	Drug 23982 23990	coumadin
+T308	Drug 24038 24045	heparin
+T310	Drug 24091 24099	cefepime
+T311	Drug 24104 24114	vancomycin
+T312	Reason 24118 24145;24146 24151	help fight bacteria in your blood
+T313	Reason 2888 2891	RLL
+T314	Drug 2907 2919	Levofloxacin
+T315	Reason 589 605	seizure disorder
+T316	Drug 8566 8587	LEVETIRACETAM (KEPPRA
+T317	Drug 9124 9133	Oxacillin
+T318	Drug 9211 9222	penicillins
+T319	Drug 9224 9238	cephalosporins
+T320	Drug 9240 9252	carbacephems
+T321	Drug 9263 9274	carbapenems
+T322	Drug 9280 9317	beta-lactamase inhibitor combinations
+T323	Drug 9329 9337	Rifampin
+T324	Drug 9600 9611	CLINDAMYCIN
+T325	Drug 9631 9643	ERYTHROMYCIN
+T326	Drug 9662 9672	GENTAMICIN
+T327	Drug 9693 9705	LEVOFLOXACIN
+T328	Drug 9724 9733	OXACILLIN
+T329	Drug 9755 9763	RIFAMPIN
+T330	Drug 9786 9798	TETRACYCLINE
+T331	Drug 9817 9827	VANCOMYCIN
+T35	Route 21184 21186	IV
+T36	Route 24046 24048	IV
+T79	Reason 18633 18636	CVA

@@ -1,0 +1,223 @@
+T1	Dosage 10010 10017	One (1)
+T2	Form 10018 10024	Tablet
+T3	Route 10025 10027	PO
+T4	Frequency 10028 10031	TID
+T5	Drug 10052 10060	Baclofen
+T6	Strength 10061 10066	10 mg
+T7	Form 10067 10073	Tablet
+T8	Dosage 10079 10086	Two (2)
+T9	Form 10087 10093	Tablet
+T10	Route 10094 10096	PO
+T11	Frequency 10097 10100	TID
+T12	Drug 10121 10136	Trihexyphenidyl
+T13	Strength 10137 10141	2 mg
+T14	Form 10142 10148	Tablet
+T15	Dosage 10154 10157	1.5
+T16	Form 10158 10165	Tablets
+T17	Route 10166 10168	PO
+T18	Frequency 10169 10172	TID
+T19	Drug 10193 10203	Sertraline
+T20	Strength 10204 10209	50 mg
+T21	Form 10210 10216	Tablet
+T22	Dosage 10222 10225	1.5
+T23	Form 10226 10233	Tablets
+T24	Route 10234 10236	PO
+T25	Frequency 10237 10242	DAILY
+T26	Drug 10255 10262	Nadolol
+T27	Strength 10263 10268	80 mg
+T28	Form 10269 10275	Tablet
+T29	Dosage 10281 10288	One (1)
+T30	Form 10289 10295	Tablet
+T31	Route 10296 10298	PO
+T33	Frequency 10299 10312	DAILY (Daily)
+T34	Drug 10317 10330	Ascorbic Acid
+T35	Strength 10331 10337	500 mg
+T36	Form 10338 10344	Tablet
+T37	Dosage 10350 10357	One (1)
+T38	Form 10358 10364	Tablet
+T39	Route 10365 10367	PO
+T40	Frequency 10368 10371	BID
+T41	Drug 10424 10442	Carbidopa-Levodopa
+T42	Strength 10443 10452	25-100 mg
+T43	Form 10453 10459	Tablet
+T44	Dosage 10465 10472	One (1)
+T45	Form 10473 10479	Tablet
+T46	Route 10480 10482	PO
+T48	Frequency 10483 10502	TID (3 times a day)
+T49	Drug 10539 10554	Docusate Sodium
+T50	Strength 10555 10565	50 mg/5 mL
+T51	Form 10566 10572	Liquid
+T52	Dosage 10578 10585	One (1)
+T53	Route 10587 10589	PO
+T55	Frequency 10590 10595;10596 10603	DAILY (Daily)
+T56	Drug 10743 10756	multivitamins
+T57	Strength 10843 10845	1g
+T58	Drug 10846 10855	carnitine
+T59	Duration 10868 10883	12hours-9pm-9am
+T60	Drug 10889 10898	Methadone
+T61	Strength 10899 10903	5 mg
+T62	Form 10904 10910	Tablet
+T63	Dosage 10916 10919	0.5
+T64	Form 10920 10926	Tablet
+T65	Route 10927 10929	PO
+T66	Frequency 10930 10933	TID
+T67	Drug 10987 10995	Diazepam
+T68	Strength 10996 11000	5 mg
+T69	Form 11001 11007	Tablet
+T70	Dosage 11013 11020	One (1)
+T71	Form 11021 11027	Tablet
+T72	Route 11028 11030	PO
+T73	Frequency 11031 11041;11042 11048	Q6H prn as needed
+T74	Reason 11053 11057	pain
+T75	Drug 11109 11117	Morphine
+T76	Strength 11118 11123	15 mg
+T77	Form 11124 11130	Tablet
+T78	Dosage 11136 11143	One (1)
+T79	Form 11144 11150	Tablet
+T80	Route 11151 11153	PO
+T81	Frequency 11154 11164;11165 11171	q8H prn as needed
+T82	Reason 11176 11187	severe pain
+T83	Drug 11225 11244	Diphenhydramine HCl
+T84	Strength 11245 11250	25 mg
+T85	Form 11251 11258	Capsule
+T86	Dosage 11264 11271	One (1)
+T87	Form 11272 11279	Capsule
+T88	Route 11280 11282	PO
+T89	Frequency 11283 11300	q6H prn as needed
+T90	Reason 11305 11319	acute dystonia
+T91	Drug 11330 11336	valium
+T92	Drug 11341 11349	benedryl
+T93	Reason 11363 11386	severe/painful dystonia
+T94	Drug 11425 11433	Prilosec
+T95	Strength 11438 11443	20 mg
+T96	Form 11444 11467	Tablet, Delayed Release
+T97	Dosage 11480 11483;11484 11487	One (1)
+T98	Form 11488 11511	Tablet, Delayed Release
+T99	Route 11519 11521	PO
+T100	Frequency 11522 11532	once a day
+T101	Reason 12344 12358	acute dystonia
+T103	Drug 12385 12391	valium
+T104	Strength 12392 12396	10mg
+T105	Strength 12401 12405	25mg
+T107	Drug 12412 12420	benadryl
+T108	Drug 12575 12581	Valium
+T109	Reason 12603 12608;12609 12617	tonic reaction
+T110	Drug 12729 12735	valium
+T111	Strength 12736 12739	5mg
+T112	Route 12740 12748	by mouth
+T113	Frequency 12749 12762	every 6 hours
+T114	Reason 12767 12781	acute dystonia
+T115	Strength 12793 12797	25mg
+T116	Drug 12801 12809	benedryl
+T117	Route 12810 12818	by mouth
+T118	Drug 12880 12895	pain medication
+T119	Drug 12897 12905	morphine
+T120	Drug 12948 12954	valium
+T121	Drug 12959 12967	benedryl
+T122	Reason 12972 12986;12987 12995	severe/painful dystonia
+T123	Drug 1496 1504	Benadryl
+T124	Strength 1505 1509	25mg
+T126	Dosage 1514 1515	1
+T127	Drug 1517 1523	Valium
+T128	Strength 1524 1528	10mg
+T130	Dosage 1533 1534	1
+T131	Drug 1634 1639	benzo
+T132	Drug 165 172	Demerol
+T133	Drug 175 183	Dilaudid
+T134	Drug 186 199	Ciprofloxacin
+T135	Drug 202 212	Bacitracin
+T136	Drug 215 224	Neosporin
+T137	Drug 251 258	Optiray
+T138	Strength 259 262	300
+T139	Drug 5619 5626	tylenol
+T140	Drug 5630 5636	NSAIDs
+T141	Drug 5642 5649	tylenol
+T142	Drug 5707 5714	Valtrex
+T143	Reason 5719 5727	shingles
+T144	Strength 7631 7634	5mg
+T146	Drug 7638 7644	valium
+T147	Strength 7655 7659	10mg
+T149	Drug 7663 7669	valium
+T150	Strength 7675 7679	25mg
+T152	Drug 7683 7691	benedryl
+T153	Strength 7880 7884	10mg
+T155	Drug 7888 7894	valium
+T156	Dosage 7896 7897	2
+T157	Strength 7902 7904	25
+T158	Drug 7905 7913	benedryl
+T159	Dosage 7915 7916	2
+T160	Drug 8013 8019	valium
+T161	Strength 8020 8023	5mg
+T163	Drug 8089 8096	Sinemet
+T164	Route 8185 8187	PO
+T165	Drug 8188 8194	valium
+T166	Strength 8195 8198	5mg
+T167	Frequency 8199 8205	Q8 prn
+T168	Reason 8206 8221	severe dystonia
+T169	Strength 8226 8230	25mg
+T170	Drug 8231 8239	benedryl
+T171	Route 8240 8242	po
+T172	Drug 8305 8330	narcotic pain medications
+T173	Duration 8561 8567	7 days
+T174	Drug 8571 8580	meropenem
+T175	Drug 8665 8674	meropenem
+T176	Reason 9223 9235	Pain control
+T177	Drug 9256 9265	Methadone
+T178	Strength 9266 9269	5mg
+T179	Frequency 9270 9273	q8h
+T180	Strength 9381 9384	4mg
+T181	Drug 9385 9393	morphine
+T182	Frequency 9394 9401;9402 9407	every 4 hours
+T183	Drug 9426 9435	methadone
+T184	Strength 9436 9439	2.5
+T185	Frequency 9440 9443	Q8h
+T186	Drug 9461 9469	morphine
+T187	Strength 9473 9476	2mg
+T188	Frequency 9477 9480	q2h
+T189	Frequency 9504 9507	PRN
+T190	Drug 9508 9516	morphine
+T191	Drug 9536 9545	methadone
+T192	Drug 9578 9587	methadone
+T193	Strength 9588 9593	2.5mg
+T194	Drug 9616 9627	morphine IR
+T195	Strength 9628 9632	15mg
+T196	Frequency 9633 9649	Q8 prn as needed
+T197	Reason 9654 9660;9661 9665	severe pain
+T198	Reason 9671 9681	Depression
+T199	Drug 9724 9730	zoloft
+T200	Drug 983 990	tylenol
+T201	Drug 9841 9850	Midodrine
+T202	Strength 9851 9854	5mg
+T203	Route 9855 9857	PO
+T204	Frequency 9858 9861	TID
+T205	Drug 9862 9869	Nadolol
+T206	Strength 9870 9874	80mg
+T207	Route 9875 9877	PO
+T208	Frequency 9878 9883	daily
+T209	Drug 9884 9899	Trihexyphenidyl
+T210	Strength 9900 9903	3mg
+T211	Route 9904 9906	PO
+T212	Frequency 9907 9910	TID
+T213	Drug 9911 9919	Prilosec
+T214	Strength 9920 9924	20mg
+T215	Route 9925 9927	PO
+T216	Frequency 9928 9933	daily
+T217	Drug 9934 9940	Zoloft
+T218	Strength 9941 9945	75mg
+T219	Route 9946 9948	PO
+T220	Frequency 9949 9954	daily
+T221	Drug 9983 9992	Midodrine
+T222	Strength 9993 9997	5 mg
+T223	Form 9998 10004	Tablet
+T32	Route 1510 1512	IV
+T47	Route 1529 1531	IV
+T54	Route 7635 7637	IV
+T102	Route 7660 7662	IV
+T106	Route 7680 7682	IV
+T125	Route 7885 7887	IV
+T129	Route 8024 8026	IV
+T145	Route 12382 12384	IV
+T148	Route 12409 12411	IV
+T151	Drug 7563 7571	contrast
+T154	Drug 1364 1371;1371 1372	contras t
+T162	Route 1361 1363	IV

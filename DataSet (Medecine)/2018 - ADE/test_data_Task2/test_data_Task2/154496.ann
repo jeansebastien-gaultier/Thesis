@@ -1,0 +1,174 @@
+T1	Route 2946 2963	epidural catheter
+T2	Drug 2976 2984	Dilaudid
+T3	Reason 2989 2993;2994 3001	pain control
+T4	Dosage 3178 3184	1 unit
+T5	Drug 3188 3193	PRBCs
+T6	ADE 3560 3568	delirium
+T7	Drug 3613 3622	sedatives
+T8	Drug 4018 4026	glargine
+T9	Dosage 4041 4048;4049 4054	sliding scale
+T10	Route 4070 4087	Epidural catheter
+T11	Route 4128 4132	oral
+T12	Drug 4133 4149	pain medications
+T13	Drug 4620 4626	Detrol
+T14	Strength 4627 4628	4
+T15	Drug 4630 4636	Flomax
+T16	Strength 4637 4640	0.4
+T17	Drug 4642 4649	Flonase
+T18	Strength 4650 4652	50
+T19	Drug 4654 4658	iron
+T20	Strength 4659 4661	18
+T21	Drug 4666 4676	lisinopril
+T22	Strength 4677 4679	20
+T23	Drug 4681 4691	nifedipine
+T24	Strength 4692 4694	60
+T25	Drug 4696 4706	omeprazole
+T26	Strength 4707 4709	20
+T27	Drug 4711 4716	Paxil
+T28	Strength 4717 4722	20 mg
+T29	Drug 4724 4727	MVI
+T30	Drug 4729 4736	doxepin
+T31	Form 4737 4742	cream
+T32	Strength 4743 4744	5
+T33	Drug 4747 4750	ASA
+T34	Strength 4751 4753	81
+T35	Drug 4755 4764	trazodone
+T36	Strength 4765 4767	50
+T37	Drug 4769 4775	Zyrtec
+T38	Strength 4776 4778	10
+T39	Drug 4780 4789	salsalate
+T40	Strength 4790 4793	750
+T41	Drug 4825 4840	Docusate Sodium
+T42	Strength 4841 4847	100 mg
+T43	Form 4848 4855	Capsule
+T44	Dosage 4861 4868	One (1)
+T45	Form 4869 4876	Capsule
+T46	Route 4877 4879	PO
+T47	Frequency 4880 4883	BID
+T48	Drug 4937 4942	Senna
+T49	Strength 4943 4949	8.6 mg
+T50	Form 4950 4956	Tablet
+T51	Dosage 4962 4969	One (1)
+T52	Form 4970 4976	Tablet
+T53	Route 4977 4979	PO
+T54	Frequency 4980 4983	BID
+T55	Drug 5046 5057	Tolterodine
+T56	Strength 5058 5062	2 mg
+T57	Form 5063 5069	Tablet
+T58	Dosage 5075 5082	One (1)
+T59	Form 5083 5089	Tablet
+T60	Route 5090 5092	PO
+T61	Frequency 5093 5096	BID
+T62	Drug 5149 5163	Paroxetine HCl
+T63	Strength 5164 5169	20 mg
+T64	Form 5170 5176	Tablet
+T65	Dosage 5182 5189	One (1)
+T66	Form 5190 5196	Tablet
+T67	Route 5197 5199	PO
+T68	Frequency 5200 5205	DAILY
+T69	Drug 5250 5260	Nifedipine
+T70	Strength 5261 5266	60 mg
+T71	Form 5267 5291	Tablet Sustained Release
+T72	Dosage 5297 5304	One (1)
+T73	Form 5305 5311;5312 5329	Tablet Sustained Release
+T74	Route 5330 5332	PO
+T75	Frequency 5333 5338	DAILY
+T76	Drug 5401 5411	Tamsulosin
+T77	Strength 5412 5418	0.4 mg
+T78	Form 5419 5446	Capsule, Sust. Release 24HR
+T79	Dosage 5452 5459	One (1)
+T80	Form 5460 5487	Capsule, Sust. Release 24HR
+T81	Route 5488 5490	PO
+T82	Frequency 5491 5493	HS
+T83	Drug 5564 5579	Ferrous Sulfate
+T84	Strength 5580 5591	325 (65) mg
+T85	Form 5592 5598	Tablet
+T86	Dosage 5604 5611	One (1)
+T87	Form 5612 5618	Tablet
+T88	Route 5619 5621	PO
+T89	Frequency 5622 5627	DAILY
+T90	Drug 5672 5683	Fluticasone
+T91	Strength 5684 5708	50 mcg/Actuation Aerosol
+T92	Form 5710 5715	Spray
+T93	Dosage 5721 5728	Two (2)
+T94	Form 5729 5734	Spray
+T95	Route 5735 5740	Nasal
+T96	Frequency 5759 5772	2 times a day
+T97	Drug 5806 5815	Salsalate
+T98	Strength 5816 5822	750 mg
+T99	Form 5823 5829	Tablet
+T100	Dosage 5835 5842	One (1)
+T101	Form 5843 5849	Tablet
+T102	Route 5850 5852	PO
+T103	Frequency 5853 5856	TID
+T104	Drug 5878 5887	Bisacodyl
+T105	Strength 5888 5893	10 mg
+T106	Form 5894 5905	Suppository
+T107	Dosage 5911 5918	One (1)
+T108	Form 5919 5930	Suppository
+T109	Route 5931 5937	Rectal
+T110	Frequency 5938 5940	HS
+T111	Drug 5969 5986	Albuterol Sulfate
+T112	Strength 5987 5992	0.083 
+T113	Form 5995 6003	Solution
+T114	Dosage 6009 6016	One (1)
+T115	Route 6018 6028	Inhalation
+T116	Frequency 6029 6032	Q6H
+T117	Drug 6064 6083	Ipratropium Bromide
+T118	Strength 6084 6088	0.02 
+T119	Form 6091 6099	Solution
+T120	Dosage 6105 6112	One (1)
+T121	Route 6114 6124	Inhalation
+T122	Frequency 6125 6128	Q6H
+T123	Drug 6160 6183	Oxycodone-Acetaminophen
+T124	Strength 6184 6192	5-325 mg
+T125	Form 6193 6199	Tablet
+T126	Dosage 6205 6212	One (1)
+T127	Form 6213 6219	Tablet
+T128	Route 6220 6222	PO
+T129	Frequency 6223 6259	Q4-6H (every 4 to 6 hours) as needed
+T130	Reason 6264 6268	pain
+T131	Drug 6306 6321	Timolol Maleate
+T132	Strength 6322 6325	0.5 
+T133	Form 6328 6333	Drops
+T134	Dosage 6339 6346	One (1)
+T135	Form 6347 6351	Drop
+T136	Route 6352 6362	Ophthalmic
+T137	Route 6381 6394	2 times a day
+T138	Drug 6401 6412	Brimonidine
+T139	Strength 6413 6417	0.15 
+T140	Form 6420 6425	Drops
+T141	Dosage 6431 6438	One (1)
+T142	Form 6439 6443	Drop
+T143	Route 6444 6454	Ophthalmic
+T144	Frequency 6455 6458	Q8H
+T145	Drug 6480 6488	Protonix
+T146	Strength 6489 6494	40 mg
+T147	Form 6495 6525	Tablet, Delayed Release (E.C.)
+T148	Dosage 6531 6538	One (1)
+T149	Form 6539 6569	Tablet, Delayed Release (E.C.)
+T150	Route 6570 6572	PO
+T151	Frequency 6573 6583	once a day
+T152	Drug 6589 6617	Dextromethorphan-Guaifenesin
+T153	Strength 6618 6632	10-100 mg/5 mL
+T154	Form 6633 6638	Syrup
+T155	Dosage 6644 6648;6649 6652	Five (5)
+T156	Form 6653 6655	ML
+T157	Route 6656 6658	PO
+T158	Frequency 6659 6688	Q6H (every 6 hours) as needed
+T159	Reason 6693 6698	cough
+T160	Drug 6704 6711	Cepacol
+T161	Strength 6712 6716	2 mg
+T162	Form 6717 6724	Lozenge
+T163	Dosage 6730 6737	One (1)
+T164	Form 6738 6745	Lozenge
+T165	Route 6746 6761	Mucous membrane
+T166	Frequency 6762 6787	PRN (as needed) as needed
+T167	Reason 6792 6803	sore throat
+T168	Drug 6842 6861	Metoprolol Tartrate
+T169	Strength 6862 6867	25 mg
+T170	Form 6868 6874	Tablet
+T171	Dosage 6880 6883	1.5
+T172	Form 6884 6891	Tablets
+T173	Route 6892 6894	PO
+T174	Frequency 6895 6898	BID

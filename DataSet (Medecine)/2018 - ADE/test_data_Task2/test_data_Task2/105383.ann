@@ -1,0 +1,49 @@
+T1	Drug 992 999	Norvasc
+T2	Strength 1000 1004	5 mg
+T3	Dosage 1028 1034;1035 1038	one to two
+T4	Route 1005 1009	p.o.
+T5	Drug 4193 4198	Lasix
+T6	Drug 5443 5447	Zinc
+T7	Strength 5448 5454	220 mg
+T8	Route 5455 5459	p.o.
+T9	Drug 5381 5388	Tylenol
+T10	Form 5403 5410	tablets
+T11	Dosage 5392 5398;5399 5402	one to two
+T12	Frequency 5416 5418;5418 5431	q4 -6hours p.r.n
+T13	Route 5411 5415	p.o.
+T14	Drug 5354 5361	Norvasc
+T15	Strength 5362 5366	5 mg
+T16	Route 5367 5371	p.o.
+T17	Reason 5433 5437	pain
+T18	Drug 1019 1027	Butoptic
+T19	Frequency 1010 1014	q.d.
+T20	Form 1039 1044	drops
+T21	Route 1048 1056	each eye
+T22	Frequency 1057 1063	b.i.d.
+T23	Reason 1068 1090	prevention of glaucoma
+T24	Drug 1096 1103	Trusopt
+T25	Strength 1104 1106	2%
+T26	Dosage 1107 1110	one
+T27	Route 1111 1115	drop
+T28	Route 1116 1124	each eye
+T29	Reason 1129 1151	prevention of glaucoma
+T30	Drug 2554 2563	narcotics
+T31	ADE 2498 2509	hypercarbic
+T32	Route 2573 2581	epidural
+T33	Drug 5276 5283	Trusopt
+T34	Strength 5284 5286	2%
+T35	Dosage 5287 5290	one
+T36	Form 5291 5295	drop
+T37	Route 5296 5300	O.U.
+T38	Frequency 5301 5307	t.i.d.
+T39	Drug 5312 5320	Butoptic
+T40	Dosage 5321 5324;5325 5331	one to two
+T41	Form 5332 5337	drops
+T42	Route 5338 5342	O.U.
+T43	Frequency 5343 5349	t.i.d.
+T44	Frequency 5372 5376	q.d.
+T45	Strength 5389 5391	#3
+T46	Frequency 5460 5464	q.d.
+T47	Drug 5469 5481	Multivitamin
+T48	Drug 2984 2993	narcotics
+T49	Reason 4239 4258	shortness of breath

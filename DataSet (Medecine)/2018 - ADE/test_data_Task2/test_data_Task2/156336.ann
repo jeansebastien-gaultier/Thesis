@@ -1,0 +1,283 @@
+T1	Strength 10007 10011	81mg
+T2	Strength 10015 10020	325mg
+T3	Frequency 10021 10026	daily
+T4	Drug 10058 10070	beta blocker
+T5	Drug 10161 10170	lopressor
+T6	Strength 10228 10232	50mg
+T7	Reason 10742 10758	wenkebach rhythm
+T8	Drug 10845 10852	digoxin
+T9	Drug 1085 1092	digoxin
+T10	Drug 10913 10920	lipitor
+T11	Reason 10967 10970	CHF
+T12	Drug 10983 10993	lisinopril
+T13	Drug 10998 11003	lasix
+T14	Drug 11008 11015	digoxin
+T15	Drug 11334 11344	lisinopril
+T16	Drug 11360 11367	Digoxin
+T17	Drug 11372 11377	lasix
+T18	Drug 11399 11413	Spironolactone
+T19	Reason 11448 11461	heart failure
+T20	Reason 11466 11472	low EF
+T21	Drug 11895 11905	lisinopril
+T22	Drug 11907 11912	lasix
+T23	Drug 11918 11925	digoxin
+T24	Drug 11982 11992	lisinopril
+T25	Drug 12023 12034	antibiotics
+T26	Reason 12100 12106	Anemia
+T27	Dosage 12296 12297	1
+T28	Form 12298 12302	unit
+T29	Drug 12306 12310	pRBC
+T30	Reason 12315 12324	Hct of 26
+T31	Dosage 12467 12468	1
+T32	Form 12469 12473	unit
+T33	Drug 12474 12478	pRBC
+T34	ADE 12572 12588	Facial eccymoses
+T35	ADE 12593 12601	erythema
+T36	Drug 1293 1301	dopamine
+T37	ADE 12959 12982	peri-orbital cellulitis
+T38	Drug 13079 13086	heparin
+T39	Route 13087 13091	drip
+T40	Drug 13210 13217	heparin
+T41	Dosage 13415 13416	1
+T42	Form 13416 13417	U
+T43	Drug 13418 13422	PRBC
+T44	Reason 13433 13446	fear of bleed
+T45	Drug 13760 13767	zyprexa
+T46	Strength 13768 13771	5mg
+T47	Frequency 13772 13775	PRN
+T48	Reason 13780 13789	agitation
+T49	Drug 1389 1397	Dopamine
+T50	Reason 13929 13941	Coagulopathy
+T51	Drug 13954 13962	coumadin
+T52	Reason 13981 13993	dysrhythmias
+T53	Reason 13998 14017	lower extremity DVT
+T54	Drug 14020 14028	Coumadin
+T55	Strength 1414 1426	10mcg/kg/min
+T56	Strength 14183 14186	1mg
+T57	Frequency 14187 14190	qhs
+T58	Drug 14317 14325	coumadin
+T59	Reason 14385 14398	Hypernatremia
+T60	Drug 1450 1458	levophed
+T61	Drug 14594 14599	fluid
+T62	Strength 1462 1475	0.5mcg/kg/min
+T63	Strength 1500 1511	3mcg/kg/min
+T64	Drug 15512 15519	heparin
+T65	Route 15520 15524	drip
+T66	Drug 1553 1561	Levophed
+T67	Reason 15533 15552	non ST elevation MI
+T68	Reason 15557 15572	DVT prophylaxis
+T69	Route 15595 15607	subcutaneous
+T70	Drug 15608 15615	heparin
+T71	Strength 1565 1576	3mcg/kg/min
+T72	Drug 15663 15671	coumadin
+T73	Drug 15711 15714	PPI
+T74	Drug 16235 16243	coumadin
+T75	Strength 16246 16249	1mg
+T76	Route 16250 16252	PO
+T77	Frequency 16253 16255	QD
+T78	Drug 16258 16267	lopressor
+T79	Strength 16269 16273	50mg
+T80	Route 16274 16276	PO
+T81	Frequency 16277 16280	BID
+T82	Drug 16283 16290	zyprexa
+T83	Strength 16292 16295	5mg
+T84	Frequency 16296 16299	QHS
+T85	Drug 16302 16309	vicodin
+T86	Strength 16311 16316	5/500
+T87	Dosage 16318 16319	1
+T88	Form 16320 16323	tab
+T89	Route 16324 16326	PO
+T90	Frequency 16327 16329	QD
+T91	Drug 16364 16379	lanoxin-digoxin
+T92	Dosage 16382 16383	1
+T93	Form 16384 16387	tab
+T94	Route 16388 16390	PO
+T95	Frequency 16391 16393	QD
+T96	Drug 16396 16406	omeprazole
+T97	Dosage 16408 16409	1
+T98	Form 16410 16413	tab
+T99	Route 16414 16416	PO
+T100	Frequency 16417 16420	BID
+T101	Drug 16423 16426	MVI
+T102	Drug 16429 16434	Lasix
+T103	Strength 16437 16441	40mg
+T104	Frequency 16442 16444	QD
+T105	Drug 16447 16457	Lisinopril
+T106	Dosage 1645 1647	7L
+T107	Strength 16459 16462	5mg
+T108	Route 16463 16465	PO
+T109	Frequency 16466 16468	QD
+T110	Drug 16471 16474	ASA
+T111	Strength 16477 16481	81mg
+T112	Drug 1648 1650	NS
+T113	Frequency 16482 16484	QD
+T114	Drug 16487 16496	Vitamin C
+T115	Drug 16499 16502	MOM
+T116	Frequency 16504 16507	PRN
+T117	Drug 16510 16518	Dulcolax
+T118	Frequency 16520 16523	PRN
+T119	Drug 16526 16537	Fleet Enema
+T120	Frequency 16540 16543	PRN
+T121	Drug 16546 16552	Maalox
+T122	Frequency 16554 16557	PRN
+T123	Drug 16560 16567	Tylenol
+T124	Frequency 16569 16572	PRN
+T125	Drug 16574 16584	Robitussin
+T126	Frequency 16587 16590	PRN
+T127	Drug 16593 16600	duonebs
+T128	Frequency 16601 16604	PRN
+T129	Drug 16607 16614	cepacol
+T130	Form 16615 16623	lozenges
+T131	Drug 1663 1667	Levo
+T132	Drug 16652 16662	Olanzapine
+T133	Strength 16663 16667	5 mg
+T134	Form 16668 16690	Tablet, Rapid Dissolve
+T135	Drug 1668 1674	Flagyl
+T136	Dosage 16696 16703	One (1)
+T137	Form 16704 16711;16712 16726	Tablet, Rapid Dissolve
+T138	Route 16727 16729	PO
+T139	Frequency 16730 16733	QHS
+T140	Drug 1675 1680	Vanco
+T141	Drug 16774 16787	Ascorbic Acid
+T142	Strength 16788 16794	500 mg
+T143	Form 16795 16801	Tablet
+T144	Dosage 16807 16814	One (1)
+T145	Form 16815 16821	Tablet
+T146	Route 16822 16824	PO
+T147	Frequency 16825 16828	BID
+T148	Drug 16849 16868	Magnesium Hydroxide
+T149	Strength 16869 16880	400 mg/5 mL
+T150	Form 16881 16891	Suspension
+T151	Dosage 16897 16908;16909 16911	Thirty (30) ML
+T152	Route 16912 16914	PO
+T153	Frequency 16915 16918	Q6H
+T154	Drug 16949 16958	Bisacodyl
+T155	Strength 16959 16963	5 mg
+T156	Form 16964 16994	Tablet, Delayed Release (E.C.)
+T157	Dosage 17000 17007	Two (2)
+T158	Dosage 17008 17038	Tablet, Delayed Release (E.C.)
+T159	Route 17039 17041	PO
+T160	Frequency 17042 17047	DAILY
+T161	Drug 17070 17077	Aspirin
+T162	Strength 17078 17084	325 mg
+T163	Form 17085 17091	Tablet
+T164	Dosage 17097 17104	One (1)
+T165	Form 17105 17111	Tablet
+T166	Route 17112 17114	PO
+T167	Frequency 17115 17120	DAILY
+T168	Drug 17133 17145	Erythromycin
+T169	Strength 17146 17152	5 mg/g
+T170	Form 17153 17161	Ointment
+T171	Dosage 17167 17174	One (1)
+T172	Form 17175 17185	aplication
+T173	Route 17186 17196	Ophthalmic
+T174	Frequency 17198 17201	QID
+T175	Duration 17218 17228	for 4 days
+T176	Drug 17233 17261	Artificial Tear with Lanolin
+T177	Strength 17262 17269	0.1-0.1 
+T178	Form 17272 17280	Ointment
+T179	Dosage 17286 17293	One (1)
+T180	Form 17294 17298	Appl
+T181	Route 17299 17309	Ophthalmic
+T182	Frequency 17311 17314	PRN
+T183	Drug 17331 17339	Warfarin
+T184	Strength 17340 17344	1 mg
+T185	Form 17345 17351	Tablet
+T186	Dosage 17357 17364	One (1)
+T187	Form 17365 17371	Tablet
+T188	Route 17372 17374	PO
+T189	Frequency 17375 17380	DAILY
+T190	Drug 17433 17452	Metoprolol Tartrate
+T191	Strength 17453 17458	25 mg
+T192	Form 17459 17465	Tablet
+T193	Dosage 17471 17478	Two (2)
+T194	Form 17479 17485	Tablet
+T195	Route 17486 17488	PO
+T196	Frequency 17489 17492	BID
+T197	Drug 17550 17560	Lisinopril
+T198	Strength 17561 17565	5 mg
+T199	Form 17566 17572	Tablet
+T200	Dosage 17578 17585	One (1)
+T201	Form 17586 17592	Tablet
+T202	Route 17593 17595	PO
+T203	Frequency 17596 17601	DAILY
+T204	Drug 17642 17654	Atorvastatin
+T205	Strength 17655 17660	40 mg
+T206	Form 17661 17667	Tablet
+T207	Dosage 17673 17680	One (1)
+T208	Form 17681 17687	Tablet
+T209	Route 17688 17690	PO
+T210	Frequency 17691 17696	DAILY
+T211	Drug 17710 17722	Thiamine HCl
+T212	Strength 17723 17729	100 mg
+T213	Form 17730 17736	Tablet
+T214	Dosage 17742 17749	One (1)
+T215	Form 17750 17756	Tablet
+T216	Route 17757 17759	PO
+T217	Frequency 17760 17765	DAILY
+T218	Drug 17779 17789	Folic Acid
+T219	Strength 17790 17794	1 mg
+T220	Form 17795 17801	Tablet
+T221	Dosage 17807 17814	One (1)
+T222	Form 17815 17821	Tablet
+T223	Route 17822 17824	PO
+T224	Frequency 17825 17830	DAILY
+T225	Drug 17845 17857	Lansoprazole
+T226	Strength 17858 17863	30 mg
+T227	Form 17864 17884	Susp,Delayed Release
+T228	Dosage 17900 17914	Thirty (30) mg
+T229	Route 17915 17917	PO
+T230	Frequency 17918 17923	DAILY
+T231	Route 17937 17953	nasogastric tube
+T232	Drug 17959 17973	Spironolactone
+T233	Strength 17974 17979	25 mg
+T234	Form 17980 17986	Tablet
+T235	Dosage 17992 17999	One (1)
+T236	Form 18000 18006	Tablet
+T237	Route 18007 18009	PO
+T238	Frequency 18010 18015	DAILY
+T239	Drug 18029 18041	Levofloxacin
+T240	Strength 18042 18048	250 mg
+T241	Form 18049 18055	Tablet
+T242	Dosage 18061 18068	One (1)
+T243	Form 18069 18075	Tablet
+T244	Route 18076 18078	PO
+T245	Frequency 18079 18083	Q24H
+T246	Duration 18101 18111	for 2 days
+T247	Drug 18117 18139	Vancomycin in Dextrose
+T248	Strength 18140 18150	1 g/200 mL
+T249	Form 18151 18160	Piggyback
+T250	Dosage 18166 18173	One (1)
+T251	Form 18174 18178	gram
+T252	Route 18179 18190	Intravenous
+T253	Frequency 18192 18197	Q 24H
+T254	Duration 18215 18225	for 9 days
+T255	Drug 328 335	pressor
+T256	Drug 438 448	packed RBC
+T257	Drug 8120 8128	levaphed
+T258	Reason 8133 8148	pressor support
+T259	Drug 8172 8182	vancomycin
+T260	Drug 8187 8192	zosyn
+T261	Reason 8197 8232	broad spectrum antibiotics coverage
+T262	Drug 8299 8307	levaphed
+T263	Reason 8465 8475	cellulitis
+T264	Drug 8509 8519	vancomycin
+T265	Duration 8534 8547	14 day course
+T266	Reason 8656 8665	pneumonia
+T267	Drug 8796 8806	vancomycin
+T268	Duration 8821 8834	14 day course
+T269	Drug 8850 8855	zosyn
+T270	Drug 8880 8892	levofloxacin
+T271	Reason 8911 8933	gram negative coverage
+T272	Duration 8948 8953;8954 8960	7 day course
+T273	Reason 8979 8982	UTI
+T274	Drug 9285 9295	vancomycin
+T275	Duration 9310 9323	14 day course
+T276	Drug 9328 9340	levofloxacin
+T277	Duration 9355 9367	7 day course
+T278	Drug 9382 9387	zosyn
+T279	Reason 9848 9862	ischemic event
+T280	Drug 9893 9900	heparin
+T281	Route 9901 9905	drip
+T282	Duration 9918 9926	48 hours
+T283	Drug 9975 9982	aspirin

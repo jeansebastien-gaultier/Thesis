@@ -1,0 +1,156 @@
+T1	ADE 10279 10299	difficulty breathing
+T2	ADE 10304 10327	decreased oxygen levels
+T3	Drug 10373 10382	paralytic
+T4	Drug 10732 10738	oxygen
+T5	Route 10772 10781	face-mask
+T6	Route 10787 10796	face-tent
+T7	Route 10802 10815	nasal cannula
+T8	Drug 10833 10839	oxygen
+T9	Drug 11192 11198	oxygen
+T10	Drug 11311 11317	oxygen
+T11	Drug 11469 11475	oxygen
+T12	Drug 11486 11507	Albuterol-Ipratropium
+T13	Form 11508 11515	inhaler
+T14	Dosage 11529 11532	1-2
+T15	Form 11533 11538	PUFFs
+T17	Frequency 11539 11564	every 4-6 hours as needed
+T18	Reason 11569 11588	shortness of breath
+T19	Reason 11592 11600	wheezing
+T20	Drug 11719 11729	metoprolol
+T21	Strength 11733 11738	50 mg
+T22	Frequency 11739 11750	twice a day
+T23	Strength 11756 11762	150 mg
+T24	Reason 1195 1206	SCC of lung
+T25	Drug 1240 1252	chemotherapy
+T26	Drug 165 176	Optiray 320
+T27	ADE 4956 4961	apnea
+T28	Drug 4994 5004	paralytics
+T32	Drug 5951 5955	Nebs
+T33	Frequency 5980 5989	as needed
+T34	Reason 6081 6099	coughing up phlegm
+T35	ADE 615 621	apneic
+T36	Drug 6349 6355	oxygen
+T37	Dosage 6357 6359	2L
+T38	Drug 6446 6452	oxygen
+T39	Drug 653 663	paralytics
+T40	Drug 720 729	paralytic
+T41	Reason 7668 7672	IDDM
+T42	Drug 7689 7697	glargine
+T43	Reason 7717 7720	HTN
+T44	Drug 7732 7742	amlodipine
+T45	Drug 7744 7753	lopressor
+T46	Drug 7758 7761	ASA
+T47	Reason 7767 7781	Hyperlipidemia
+T48	Drug 7798 7804	statin
+T49	Drug 7834 7844	AMLODIPINE
+T50	Strength 7845 7849	5 mg
+T51	Frequency 7850 7855	daily
+T52	Drug 7856 7868	ESOMEPRAZOLE
+T53	Strength 7869 7873	40mg
+T54	Frequency 7874 7876	qd
+T55	Drug 7877 7885	GLARGINE
+T56	Strength 7886 7893	8 units
+T57	Frequency 7894 7907	daily @ night
+T58	Drug 7908 7917	LORAZEPAM
+T59	Strength 7918 7921	1mg
+T60	Drug 7939 7949	METOPROLOL
+T61	Strength 7950 7956	150 mg
+T62	Drug 7974 7985	REPAGLINIDE
+T63	Strength 7986 7992	0.5 mg
+T64	Frequency 7993 7996	tid
+T65	Drug 7997 8008	SIMVASTATIN
+T66	Strength 8009 8014	40 mg
+T67	Frequency 8015 8017	qd
+T69	Drug 8018 8025	ASPIRIN
+T70	Strength 8026 8031	81 mg
+T71	Frequency 8032 8037	daily
+T72	Drug 8038 8048	FAMOTIDINE
+T73	Frequency 8049 8051	qd
+T74	Drug 8080 8090	amlodipine
+T75	Strength 8091 8095	5 mg
+T76	Form 8096 8102	Tablet
+T78	Dosage 8108 8115	One (1)
+T79	Form 8116 8122	Tablet
+T80	Route 8123 8125	PO
+T81	Frequency 8126 8131	DAILY
+T82	Drug 8154 8166	pantoprazole
+T83	Strength 8167 8172	40 mg
+T85	Form 8173 8196	Tablet, Delayed Release
+T87	Dosage 8209 8212;8213 8216	One (1)
+T89	Form 8217 8240	Tablet, Delayed Release
+T90	Route 8248 8250	PO
+T92	Frequency 8251 8272	Q24H (every 24 hours)
+T93	Drug 8277 8293	insulin glargine
+T94	Strength 8294 8305	100 unit/mL
+T95	Form 8306 8314	Solution
+T96	Dosage 8320 8335	Eight (8) units
+T97	Route 8336 8348	Subcutaneous
+T98	Frequency 8349 8359	at bedtime
+T100	Drug 8364 8373	lorazepam
+T101	Strength 8374 8380	0.5 mg
+T102	Form 8381 8387	Tablet
+T104	Dosage 8393 8400	Two (2)
+T105	Form 8401 8407	Tablet
+T106	Route 8408 8410	PO
+T108	Frequency 8411 8425;8426 8432	twice a day as needed
+T109	Reason 8437 8445	insomnia
+T110	Drug 8450 8469	metoprolol tartrate
+T111	Strength 8470 8475	50 mg
+T112	Form 8476 8482	Tablet
+T114	Dosage 8488 8495	One (1)
+T115	Form 8496 8502	Tablet
+T116	Route 8503 8505	PO
+T117	Frequency 8506 8509	BID
+T118	Drug 8530 8541	simvastatin
+T119	Strength 8542 8547	40 mg
+T120	Form 8548 8554	Tablet
+T122	Dosage 8560 8567	One (1)
+T123	Form 8568 8574	Tablet
+T124	Route 8575 8577	PO
+T125	Frequency 8578 8583	DAILY
+T126	Drug 8596 8607	repaglinide
+T127	Strength 8608 8614	0.5 mg
+T128	Form 8615 8621	Tablet
+T130	Dosage 8627 8634	One (1)
+T131	Form 8635 8641	Tablet
+T132	Route 8642 8644	PO
+T133	Frequency 8645 8656;8657 8662	three times a day
+T134	Drug 8667 8674	Aspirin
+T135	Strength 8684 8689	81 mg
+T137	Form 8690 8713	Tablet, Delayed Release
+T138	Dosage 8726 8733	One (1)
+T139	Form 8734 8757	Tablet, Delayed Release
+T140	Route 8765 8767	PO
+T141	Frequency 8768 8778	once a day
+T142	Drug 8783 8796	acetaminophen
+T143	Strength 8797 8803	325 mg
+T144	Form 8804 8810	Tablet
+T145	Dosage 8816 8823	Two (2)
+T146	Form 8824 8830	Tablet
+T147	Route 8831 8833	PO
+T149	Frequency 8834 8844;8845 8863	Q6H (every 6 hours) as needed
+T150	Reason 8868 8872	pain
+T151	Drug 8878 8899	ipratropium-albuterol
+T152	Strength 8900 8920	18-103 mcg/Actuation
+T153	Form 8921 8928	Aerosol
+T154	Form 8946 8951	puffs
+T155	Route 8952 8962	Inhalation
+T156	Frequency 8963 8988	every 4-6 hours as needed
+T157	Reason 8993 9005;9006 9012	shortness of breath
+T158	Reason 9016 9024	wheezing
+T159	Drug 9054 9060	Oxygen
+T160	Dosage 9061 9063	2L
+T161	Route 9064 9076	nasal canula
+T162	Frequency 9077 9092	with ambulation
+T163	Drug 9097 9107	famotidine
+T164	Strength 9108 9113	20 mg
+T165	Form 9114 9120	Tablet
+T167	Dosage 9126 9133	One (1)
+T168	Form 9134 9140	Tablet
+T169	Route 9141 9143	PO
+T170	Frequency 9144 9154	once a day
+T171	Reason 9335 9346	SCC of lung
+T172	Drug 9376 9388	chemotherapy
+T173	Drug 9614 9621	Insulin
+T174	Reason 9632 9649	diabetes mellitus
+T175	Drug 9988 9994	oxygen

@@ -1,0 +1,50 @@
+T1	Drug 1341 1344	TPA
+T3	Drug 1379 1384	nitro
+T4	Drug 1397 1404	heparin
+T5	Drug 1406 1413	aspirin
+T6	Reason 5420 5428	diuresis
+T8	Drug 5437 5442	lasix
+T9	Drug 5447 5453	diuril
+T10	Reason 5524 5548	hemodynamically unstable
+T11	Drug 5580 5588	dopamine
+T12	Drug 5747 5755	dopamine
+T13	ADE 5849 5867	metabolic acidosis
+T14	Drug 6364 6371	lipitor
+T15	Strength 6372 6376	80mg
+T16	Frequency 6377 6382	daily
+T17	Drug 6383 6389	plavix
+T18	Strength 6390 6394	75mg
+T19	Frequency 6395 6400	daily
+T20	Drug 6401 6410	toprol xl
+T21	Strength 6411 6415	50mg
+T22	Frequency 6416 6421	daily
+T23	Drug 6422 6429	zestril
+T24	Strength 6430 6433	5mg
+T25	Frequency 6434 6439	daily
+T26	Drug 6440 6445	alsix
+T27	Strength 6446 6450	80mg
+T28	Frequency 6451 6456	daily
+T29	Drug 6457 6464	aspirin
+T30	Strength 6465 6469	81mg
+T31	Frequency 6470 6475	daily
+T33	Drug 6498 6505	heparin
+T34	Strength 6509 6518	600u/hour
+T36	Drug 6522 6527	nitro
+T37	Strength 6531 6542	30mcg / min
+T38	Drug 6543 6546	asa
+T39	Strength 6547 6552	325mg
+T40	Drug 6554 6561	lipitor
+T41	Strength 6562 6566	20mg
+T42	Frequency 6567 6572	daily
+T43	Drug 6573 6578	lasix
+T44	Strength 6579 6583	80mg
+T45	Route 6584 6586	po
+T46	Drug 6587 6593	plavix
+T47	Strength 6594 6598	75mg
+T48	Drug 6599 6606	zestril
+T49	Strength 6607 6610	5mg
+T50	Drug 7067 7074	pressor
+T2	Route 1376 1378	IV
+T7	Route 5434 5436	IV
+T32	Route 6495 6497	IV
+T35	Route 6519 6521	IV

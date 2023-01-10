@@ -1,0 +1,85 @@
+T1	Drug 164 175	Penicillins
+T2	Dosage 1721 1728	1 liter
+T3	Drug 1729 1731	NS
+T4	Drug 178 190	Levofloxacin
+T5	Drug 193 204	ceftriaxone
+T6	Drug 207 213	Keflex
+T7	Drug 216 222	Flagyl
+T8	Drug 225 235	vancomycin
+T9	Reason 2322 2366	mediastinal lymph nodes measuring up to 9 mm
+T10	Drug 2379 2389	cephalexin
+T11	Drug 2394 2423	trimethoprim/sulfamethoxazole
+T12	Route 2442 2444	PO
+T13	Route 2712 2725	nasal cannula
+T14	Drug 2726 2728	O2
+T16	Dosage 2881 2889	2 liters
+T18	Drug 2890 2896	NS IVF
+T20	Dosage 2901 2908	bolused
+T21	Drug 2933 2943	vancomycin
+T22	Drug 2945 2956	ceftriaxone
+T23	Drug 2961 2974	metronidazole
+T25	Reason 5717 5727	cellulitis
+T26	Drug 5788 5794	fluids
+T27	Drug 5799 5802	Abx
+T28	Reason 5819 5830	hypotension
+T29	Reason 5835 5840	fever
+T30	ADE 5862 5866	rash
+T31	Drug 5902 5905	Abx
+T32	Reason 594 604	cellulitis
+T33	Reason 6039 6049	Cellulitis
+T34	ADE 6068 6079	hypotension
+T35	Reason 6111 6121	cellulitis
+T36	Drug 6125 6131	Keflex
+T37	Duration 6160 6166	13days
+T38	Drug 6170 6176	Keflex
+T39	Drug 6233 6237	Vanc
+T40	Drug 6238 6241	CTX
+T41	Drug 6242 6248	Flagyl
+T44	Drug 6315 6318	abx
+T45	Drug 6595 6606	antibiotics
+T46	ADE 6634 6641	febrile
+T48	ADE 6643 6654	tachycardic
+T50	ADE 6659 6670	hypotensive
+T51	ADE 6676 6697	pruritic pink papules
+T52	Drug 670 681	antibiotics
+T53	Drug 6751 6764	cephalosporin
+T54	Reason 6769 6787	post-op cellulitis
+T55	Drug 6975 6983	benadryl
+T56	Drug 6988 6998	famotidine
+T57	Drug 700 706	Keflex
+T58	Reason 7003 7011	drug rxn
+T59	Route 7016 7023	topical
+T60	Drug 7024 7031	steroid
+T61	Reason 7036 7044	pruritis
+T62	Drug 7473 7496	OXYCODONE-ACETAMINOPHEN
+T63	Strength 7499 7510	5 mg-325 mg
+T64	Form 7511 7517	Tablet
+T65	Dosage 7520 7521	1
+T66	Form 7522 7531	Tablet(s)
+T67	Route 7532 7534;7535 7540	by mouth
+T68	Frequency 7541 7564	Every 4 hours as needed
+T69	Reason 7569 7573	pain
+T70	Reason 8028 8038	cellulitis
+T71	Reason 8062 8073	hypotension
+T73	Drug 8124 8130	fluids
+T74	Drug 8135 8146	antibiotics
+T75	ADE 8164 8168	rash
+T76	Drug 8203 8214	antibiotics
+T77	Reason 822 829	fatigue
+T78	Drug 8261 8272	antibiotics
+T79	Drug 8292 8303	antibiotics
+T81	Route 8324 8338	skin infection
+T82	Drug 8383 8394	antibiotics
+T83	ADE 8415 8419	rash
+T84	Drug 8497 8507	Vancomycin
+T85	Drug 8509 8520	Ceftriaxone
+T86	Drug 8522 8528	Flagyl
+T87	Drug 8530 8536	Keflex
+T88	Drug 8538 8545	Bactrim
+T89	Drug 887 894	Tylenol
+T90	Drug 898 903	Advil
+T15	Route 2975 2977	IV
+T17	Route 6249 6251	IV
+T19	Route 6312 6314	IV
+T24	Route 8121 8123	IV
+T42	Reason 834 842	weakness

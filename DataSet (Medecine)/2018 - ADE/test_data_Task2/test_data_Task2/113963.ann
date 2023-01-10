@@ -1,0 +1,348 @@
+T1	Drug 15106 15115	Metformin
+T2	Strength 15116 15121	500mg
+T3	Drug 16643 16651	Cefepime
+T4	Strength 16652 16658	2 gram
+T5	Form 16688 16697	Injection
+T6	Drug 13316 13326	colchicine
+T7	Drug 13575 13585	oxybutynin
+T8	Drug 12040 12045	Lasix
+T9	Drug 1196 1211	succinylcholine
+T10	Drug 12298 12305	digoxin
+T11	Drug 12555 12565	Metoprolol
+T12	Drug 14860 14871	Allopurinol
+T13	Strength 14872 14877	100mg
+T14	Drug 13328 13340	Indomethacin
+T15	Drug 17170 17177	insulin
+T16	Drug 12307 12317	metoprolol
+T17	Drug 12827 12837	lisinopril
+T18	Drug 1053 1065	levofloxacin
+T19	Strength 1066 1071	750mg
+T21	Drug 15020 15033	Diphenoxylate
+T22	Drug 12322 12332	amiodarone
+T23	Drug 15139 15149	Metoprolol
+T24	Strength 15150 15155	100mg
+T25	Drug 14884 14894	Amiodarone
+T26	Strength 14895 14900	200mg
+T27	Drug 1797 1804	digoxin
+T28	Drug 8796 8803	digoxin
+T29	Drug 10284 10296	levofloxacin
+T30	Drug 18481 18491	lisinopril
+T31	Drug 10805 10815	vancomycin
+T32	Drug 1078 1085	digoxin
+T33	Drug 17209 17216	insulin
+T34	Drug 15162 15172	Oxybutynin
+T35	Strength 15173 15176	5mg
+T36	Drug 14907 14917	Amlodipine
+T37	Strength 14918 14922	10mg
+T38	Drug 15934 15944;15945 15954	Metoprolol Succinate
+T39	Strength 15955 15960	100mg
+T40	Drug 8000 8007	Digoxin
+T41	Drug 15425 15437	Atorvastatin
+T42	Strength 15438 15443	10 mg
+T43	Form 15460 15466	Tablet
+T44	Dosage 15456 15459	0.5
+T45	Route 15467 15469	PO
+T46	Drug 16570 16583	Normal Saline
+T47	Drug 9546 9553	digoxin
+T48	Drug 2379 2388	clonidine
+T49	Drug 15695 15703	Warfarin
+T50	Strength 15704 15708	2 mg
+T51	Form 15729 15735	Tablet
+T52	Route 15736 15738	PO
+T53	Drug 14929 14941	Atorvastatin
+T54	Strength 14942 14945	5mg
+T55	Drug 8018 8025	Digoxin
+T56	Drug 14419 14426	insulin
+T57	Drug 12758 12768	amlodipine
+T58	Drug 8280 8289	clonidine
+T60	Strength 16488 16496;16496 16499	10 units /ml
+T61	Dosage 16501 16502;16503 16505	2 mL
+T63	Drug 14991 14998	Digoxin
+T64	Strength 14999 15006	125 mcg
+T65	Form 15007 15013	Tablet
+T66	Drug 10426 10437	Clindamycin
+T67	Drug 16736 16746	Vancomycin
+T68	Strength 16747 16755	1,000 mg
+T69	Route 16785 16796	Intravenous
+T70	Drug 17253 17262	Metformin
+T71	Drug 12647 12657	Amiodarone
+T72	Drug 14952 14960	Darvocet
+T73	Drug 10348 10355	digoxin
+T74	Drug 11885 11890	lasix
+T75	Drug 488 496	coumadin
+T76	Drug 2422 2430	coumadin
+T77	Drug 12347 12354	digoxin
+T78	Drug 14970 14979	Detrol LA
+T79	Strength 14980 14984	2 mg
+T80	Drug 8571 8579	digibind
+T81	Drug 18300 18307	digoxin
+T82	Drug 14461 14470	Metformin
+T83	Drug 15231 15239	Warfarin
+T84	Strength 15240 15243	2mg
+T85	Strength 15499 15503	5 mg
+T86	Form 15524 15530	Tablet
+T87	Route 15531 15533	PO
+T88	Drug 15488 15497;15497 15498	Amlodipin e
+T89	Drug 11640 11650	Lisinopril
+T90	Drug 1601 1609	digibind
+T91	Drug 10888 10898	Vancomycin
+T92	Drug 18316 18326	amiodarone
+T93	Drug 1677 1685	digibind
+T94	Drug 1167 1175	digibind
+T95	Drug 8333 8340	digoxin
+T96	Drug 8856 8866	Metoprolol
+T97	Drug 15762 15781	Metoprolol Tartrate
+T98	Strength 15782 15787	50 mg
+T99	Form 15808 15814	Tablet
+T100	Route 15815 15817	PO
+T101	Strength 16286 16291	80 mg
+T102	Form 16312 16318	Tablet
+T103	Route 16319 16321	PO
+T104	Drug 16275 16284;16284 16285	Furosemid e
+T105	Drug 16534 16541	heparin
+T106	Dosage 16564 16566;16567 16569	10 mL
+T107	Drug 13464 13474	Colchicine
+T108	Drug 13892 13900	warfarin
+T109	Drug 927 933	ativan
+T110	Strength 934 937	2mg
+T112	Drug 14496 14505	metformin
+T113	Drug 9127 9137	furosemide
+T114	Drug 12712 12722	metoprolol
+T115	Strength 15284 15289	81 mg
+T116	Form 15320 15326;15326 15336	Tablet , Chewable
+T117	Drug 15276 15282;15282 15283	Aspiri n
+T118	Drug 10413 10425	Azithromycin
+T119	Drug 17693 17700	Digoxin
+T120	Drug 9907 9914	Digoxin
+T121	Drug 12727 12737	lisinopril
+T122	Drug 18616 18624	Darvocet
+T123	Drug 12473 12481	coumadin
+T124	Drug 17338 17345	insulin
+T125	Drug 15553 15566	Acetaminophen
+T126	Strength 15567 15573	325 mg
+T127	Form 15594 15600	Tablet
+T128	Route 15601 15603	PO
+T129	Drug 18626 18635	Detrol LA
+T130	Strength 18636 18639	2mg
+T131	Drug 16836 16856	Metoprolol Succinate
+T132	Strength 16857 16863	100 mg
+T133	Form 16864 16870;16871 16894	Tablet Sustained Release 24 hr
+T134	Drug 12662 12669	Digoxin
+T135	Drug 10698 10709	ceftriaxone
+T136	Drug 8651 8659	digibind
+T137	Drug 12492 12500	Warfarin
+T138	Drug 18641 18654	Diphenoxylate
+T139	Drug 16596 16603	Heparin
+T140	Drug 16341 16353	Fexofenadine
+T141	Strength 16354 16359	60 mg
+T142	Form 16380 16386	Tablet
+T143	Route 16387 16389	PO
+T144	Drug 13526 13537	Allopurinol
+T145	Drug 471 478	digoxin
+T146	Drug 17370 17379	Metformin
+T147	Drug 16987 16996	Metformin
+T148	Strength 16997 17003	500 mg
+T149	Form 17024 17030	Tablet
+T150	Route 17031 17033	PO
+T151	Drug 8671 8678	Digoxin
+T152	Drug 18656 18666	Oxybutynin
+T153	Drug 17128 17135	Insulin
+T154	Drug 18410 18420	vancomycin
+T155	Drug 15084 15094	Lisinopril
+T156	Strength 15095 15099	40mg
+T157	Drug 7944 7951	digoxin
+T158	Drug 15062 15072	Furosemide
+T159	Strength 15073 15077	80mg
+T160	Drug 13299 13311	indomethacin
+T161	Drug 1217 1225	propofol
+T162	Drug 18425 18433	cefepime
+T163	Drug 12795 12805	metoprolol
+T164	Drug 13564 13570	Detrol
+T165	Drug 15358 15369	Allopurinol
+T166	Strength 15370 15376	100 mg
+T167	Form 15397 15403	Tablet
+T168	Route 15404 15406	PO
+T169	Reason 480 484	Afib
+T171	Reason 12773 12783	BP control
+T172	Reason 14965 14969	pain
+T173	Reason 16418 16425	itching
+T174	Frequency 14878 14883	daily
+T175	Drug 14845 14848	ASA
+T176	Strength 14849 14853	81mg
+T177	Frequency 14854 14859	daily
+T178	Frequency 14901 14906	daily
+T179	Frequency 14923 14928	daily
+T180	Frequency 14946 14951	daily
+T181	Frequency 14961 14964	prn
+T182	Frequency 14985 14990	daily
+T183	Frequency 15014 15019	daily
+T184	Frequency 15034 15043	as needed
+T185	Drug 15044 15052	Fish oil
+T186	Strength 15053 15055	1g
+T187	Frequency 15056 15061	daily
+T188	Frequency 15078 15083	daily
+T189	Frequency 15100 15105	daily
+T190	Frequency 15156 15161	daily
+T191	Drug 15194 15202	Zaroulyn
+T192	Strength 15203 15206	5mg
+T193	Frequency 15207 15230	prn 30 min before lasix
+T194	Drug 15225 15230	lasix
+T195	Frequency 15244 15247	qhs
+T196	Form 15290 15306	Tablet, Chewable
+T197	Route 15337 15339	PO
+T198	Frequency 15340 15353	DAILY (Daily)
+T199	Dosage 15312 15319	One (1)
+T200	Form 15444 15450	Tablet
+T201	Form 15377 15383	Tablet
+T202	Dosage 15389 15396	One (1)
+T203	Frequency 15407 15412;15413 15420	DAILY (Daily)
+T204	Frequency 15470 15483	DAILY (Daily)
+T205	Form 15504 15510	Tablet
+T206	Dosage 15516 15523	Two (2)
+T207	Frequency 15534 15547	DAILY (Daily)
+T208	Form 15574 15580	Tablet
+T209	Dosage 15586 15593	Two (2)
+T210	Frequency 15604 15614;15615 15633	Q6H (every 6 hours) as needed
+T211	Reason 15638 15643	fever
+T212	Form 15709 15715	Tablet
+T213	Dosage 15721 15728	One (1)
+T214	Frequency 15739 15754;15755 15757	Once Daily at 4 PM
+T215	Form 15788 15794	Tablet
+T216	Dosage 15800 15807	One (1)
+T217	Frequency 15818 15820;15821 15828	at bedtime
+T218	Frequency 15961 15966	daily
+T219	Drug 15971 15985	Hydrocortisone
+T220	Strength 15986 15989	1 %
+T221	Drug 16114 16132	Miconazole Nitrate
+T222	Strength 16133 16136	2 %
+T223	Form 15990 15998	Ointment
+T224	Dosage 16004 16011	One (1)
+T225	Form 16012 16016	Appl
+T226	Route 16017 16024	Topical
+T227	Frequency 16025 16031;16032 16054	TID (3 times a day) as needed
+T228	Reason 16059 16067	pruritis
+T229	Form 16137 16143	Powder
+T230	Dosage 16149 16156	One (1)
+T231	Form 16157 16161	Appl
+T232	Route 16162 16169	Topical
+T233	Frequency 16187 16212	(2 times a day) as needed
+T234	Reason 16217 16227	dermatitis
+T235	Form 16292 16298	Tablet
+T236	Dosage 16304 16311	One (1)
+T237	Frequency 16322 16327;16328 16335	DAILY (Daily)
+T238	Form 16360 16366	Tablet
+T239	Dosage 16372 16379	One (1)
+T240	Frequency 16390 16395;16396 16413	DAILY (Daily) as needed
+T241	Form 16659 16669	Recon Soln
+T242	Frequency 16614 16627	daily and PRN
+T243	Frequency 16509 16523	PRN line flush
+T244	Strength 16675 16687	Two (2) gram
+T245	Frequency 16698 16702;16703 16719	Q24H (every 24 hours)
+T246	Duration 16720 16730	for 4 days
+T247	Form 16756 16766	Recon Soln
+T248	Strength 16772 16784	One (1) gram
+T249	Frequency 16797 16819	Q 24H (Every 24 Hours)
+T250	Duration 16820 16830	for 4 days
+T251	Dosage 16900 16907	One (1)
+T252	Form 16908 16938	Tablet Sustained Release 24 hr
+T253	Route 16939 16941	PO
+T254	Frequency 16942 16955	DAILY (Daily)
+T255	Dosage 17016 17023	One (1)
+T256	Frequency 17034 17046;17047 17053	BID (2 times a day)
+T257	Drug 17059 17067	Fish Oil
+T258	Strength 17068 17076	1,000 mg
+T259	Dosage 17090 17097	One (1)
+T260	Form 17077 17084	Capsule
+T261	Form 17098 17105	Capsule
+T262	Route 17106 17108	PO
+T263	Frequency 17109 17114;17115 17122	DAILY (Daily)
+T264	Dosage 17136 17149	Sliding Scale
+T265	Dosage 17178 17191	sliding scale
+T266	Dosage 17217 17230	sliding scale
+T267	Drug 17299 17307	contrast
+T268	Drug 17411 17430	Supplemental oxygen
+T269	Route 17475 17488	nasal cannula
+T270	Dosage 17492 17500	2-3L/min
+T271	Drug 17451 17470	supplemental oxygen
+T272	Drug 18126 18133	digoxin
+T273	Duration 18451 18456;18457 18472	for 4 additional days
+T275	Drug 1532 1537	vanco
+T276	Dosage 1554 1559	500cc
+T277	Drug 1560 1562	NS
+T278	Drug 2364 2374	propanalol
+T279	Reason 2413 2418	A fib
+T280	Drug 8265 8275	propanolol
+T281	Reason 1512 1526	RML infiltrate
+T282	Drug 10301 10306	vanco
+T283	Reason 10017 10026	Pneumonia
+T284	Drug 10670 10681	antibiotics
+T285	Drug 10792 10800	cefipime
+T286	Drug 10777 10788	antibiotics
+T287	Duration 10839 10844	8 day
+T288	Reason 10856 10876;10877 10886	ventilator associate pneumonia
+T289	Frequency 10914 10923	Q24 hours
+T290	Drug 11233 11238	ACE-I
+T291	Drug 11203 11206	IVF
+T292	Reason 11032 11051	Acute renal failure
+T294	Drug 11520 11528	contrast
+T295	Drug 11555 11571	N-acetylcysteine
+T296	Drug 11875 11878	IVF
+T297	Drug 11938 11950	beta blocker
+T298	Drug 11955 11968	ACE inhibitor
+T299	Reason 12064 12072	diuresis
+T300	Drug 12149 12152;12153 12162	ACE inhibitor
+T301	Drug 12187 12199	beta blocker
+T302	Drug 12243 12249	statin
+T303	Drug 12251 12259	fish oil
+T304	Drug 12264 12267	ASA
+T307	Reason 13265 13270;13271 13281	Acute gout flare
+T308	Reason 13542 13562	Urinary incontinence
+T309	Drug 13872 13875	ASA
+T310	Reason 13809 13823	History of TIA
+T311	Drug 13905 13911	statin
+T312	Dosage 14405 14418	sliding scale
+T313	Drug 14432 14446	basal glarigne
+T314	Reason 14368 14392	Diabetes mellitus type 2
+T315	Dosage 943 944	2
+T316	Reason 904 913	combative
+T317	Reason 1022 1035	RLQ pneumonia
+T320	Reason 1230 1238	sedation
+T321	ADE 7952 7960	toxicity
+T322	ADE 8008 8016	toxicity
+T323	ADE 9506 9527	Altered Mental Status
+T324	ADE 9915 9923	toxicity
+T325	ADE 10356 10364	toxicity
+T328	Drug 11533 11541	diuresis
+T329	ADE 12355 12363	toxicity
+T331	Drug 14561 14569	contrast
+T332	Dosage 15833 15834	1
+T333	Form 16481 16486	Flush
+T336	ADE 17701 17709	toxicity
+T337	Drug 18190 18196	oxygen
+T338	Reason 13924 13935	Hypothyroid
+T344	Form 17004 17010	Tablet
+T345	Frequency 17512 17521	as needed
+T346	Reason 17522 17549	to keep O2 saturation > 92%
+T348	Drug 165 176	Penicillins
+T349	Dosage 1590 1597	3 vials
+T350	ADE 8062 8073	bradycardia
+T351	ADE 8078 8093	PR prolongation
+T353	Reason 464 467	CHF
+T354	Drug 8928 8934	oxygen
+T355	Reason 8904 8913	Hypoxemia
+T356	Route 8969 8988	non-rebreather mask
+T357	Dosage 9431 9439	2-3L/min
+T358	Route 9440 9442	NC
+T359	Drug 10447 10450	PCN
+T361	Drug 10504 10511	azithro
+T363	Drug 11222 11226	meds
+T364	Drug 11295 11301	oxygen
+T365	Route 11334 11348;11349 11353	non-rebreather mask
+T367	Drug 12025 12027	O2
+T368	ADE 13647 13650	AMS
+T20	Drug 16473 16480	Heparin
+T59	Route 938 940	IV
+T62	Route 1072 1074	IV
+T111	Route 11517 11519	IV
+T170	Route 16506 16508	IV
+T274	Reason 15644 15648	pain

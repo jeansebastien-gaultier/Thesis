@@ -1,0 +1,428 @@
+T1	Drug 20226 20233	lipitor
+T2	Strength 20234 20238	20mg
+T3	Drug 14851 14860	Meropenem
+T4	Drug 14085 14098	normal saline
+T5	Drug 19724 19736	Pantoprazole
+T6	Strength 19737 19742	40 mg
+T7	Route 19743 19745	PO
+T8	Drug 20239 20248	diltiazem
+T9	Strength 20249 20254	240mg
+T10	Drug 13842 13850	levophed
+T11	Drug 19155 19157;19157 19164	ey e drops
+T12	Drug 22041 22049	Fentanyl
+T13	Strength 22050 22056;22056 22059	25 mcg /hr
+T14	Form 22085 22090;22091 22096	Patch 72 hr
+T15	Drug 541 549	dopamine
+T16	Drug 24851 24863;24863 24882	triamterene/ hydrochlorothiazide
+T17	Strength 24883 24886;24886 24890	75/ 50mg
+T18	Strength 21035 21041	0.5 mg
+T19	Form 21058 21065	Tablets
+T20	Dosage 21054 21057	1-2
+T21	Route 21066 21068	PO
+T22	Drug 21025 21033;21033 21034	Lorazepa m
+T23	Drug 19491 19500	Lorazepam
+T24	Frequency 19516 19519;19519 19523	Q4H :PRN
+T26	Drug 19751 19759	DOPamine
+T27	Strength 19760 19765;19765 19772	4 mcg /kg/min
+T29	Drug 22575 22599	Polyethylene Glycol 3350
+T30	Form 22613 22619	Powder
+T31	Drug 20272 20278	folate
+T32	Strength 20279 20282	1mg
+T33	Drug 20017 20022	Sarna
+T34	Form 20023 20029	Lotion
+T35	Frequency 20040 20043;20043 20047	QID :PRN
+T36	Drug 20531 20541	Folic Acid
+T37	Strength 20542 20546	1 mg
+T38	Form 20567 20573	Tablet
+T39	Route 20574 20576	PO
+T40	Drug 18228 18238	amiodarone
+T41	Drug 25405 25411	colace
+T42	Drug 24638 24645	lipitor
+T43	Strength 24646 24650	20mg
+T44	Drug 24896 24905	valsartan
+T45	Strength 24906 24911	320mg
+T46	Drug 19524 19537	Acetaminophen
+T47	Strength 19538 19544	975 mg
+T48	Frequency 19548 19551;19552 19555	Q6H prn
+T49	Route 19545 19547	PO
+T50	Drug 19781 19794	Phenylephrine
+T51	Strength 19795 19800;19800 19807	1 mcg /kg/min
+T53	Drug 25163 25170	tylenol
+T54	Drug 1106 1116	Vancomycin
+T55	Drug 16468 16477	vitamin K
+T56	Drug 18008 18018	Amiodarone
+T57	Strength 20068 20074	100 mg
+T58	Frequency 20081 20084	TID
+T59	Route 20075 20077	PO
+T60	Drug 20057 20066;20066 20067	Gabapenti n
+T61	Drug 22362 22377	Docusate Sodium
+T62	Strength 22378 22384	100 mg
+T63	Form 22406 22413	Capsule
+T64	Route 22414 22416	PO
+T65	Drug 24667 24675	protonix
+T66	Strength 24676 24680	40mg
+T67	Drug 20307 20319;20319 20338	triamterene/ hydrochlorothiazide
+T68	Strength 20339 20342;20342 20346	75/ 50mg
+T69	Drug 19556 19566	Meperidine
+T71	Drug 25190 25207	ferrous gluconate
+T72	Drug 615 623	dopamine
+T73	Drug 19816 19831	DiphenhydrAMINE
+T74	Frequency 19847 19850;19850 19854	Q6H :PRN
+T76	Frequency 25208 25215;25216 25219	twice a day
+T77	Drug 21609 21617;21617 21624	Camphor- Menthol
+T78	Form 21635 21641	Lotion
+T79	Route 21660 21667	Topical
+T80	Drug 20883 20898;20899 20902	Diphenhydramine HCl
+T81	Strength 20903 20908	25 mg
+T82	Form 20933 20941	Capsules
+T83	Route 20942 20944	PO
+T84	Strength 20609 20614	40 mg
+T85	Form 20615 20621;20621 20645	Tablet , Delayed Release (E.C.)
+T86	Drug 20596 20607;20607 20608	Pantoprazol e
+T87	Drug 24953 24964	hydroxyzine
+T88	Drug 1402 1410	dopamine
+T89	Drug 25467 25476	bisacodyl
+T90	Drug 20352 20361	valsartan
+T91	Strength 20362 20367	320mg
+T92	Drug 20288 20296	protonix
+T93	Strength 20297 20301	40mg
+T94	Drug 25220 25228	fentanyl
+T95	Form 25229 25234	patch
+T96	Drug 16014 16018	iron
+T97	Drug 19091 19099	nystatin
+T98	Drug 16020 16026	folate
+T99	Drug 24982 24992;24992 25004	petrolatum -mineral oil
+T100	Drug 13636 13644	cefepime
+T101	Drug 21914 21931	Ferrous Gluconate
+T102	Drug 24943 24951	Benadryl
+T103	Drug 19101 19111	miconazole
+T104	Strength 21932 21938	325 mg
+T105	Drug 20387 20395	citrucel
+T106	Strength 20396 20398	1g
+T107	Drug 19864 19878;19878 19886	Diphenoxylate- Atropine
+T108	Form 19898 19901	TAB
+T109	Route 19902 19904	PO
+T110	Drug 19113 19121	benadryl
+T111	Drug 21746 21759	Acetaminophen
+T112	Strength 21760 21766	650 mg
+T113	Form 21787 21793	Tablet
+T114	Route 21794 21796	PO
+T115	Drug 20142 20153	Aldesleukin
+T117	Drug 16306 16314	fentanyl
+T118	Form 16315 16320	patch
+T119	Drug 19123 19128	sarna
+T120	Drug 22712 22721	Bisacodyl
+T121	Strength 22722 22726	5 mg
+T122	Form 22727 22733;22733 22757	Tablet , Delayed Release (E.C.)
+T123	Drug 1210 1215	cipro
+T124	Drug 21948 21952	Iron
+T125	Form 21954 21960	Tablet
+T126	Drug 19648 19664	Morphine Sulfate
+T128	Drug 14273 14283	vancomycin
+T129	Drug 24651 24657	folate
+T130	Strength 24658 24661	1mg
+T131	Drug 19142 19153	HydrOXYzine
+T132	Drug 25455 25462	miralax
+T133	Drug 21176 21193;21193 21204	White Petrolatum- Mineral Oil
+T134	Form 21209 21214	Cream
+T135	Drug 19447 19458	HydrOXYzine
+T136	Frequency 19474 19477;19477 19481	Q6H :PRN
+T137	Route 19468 19470	PO
+T138	Drug 20472 20479	Lipitor
+T139	Strength 20480 20485	20 mg
+T140	Form 20506 20512	Tablet
+T141	Frequency 20516 20522;20523 20526	once a day
+T142	Route 20513 20515	PO
+T143	Drug 16339 16347	morphine
+T144	Drug 25300 25308	morphine
+T145	Drug 19932 19948	Prochlorperazine
+T146	Strength 19949 19954	10 mg
+T147	Frequency 19961 19964;19964 19968	Q6H :PRN
+T149	Drug 14558 14567	Linezolid
+T150	Drug 22907 22917	ZOFRAN ODT
+T151	Strength 22918 22922	8 mg
+T152	Drug 22244 22252	Morphine
+T153	Strength 22253 22258	15 mg
+T154	Form 22275 22282	Tablets
+T155	Dosage 22271 22274	1-2
+T156	Route 22283 22285	PO
+T157	Drug 21477 21488;21489 21492	Hydroxyzine HCl
+T158	Strength 21493 21498	25 mg
+T159	Form 21519 21525	Tablet
+T160	Route 21526 21528	PO
+T161	Drug 13798 13806	dopamine
+T162	Drug 19688 19701;19702 19705	Ciprofloxacin HCl
+T163	Strength 19706 19712	250 mg
+T164	Route 19713 19715	PO
+T165	Drug 14828 14837	linezolid
+T166	Drug 25027 25036	Lorazepam
+T167	Drug 14577 14587	vancomycin
+T168	Drug 24818 24827	diltiazem
+T169	Strength 24828 24833	240mg
+T170	Drug 13816 13824	dopamine
+T171	Drug 24789 24797	citrucel
+T172	Strength 24798 24800	1g
+T173	Reason 1424 1431;1432 1447	improve renal perfusion
+T174	Reason 14592 14606	VRE bacteremia
+T175	Reason 16352 16356	pain
+T176	Reason 16722 16742	aspiration pneumonia
+T177	Reason 21831 21835	pain
+T178	Reason 22320 22324	pain
+T179	Reason 22668 22680	constipation
+T180	Reason 22833 22845	constipation
+T181	Reason 23021 23027	nausea
+T182	Reason 25019 25026	itching
+T183	Reason 25185 25189	pain
+T184	Reason 25323 25327	pain
+T185	Reason 25433 25445	constipation
+T186	Reason 1159 1176	severe dermatitis
+T187	Reason 1197 1209	prophylactic
+T188	Frequency 20176 20196;20197 20204	Q8H on Days 1, 2, 3, 4 and 5
+T189	Frequency 20945 20948;20949 20974	Q6H (every 6 hours) as needed
+T190	Frequency 21069 21081;21082 21098	Q4H (every 4 hours) as needed
+T191	Frequency 21529 21532;21533 21558	Q6H (every 6 hours) as needed
+T192	Frequency 22286 22298;22299 22315	Q4H (every 4 hours) as needed
+T193	Frequency 22417 22420;22421 22436	BID (2 times a day)
+T194	Form 22959 22966;22967 22981	Tablet, Rapid Dissolve
+T195	Drug 24966 24980	camphor-methol
+T199	Form 21582 21588	Tablet
+T208	Form 21150 21156	Tablet
+T210	Reason 23795 23812	a UTI with e-coli
+T212	Reason 1375 1400	progressive renal failure
+T213	Drug 165 176	Penicillins
+T214	Drug 477 481	IL-2
+T215	Dosage 467 476	high dose
+T216	Reason 409 424	renal cell carc
+T217	Reason 525 530	shock
+T218	Drug 639 642	neo
+T219	Reason 812 823	hypotension
+T220	Drug 854 857	neo
+T221	Duration 858 868	for 90 min
+T222	Drug 1088 1094	bicarb
+T223	Form 1095 1103	infusion
+T224	Reason 13538 13544	sepsis
+T225	Drug 13577 13588	antibiotics
+T226	Drug 13611 13622	antibiotics
+T227	Drug 13626 13630	vanc
+T228	Drug 13632 13635	evo
+T229	Drug 13811 13814	neo
+T230	Drug 13993 13997	IL-2
+T231	ADE 13925 13936	Hypotension
+T232	Drug 14103 14108;14109 14120	water with bicarb
+T233	Reason 14127 14140	renal failure
+T234	Drug 14061 14066	fluid
+T235	Dosage 14067 14074	boluses
+T236	Reason 14037 14042	Shock
+T237	Drug 14358 14366	pressors
+T238	Drug 14647 14655	pressors
+T239	Reason 14753 14772	MRSA/VRE bacteremia
+T240	ADE 15175 15178	SBO
+T241	Drug 15197 15206	narcotics
+T242	Dosage 15939 15941	2U
+T243	Drug 15942 15946	PRBC
+T244	Reason 15819 15825	Anemia
+T245	Drug 16031 16034	B12
+T246	Reason 16424 16436	coagulopathy
+T247	Duration 16478 16485	X3 days
+T248	Drug 16698 16708	antibiotic
+T249	Drug 16911 16915	IL-2
+T250	ADE 16925 16928	ARF
+T251	Drug 17068 17072	IL-2
+T252	ADE 17081 17086;17087 17093	renal injury
+T253	Route 18028 18032	drip
+T254	Reason 17780 17831	Atrial fibrillation with rapid ventricular response
+T255	Drug 18098 18102	amio
+T256	Route 18103 18107	drip
+T257	Route 18239 18243	drip
+T258	Drug 18367 18371	IL-2
+T259	ADE 18382 18390	swelling
+T260	ADE 18905 18919	skin breakdown
+T261	Drug 18979 18983	IL-2
+T262	Drug 18966 18974	pressors
+T263	Drug 19130 19140	Hydrocerin
+T264	Drug 19166 19174	Gelclair
+T265	Drug 19204 19208	IL-2
+T266	Reason 19180 19183	RCC
+T267	Drug 19342 19352	Hydrocerin
+T268	Dosage 19353 19354	1
+T269	Form 19355 19359	Appl
+T270	Route 19360 19362	TP
+T271	Frequency 19363 19370	QID:PRN
+T272	Reason 19371 19379	dry skin
+T273	Drug 19387 19405	Sodium Bicarbonate
+T274	Strength 19380 19386	50 mEq
+T275	Dosage 19406 19413	1000 ml
+T276	Drug 19414 19423	D5 1/2 NS
+T277	Strength 19438 19440;19441 19446	75 ml/hr
+T278	Strength 19459 19467	25-50 mg
+T279	Route 19471 19473	NG
+T280	Reason 19482 19490	pruritis
+T281	Strength 19501 19509	0.5-1 mg
+T282	Route 19510 19512	PO
+T283	Strength 19567 19575	25-50 mg
+T284	Frequency 19579 19586	Q2H:PRN
+T285	Reason 19587 19593	Rigors
+T286	Drug 19594 19619	Artificial Tears Preserv.
+T287	Dosage 19625 19628	1-2
+T288	Form 19629 19633	DROP
+T289	Route 19634 19643	BOTH EYES
+T290	Frequency 19644 19647	PRN
+T291	Strength 19665 19671	1-2 mg
+T292	Frequency 19675 19682	Q2H:PRN
+T293	Reason 19683 19687	pain
+T294	Route 19716 19718	NG
+T295	Frequency 19719 19723	Q24H
+T296	Frequency 19746 19750	Q24H
+T297	Route 19773 19775;19776 19780	IV DRIP
+T298	Route 19808 19810;19811 19815	IV DRIP
+T299	Strength 19832 19840	25-50 mg
+T300	Route 19841 19843	PO
+T301	Reason 19855 19863	pruritis
+T302	Frequency 19905 19931	PRN after each loose stool
+T303	Route 19955 19957	PO
+T304	Reason 19969 19975	nausea
+T305	Drug 19985 19997	Erythromycin
+T306	Strength 20003 20009	5 mg/g
+T307	Route 20010 20012	OU
+T308	Frequency 20013 20016	TID
+T309	Dosage 20030 20031	1
+T310	Form 20032 20036	Appl
+T311	Route 20037 20039	TP
+T312	Reason 20048 20056	pruritus
+T313	Route 20078 20080	NG
+T314	Reason 20085 20093	pruritus
+T315	Drug 20094 20102	Gelclair
+T316	Strength 20103 20108	15 mL
+T317	Route 20109 20113	ORAL
+T318	Frequency 20114 20121	TID:PRN
+T319	Reason 20122 20131	mucositis
+T320	Dosage 20154 20172	47.4 Million Units
+T321	Frequency 20283 20287	qday
+T322	Frequency 20302 20306	qday
+T323	Frequency 20347 20351	qday
+T324	Drug 20373 20378	vit C
+T325	Strength 20379 20381	1g
+T326	Frequency 20382 20386	qday
+T327	Frequency 20368 20372	qday
+T328	Drug 20416 20430	cyanocobalamin
+T329	Strength 20431 20433	1g
+T330	Route 20434 20436	sc
+T331	Frequency 20437 20444	monthly
+T332	Form 20486 20492	Tablet
+T333	Dosage 20498 20505	One (1)
+T334	Form 20547 20553	Tablet
+T335	Dosage 20559 20566	One (1)
+T336	Frequency 20577 20590	DAILY (Daily)
+T337	Dosage 20651 20654;20655 20658	One (1)
+T338	Form 20659 20689	Tablet, Delayed Release (E.C.)
+T339	Route 20690 20692	PO
+T340	Frequency 20693 20714	Q24H (every 24 hours)
+T341	Drug 20719 20733	Cyanocobalamin
+T342	Strength 20734 20746	1,000 mcg/mL
+T343	Form 20747 20755	Solution
+T344	Dosage 20761 20768	One (1)
+T345	Form 20770 20779	Injection
+T346	Frequency 20780 20792	once a month
+T347	Drug 20818 20827	Vitamin C
+T348	Strength 20828 20836	1,000 mg
+T349	Form 20837 20843	Tablet
+T350	Dosage 20849 20856	One (1)
+T351	Form 20857 20863	Tablet
+T352	Route 20864 20866	PO
+T353	Frequency 20867 20877	once a day
+T354	Form 20909 20916	Capsule
+T355	Reason 20979 20987	pruritis
+T356	Form 21042 21048	Tablet
+T357	Reason 21103 21118	nausea/vomiting
+T358	Reason 21120 21128	insomnia
+T359	Reason 21132 21139	anxiety
+T360	Dosage 21220 21227	One (1)
+T361	Form 21228 21232	Appl
+T362	Route 21233 21240	Topical
+T363	Frequency 21241 21270	QID (4 times a day) as needed
+T364	Reason 21275 21283	dry skin
+T365	Drug 21318 21342	Oral Wound Care Products
+T366	Form 21347 21360	Gel in Packet
+T367	Dosage 21366 21378;21379 21381	Fifteen (15) ML
+T368	Route 21382 21397	Mucous membrane
+T369	Frequency 21398 21427	TID (3 times a day) as needed
+T370	Reason 21432 21441	mucositis
+T371	Form 21499 21505	Tablet
+T372	Dosage 21511 21518	One (1)
+T373	Reason 21563 21571	pruritis
+T374	Strength 21625 21634	0.5-0.5 %
+T375	Dosage 21647 21654	One (1)
+T376	Form 21655 21659	Appl
+T377	Frequency 21668 21697	QID (4 times a day) as needed
+T378	Reason 21702 21710	pruritus
+T379	Form 21767 21773	Tablet
+T380	Dosage 21779 21786	One (1)
+T381	Frequency 21797 21806;21807 21826	every six (6) hours as needed
+T382	Strength 21940 21947	37.5 mg
+T383	Dosage 21966 21973	One (1)
+T384	Form 21974 21980	Tablet
+T385	Route 21981 21983	PO
+T386	Frequency 21984 22003	BID (2 times a day)
+T387	Form 22060 22071	Patch 72 hr
+T388	Dosage 22077 22084	One (1)
+T389	Route 22097 22108	Transdermal
+T390	Frequency 22109 22130	Q72H (every 72 hours)
+T391	Form 22259 22265	Tablet
+T392	Form 22385 22392	Capsule
+T393	Dosage 22398 22405	One (1)
+T394	Drug 22475 22480	Senna
+T395	Strength 22481 22487	8.6 mg
+T396	Form 22488 22494	Tablet
+T397	Dosage 22500 22507	One (1)
+T398	Form 22508 22514	Tablet
+T399	Route 22515 22517	PO
+T400	Frequency 22518 22532;22533 22537	BID (2 times a day)
+T401	Strength 22600 22612	17 gram/dose
+T402	Dosage 22625 22632	One (1)
+T403	Form 22633 22636	pkt
+T404	Route 22637 22639	PO
+T405	Frequency 22640 22663	DAILY (Daily) as needed
+T406	Dosage 22763 22770	Two (2)
+T407	Form 22771 22801	Tablet, Delayed Release (E.C.)
+T408	Route 22802 22804	PO
+T409	Frequency 22805 22828	DAILY (Daily) as needed
+T410	Form 22923 22945	Tablet, Rapid Dissolve
+T411	Dosage 22951 22957	One (1
+T412	Route 22982 22984	PO
+T413	Frequency 22985 23016	every eight (8) hours as needed
+T414	Reason 23190 23205	Metastatic RCCA
+T415	Drug 23220 23224	IL-2
+T416	Drug 23494 23498	IL-2
+T417	Reason 23516 23536	Renal Cell Carcinoma
+T418	ADE 24427 24438	skin damage
+T419	Drug 24485 24489	IL-2
+T420	Frequency 24662 24666	qday
+T421	Frequency 24681 24685	qday
+T422	Drug 24686 24691	vit C
+T423	Strength 24692 24694	1g
+T424	Frequency 24695 24699	qday
+T425	Drug 24700 24714	cyanocobalamin
+T426	Strength 24715 24717	1g
+T427	Route 24718 24720	sc
+T428	Frequency 24721 24728	monthly
+T429	Frequency 24891 24895	qday
+T430	Frequency 24912 24916	qday
+T431	Frequency 25005 25007;25008 25014	as needed
+T432	Frequency 25037 25046	as needed
+T433	Reason 25051 25057	nausea
+T434	Frequency 25171 25180	as needed
+T435	Frequency 25235 25249	every 72 hours
+T436	Frequency 25309 25318	as needed
+T437	Drug 25395 25400	senna
+T201	Duration 14811 14813;14814 14817	15 day
+T200	Drug 23839 23850	antibiotics
+T202	Reason 25491 25502	constipated
+T25	Route 19513 19515	IV
+T28	Route 19576 19578	IV
+T52	Route 19672 19674	IV
+T70	Route 19844 19846	IV
+T75	Route 19958 19960	IV
+T116	Route 20173 20175	IV
+T127	Reason 19976 19984	vomiting
+T148	Reason 25059 25067	vomiting
+T196	Reason 25071 25078	anxiety

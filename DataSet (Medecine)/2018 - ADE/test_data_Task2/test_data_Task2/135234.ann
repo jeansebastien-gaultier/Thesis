@@ -1,0 +1,298 @@
+T1	Drug 10027 10037	prednisone
+T2	Reason 1009 1018	pneumonia
+T5	Drug 1033 1036	IVF
+T7	Drug 10463 10474	lactic acid
+T9	ADE 10669 10680	lactic acid
+T10	Form 10732 10736	pill
+T11	Drug 10738 10747	metformin
+T12	Drug 10954 10960	Lantus
+T13	Dosage 10961 10969	20 units
+T15	Frequency 10970 10984	in the morning
+T16	Drug 10989 10998	Glypizide
+T17	Strength 10999 11003	5 mg
+T18	Frequency 11004 11015	twice a day
+T19	Drug 11020 11027	Bactrim
+T20	Reason 11030 11057	to prevent a lung infection
+T22	Drug 11066 11074	steroids
+T23	Drug 11080 11089	Metformin
+T24	Drug 11095 11104	Ezetimibe
+T25	Drug 11106 11117	Fenofibrate
+T26	Drug 11147 11153	statin
+T27	Drug 11163 11174	simvastatin
+T28	ADE 11212 11231	sugars are elevated
+T29	Drug 11244 11252	steroids
+T30	Drug 11265 11273	steroids
+T33	Drug 165 173	Coumadin
+T43	ADE 5173 5195	type B lactic acidosis
+T44	Drug 5201 5210	metformin
+T46	Drug 5373 5382	metformin
+T48	Drug 5469 5475	fluids
+T50	Drug 5735 5738	ASA
+T51	Drug 5740 5746	statin
+T52	Drug 5748 5758	lisinopril
+T53	Drug 5764 5771	nadolol
+T54	ADE 5792 5804	Leukocytosis
+T55	Drug 5826 5839	dexamethasone
+T56	Drug 5952 5960	Decadron
+T58	Drug 6346 6359	dexamethasone
+T59	Drug 6465 6478	dexamethasone
+T60	Reason 6522 6525;6526 6537	PCP prophylaxis
+T61	Drug 6543 6550	Bactrim
+T62	Reason 6555 6559	COPD
+T63	Drug 6561 6567	Advair
+T64	Drug 6569 6579	tiotropium
+T65	Drug 6585 6594	albuterol
+T66	Reason 6615 6618	HTN
+T67	Drug 6636 6646	amlodipine
+T68	Drug 6651 6661	lisinopril
+T69	Reason 6681 6697	Diabetes, type 2
+T70	Drug 6699 6708	Metformin
+T71	Drug 6735 6743	contrast
+T72	Drug 6770 6773	ISS
+T73	Reason 6795 6815	Hypercholesterolemia
+T74	Drug 6817 6823	Statin
+T75	Drug 6839 6848	ezetimibe
+T76	Reason 6896 6900	GERD
+T77	Drug 6902 6905	PPI
+T78	Drug 6944 6951	Tylenol
+T79	Strength 6952 6954	#3
+T80	Form 6966 6969	tab
+T81	Route 6970 6972	PO
+T84	Drug 6988 6997	Albuterol
+T85	Route 6998 7001	INH
+T86	Drug 7002 7012	Amlodipine
+T87	Strength 7013 7016	5mg
+T88	Route 7017 7019	PO
+T89	Frequency 7020 7025	daily
+T90	Drug 7026 7037	Brimonidine
+T91	Strength 7038 7041	0.1
+T92	Form 7043 7048	drops
+T93	Dosage 7049 7050	1
+T94	Form 7051 7055	drop
+T95	Route 7056 7064	each eye
+T96	Frequency 7065 7070	daily
+T97	Drug 7071 7083	Escitalopram
+T98	Strength 7084 7088	20mg
+T99	Route 7089 7091	PO
+T100	Frequency 7092 7097	daily
+T101	Drug 7098 7107	Ezetimibe
+T102	Strength 7108 7112	10mg
+T103	Route 7113 7115	PO
+T104	Frequency 7116 7121	daily
+T105	Drug 7122 7133	Fenofibrate
+T106	Strength 7134 7139	145mg
+T107	Route 7140 7142	PO
+T108	Frequency 7143 7148	daily
+T110	Drug 7149 7177	Fexofenadine-pseudoephedrine
+T112	Strength 7178 7186	120/60mg
+T114	Route 7187 7189	PO
+T116	Frequency 7190 7199	Q12 hours
+T118	Drug 7200 7222	Fluticasone-Salmeterol
+T119	Strength 7223 7229	500/50
+T120	Dosage 7230 7231	1
+T121	Form 7232 7236	puff
+T122	Drug 7254 7266	Ipratroprium
+T123	Route 7267 7270	INH
+T124	Dosage 7271 7272	2
+T125	Form 7273 7280	squirts
+T126	Frequency 7281 7286	daily
+T127	Drug 7287 7297	Lisinopril
+T128	Strength 7298 7302	40mg
+T129	Route 7303 7305	PO
+T130	Frequency 7306 7309	BID
+T131	Drug 7310 7319	Metformin
+T132	Strength 7320 7326	1000mg
+T133	Route 7327 7329	PO
+T134	Frequency 7330 7333	BID
+T135	Drug 7334 7341	Nadolol
+T136	Strength 7342 7345	5mg
+T137	Route 7346 7348	PO
+T138	Frequency 7349 7354	daily
+T139	Drug 7355 7367	Dexamthasone
+T140	Strength 7368 7372	4 mg
+T141	Route 7373 7375	PO
+T142	Frequency 7376 7379	Q6H
+T143	Drug 7380 7391	Simvastatin
+T144	Strength 7392 7396	60mg
+T145	Route 7397 7399	PO
+T146	Frequency 7400 7405	daily
+T147	Drug 7406 7416	Tamsulosin
+T148	Strength 7417 7422	0.4mg
+T149	Route 7423 7425	PO
+T150	Frequency 7426 7431	daily
+T151	Drug 7432 7442	Tiotropium
+T152	Strength 7443 7448	18mcg
+T153	Route 7449 7451	PO
+T154	Frequency 7452 7457	daily
+T155	Drug 7458 7461	ASA
+T156	Strength 7462 7466	81mg
+T157	Route 7467 7469	PO
+T158	Frequency 7470 7475	daily
+T159	Drug 7476 7486	Omeprazole
+T160	Strength 7487 7491	20mg
+T161	Route 7492 7494	PO
+T162	Frequency 7495 7500	daily
+T163	Drug 7529 7538	Bisacodyl
+T164	Strength 7539 7543	5 mg
+T166	Form 7544 7574	Tablet, Delayed Release (E.C.)
+T167	Dosage 7580 7587	Two (2)
+T168	Form 7588 7618	Tablet, Delayed Release (E.C.)
+T169	Route 7619 7621	PO
+T170	Frequency 7622 7627	DAILY
+T171	Reason 7650 7662	Constipation
+T172	Drug 7667 7672	Senna
+T173	Strength 7673 7679	8.6 mg
+T174	Form 7680 7686	Tablet
+T175	Dosage 7692 7699	One (1)
+T176	Form 7700 7706	Tablet
+T177	Route 7707 7709	PO
+T178	Frequency 7710 7713	BID
+T179	Reason 7744 7756	Constipation
+T181	Drug 7761 7776	Docusate Sodium
+T183	Strength 7777 7787	50 mg/5 mL
+T184	Form 7792 7794	id
+T185	Dosage 7811 7812	5
+T187	Route 7816 7818	PO
+T188	Frequency 7819 7822	BID
+T190	Drug 7843 7860	Albuterol Sulfate
+T192	Strength 7861 7877	90 mcg/Actuation
+T193	Form 7878 7897	HFA Aerosol Inhaler
+T195	Dosage 7903 7906	1-2
+T196	Form 7907 7912	Puffs
+T197	Route 7913 7923	Inhalation
+T198	Frequency 7924 7953	Q6H (every 6 hours) as needed
+T199	Reason 7958 7966	wheezing
+T200	Drug 7972 7984	Fexofenadine
+T201	Strength 7985 7990	60 mg
+T202	Form 7991 7997	Tablet
+T203	Dosage 8003 8010	One (1)
+T204	Form 8011 8017	Tablet
+T205	Route 8018 8020	PO
+T206	Frequency 8021 8024	BID
+T207	Drug 8045 8052	Nadolol
+T208	Strength 8053 8058	20 mg
+T209	Form 8059 8065	Tablet
+T210	Dosage 8071 8075	0.25
+T211	Form 8076 8082	Tablet
+T212	Drug 808 814	oxygen
+T213	Route 8083 8085	PO
+T214	Frequency 8086 8091	DAILY
+T215	Drug 8104 8114	Lisinopril
+T216	Strength 8115 8120	20 mg
+T217	Form 8121 8127	Tablet
+T218	Dosage 8133 8140	Two (2)
+T219	Form 8141 8147	Tablet
+T220	Route 8148 8150	PO
+T221	Frequency 8151 8154	BID
+T222	Drug 8175 8185	Amlodipine
+T223	Strength 8186 8190	5 mg
+T224	Form 8191 8197	Tablet
+T225	Dosage 8203 8210	One (1)
+T226	Form 8211 8217	Tablet
+T227	Route 8218 8220	PO
+T228	Frequency 8221 8226	DAILY
+T229	Drug 8240 8251	Brimonidine
+T230	Strength 8252 8256	0.15 
+T231	Form 8259 8264	Drops
+T232	Dosage 8270 8277	One (1)
+T233	Form 8278 8282	Drop
+T234	Route 8283 8293	Ophthalmic
+T235	Frequency 8294 8297	Q8H
+T237	Drug 8319 8331	Escitalopram
+T238	Strength 8332 8337	10 mg
+T239	Form 8338 8344	Tablet
+T240	Dosage 8350 8357	Two (2)
+T241	Form 8358 8364	Tablet
+T242	Route 8365 8367	PO
+T243	Frequency 8368 8373	DAILY
+T245	Drug 8387 8409	Fluticasone-Salmeterol
+T247	Strength 8410 8425	250-50 mcg/Dose
+T248	Form 8426 8442	Disk with Device
+T249	Dosage 8448 8455	One (1)
+T250	Form 8456 8472	Disk with Device
+T251	Route 8473 8483	Inhalation
+T252	Frequency 8502 8515	2 times a day
+T253	Drug 8522 8533	Simvastatin
+T254	Strength 8534 8539	40 mg
+T255	Form 8540 8546	Tablet
+T256	Dosage 8552 8555	1.5
+T257	Form 8556 8563	Tablets
+T258	Route 8564 8566	PO
+T259	Frequency 8567 8572	DAILY
+T260	Drug 8587 8597	Tamsulosin
+T261	Strength 8598 8604	0.4 mg
+T263	Form 8605 8633	Capsule, Sust. Release 24 hr
+T264	Dosage 8639 8646	One (1)
+T265	Form 8647 8675	Capsule, Sust. Release 24 hr
+T266	Route 8676 8678	PO
+T267	Frequency 8679 8681	HS
+T269	Drug 8700 8718	Tiotropium Bromide
+T270	Strength 8719 8725	18 mcg
+T272	Form 8726 8754	Capsule, w/Inhalation Device
+T273	Dosage 8760 8767	One (1)
+T274	Form 8768 8771	Cap
+T275	Route 8772 8782	Inhalation
+T276	Frequency 8783 8788	DAILY
+T278	Drug 8802 8809	Aspirin
+T279	Strength 8810 8815	81 mg
+T280	Form 8816 8832	Tablet, Chewable
+T282	Form 8846 8862	Tablet, Chewable
+T283	Route 8863 8865	PO
+T284	Frequency 8866 8871	DAILY
+T286	Drug 8885 8895	Omeprazole
+T287	Strength 8896 8901	20 mg
+T289	Form 8902 8932	Capsule, Delayed Release(E.C.)
+T290	Dosage 8938 8945	One (1)
+T292	Form 8946 8976	Capsule, Delayed Release(E.C.)
+T293	Route 8977 8979	PO
+T294	Frequency 8980 8985	DAILY
+T296	Drug 8999 9028	Trimethoprim-Sulfamethoxazole
+T298	Strength 9029 9038	80-400 mg
+T299	Form 9039 9045	Tablet
+T300	Dosage 9051 9058	One (1)
+T301	Form 9059 9065	Tablet
+T302	Route 9066 9068	PO
+T303	Frequency 9069 9074	DAILY
+T305	Form 9093 9099	Tablet
+T307	Drug 9120 9141	Acetaminophen-Codeine
+T309	Strength 9142 9151	300-30 mg
+T310	Form 9152 9158	Tablet
+T311	Dosage 9164 9167	1-2
+T312	Form 9168 9175	Tablets
+T313	Route 9176 9178	PO
+T314	Frequency 9179 9208	Q6H (every 6 hours) as needed
+T315	Reason 9213 9221	headache
+T317	Drug 9227 9240	Dexamethasone
+T318	Strength 9241 9245	4 mg
+T319	Form 9246 9252	Tablet
+T320	Dosage 9258 9265	One (1)
+T321	Form 9266 9272	Tablet
+T322	Route 9273 9275	PO
+T323	Frequency 9276 9279	Q8H
+T325	Drug 9341 9350	Glipizide
+T326	Strength 9351 9355	5 mg
+T328	Form 9356 9381	Tablet Extended Rel 24 hr
+T329	Dosage 9391 9398	One (1)
+T330	Form 9399 9424	Tablet Extended Rel 24 hr
+T331	Route 9429 9431	PO
+T332	Frequency 9432 9435	BID
+T333	Drug 9512 9518	Lantus
+T334	Strength 9519 9530	100 unit/mL
+T335	Form 9531 9539	Solution
+T336	Dosage 9545 9552	One (1)
+T337	Form 9553 9561	30 units
+T338	Route 9562 9574	Subcutaneous
+T339	Frequency 9575 9585	once a day
+T340	Drug 9635 9642	Insulin
+T341	Form 9643 9650	Syringe
+T342	Dosage 9651 9652	1
+T343	Form 9653 9655	mL
+T344	Form 9672 9679	Syringe
+T345	Dosage 9685 9692	One (1)
+T346	Drug 969 974	vanco
+T347	Form 9693 9700	Syringe
+T348	Frequency 9715 9725	once a day
+T349	Drug 979 991	levofloxacin
+T350	Reason 9973 9977	COPD
+T82	Frequency 6973 6987	Q6-8 hours prn
+T4	Reason 5885 5892	Lung CA

@@ -1,0 +1,35 @@
+T1	Drug 1588 1595	Tylenol
+T2	Drug 1601 1606	Lasix
+T3	Drug 1612 1618	Ativan
+T4	Drug 1624 1633	OxyContin
+T5	Drug 1639 1645	Celexa
+T6	Drug 1651 1657	Atarax
+T7	Drug 1663 1672	Neurontin
+T8	Dosage 4155 4156	7
+T9	Form 4157 4162	units
+T10	Drug 4166 4188	packed red blood cells
+T11	Dosage 4479 4480	2
+T12	Form 4486 4491	units
+T13	Drug 4495 4517	packed red blood cells
+T14	Reason 4691 4693	in
+T15	Drug 4716 4724	Dilaudid
+T16	Form 4725 4728	PCA
+T17	Dosage 5309 5310;5311 5316	9 units
+T19	Drug 5320 5342	packed red blood cells
+T22	Drug 5355 5360;5361 5377	fresh frozen platelets
+T23	Drug 5438 5453	Coumadinization
+T24	Drug 5531 5537	oxygen
+T25	Reason 5682 5686	pain
+T26	Strength 5716 5721	40 mg
+T27	Drug 5725 5734	OxyContin
+T28	Frequency 5735 5740	t.i.d
+T29	Drug 5746 5754	Percocet
+T30	Reason 5759 5776	breakthrough pain
+T31	Drug 5865 5870	Lasix
+T32	Strength 5871 5876	40 mg
+T33	Frequency 5877 5882	q day
+T34	Drug 6423 6431	Percocet
+T35	Drug 6437 6443	Motrin
+T36	Drug 6449 6455	Celexa
+T37	Drug 6461 6466	Lasix
+T18	Dosage 5344 5345;5346 5351	4 units

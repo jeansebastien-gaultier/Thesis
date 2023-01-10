@@ -1,0 +1,320 @@
+T1	Reason 12430 12434	APML
+T2	Drug 12571 12575	ATRA
+T3	Drug 12580 12591	hydroxyurea
+T4	Drug 12633 12644	hydroxyurea
+T5	Drug 12675 12683	steroids
+T6	Reason 12698 12726	prophylaxis of ATRA syndrome
+T7	Reason 13000 13013	heart failure
+T8	Dosage 1306 1309	one
+T9	Route 1310 1320	sublingual
+T10	Drug 1321 1326	nitro
+T11	Drug 1342 1350	morphine
+T12	Reason 1355 1367	pain control
+T13	Drug 13669 13677	nitrates
+T14	Drug 13679 13692	beta-blockers
+T15	Drug 13703 13708	ACE-i
+T16	Drug 13715 13721	statin
+T18	Reason 1432 1436;1437 1449	COPD exacerbation
+T19	Drug 1465 1475	solumedrol
+T20	Drug 1477 1488	ceftriaxone
+T21	Drug 1490 1501	azithromyin
+T22	Drug 1503 1511	cefepime
+T23	Drug 1516 1525	albuterol
+T24	Drug 1526 1537	ipratropium
+T25	Route 1538 1542	nebs
+T26	Drug 15474 15480	Haldol
+T27	Strength 15481 15486	0.5mg
+T29	Reason 15524 15528;15529 15542	mood stabilization
+T30	Reason 15615 15622	hypoxic
+T31	Drug 15636 15642	oxygen
+T32	Route 15654 15667	nasal cannula
+T33	Dosage 15675 15677	6L
+T34	Duration 16193 16198	8 day
+T35	Drug 16209 16217	cefepime
+T36	Drug 16222 16234	levofloxacin
+T38	Reason 16243 16252	pneumonia
+T39	Drug 165 176	Penicillins
+T40	Drug 16530 16540	vancomycin
+T41	Reason 16561 16565;16566 16587	MRSA endocarditis coverage
+T42	Drug 16600 16611	ceftriaxone
+T43	Duration 16713 16719	6 week
+T44	Drug 16730 16741	antibiotics
+T45	Drug 16913 16928	anticoagulation
+T46	Drug 17501 17518	ALBUTEROL SULFATE
+T47	Strength 17521 17527	90 mcg
+T48	Form 17528 17547	HFA Aerosol Inhaler
+T49	Dosage 17550 17551	2
+T50	Form 17552 17557	puffs
+T51	Route 17558 17565	inhaled
+T52	Frequency 17566 17592	four times daily as needed
+T53	Reason 17597 17616	shortness of breath
+T54	Drug 17617 17630	BUPROPION HCL
+T55	Strength 17631 17637	150 mg
+T56	Form 17638 17662	Tablet Sustained Release
+T57	Dosage 17665 17666	1
+T58	Form 17667 17673	Tablet
+T59	Route 17677 17685	by mouth
+T60	Frequency 17686 17697	twice a day
+T61	Drug 17698 17708	CLOBETASOL
+T62	Strength 17711 17715	0.05 
+T63	Form 17718 17726	Ointment
+T64	Frequency 17778 17795	2 weeks per month
+T65	Drug 17878 17886	DIAZEPAM
+T66	Strength 17898 17902	5 mg
+T67	Form 17903 17909	Tablet
+T68	Dosage 17912 17913	1
+T69	Form 17914 17920	Tablet
+T70	Route 17924 17932	by mouth
+T71	Frequency 17933 17940;17941 17954	twice a day as needed
+T72	Drug 17955 17977	FLUTICASONE-SALMETEROL
+T73	Strength 17996 18015	250 mcg-50 mcg/Dose
+T74	Form 18016 18020;18021 18032	Disk with Device
+T75	Dosage 18035 18036	1
+T76	Form 18037 18041	puff
+T77	Route 18042 18049	inhaled
+T78	Frequency 18050 18064	Every 12 hours
+T79	Drug 18098 18108	FUROSEMIDE
+T81	Strength 18111 18116	40 mg
+T82	Form 18117 18123	Tablet
+T83	Dosage 18126 18127	1
+T84	Form 18128 18134	Tablet
+T85	Route 18138 18146	by mouth
+T86	Frequency 18147 18152	daily
+T87	Drug 18153 18172	HYDROCHLOROTHIAZIDE
+T88	Strength 18175 18180	25 mg
+T89	Form 18181 18187	Tablet
+T90	Dosage 18190 18191	1
+T91	Form 18192 18198	Tablet
+T92	Route 18202 18210	by mouth
+T93	Frequency 18211 18216	daily
+T94	Drug 18217 18223	OXYGEN
+T95	Dosage 18230 18232	2L
+T96	Route 18236 18249	nasal cannula
+T97	Frequency 18250 18279;18280 18297	continuously during sleep and with any exertion
+T98	Drug 18365 18383	POTASSIUM CHLORIDE
+T99	Strength 18386 18392	10 mEq
+T100	Form 18393 18419	Capsule, Sustained Release
+T101	Dosage 18422 18423	1
+T102	Form 18424 18431	Capsule
+T103	Route 18435 18443	by mouth
+T104	Frequency 18444 18449	daily
+T105	Drug 18450 18460	SILDENAFIL
+T106	Strength 18502 18508	100 mg
+T107	Form 18509 18515	Tablet
+T108	Dosage 18518 18519	1
+T109	Form 18520 18526	Tablet
+T110	Route 18530 18538	by mouth
+T111	Drug 18549 18560	SIMVASTATIN
+T112	Strength 18563 18568	40 mg
+T113	Form 18569 18575	Tablet
+T114	Dosage 18578 18579	1
+T115	Form 18580 18586	Tablet
+T116	Route 18590 18598	by mouth
+T117	Frequency 18599 18604	daily
+T118	Drug 18605 18623	TIOTROPIUM BROMIDE
+T119	Strength 18652 18658	18 mcg
+T120	Form 18659 18667;18668 18687	Capsule, w/Inhalation Device
+T121	Dosage 18690 18691	1
+T122	Form 18692 18696	puff
+T123	Route 18697 18700	inh
+T124	Frequency 18701 18706	daily
+T125	Drug 18707 18716	VERAPAMIL
+T126	Strength 18719 18725	240 mg
+T127	Form 18726 18756	Cap,24 hr Sust Release Pellets
+T128	Dosage 18759 18760	1
+T129	Form 18761 18764	Cap
+T130	Route 18768 18770;18771 18776	by mouth
+T131	Frequency 18777 18782	daily
+T132	Drug 18783 18796	ACETAMINOPHEN
+T133	Strength 18833 18839	500 mg
+T134	Form 18840 18846	Tablet
+T135	Dosage 18849 18850	2
+T136	Form 18851 18857	Tablet
+T137	Route 18861 18869	by mouth
+T138	Frequency 18870 18891	twice a day as needed
+T139	Drug 18892 18899	ASPIRIN
+T140	Strength 18927 18932	81 mg
+T141	Form 18933 18956	Tablet, Delayed Release
+T142	Dosage 18966 18967	1
+T143	Form 18968 18974	Tablet
+T144	Route 18978 18986	by mouth
+T145	Frequency 18987 18992	daily
+T146	Drug 19021 19034	acetaminophen
+T147	Strength 19035 19041	325 mg
+T148	Form 19042 19048	Tablet
+T149	Dosage 19054 19057	1-2
+T150	Form 19058 19065	Tablets
+T151	Route 19066 19068	PO
+T152	Frequency 19069 19081;19082 19098	Q6H (every 6 hours) as needed
+T153	Reason 19103 19107	pain
+T154	Drug 19112 19123	allopurinol
+T155	Strength 19124 19130	300 mg
+T156	Form 19131 19137	Tablet
+T157	Dosage 19143 19150	One (1)
+T158	Form 19151 19157	Tablet
+T159	Route 19158 19160	PO
+T160	Frequency 19161 19166	DAILY
+T161	Drug 19179 19189	famotidine
+T162	Strength 19190 19195	20 mg
+T163	Form 19196 19202	Tablet
+T164	Dosage 19208 19215	One (1)
+T165	Form 19216 19222	Tablet
+T166	Route 19223 19225	PO
+T167	Frequency 19226 19230	Q12H
+T168	Drug 19252 19267	docusate sodium
+T169	Strength 19268 19278	50 mg/5 mL
+T170	Form 19279 19285	Liquid
+T171	Dosage 19291 19311	One Hundred (100) mg
+T172	Route 19312 19314	PO
+T173	Frequency 19315 19318	BID
+T174	Drug 19339 19344	senna
+T175	Strength 19345 19356	8.8 mg/5 mL
+T176	Form 19357 19362	Syrup
+T177	Dosage 19368 19375	One (1)
+T178	Form 19376 19382	Tablet
+T179	Route 19383 19385	PO
+T180	Frequency 19386 19389	BID
+T181	Drug 19410 19434	polyethylene glycol 3350
+T182	Strength 19435 19447	17 gram/dose
+T183	Form 19448 19454	Powder
+T184	Dosage 19460 19467	One (1)
+T185	Form 19468 19474	packet
+T186	Route 19475 19477	PO
+T187	Frequency 19478 19483	DAILY
+T188	Drug 19503 19522	metoprolol tartrate
+T189	Strength 19523 19528	25 mg
+T190	Form 19529 19535	Tablet
+T191	Dosage 19541 19544	0.5
+T192	Form 19545 19551	Tablet
+T193	Route 19552 19554	PO
+T194	Frequency 19555 19558	BID
+T195	Drug 19579 19601	isosorbide mononitrate
+T196	Strength 19602 19607	20 mg
+T197	Form 19608 19614	Tablet
+T198	Dosage 19620 19627	One (1)
+T199	Form 19628 19634	Tablet
+T200	Route 19635 19637	PO
+T201	Frequency 19638 19641	BID
+T202	Drug 19662 19673	fluticasone
+T203	Strength 19674 19691	110 mcg/Actuation
+T204	Form 19692 19699	Aerosol
+T205	Dosage 19705 19713	Four (4)
+T206	Form 19714 19718	Puff
+T207	Route 19719 19729	Inhalation
+T208	Frequency 19748 19761	2 times a day
+T209	Drug 19768 19778	lisinopril
+T210	Strength 19779 19783	5 mg
+T211	Form 19784 19790	Tablet
+T212	Dosage 19796 19799	0.5
+T213	Form 19800 19806	Tablet
+T214	Route 19807 19809	PO
+T215	Frequency 19810 19815	DAILY
+T216	Drug 19829 19838	tretinoin
+T217	Strength 19854 19859	10 mg
+T218	Form 19860 19867	Capsule
+T219	Dosage 19873 19881	Five (5)
+T220	Form 19882 19889	Capsule
+T221	Route 19890 19892	PO
+T222	Frequency 19893 19896	BID
+T223	Drug 19918 19937	ipratropium bromide
+T224	Strength 19938 19942	0.02 
+T225	Form 19945 19953	Solution
+T226	Dosage 19959 19966	One (1)
+T227	Form 19967 19977	inhalation
+T228	Route 19978 19988	Inhalation
+T229	Frequency 19989 19992	Q6H
+T230	Drug 20014 20031	albuterol sulfate
+T231	Strength 20032 20044	2.5 mg /3 mL
+T232	Form 20055 20067;20068 20080	Solution for Nebulization
+T233	Dosage 20086 20093	One (1)
+T234	Form 20094 20097	neb
+T235	Route 20098 20108	Inhalation
+T236	Frequency 20109 20131;20132 20138	Q2H (every 2 hours) as needed
+T237	Reason 20143 20162	shortness of breath
+T238	Reason 20166 20174	wheezing
+T239	Reason 2017 2026	Pneumonia
+T240	Drug 20180 20197	albuterol sulfate
+T241	Strength 20198 20210	2.5 mg /3 mL
+T242	Form 20221 20233;20234 20246	Solution for Nebulization
+T243	Dosage 20252 20259	One (1)
+T244	Form 20260 20263	neb
+T245	Route 20264 20274	Inhalation
+T246	Frequency 20275 20278	Q6H
+T247	Drug 20300 20308	nystatin
+T248	Strength 20309 20324	100,000 unit/mL
+T249	Form 20325 20335	Suspension
+T250	Dosage 20341 20352	Five (5) ML
+T251	Route 20353 20355	PO
+T252	Frequency 20356 20359	QID
+T253	Reason 20390 20396	thrush
+T254	Drug 20403 20416	bupropion HCl
+T255	Strength 20417 20423	100 mg
+T256	Form 20424 20430	Tablet
+T257	Dosage 20436 20443	One (1)
+T258	Form 20444 20450	Tablet
+T259	Route 20451 20453	PO
+T260	Frequency 20454 20457	BID
+T261	Drug 20479 20490	CeftriaXONE
+T262	Strength 20491 20495	2 gm
+T264	Frequency 20499 20503	Q24H
+T265	Drug 20552 20562	Vancomycin
+T266	Strength 20563 20570	1000 mg
+T268	Frequency 20574 20578	Q 8H
+T269	Drug 20597 20608	Haloperidol
+T270	Strength 20609 20615	0.5 mg
+T272	Frequency 20619 20626	BID:PRN
+T273	Reason 20627 20636	agitation
+T274	Duration 2063 2073	2-3 months
+T275	Drug 20641 20656	Sodium Chloride
+T276	Strength 20657 20660	0.9
+T277	Form 20663 20668	Flush
+T278	Dosage 20669 20673	3 mL
+T280	Frequency 20677 20684	Q8H:PRN
+T281	Dosage 20724 20728	3 mL
+T282	Drug 20729 20742	Normal Saline
+T283	Frequency 20749 20756	8 hours
+T284	Frequency 20761 20764	PRN
+T285	Drug 2077 2080	ABX
+T286	Drug 20770 20777	Heparin
+T287	Form 20778 20783	Flush
+T288	Strength 20785 20796	10 units/ml
+T289	Dosage 20798 20799	2
+T290	Form 20800 20802	mL
+T292	Frequency 20806 20809	PRN
+T293	Drug 20827 20834	heparin
+T294	Dosage 20857 20861	10mL
+T295	Drug 20862 20875	Normal Saline
+T296	Drug 20888 20895	Heparin
+T297	Frequency 20905 20910	daily
+T298	Drug 20934 20940	Lantus
+T299	Reason 2094 2098	COPD
+T300	Strength 20941 20952	100 unit/mL
+T301	Form 20953 20962	Cartridge
+T302	Dosage 20968 20981	Eighteen (18)
+T303	Form 20982 20987	units
+T304	Route 20988 21000	Subcutaneous
+T305	Frequency 21001 21011	at bedtime
+T306	Drug 21017 21024	Humalog
+T307	Strength 21025 21036	100 unit/mL
+T308	Form 21037 21046	Cartridge
+T309	Dosage 2104 2106	2L
+T310	Dosage 21052 21056	2-10
+T311	Form 21057 21062	units
+T312	Route 21063 21075	Subcutaneous
+T313	Frequency 21076 21109	QACHS: According to sliding scale
+T314	Drug 2112 2114	O2
+T315	Drug 21696 21700	ATRA
+T316	Drug 21705 21716	antibiotics
+T317	Drug 21956 21960	ATRA
+T318	Drug 21965 21976	antibiotics
+T319	Reason 448 452	COPD
+T322	Drug 464 466	O2
+T323	Reason 642 646	GERD
+T324	Drug 672 676	tums
+T17	Route 15487 15489	IV
+T28	Route 20496 20498	IV
+T37	Route 20571 20573	IV
+T80	Route 20616 20618	IV
+T263	Route 20674 20676	IV
+T267	Route 20803 20805	IV
+T271	Reason 12984 12990	NSTEMI

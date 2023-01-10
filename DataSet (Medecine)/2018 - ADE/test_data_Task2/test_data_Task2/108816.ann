@@ -1,0 +1,127 @@
+T1	Drug 1243 1245	O2
+T2	Strength 1259 1261	.3
+T3	Route 1262 1264	sc
+T4	Drug 1265 1268	epi
+T5	Drug 1340 1350	solumedrol
+T6	Strength 1351 1356	125mg
+T7	Dosage 1359 1360	1
+T8	Drug 1362 1368	heliox
+T9	Dosage 1607 1616	high dose
+T10	Drug 1617 1624	steroid
+T11	Drug 162 169	Aspirin
+T12	Strength 1646 1648;1649 1651	80 mg
+T13	Drug 1652 1662	prednisone
+T14	Frequency 1663 1668	daily
+T15	Drug 1674 1682	decadron
+T16	Strength 1683 1686	4mg
+T17	Frequency 1687 1692	daily
+T18	Drug 1839 1849	prednisone
+T19	Strength 1850 1855	20 mg
+T20	Frequency 1856 1859	qod
+T21	Drug 3342 3351	albuterol
+T22	Reason 3599 3605	Asthma
+T24	Drug 3761 3773	theophylline
+T25	Drug 3775 3786	montelukast
+T26	Drug 3788 3799	fluticasone
+T27	Drug 3801 3811	salumedrol
+T28	Strength 3861 3864	125
+T29	Drug 3865 3883	methylprednisolone
+T30	Frequency 3884 3887	q8h
+T31	Drug 3950 3957	insulin
+T33	Drug 3964 3972	steroids
+T34	Drug 4095 4105	prednisone
+T35	Dosage 4106 4111	taper
+T36	Strength 4124 4128	60mg
+T37	Frequency 4129 4133	qday
+T38	Strength 4147 4151	30mg
+T39	Frequency 4152 4156	qday
+T40	Drug 4186 4194	protonix
+T41	Reason 4204 4208	GERD
+T42	ADE 4219 4240	exacerbate her asthma
+T43	Drug 4382 4394	Theophylline
+T44	Strength 4395 4400	300mg
+T45	Form 4401 4403	SR
+T46	Drug 4421 4432	Montelukast
+T47	Strength 4433 4437	10mg
+T48	Frequency 4438 4442	qday
+T49	Drug 4443 4452	Albuterol
+T50	Dosage 4453 4456	1-2
+T51	Form 4457 4462	puffs
+T52	Frequency 4463 4466	q4h
+T53	Drug 4467 4478	Fluticasone
+T54	Dosage 4479 4480	2
+T55	Form 4481 4486	puffs
+T56	Drug 4504 4514	salmeterol
+T57	Dosage 4515 4516	1
+T58	Form 4517 4521	puff
+T59	Frequency 4522 4526	qday
+T60	Drug 4527 4536	albuterol
+T61	Form 4537 4541	nebs
+T62	Drug 4559 4569	prednisone
+T63	Strength 4570 4574	20mg
+T64	Frequency 4575 4578	qod
+T65	Drug 4606 4624	Montelukast Sodium
+T66	Strength 4625 4630	10 mg
+T67	Form 4631 4637	Tablet
+T68	Dosage 4643 4650	One (1)
+T69	Form 4651 4657	Tablet
+T70	Route 4658 4660	PO
+T71	Frequency 4661 4666;4667 4674	DAILY (Daily)
+T72	Drug 4679 4691	Theophylline
+T73	Strength 4692 4698	300 mg
+T74	Form 4699 4726	Capsule, Sust. Release 12HR
+T75	Dosage 4732 4739	One (1)
+T76	Form 4740 4767	Capsule, Sust. Release 12HR
+T77	Route 4768 4770	PO
+T78	Frequency 4771 4790	BID (2 times a day)
+T79	Form 4792 4800;4801 4822	Capsule, Sust. Release 12HR(s)
+T80	Drug 4826 4848	Fluticasone Propionate
+T81	Strength 4849 4866	110 mcg/Actuation
+T82	Form 4867 4874	Aerosol
+T83	Dosage 4880 4887	Two (2)
+T84	Form 4888 4892	Puff
+T85	Route 4893 4903	Inhalation
+T86	Reason 492 505	asthma attack
+T87	Frequency 4922 4935	2 times a day
+T88	Drug 4941 4961	Salmeterol Xinafoate
+T89	Strength 4962 4973	50 mcg/Dose
+T90	Form 4974 4990	Disk with Device
+T91	Dosage 4996 4999;5000 5003	One (1)
+T92	Form 5004 5020	Disk with Device
+T93	Route 5021 5031	Inhalation
+T94	Frequency 5032 5053	Q12H (every 12 hours)
+T95	Drug 5058 5077	Ipratropium Bromide
+T96	Strength 5078 5082	0.02 
+T97	Form 5085 5093	Solution
+T98	Dosage 5099 5117;5118 5121	Five Hundred (500) mcg
+T99	Route 5122 5132	Inhalation
+T100	Frequency 5133 5162	every six (6) hours as needed
+T101	Reason 5167 5179;5180 5186	shortness of breath
+T102	Reason 5190 5198	wheezing
+T103	Drug 5231 5241	Prednisone
+T104	Strength 5242 5247	20 mg
+T105	Form 5248 5254	Tablet
+T106	Form 5273 5279	Tablet
+T107	Route 5280 5282	PO
+T108	Frequency 5283 5289;5290 5293	once a day
+T109	Dosage 5300 5301	3
+T110	Form 5302 5306	tabs
+T111	Duration 5313 5323	for 2 days
+T112	Dosage 5336 5337	2
+T113	Form 5338 5342	tabs
+T114	Duration 5349 5354;5355 5359	for 2 days
+T115	Dosage 5372 5384	1 and a half
+T116	Form 5385 5392	tablets
+T117	Drug 5493 5512	Pantoprazole Sodium
+T118	Drug 551 561	prednisone
+T119	Strength 5513 5518	40 mg
+T120	Form 5519 5549	Tablet, Delayed Release (E.C.)
+T121	Dosage 5555 5562	One (1)
+T122	Form 5563 5593	Tablet, Delayed Release (E.C.)
+T123	Route 5594 5596	PO
+T124	Frequency 5597 5618	Q24H (every 24 hours)
+T125	Strength 562 566	20mg
+T126	Route 567 569	po
+T127	Frequency 570 573	qod
+T128	Dosage 1382 1385	10L
+T129	Route 1369 1373;1374 1378	mask vent

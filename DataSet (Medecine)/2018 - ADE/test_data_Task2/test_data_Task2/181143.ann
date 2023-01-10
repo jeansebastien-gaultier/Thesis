@@ -1,0 +1,207 @@
+T1	Drug 306 314	coumadin
+T2	Drug 3389 3397	coumadin
+T3	Reason 3402 3407	a-fib
+T4	Dosage 3513 3516	one
+T5	Drug 3525 3534	vitamin K
+T6	Drug 3541 3549	dilantin
+T8	Strength 3730 3737	2 units
+T10	Drug 3741 3744	FFP
+T11	Drug 3749 3758	profiline
+T12	Drug 4192 4201	diltiazem
+T14	Route 4205 4209	drip
+T15	Route 4231 4233	PO
+T16	Drug 4234 4243	diltiazem
+T17	Drug 4398 4407	diltiazem
+T19	Route 4411 4415	drip
+T20	Reason 4437 4455	atrial fibrilation
+T22	Route 4552 4554	PO
+T23	Drug 4555 4564	diltiazem
+T24	Drug 4583 4593	amiodarone
+T25	Route 4594 4596	PO
+T26	Drug 4602 4611	lopressor
+T27	Reason 464 482	atrial fibrilation
+T28	Strength 4655 4659	50mg
+T29	Frequency 4660 4671	twice daily
+T30	Drug 486 494	coumadin
+T31	Drug 5021 5025	HCTZ
+T32	Drug 5263 5272	metformin
+T33	Strength 5273 5279	500 mg
+T34	Route 5280 5282	po
+T35	Frequency 5283 5286	BID
+T36	Drug 5288 5298	amiodarone
+T37	Drug 5299 5307	pacerone
+T38	Strength 5309 5315	100 mg
+T39	Route 5316 5318	po
+T40	Frequency 5319 5321	qd
+T41	Drug 5323 5336	diltiazem hcl
+T42	Form 5337 5348	ext-release
+T43	Drug 5349 5358	cartia XT
+T44	Strength 5359 5365	120 mg
+T45	Route 5366 5368	po
+T46	Frequency 5368 5370	qd
+T47	Drug 5372 5383	simvastatin
+T48	Strength 5384 5389	4- mg
+T49	Route 5390 5392	po
+T50	Frequency 5393 5395	qd
+T51	Drug 5397 5402	zetia
+T52	Strength 5403 5405	10
+T53	Route 5406 5408	po
+T54	Frequency 5409 5411	qd
+T55	Drug 5413 5422	lopressor
+T56	Strength 5423 5428	25 mg
+T57	Route 5429 5431	po
+T58	Frequency 5432 5435	bid
+T59	Drug 5437 5445	coumadin
+T60	Strength 5446 5450	4 mg
+T61	Route 5451 5453	po
+T62	Frequency 5454 5456	qd
+T63	Drug 5458 5465	aricept
+T65	Route 5471 5473	po
+T66	Frequency 5475 5477	qd
+T67	Drug 5479 5485	celexa
+T68	Strength 5486 5491	10 mg
+T69	Route 5492 5494	po
+T70	Frequency 5495 5497	qd
+T71	Drug 5499 5508	pravachol
+T72	Strength 5509 5511	80
+T73	Route 5512 5514	po
+T74	Frequency 5515 5517	qd
+T75	Drug 5519 5526	zestril
+T76	Strength 5527 5529	40
+T77	Route 5530 5532	po
+T78	Frequency 5533 5535	qd
+T79	Drug 5537 5550	ciprofloxacin
+T80	Strength 5551 5554	250
+T81	Route 5555 5557	po
+T82	Frequency 5558 5561	bid
+T83	Drug 5563 5569	ativan
+T84	Strength 5570 5574	1 mg
+T85	Route 5575 5577	po
+T86	Frequency 5578 5581	PRN
+T87	Drug 5610 5623	Acetaminophen
+T88	Strength 5624 5630	325 mg
+T89	Form 5631 5637	Tablet
+T90	Dosage 5643 5650	One (1)
+T91	Form 5651 5657	Tablet
+T92	Route 5658 5660	PO
+T93	Frequency 5661 5671;5672 5690	Q6H (every 6 hours) as needed
+T94	Reason 5695 5699	pain
+T96	Reason 5700 5705	fever
+T97	Drug 5710 5720	Amiodarone
+T98	Strength 5721 5727	200 mg
+T99	Form 5728 5734	Tablet
+T100	Dosage 5740 5743	0.5
+T101	Form 5744 5750	Tablet
+T102	Route 5751 5753	PO
+T103	Frequency 5754 5759	DAILY
+T104	Drug 5772 5781	Donepezil
+T105	Strength 5782 5786	5 mg
+T106	Form 5787 5793	Tablet
+T107	Dosage 5799 5806	One (1)
+T108	Form 5807 5813	Tablet
+T109	Route 5814 5816	PO
+T110	Frequency 5817 5819	HS
+T111	Drug 5838 5848	Citalopram
+T112	Strength 5849 5854	20 mg
+T113	Form 5855 5861	Tablet
+T114	Dosage 5867 5870	0.5
+T115	Form 5871 5877	Tablet
+T116	Route 5878 5880	PO
+T117	Frequency 5881 5886	DAILY
+T118	Drug 5899 5910	Pravastatin
+T119	Strength 5911 5916	20 mg
+T120	Form 5917 5923	Tablet
+T121	Dosage 5929 5937	Four (4)
+T122	Form 5938 5944	Tablet
+T123	Route 5945 5947	PO
+T124	Frequency 5948 5953	DAILY
+T125	Drug 5966 5976	Lisinopril
+T126	Strength 5977 5982	20 mg
+T127	Form 5983 5989	Tablet
+T128	Dosage 5995 6002	Two (2)
+T129	Form 6003 6009	Tablet
+T130	Route 6010 6012	PO
+T131	Frequency 6013 6018	DAILY
+T132	Drug 6032 6037	Senna
+T133	Strength 6038 6044	8.6 mg
+T134	Form 6045 6051	Tablet
+T135	Dosage 6057 6064	One (1)
+T136	Form 6065 6071	Tablet
+T137	Route 6072 6074	PO
+T138	Frequency 6075 6078	BID
+T139	Drug 6099 6114	Docusate Sodium
+T140	Strength 6115 6125	50 mg/5 mL
+T141	Form 6126 6132	Liquid
+T142	Dosage 6138 6145	One (1)
+T143	Route 6147 6149	PO
+T144	Frequency 6150 6153	BID
+T145	Drug 6174 6183	Bisacodyl
+T146	Strength 6184 6188	5 mg
+T148	Form 6189 6219	Tablet, Delayed Release (E.C.)
+T149	Dosage 6225 6232	Two (2)
+T151	Form 6233 6263	Tablet, Delayed Release (E.C.)
+T152	Route 6264 6266	PO
+T153	Frequency 6267 6272	DAILY
+T154	Drug 6286 6301	Docusate Sodium
+T155	Strength 6302 6308	100 mg
+T156	Form 6309 6316	Capsule
+T157	Dosage 6322 6329	One (1)
+T158	Form 6330 6337	Capsule
+T159	Route 6338 6340	PO
+T160	Frequency 6341 6344	BID
+T161	Drug 6366 6387	Insulin Regular Human
+T162	Strength 6388 6399	100 unit/mL
+T163	Form 6400 6408	Solution
+T164	Dosage 6414 6421	One (1)
+T165	Route 6422 6431	Injection
+T166	Frequency 6432 6437	ASDIR
+T167	Drug 6457 6476	Metoprolol Tartrate
+T168	Strength 6477 6482	50 mg
+T169	Form 6483 6489	Tablet
+T170	Dosage 6495 6502	One (1)
+T171	Form 6503 6509	Tablet
+T172	Route 6510 6512	PO
+T173	Frequency 6513 6516	BID
+T174	Drug 6538 6557	Hydrochlorothiazide
+T175	Strength 6558 6563	25 mg
+T176	Form 6564 6570	Tablet
+T177	Dosage 6576 6583	One (1)
+T178	Form 6584 6590	Tablet
+T179	Route 6591 6593	PO
+T180	Frequency 6594 6599	DAILY
+T181	Drug 6613 6632	Metoprolol Tartrate
+T182	Strength 6633 6637	5 mg
+T185	Frequency 6641 6648	Q4H:PRN
+T187	Reason 6653 6668;6669 6671	hear rate > 100 15
+T188	Drug 6673 6683	Famotidine
+T189	Strength 6725 6736	20 mg/50 mL
+T190	Form 6737 6746	Piggyback
+T191	Dosage 6752 6759	One (1)
+T192	Route 6761 6772	Intravenous
+T193	Frequency 6773 6777	Q12H
+T194	Drug 6800 6811	Hydralazine
+T195	Strength 6812 6820	20 mg/mL
+T196	Form 6821 6829	Solution
+T197	Dosage 6835 6842	One (1)
+T198	Form 6844 6853	Injection
+T199	Frequency 6854 6857;6858 6883	Q6H (every 6 hours) as needed
+T200	Reason 6888 6895	SBP>160
+T201	Drug 7202 7215	pain medicine
+T202	Drug 7374 7387;7388 7396	narcotic pain medicine
+T203	ADE 7407 7419	constipation
+T204	Reason 7471 7485	stool softener
+T205	Drug 7495 7503	Docusate
+T206	Reason 7607 7624	anti-inflammatory
+T207	Drug 7643 7649	Motrin
+T208	Drug 7651 7658	Aspirin
+T209	Drug 7660 7665	Advil
+T210	Drug 7670 7679	Ibuprofen
+T211	Drug 7728 7736	Coumadin
+T212	Drug 7752 7758	Plavix
+T213	Drug 7875 7883	Dilantin
+T215	Reason 7900 7921	anti-seizure medicine
+T216	Drug 8145 8151	Keppra
+T7	Route 4202 4204	iv
+T9	Route 4408 4410	IV
+T13	Route 4545 4547	IV
+T18	Route 6638 6640	IV

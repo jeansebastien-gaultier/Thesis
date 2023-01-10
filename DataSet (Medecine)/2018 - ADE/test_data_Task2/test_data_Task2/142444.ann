@@ -1,0 +1,127 @@
+T1	Drug 163 174	Penicillins
+T2	Drug 177 191	Cephalosporins
+T3	Drug 194 204	Carbapenem
+T4	Drug 207 223	A.C.E Inhibitors
+T5	Drug 226 257	Angiotensin Receptor Antagonist
+T6	Drug 3583 3591	CONTRAST
+T7	Drug 3888 3896	CONTRAST
+T8	Reason 4471 4494	Small bowel obstruction
+T9	Drug 4513 4516	IVF
+T10	Drug 4956 4959	IVF
+T11	Drug 5556 5565	diuretics
+T12	Drug 5858 5866	diuresis
+T13	Drug 5966 5985	fluid resuscitation
+T14	Drug 5990 5997	albumin
+T15	Reason 6012 6023	hypovolemia
+T16	Drug 6034 6042	diuresis
+T17	Drug 6180 6189	Torsemide
+T18	Reason 6208 6211	CHF
+T19	Drug 6281 6284	D5W
+T20	ADE 6286 6299	Hypernatremia
+T21	Drug 6314 6323	diuretics
+T22	Drug 6345 6354	torsemide
+T24	Reason 6421 6429	hydrated
+T25	Drug 6435 6438	D5W
+T26	Reason 6536 6557	blood glucose control
+T27	Drug 6573 6579	Lantus
+T28	Drug 6586 6593	Humalog
+T29	Dosage 6594 6607	sliding scale
+T30	Drug 6678 6681	asa
+T31	Strength 6682 6686	81mg
+T32	Drug 6689 6699	calcitriol
+T33	Strength 6700 6706	.25mcg
+T34	Drug 6709 6715	lantus
+T35	Strength 6716 6718	46
+T36	Drug 6721 6730	neurontin
+T37	Strength 6731 6736	300mg
+T38	Drug 6741 6746	paxil
+T39	Strength 6747 6751	30mg
+T40	Drug 6754 6759	Zocor
+T41	Strength 6760 6764	10mg
+T42	Drug 6793 6810	Heparin (Porcine)
+T43	Strength 6811 6824	5,000 unit/mL
+T44	Form 6825 6833	Solution
+T45	Dosage 6839 6846	One (1)
+T46	Route 6847 6856	Injection
+T47	Frequency 6875 6888	2 times a day
+T48	Drug 6894 6908	Paroxetine HCl
+T49	Strength 6909 6914	20 mg
+T50	Form 6915 6921	Tablet
+T51	Dosage 6927 6930	1.5
+T52	Form 6931 6938	Tablets
+T53	Route 6939 6941	PO
+T54	Frequency 6942 6947	DAILY
+T55	Drug 6960 6970	Amlodipine
+T56	Strength 6971 6975	5 mg
+T57	Form 6976 6982	Tablet
+T58	Dosage 6988 6995	Two (2)
+T59	Form 6996 7002	Tablet
+T60	Route 7003 7005	PO
+T61	Frequency 7006 7011	DAILY
+T62	Drug 7025 7032	Aspirin
+T63	Strength 7033 7039	325 mg
+T64	Form 7040 7046	Tablet
+T65	Dosage 7052 7059	One (1)
+T66	Form 7060 7066	Tablet
+T67	Route 7067 7069	PO
+T68	Frequency 7070 7075	DAILY
+T69	Drug 7088 7101	Acetaminophen
+T70	Strength 7102 7108	325 mg
+T71	Form 7109 7115	Tablet
+T72	Dosage 7121 7128	One (1)
+T73	Form 7129 7135	Tablet
+T74	Route 7136 7138	PO
+T75	Frequency 7139 7149;7150 7168	Q6H (every 6 hours) as needed
+T76	Drug 7173 7185	Pantoprazole
+T77	Strength 7186 7191	40 mg
+T78	Form 7192 7215	Tablet, Delayed Release
+T79	Dosage 7228 7231;7232 7235	One (1)
+T80	Form 7236 7259	Tablet, Delayed Release
+T81	Route 7267 7269	PO
+T82	Frequency 7270 7274	Q24H
+T83	Drug 7296 7307	Simvastatin
+T84	Strength 7308 7313	10 mg
+T85	Form 7314 7320	Tablet
+T86	Dosage 7326 7333	One (1)
+T87	Form 7334 7340	Tablet
+T88	Route 7341 7343	PO
+T89	Frequency 7344 7349	DAILY
+T90	Drug 7362 7371	Torsemide
+T91	Strength 7372 7377	20 mg
+T92	Form 7378 7384	Tablet
+T93	Dosage 7390 7397	One (1)
+T94	Form 7398 7404	Tablet
+T95	Route 7405 7407	PO
+T96	Frequency 7408 7413	DAILY
+T97	Drug 7427 7437	Tamsulosin
+T98	Strength 7438 7444	0.4 mg
+T99	Form 7445 7473	Capsule, Sust. Release 24 hr
+T100	Dosage 7479 7486	One (1)
+T101	Form 7487 7515	Capsule, Sust. Release 24 hr
+T102	Route 7516 7518	PO
+T103	Frequency 7519 7522	BID
+T104	Drug 7544 7554	Carvedilol
+T105	Strength 7555 7562	12.5 mg
+T106	Form 7563 7569	Tablet
+T107	Dosage 7575 7582	Two (2)
+T108	Form 7583 7589	Tablet
+T109	Route 7590 7592	PO
+T110	Frequency 7593 7596	BID
+T111	Drug 7618 7634	Insulin Glargine
+T112	Strength 7635 7646	100 unit/mL
+T113	Form 7647 7655	Solution
+T114	Dosage 7661 7676	Forty Five (45)
+T115	Form 7677 7682	Units
+T116	Route 7683 7695	Subcutaneous
+T117	Frequency 7696 7706	at bedtime
+T118	Drug 7724 7731	Humalog
+T119	ADE 9614 9626	constipation
+T1200	Reason 9614 9626	constipation
+T120	Drug 9639 9664	narcotic pain medications
+T121	Drug 9666 9675	oxycodone
+T122	Drug 9677 9685	percocet
+T123	Drug 9687 9694	vicodin
+T124	Drug 9696 9707	hydrocodone
+T125	Drug 9709 9717	dilaudid
+T126	Drug 9776 9791	stool softeners
+T23	Drug 5901 5903	O2

@@ -1,0 +1,127 @@
+T1	Drug 10009 10028	Metoprolol Tartrate
+T2	Route 1001 1005	drip
+T3	Strength 10029 10034	25 mg
+T4	Form 10035 10041	Tablet
+T5	Dosage 10047 10050;10051 10054	One (1)
+T6	Form 10055 10061	Tablet
+T7	Route 10062 10064	PO
+T8	Frequency 10065 10068	BID
+T9	Drug 10122 10132	Furosemide
+T10	Strength 10133 10138	40 mg
+T11	Form 10139 10145	Tablet
+T12	Dosage 10151 10154;10155 10158	One (1)
+T13	Form 10159 10165	Tablet
+T14	Route 10166 10168	PO
+T15	Frequency 10169 10174;10175 10182	DAILY (Daily)
+T16	Duration 10183 10193	for 7 days
+T17	Drug 10230 10248	Potassium Chloride
+T18	Strength 10249 10255	10 mEq
+T19	Form 10256 10282	Capsule, Sustained Release
+T20	Dosage 10288 10291;10292 10295	Two (2)
+T21	Form 10296 10322	Capsule, Sustained Release
+T22	Route 10323 10325	PO
+T23	Frequency 10326 10331;10332 10339	DAILY (Daily)
+T24	Duration 10340 10350	for 7 days
+T25	Drug 172 180	Coumadin
+T26	Drug 183 200	Quinidine Sulfate
+T27	Drug 530 546	anticoaggulation
+T28	Drug 5618 5628	anesthesia
+T29	Drug 651 655	TUMS
+T30	Drug 7799 7805	plavix
+T31	Drug 8027 8040	neosynephrine
+T32	Drug 8045 8053	propofol
+T33	Route 8054 8059	drips
+T34	Drug 8061 8071	Transfused
+T35	Reason 8076 8089	postop anemia
+T36	Drug 8097 8108	epinephrine
+T37	Drug 8109 8119	amiodarone
+T38	Drug 8121 8124	neo
+T39	Drug 8129 8136	insulin
+T40	Route 8137 8142	drips
+T41	Drug 8207 8218	Epinephrine
+T42	Drug 8488 8491	abx
+T43	Drug 8807 8817	Amiodarone
+T44	Strength 8818 8823	200mg
+T45	Frequency 8824 8832	every AM
+T46	Strength 8834 8839	100mg
+T47	Frequency 8840 8853	every evening
+T48	Drug 8854 8861	Aspirin
+T49	Strength 8862 8867	81 mg
+T50	Frequency 8868 8873	daily
+T51	Drug 8874 8880	Plavix
+T52	Strength 8881 8886	75 mg
+T53	Frequency 8887 8892	daily
+T54	Drug 8893 8898	Imdur
+T55	Strength 8899 8903	30mg
+T56	Frequency 8904 8909	daily
+T57	Drug 8910 8912	NG
+T58	Route 8913 8915	SL
+T59	Frequency 8916 8919	PRN
+T60	Drug 8951 8966	Docusate Sodium
+T61	Strength 8967 8973	100 mg
+T62	Form 8974 8981	Capsule
+T63	Dosage 8987 8990;8991 8994	One (1)
+T64	Form 8995 9002	Capsule
+T65	Route 9003 9005	PO
+T66	Frequency 9006 9009	BID
+T67	Duration 9026 9038	for 1 months
+T68	Drug 9076 9083	Aspirin
+T69	Strength 9084 9089	81 mg
+T70	Form 9090 9113	Tablet, Delayed Release
+T71	Dosage 9126 9129;9130 9133	One (1)
+T72	Form 9134 9157	Tablet, Delayed Release
+T73	Route 9165 9167	PO
+T74	Frequency 9168 9173	DAILY
+T75	Drug 9242 9254	Atorvastatin
+T76	Strength 9255 9260	10 mg
+T77	Form 9261 9267	Tablet
+T78	Dosage 9273 9276;9277 9280	One (1)
+T79	Form 9281 9287	Tablet
+T80	Route 9288 9290	PO
+T81	Frequency 9291 9296	DAILY
+T82	Drug 9341 9364	Oxycodone-Acetaminophen
+T83	Strength 9365 9373	5-325 mg
+T84	Form 9374 9380	Tablet
+T85	Dosage 9386 9389	1-2
+T86	Form 9390 9397	Tablets
+T87	Route 9398 9400	PO
+T88	Frequency 9401 9430	Q4H (every 4 hours) as needed
+T89	Reason 9435 9439	pain
+T90	Drug 9476 9488	Pantoprazole
+T91	Strength 9489 9494	40 mg
+T92	Form 9495 9518	Tablet, Delayed Release
+T93	Reason 951 966	intermittent CP
+T94	Dosage 9531 9534;9535 9538	One (1)
+T95	Form 9539 9562	Tablet, Delayed Release
+T96	Route 9570 9572	PO
+T97	Frequency 9573 9577	Q24H
+T98	Duration 9595 9598;9599 9606	for 2 weeks
+T99	Drug 9667 9678	Clopidogrel
+T100	Strength 9679 9684	75 mg
+T101	Form 9685 9691	Tablet
+T102	Dosage 9697 9700;9701 9704	One (1)
+T103	Form 9705 9711	Tablet
+T104	Route 9712 9714	PO
+T105	Frequency 9715 9720	DAILY
+T106	Drug 9765 9775	Amiodarone
+T107	Strength 9776 9782	200 mg
+T108	Form 9783 9789	Tablet
+T109	Dosage 9795 9798;9799 9802	One (1)
+T110	Form 9803 9809	Tablet
+T111	Route 9810 9812	PO
+T112	Frequency 9813 9823	once a day
+T113	Dosage 9825 9826	1
+T114	Form 9827 9830	tab
+T115	Strength 9832 9838	200 mg
+T116	Frequency 9839 9843	Q AM
+T117	Form 9856 9859	tab
+T118	Strength 9861 9867	100 mg
+T119	Frequency 9868 9872	Q PM
+T120	Drug 9909 9918	Captopril
+T121	Strength 9919 9926	12.5 mg
+T122	Form 9927 9933	Tablet
+T123	Dosage 9939 9942	0.5
+T124	Form 9943 9949	Tablet
+T125	Drug 995 1000	nitro
+T126	Route 9950 9952	PO
+T127	Frequency 9953 9956	TID

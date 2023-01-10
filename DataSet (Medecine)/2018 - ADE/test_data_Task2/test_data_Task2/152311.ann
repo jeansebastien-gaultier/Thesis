@@ -1,0 +1,299 @@
+T1	Drug 10015 10038	Chlorhexidine Gluconate
+T2	Strength 10039 10043	0.12 
+T3	Form 10046 10055	Mouthwash
+T4	Dosage 10083 10090	One (1)
+T5	Form 10091 10093	ML
+T6	Route 10094 10109	Mucous membrane
+T7	Frequency 10110 10113	QID
+T8	Drug 10134 10144	Furosemide
+T9	Strength 10145 10150	20 mg
+T10	Form 10151 10157	Tablet
+T11	Dosage 10185 10192	One (1)
+T12	Form 10193 10199	Tablet
+T13	Route 10200 10202	PO
+T15	Frequency 10203 10216	DAILY (Daily)
+T16	Drug 10224 10236	Zinc Sulfate
+T17	Strength 10237 10243	220 mg
+T18	Form 10244 10251	Capsule
+T19	Dosage 10279 10286	One (1)
+T20	Form 10287 10294	Capsule
+T21	Route 10295 10297	PO
+T23	Frequency 10298 10303;10304 10311	DAILY (Daily)
+T24	Duration 10312 10322	for 4 days
+T25	Drug 10328 10337	Vitamin A
+T26	Strength 10338 10349	10,000 unit
+T27	Form 10350 10357	Capsule
+T28	Dosage 10385 10392	Two (2)
+T29	Form 10393 10400	Capsule
+T30	Route 10401 10403	PO
+T31	Frequency 10404 10409	DAILY
+T32	Duration 10419 10430	for 4 doses
+T33	Drug 10436 10449	Ascorbic Acid
+T34	Strength 10450 10456	500 mg
+T35	Form 10457 10463	Tablet
+T36	Dosage 10491 10498	One (1)
+T37	Form 10499 10505	Tablet
+T38	Route 10506 10508	PO
+T39	Frequency 10509 10515;10516 10519	once a day
+T40	Duration 10520 10530	for 4 days
+T41	Drug 10536 10544	Coumadin
+T42	Strength 10545 10549	1 mg
+T43	Form 10550 10556	Tablet
+T44	Dosage 10584 10591	One (1)
+T45	Form 10592 10598	Tablet
+T46	Route 10599 10601	PO
+T47	Frequency 10602 10612	once a day
+T48	Drug 1063 1067	Vanc
+T49	Drug 1068 1073	Zosyn
+T50	Drug 10711 10725	Insulin Lispro
+T51	Strength 10726 10737	100 unit/mL
+T52	Form 10738 10746	Solution
+T53	Drug 1075 1082	tylenol
+T54	Frequency 10770 10775	qACHS
+T55	Dosage 10780 10787;10788 10793	sliding scale
+T56	Route 10794 10806	Subcutaneous
+T57	Frequency 10807 10826	ASDIR (AS DIRECTED)
+T58	Drug 10832 10858	Polyvinyl Alcohol-Povidone
+T59	Strength 10859 10866	1.4-0.6 
+T60	Form 10869 10880	Dropperette
+T61	Dosage 1088 1090	1L
+T62	Drug 1091 1093	NS
+T63	Form 10916 10921	Drops
+T64	Route 10922 10932	Ophthalmic
+T65	Drug 10971 10981	Oxybutynin
+T66	Strength 10991 10995	5 mg
+T67	Form 10996 11002	Tablet
+T68	Dosage 11021 11028	One (1)
+T69	Form 11029 11035	Tablet
+T70	Route 11036 11038	PO
+T71	Frequency 11039 11042	TID
+T72	Drug 11064 11077	Metronidazole
+T73	Strength 11078 11084	500 mg
+T74	Form 11085 11091	Tablet
+T75	Dosage 11110 11117	One (1)
+T76	Form 11118 11124	Tablet
+T77	Route 11125 11127	PO
+T79	Frequency 11128 11131;11132 11147	Q8H (every 8 hours)
+T80	Duration 11148 11159	for 2 weeks
+T81	Drug 11165 11178	Acetaminophen
+T82	Strength 11179 11185	325 mg
+T83	Form 11186 11192	Tablet
+T84	Drug 112 119	Norvasc
+T85	Dosage 11211 11214	1-2
+T86	Form 11215 11222	Tablets
+T87	Route 11223 11225	PO
+T89	Reason 11261 11265	pain
+T90	Drug 11295 11304	Bisacodyl
+T91	Strength 11305 11309	5 mg
+T92	Form 11310 11333	Tablet, Delayed Release
+T93	Dosage 11359 11366	Two (2)
+T94	Form 11367 11390	Tablet, Delayed Release
+T95	Route 11398 11400	PO
+T96	Frequency 11401 11424	DAILY (Daily) as needed
+T97	Drug 11429 11434	Senna
+T98	Strength 11435 11441	8.6 mg
+T99	Form 11442 11448	Tablet
+T100	Dosage 11467 11474	One (1)
+T101	Form 11475 11481	Tablet
+T102	Route 11482 11484	PO
+T103	Frequency 11485 11499;11500 11514	BID (2 times a day) as needed
+T104	Drug 11519 11527	Fentanyl
+T105	Strength 11528 11537	12 mcg/hr
+T106	Form 11538 11549	Patch 72 hr
+T107	Dosage 11568 11575	One (1)
+T108	Form 11576 11587	Patch 72 hr
+T109	Route 11588 11599	Transdermal
+T110	Frequency 11600 11621	Q72H (every 72 hours)
+T111	Drug 11626 11641	Bacitracin Zinc
+T112	Strength 11642 11652	500 unit/g
+T113	Form 11653 11661	Ointment
+T114	Dosage 11680 11687	One (1)
+T115	Route 11693 11700	Topical
+T117	Frequency 11701 11720	QID (4 times a day)
+T118	Drug 11725 11743	Miconazole Nitrate
+T120	Form 11748 11754	Powder
+T121	Dosage 11773 11780	One (1)
+T122	Route 11786 11793	Topical
+T124	Frequency 11794 11797;11798 11813	TID (3 times a day)
+T125	Drug 11818 11831	Acetaminophen
+T126	Strength 11832 11843	500 mg/5 mL
+T127	Form 11844 11850	Liquid
+T128	Dosage 11869 11876	One (1)
+T129	Route 11878 11880	PO
+T131	Frequency 11881 11891;11892 11900	Q6H (every 6 hours)
+T132	Drug 11972 11987	Sodium Chloride
+T133	Strength 11988 11991	0.9
+T134	Form 11994 11999	Flush
+T135	Dosage 12000 12005	10 mL
+T137	Frequency 12009 12012	PRN
+T138	Reason 12013 12023	line flush
+T139	Drug 12034 12041	heparin
+T140	Form 12053 12058	Flush
+T141	Dosage 12064 12069	10 mL
+T142	Drug 12070 12083	Normal Saline
+T143	Frequency 12084 12089	daily
+T144	Frequency 12094 12097	PRN
+T145	Drug 12112 12123	Ceftazidime
+T146	Strength 12124 12130	2 gram
+T147	Form 12131 12141	Recon Soln
+T148	Dosage 12160 12167	One (1)
+T149	Form 12168 12178	Recon Soln
+T150	Route 12179 12188	Injection
+T152	Frequency 12189 12210	Q12H (every 12 hours)
+T153	Drug 122 127	Cipro
+T154	Duration 12211 12221	for 5 days
+T155	Drug 12254 12272	Tobramycin Sulfate
+T156	Strength 12273 12281	40 mg/mL
+T157	Form 12282 12290	Solution
+T158	Dosage 12315 12321	2.5 mL
+T159	Route 12322 12331	Injection
+T161	Frequency 12332 12353	Q24H (every 24 hours)
+T162	Duration 12354 12364	for 5 days
+T163	Drug 12457 12473	Morphine Sulfate
+T164	Strength 12474 12486	5 mg/0.25 mL
+T165	Form 12487 12495	Solution
+T169	Route 12531 12541	Sublingual
+T170	Frequency 12542 12572	every four (4) hours as needed
+T171	Reason 12577 12581	pain
+T172	Drug 12587 12599	Lansoprazole
+T173	Strength 12600 12605	30 mg
+T174	Form 12606 12627	Tablet,Rapid Dissolve
+T175	Dosage 12659 12666	One (1)
+T176	Form 12667 12692	Tablet,Rapid Dissolve, DR
+T177	Frequency 12719 12729	once a day
+T178	Drug 12735 12761	Polyvinyl Alcohol-Povidone
+T179	Strength 12762 12769	1.4-0.6 
+T180	Form 12772 12777	Drops
+T181	Route 128 131	I.V
+T182	Dosage 12805 12812	One (1)
+T183	Form 12813 12816	gtt
+T184	Route 12817 12827	Ophthalmic
+T185	Frequency 12828 12839	twice a day
+T186	Drug 12845 12853	Warfarin
+T187	Strength 12854 12858	2 mg
+T188	Form 12859 12865	Tablet
+T189	Dosage 12893 12900	One (1)
+T190	Form 12901 12907	Tablet
+T191	Route 12908 12910	PO
+T192	Frequency 12911 12921	once a day
+T193	Drug 13005 13019	Insulin Lispro
+T194	Strength 13020 13031	100 unit/mL
+T195	Form 13032 13040	Solution
+T196	Frequency 13063 13068	ASDIR
+T197	Route 13070 13082	Subcutaneous
+T198	Frequency 13083 13093	once a day
+T199	Reason 13494 13497	DVT
+T200	Drug 13525 13533	coumadin
+T202	Drug 13912 13923	antibiotics
+T203	Reason 13928 13942	this infection
+T204	Reason 1650 1653	DVT
+T205	Drug 1658 1666	coumadin
+T221	Reason 6124 6133	urosepsis
+T222	Drug 6169 6182	neosynephrine
+T223	Duration 6183 6193	for 2 days
+T224	Drug 6214 6224	Vancomycin
+T225	Drug 6227 6232	Zosyn
+T226	Drug 6278 6283	Zosyn
+T227	Drug 6286 6296	Tobramycin
+T228	Drug 6357 6367	Tobramycin
+T229	Drug 6370 6381	Ceftazidime
+T230	Drug 6548 6559	Ceftazidime
+T231	Strength 6560 6562	2g
+T233	Frequency 6566 6570	Q12h
+T234	Drug 6598 6608	Tobramycin
+T235	Strength 6609 6614	100mg
+T237	Frequency 6618 6621	Q24
+T238	Strength 6640 6644	80mg
+T239	Reason 6782 6801	Atrial Fibrillation
+T240	Drug 6880 6896	anti-coagulation
+T241	Drug 6901 6911	metoprolol
+T242	Route 6930 6932	PO
+T243	Drug 7010 7020	metoprolol
+T244	Drug 7027 7035	coumadin
+T245	ADE 7079 7099	supratherapeutic INR
+T246	Strength 7127 7130	2mg
+T247	Frequency 7131 7136	daily
+T248	Drug 7647 7651	Zinc
+T249	Drug 7653 7662	Vitamin C
+T250	Drug 7666 7675	Vitamin B
+T251	Reason 8024 8031	C. Diff
+T252	Drug 8053 8059	Flagyl
+T253	Strength 8060 8065	500mg
+T255	Frequency 8069 8071	Q8
+T256	Drug 8213 8218	lasix
+T257	Drug 8293 8298	Lasix
+T258	Reason 8317 8321	Pain
+T259	Drug 8355 8363	fentanyl
+T260	Form 8364 8369	patch
+T261	Drug 8379 8386	tylenol
+T262	Drug 8391 8399	morphine
+T264	Route 8445 8455	sublingual
+T265	Form 8459 8465	liquid
+T266	Drug 846 854	levoquin
+T267	Drug 8466 8474	morphine
+T268	Reason 8479 8491	pain control
+T269	Dosage 857 858	1
+T270	Reason 8626 8638	Hypertension
+T271	Drug 863 868	lasix
+T272	Drug 8655 8667	beta blocker
+T273	Drug 8672 8685	ace inhibitor
+T274	Strength 869 874	40 mg
+T275	Reason 8709 8724	Type 2 Diabetes
+T277	Drug 8759 8766	insulin
+T278	Dosage 8767 8780	sliding scale
+T279	Dosage 880 881	1
+T280	Drug 8801 8808	insulin
+T281	Drug 9299 9307	Fentanyl
+T282	Strength 9308 9317	12 mcg/hr
+T283	Form 9318 9329	Patch 72 hr
+T284	Dosage 9352 9359	One (1)
+T285	Form 9360 9371	Patch 72 hr
+T286	Route 9372 9383	Transdermal
+T287	Frequency 9384 9405	Q72H (every 72 hours)
+T288	Drug 9410 9421	Allopurinol
+T289	Strength 9422 9428	100 mg
+T290	Form 9429 9435	Tablet
+T291	Dosage 9458 9465	One (1)
+T292	Form 9466 9472	Tablet
+T293	Route 9473 9475	PO
+T294	Frequency 9476 9481	DAILY
+T295	Drug 9494 9506	Lansoprazole
+T296	Strength 9507 9512	30 mg
+T297	Form 9513 9538	Tablet,Rapid Dissolve, DR
+T298	Dosage 9566 9573	One (1)
+T300	Form 9574 9599	Tablet,Rapid Dissolve, DR
+T302	Frequency 9626 9639	DAILY (Daily)
+T303	Drug 9644 9663	Metoprolol Tartrate
+T304	Strength 9664 9669	25 mg
+T305	Form 9670 9676	Tablet
+T306	Dosage 9704 9707	0.5
+T307	Form 9708 9714	Tablet
+T308	Route 9715 9717	PO
+T309	Frequency 9718 9721	BID
+T310	Drug 9742 9754	Multivitamin
+T311	Dosage 9801 9808	One (1)
+T312	Form 9809 9815	Tablet
+T313	Route 9816 9818	PO
+T315	Frequency 9819 9832	DAILY (Daily)
+T316	Drug 9837 9851	Paroxetine HCl
+T317	Strength 9852 9857	10 mg
+T318	Form 9858 9864	Tablet
+T319	Dosage 9892 9899	One (1)
+T320	Form 9900 9906	Tablet
+T321	Route 9907 9909	PO
+T323	Frequency 9910 9915;9916 9923	DAILY (Daily)
+T324	Drug 9928 9938	Lisinopril
+T325	Strength 9939 9943	5 mg
+T326	Form 9944 9950	Tablet
+T327	Dosage 9978 9985	One (1)
+T328	Form 9986 9992	Tablet
+T329	Route 9993 9995	PO
+T330	Frequency 9996 10001	DAILY
+T14	Strength 12519 12530	Ten (10) mg
+T22	Route 875 877	IV
+T78	Route 6563 6565	IV
+T88	Route 6615 6617	IV
+T116	Route 8066 8068	IV
+T119	Route 8400 8402	IV
+T123	Route 12006 12008	IV
+T130	Route 13909 13911	IV

@@ -1,0 +1,45 @@
+T1	Drug 163 170	Demerol
+T2	Reason 2586 2598	hyperkalemia
+T3	Drug 2649 2656	insulin
+T4	Route 2657 2661	drip
+T5	Drug 2800 2807	insulin
+T6	Route 2808 2812	drip
+T7	Duration 2827 2833	3 days
+T8	Drug 2896 2898	O2
+T9	Drug 3016 3025	metformin
+T10	Drug 3054 3060	oxygen
+T11	Reason 3146 3159	bowel regimen
+T12	Drug 3163 3169	colace
+T13	Drug 3174 3185	mineral oil
+T14	Drug 3371 3379	atenolol
+T15	Strength 3380 3382	50
+T16	Drug 3383 3394	pravastatin
+T17	Strength 3395 3397	40
+T18	Drug 3398 3403	FeSO4
+T19	Strength 3404 3407	325
+T20	Drug 3408 3417	metformin
+T21	Strength 3418 3421	500
+T22	Drug 3422 3427	xanax
+T23	Strength 3428 3431	1mg
+T24	Frequency 3432 3434	HS
+T25	Drug 3462 3469	Bactrim
+T26	Strength 3470 3472	DS
+T27	Strength 3473 3483	160-800 mg
+T28	Form 3484 3490	Tablet
+T29	Dosage 3496 3503	Two (2)
+T30	Form 3504 3510	Tablet
+T31	Route 3511 3513	PO
+T32	Frequency 3514 3521;3522 3525	twice a day
+T33	Duration 3526 3537	for 1 weeks
+T34	Drug 3574 3585	Mineral Oil
+T35	Form 3590 3593	Oil
+T36	Dosage 3599 3606	2.5 MLs
+T37	Route 3607 3609	PO
+T38	Frequency 3610 3615	DAILY
+T39	Drug 3656 3671	Docusate Sodium
+T40	Strength 3672 3678	100 mg
+T41	Form 3679 3686	Capsule
+T42	Dosage 3692 3699	One (1)
+T43	Form 3700 3707	Capsule
+T44	Route 3708 3710	PO
+T45	Frequency 3711 3714	BID

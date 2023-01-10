@@ -1,0 +1,75 @@
+T1	Dosage 1355 1357	2L
+T2	Drug 1358 1360	NS
+T3	Drug 167 173	Iodine
+T4	Drug 175 181	Iodine
+T6	Drug 3350 3355	NSAID
+T7	ADE 3451 3479	Upper Gastrointestinal Bleed
+T9	Drug 3737 3748;3749 3757	proton pump inhibior
+T10	Reason 3937 3949	chronic pain
+T11	Drug 3951 3956	NSAID
+T12	ADE 3965 3976	gastropathy
+T13	Strength 4208 4214	1 unit
+T14	Drug 4218 4223	blood
+T15	Frequency 4350 4361	twice daily
+T16	Drug 4362 4382	proton pump inhibior
+T17	Drug 4520 4526	NSAIDs
+T18	Reason 4531 4543	pain control
+T19	Reason 4548 4551	HTN
+T20	Drug 4566 4576	lisinopril
+T21	Drug 4710 4720	lisinopril
+T22	Reason 4790 4805	Hyperliipidemia
+T23	Drug 4854 4860	niacin
+T24	Drug 4889 4899	lisinopril
+T25	Strength 4900 4904	20mg
+T26	Frequency 4905 4910	daily
+T27	Drug 4911 4917	niacin
+T28	Strength 4918 4921	500
+T29	Drug 4939 4951	flaxseed oil
+T30	Drug 4952 4955	MVI
+T31	Drug 4956 4962	motrin
+T32	Strength 4963 4968	400mg
+T33	Frequency 4986 4989	prn
+T34	Drug 5018 5028	Omeprazole
+T35	Strength 5029 5034	40 mg
+T36	Form 5035 5065	Capsule, Delayed Release(E.C.)
+T37	Dosage 5071 5078	One (1)
+T38	Form 5079 5109	Capsule, Delayed Release(E.C.)
+T39	Route 5110 5112	PO
+T40	Frequency 5113 5124	twice a day
+T41	Drug 5185 5198	Acetaminophen
+T42	Strength 5199 5205	325 mg
+T43	Form 5206 5212	Tablet
+T44	Dosage 5218 5221	1-2
+T45	Form 5222 5229	Tablets
+T46	Route 5230 5232	PO
+T47	Frequency 5233 5236	Q6H
+T48	Drug 5296 5308	Multivitamin
+T49	Form 5313 5319	Tablet
+T50	Dosage 5325 5332	One (1)
+T51	Form 5333 5339	Tablet
+T52	Route 5340 5342	PO
+T53	Frequency 5343 5348	DAILY
+T54	Drug 5362 5372	Lisinopril
+T55	Strength 5373 5378	20 mg
+T56	Form 5379 5385	Tablet
+T57	Dosage 5391 5398	One (1)
+T58	Form 5399 5405	Tablet
+T59	Route 5406 5408	PO
+T60	Frequency 5409 5419	once a day
+T61	Drug 5508 5520	Flaxseed Oil
+T62	Route 5522 5526	Oral
+T63	Drug 5530 5547	Niacin Flush Free
+T64	Route 5549 5553	Oral
+T65	ADE 6247 6264	stomach irriation
+T66	Drug 6334 6343	ibuprofen
+T67	Drug 6410 6420	Omeprazole
+T68	Frequency 6422 6433	twice a day
+T69	Duration 6447 6454	8 weeks
+T70	Drug 6599 6608	ibuprofen
+T71	Drug 6648 6654	NSAIDS
+T72	Drug 6670 6677	Tylenol
+T73	Reason 6692 6696	pain
+T74	Drug 7121 7131	Lisinopril
+T5	Form 182 208	Containing / Adhesive Tape
+T8	Route 3734 3736	IV
+T75	ADE 6237 6242	ulcer

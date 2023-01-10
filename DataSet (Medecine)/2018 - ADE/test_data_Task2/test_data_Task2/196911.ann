@@ -1,0 +1,147 @@
+T1	Drug 10033 10043	Penicillin
+T2	ADE 10044 10051	allergy
+T3	Drug 10066 10079	cephalasporin
+T4	Drug 10102 10114	levofloxacin
+T5	Drug 10119 10129	vancomycin
+T6	Drug 10146 10151	chemo
+T7	Drug 10199 10204	chemo
+T8	Reason 10306 10321	low grade temps
+T9	Drug 10322 10330	cefepime
+T10	Duration 10375 10384	seven day
+T11	Reason 10396 10399	CAP
+T12	Drug 10465 10471	flagyl
+T13	Drug 10501 10509	cefepime
+T14	Drug 10511 10515	vanc
+T15	Drug 10517 10522	caspo
+T16	Drug 10524 10532	cefepime
+T17	Drug 10570 10576	flagyl
+T18	Drug 10614 10623	meropenem
+T19	Reason 10651 10657	nausea
+T20	Drug 10659 10664	caspo
+T21	Drug 10759 10768	meropenem
+T22	Drug 10770 10780	vancomycin
+T23	Drug 10782 10793	caspofungin
+T24	Drug 10795 10804	acyclovir
+T25	Drug 11201 11210	acyclovir
+T26	Drug 11212 11220	cefepime
+T27	Drug 11226 11234	fentanyl
+T28	Route 11235 11238	PCA
+T29	Route 11290 11292	PO
+T30	Reason 11316 11322	Anemia
+T31	Reason 11324 11340	thrombocytopenia
+T32	Drug 11353 11362	Platelets
+T33	Drug 11367 11371	PRBC
+T34	Reason 11414 11420	nausea
+T35	Drug 11422 11428	zofran
+T36	Drug 11430 11436	ativan
+T37	Drug 11442 11449	anzemet
+T38	Drug 11455 11460	chemo
+T39	Drug 11462 11473	scopolamine
+T40	Form 11474 11479	patch
+T41	Drug 11505 11513	decadron
+T42	Strength 11514 11518	4 mg
+T43	Drug 12215 12217	O2
+T44	Dosage 12273 12275	6L
+T45	Route 12276 12278	NC
+T46	Drug 12770 12773	Abx
+T47	Drug 12783 12791	levoflox
+T48	Drug 12793 12799	flagyl
+T49	Drug 12801 12806	caspo
+T50	Drug 12808 12819	Posaconazle
+T51	Drug 12838 12846	ambisome
+T52	Drug 12852 12863	Minocylcine
+T53	Drug 12865 12876	Minocycline
+T54	Reason 12898 12914	Nocardia species
+T55	ADE 12936 12954	marrow suppression
+T56	Drug 12965 12972	Bactrim
+T57	Drug 12974 12983	Linezolid
+T58	Drug 12986 12995	Meropenem
+T59	ADE 13061 13066	A-fib
+T60	Drug 13140 13149	meropenam
+T61	Reason 13196 13209	Afib with RVR
+T62	Drug 13222 13234	Procainamide
+T63	Drug 13266 13276	metoprolol
+T64	Strength 13277 13281	25mg
+T65	Route 13282 13284	PO
+T66	Frequency 13285 13288	BID
+T67	Drug 13303 13310	digoxin
+T68	Drug 13353 13363	metoprolol
+T69	Reason 13482 13485	QTc
+T70	Drug 13509 13521	Procainamide
+T71	Reason 13599 13610	hypotensive
+T72	Reason 13615 13626	bradycardic
+T73	Drug 13649 13659	dobutamine
+T74	Drug 13664 13672	levophed
+T75	Drug 14231 14240	Lorazepam
+T76	Strength 14241 14247	0.5 mg
+T77	Form 14248 14254	Tablet
+T78	Dosage 14260 14267	One (1)
+T79	Form 14268 14274	Tablet
+T80	Route 14275 14277	PO
+T82	Drug 14320 14326	Zofran
+T83	Strength 14327 14331	8 mg
+T84	Form 14332 14338	Tablet
+T85	Dosage 14344 14351	One (1)
+T86	Form 14352 14358	Tablet
+T87	Route 14359 14361	PO
+T88	Frequency 14362 14379;14380 14389	three times a day as needed
+T89	Reason 14394 14400	nausea
+T90	Drug 14405 14423	Potassium Chloride
+T91	Strength 14424 14430	20 mEq
+T92	Form 14431 14461	Tab Sust.Rel. Particle/Crystal
+T93	Dosage 14468 14475	Two (2)
+T94	Form 14476 14506	Tab Sust.Rel. Particle/Crystal
+T95	Route 14507 14509	PO
+T96	Frequency 14510 14520	once a day
+T97	Drug 14525 14536	Allopurinol
+T98	Strength 14537 14543	300 mg
+T99	Form 14544 14550	Tablet
+T100	Dosage 14556 14563	One (1)
+T101	Form 14564 14570	Tablet
+T102	Route 14571 14573	PO
+T103	Frequency 14574 14584	once a day
+T104	Drug 14590 14602	Levofloxacin
+T105	Strength 14603 14609	500 mg
+T106	Form 14610 14616	Tablet
+T107	Dosage 14622 14629	One (1)
+T108	Form 14630 14636	Tablet
+T109	Route 14637 14639	PO
+T110	Frequency 14640 14650	once a day
+T111	Dosage 1561 1569	6 cycles
+T112	Drug 1573 1579	R-CHOP
+T113	Drug 1615 1626	vincristine
+T114	ADE 1645 1666	peripheral neuropathy
+T115	Drug 167 178	Penicillins
+T116	Drug 1673 1680	Rituxan
+T117	Dosage 1683 1684	2
+T118	Drug 1690 1696	R-CHOP
+T119	Dosage 1699 1700	2
+T120	Drug 1717 1720	ICE
+T121	Drug 181 196	Diphenhydramine
+T122	Drug 199 207	Percocet
+T123	Drug 210 219	Meropenem
+T125	Drug 818 823	RCHOP
+T126	Drug 846 852	R-CHOP
+T127	Dosage 855 856	2
+T128	Reason 8801 8822	large B-cell lymphoma
+T129	Drug 8852 8864	chemotherapy
+T130	Reason 8954 8962	Lymphoma
+T131	Drug 9052 9064	chemotherapy
+T132	Drug 9108 9120	chemotherapy
+T133	Drug 9126 9135	Etoposide
+T134	Drug 9137 9144	Cytoxan
+T135	Drug 9146 9151	MESNA
+T136	Drug 9153 9157	BCNU
+T137	Drug 9200 9209	acyclovir
+T138	Drug 9211 9219	ursodiol
+T139	Drug 9222 9226	PBCS
+T140	Drug 9250 9255	chemo
+T141	ADE 9421 9441	hemorrhagic cystitis
+T142	Drug 9453 9460	cytoxan
+T143	Drug 957 964	cytoxan
+T144	Drug 969 977	neupogen
+T145	Drug 9706 9714	fentanyl
+T146	Route 9715 9718	PCA
+T147	Reason 9723 9727	pain
+T148	Reason 982 1004	stem cell mobilization
+T81	Frequency 14278 14292;14294 14315	Q4-6H (every 4 to 6 hours) as needed

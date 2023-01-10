@@ -1,0 +1,217 @@
+T2	Drug 1186 1193	lovenox
+T3	Reason 1198 1201	DVT
+T4	Reason 12631 12640	infection
+T5	Drug 12825 12835	Vancomycin
+T6	Drug 12840 12845	Zosyn
+T7	Drug 1290 1297	Lovenox
+T8	Reason 1298 1301	ppx
+T9	Dosage 13686 13692	500 cc
+T10	Drug 13696 13702;13703 13709	normal saline
+T11	Drug 14480 14492	beta blocker
+T12	Drug 14494 14507	ACE inhibitor
+T13	Drug 14521 14528	aspirin
+T14	Drug 1461 1468	lovenox
+T15	Drug 1522 1529	insulin
+T16	ADE 15472 15494	Gastrointestinal bleed
+T17	Drug 15936 15943	aspirin
+T18	Drug 16376 16384	Morphine
+T19	Drug 165 173	Percocet
+T20	ADE 16526 16534	Pruritis
+T21	Reason 1655 1688;1689 1701	demand ischemia in the setting of hypoglycemia
+T23	Drug 16794 16802	Morphine
+T24	Reason 16842 16849	itching
+T25	Drug 16866 16874	morphine
+T26	Drug 16912 16917	sarna
+T27	Form 16918 16924	lotion
+T28	Drug 16926 16940	hydrocortisone
+T29	Drug 16945 16952	doxepin
+T30	Drug 17363 17375	beta blocker
+T31	Drug 17377 17384	aspirin
+T33	Drug 176 183	Codeine
+T34	Drug 17659 17672	acetaminophen
+T35	Strength 17673 17676	1 g
+T36	Frequency 17677 17681	q8hr
+T37	Drug 17682 17685	ASA
+T38	Strength 17686 17689	325
+T39	Frequency 17690 17695	Daily
+T40	Drug 17696 17710	Erythropoietin
+T41	Dosage 17711 17721	4000 units
+T42	Route 17722 17724	SC
+T43	Frequency 17725 17731	weekly
+T44	Drug 17732 17747	Ferrous sulfate
+T45	Strength 17748 17754	325 mg
+T46	Frequency 17755 17760	Daily
+T47	Drug 17761 17771	Furosemide
+T48	Strength 17772 17777	40 mg
+T49	Frequency 17778 17783	daily
+T50	Drug 17784 17791	Lovenox
+T51	Strength 17792 17797	30 mg
+T52	Route 17798 17800	SC
+T53	Frequency 17801 17806	daily
+T54	Drug 17824 17827	NPH
+T55	Dosage 17829 17836	8 units
+T56	Drug 17865 17880	Regular insulin
+T57	Dosage 17882 17889	5 units
+T58	Drug 17918 17928	Metoprolol
+T59	Strength 17929 17936	12.5 mg
+T60	Drug 17964 17971	Miralax
+T61	Strength 17972 17976	17 g
+T62	Frequency 17977 17982	Daily
+T63	Drug 17983 18004	Nystain triamcinolone
+T64	Form 18005 18010	cream
+T65	Route 18011 18020	topically
+T66	Frequency 18021 18032	twice daily
+T67	Drug 18033 18043	omeprazole
+T68	Strength 18044 18049	29 mg
+T69	Frequency 18050 18055	daily
+T70	Drug 18056 18061	Sarna
+T71	Form 18062 18068	lotion
+T72	Drug 1809 1816	aspirin
+T73	Drug 18103 18110	senokot
+T74	Frequency 18111 18114	qHs
+T75	Drug 18115 18125	Sertraline
+T76	Strength 18126 18131	50 mg
+T77	Frequency 18132 18137	daily
+T78	Drug 18138 18149	simvastatin
+T79	Strength 18150 18155	20 mg
+T80	Frequency 18156 18161	daily
+T81	Drug 18162 18168	flomax
+T82	Strength 18169 18175	0.4 mg
+T83	Frequency 18176 18181	daily
+T84	Drug 1818 1830	beta blocker
+T85	Drug 18210 18220	Sertraline
+T86	Strength 18221 18226	50 mg
+T87	Form 18227 18233	Tablet
+T88	Dosage 18239 18246	One (1)
+T89	Form 18247 18253	Tablet
+T90	Route 18254 18256	PO
+T91	Frequency 18257 18270	DAILY (Daily)
+T92	Drug 18276 18291	Camphor-Menthol
+T93	Strength 18292 18299	0.5-0.5 
+T94	Form 18302 18308	Lotion
+T95	Dosage 18314 18321	One (1)
+T96	Form 18322 18326	Appl
+T97	Route 18327 18334	Topical
+T98	Frequency 18335 18364	QID (4 times a day) as needed
+T99	Drug 1835 1841	statin
+T100	Reason 18369 18376	itching
+T101	Drug 18381 18394	Acetaminophen
+T102	Strength 18395 18401	325 mg
+T103	Form 18402 18408	Tablet
+T104	Dosage 18414 18417	1-2
+T105	Form 18418 18425	Tablets
+T106	Route 18426 18428	PO
+T107	Frequency 18429 18441;18442 18458	Q6H (every 6 hours) as needed
+T108	Drug 1846 1850	ACEi
+T109	Reason 18463 18468	fever
+T110	Drug 18479 18489	Quetiapine
+T111	Strength 18490 18495	25 mg
+T112	Form 18496 18502	Tablet
+T113	Dosage 18508 18515	One (1)
+T114	Form 18516 18522	Tablet
+T115	Route 18523 18525	PO
+T116	Frequency 18526 18537;18538 18555	QHS (once a day (at bedtime))
+T117	Drug 18560 18569	Trazodone
+T118	Strength 18570 18575	50 mg
+T119	Form 18576 18582	Tablet
+T120	Dosage 18588 18595	One (1)
+T121	Form 18596 18602	Tablet
+T122	Drug 186 193	Demerol
+T123	Route 18603 18605	PO
+T124	Frequency 18606 18621;18622 18631	HS (at bedtime) as needed
+T125	Reason 18636 18644	insomnia
+T126	Drug 18649 18654	Senna
+T127	Strength 18655 18661	8.6 mg
+T128	Form 18662 18668	Tablet
+T129	ADE 1867 1878	intolerance
+T130	Dosage 18674 18681	One (1)
+T131	Form 18682 18688	Tablet
+T132	Route 18689 18691	PO
+T133	Frequency 18692 18706;18707 18721	BID (2 times a day) as needed
+T134	Reason 18726 18738	constipation
+T135	Drug 18743 18758	Docusate Sodium
+T136	Strength 18759 18765	100 mg
+T137	Form 18766 18773	Capsule
+T138	Dosage 18779 18786	One (1)
+T139	Form 18787 18794	Capsule
+T140	Route 18795 18797	PO
+T141	Frequency 18798 18801	BID
+T142	Reason 18832 18844	constipation
+T143	Drug 18849 18857	Morphine
+T144	Strength 18858 18868	10 mg/5 mL
+T145	Form 18894 18896	mL
+T146	Route 18897 18899	PO
+T147	Frequency 18900 18912;18913 18929	Q4H (every 4 hours) as needed
+T148	Reason 18934 18938	pain
+T149	Reason 19051 19058	itching
+T150	Drug 19064 19071	Doxepin
+T151	Strength 19072 19077	25 mg
+T152	Form 19099 19106	Capsule
+T153	Route 19107 19109	PO
+T154	Frequency 19110 19113	BID
+T155	Drug 19135 19145	Quetiapine
+T156	Strength 19146 19151	25 mg
+T157	Form 19152 19158	Tablet
+T158	Form 19172 19178	Tablet
+T159	Route 19179 19181	PO
+T161	Frequency 19182 19194;19195 19211	Q6H (every 6 hours) as needed
+T162	Reason 19216 19223	anxiety
+T163	Drug 19229 19235	Zofran
+T164	Strength 19236 19243	2 mg/mL
+T165	Form 19244 19252	Solution
+T166	Strength 19258 19269	Four (4) mg
+T167	Route 19270 19281	Intravenous
+T168	Frequency 19282 19287;19288 19311	every six (6) hours as needed
+T169	Reason 19316 19322	nausea
+T170	Drug 196 205	Nafcillin
+T171	Drug 1961 1969	fentanyl
+T172	Reason 1974 1978	pain
+T173	Drug 2051 2055	vanc
+T174	Drug 2056 2061	zosyn
+T175	Drug 2131 2139	fentanyl
+T176	Reason 2144 2148	pain
+T177	Reason 3363 3366	DM2
+T178	Drug 3370 3377	Insulin
+T179	Drug 5977 5986	Oxacillin
+T180	Drug 6064 6075	penicillins
+T181	Drug 6093 6105	carbacephems
+T182	Drug 6116 6127	carbapenems
+T183	Drug 6133 6170	beta-lactamase inhibitor combinations
+T184	Drug 6182 6190	Rifampin
+T185	Drug 6336 6347	clindamycin
+T186	Drug 6666 6676	AMPICILLIN
+T187	Drug 6677 6686	SULBACTAM
+T188	Drug 6697 6706	CEFAZOLIN
+T189	Drug 6728 6736	CEFEPIME
+T190	Drug 6759 6770	CEFTAZIDIME
+T191	Drug 6790 6801	CEFTRIAXONE
+T192	Drug 6821 6831	CEFUROXIME
+T193	Drug 6852 6865	CIPROFLOXACIN
+T194	Drug 6883 6895	ERYTHROMYCIN
+T195	Drug 6967 6979	LEVOFLOXACIN
+T196	Drug 7009 7018	MEROPENEM
+T197	Drug 7040 7049	OXACILLIN
+T198	Drug 7082 7094	PIPERACILLIN
+T199	Drug 7113 7121	RIFAMPIN
+T200	Drug 7155 7167	TETRACYCLINE
+T201	Drug 7197 7207	TOBRAMYCIN
+T202	Drug 7228 7240	TRIMETHOPRIM
+T203	Drug 7270 7280	VANCOMYCIN
+T1	Drug 17390 17401	antibiotics
+T22	Drug 18965 18979	Hydrocortisone
+T32	Strength 18980 18985	2.5 %
+T160	Form 18986 18991	Cream
+T204	Route 19010 19016	Rectal
+T205	Frequency 19017 19023;19024 19046	TID (3 times a day) as needed
+T206	Dosage 18997 19004	One (1)
+T207	Form 19005 19009	Appl
+T208	Route 2128 2130	iv
+T209	Strength 2123 2127	50mg
+T210	Strength 16385 16388	2mg
+T211	Route 16389 16391	IV
+T212	Dosage 19164 19171	One (1)
+T213	Dosage 19091 19098	One (1)
+T214	Form 19078 19085	Capsule
+T215	Drug 4268 4270	O2
+T216	Reason 18470 18474	pain
+T217	Reason 18940 18960	respiratory distress

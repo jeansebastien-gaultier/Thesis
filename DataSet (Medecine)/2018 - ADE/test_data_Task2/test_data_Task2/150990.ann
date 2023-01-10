@@ -1,0 +1,357 @@
+T1	Drug 10033 10043	amiodarone
+T2	Drug 10072 10082	metoprolol
+T3	Drug 10087 10095	diltizem
+T4	Reason 10137 10141	AFib
+T6	Drug 10186 10195	diltiazem
+T7	Drug 10200 10210	metoprolol
+T8	Drug 10224 10234	metoprolol
+T9	Drug 10239 10248	diltiazem
+T10	Drug 10315 10324	diltiazem
+T11	Route 10325 10328	gtt
+T12	Drug 10548 10555	aspirin
+T13	Drug 10556 10562	plavix
+T14	Reason 10594 10613	in-stent thrombosis
+T15	Reason 10804 10815	angioplasty
+T16	Drug 10896 10902	plavix
+T17	Drug 10988 10995	aspirin
+T18	Drug 10996 11002	Plavix
+T19	Reason 11008 11020	Chronic pain
+T20	Drug 11037 11047	gabapentin
+T21	Drug 11052 11060	dilaudid
+T22	Reason 11066 11076	Depression
+T23	Drug 11088 11098	sertraline
+T24	Drug 12088 12101	diltiazem HCl
+T25	Strength 12102 12108	120 mg
+T26	Form 12109 12134	Capsule, Extended Release
+T27	Dosage 12140 12149	Three (3)
+T28	Form 12151 12176	Capsule, Extended Release
+T29	Route 12177 12179	PO
+T30	Frequency 12180 12183	BID
+T31	Strength 12206 12211	360mg
+T32	Frequency 12212 12214;12215 12232	in morning and night
+T33	Strength 12237 12242	240mg
+T34	Frequency 12243 12255	in afternoon
+T35	Drug 12260 12273	diltiazem HCl
+T36	Strength 12274 12280	240 mg
+T37	Form 12281 12306	Capsule, Extended Release
+T38	Dosage 12312 12319	One (1)
+T39	Form 12320 12345	Capsule, Extended Release
+T40	Route 12346 12348	PO
+T41	Frequency 12349 12354	DAILY
+T42	Strength 12369 12374	360mg
+T43	Drug 1237 1244	insulin
+T44	Frequency 12375 12377;12378 12395	in morning and night
+T45	Strength 12400 12405	240mg
+T46	Frequency 12406 12418	in afternoon
+T47	Drug 12423 12443	metoprolol succinate
+T48	Strength 12444 12450	100 mg
+T49	Form 12451 12480	Tablet Extended Release 24 hr
+T50	Drug 1246 1249	D50
+T51	Dosage 12486 12493	Two (2)
+T52	Form 12494 12523	Tablet Extended Release 24 hr
+T53	Drug 1251 1268	calcium gluconate
+T54	Route 12524 12526	PO
+T55	Frequency 12527 12530	BID
+T56	Drug 12551 12559	warfarin
+T57	Strength 12560 12564	1 mg
+T58	Form 12565 12571	Tablet
+T59	Dosage 12577 12580	4.5
+T60	Form 12581 12588	Tablets
+T61	Route 12589 12591	PO
+T62	Frequency 12592 12602	once a day
+T63	Strength 12609 12614	4.5mg
+T64	Frequency 12615 12620	daily
+T65	Drug 12625 12635	amiodarone
+T66	Strength 12636 12642	200 mg
+T67	Form 12643 12649	Tablet
+T68	Dosage 12655 12662	One (1)
+T69	Form 12663 12669	Tablet
+T70	Route 12670 12672	PO
+T71	Frequency 12673 12687	TUES,THURS,SAT
+T72	Drug 12695 12707	fluorouracil
+T73	Strength 12708 12711	0.5 
+T74	Form 12714 12719	Cream
+T75	Dosage 12725 12732	One (1)
+T76	Form 12733 12744	application
+T77	Route 12745 12752	Topical
+T78	Frequency 12753 12763	once a day
+T79	Duration 12764 12775	for 2 weeks
+T80	Drug 12796 12805	bactroban
+T81	Drug 12810 12819	Bactroban
+T83	Form 12824 12829	Cream
+T84	Dosage 12835 12842	One (1)
+T85	Form 12843 12854	application
+T86	Route 12855 12862	Topical
+T87	Frequency 12863 12869;12870 12873	once a day
+T88	Duration 12874 12885	for 2 weeks
+T89	Drug 12906 12918	Fluorouracil
+T90	Drug 12923 12933	gabapentin
+T91	Strength 12934 12940	300 mg
+T92	Form 12941 12948	Capsule
+T93	Dosage 12954 12961	One (1)
+T94	Form 12962 12969	Capsule
+T95	Route 12970 12972	PO
+T96	Frequency 12973 12976	TID
+T97	Drug 12997 13007	sertraline
+T98	Strength 13008 13013	50 mg
+T99	Form 13014 13020	Tablet
+T100	Dosage 13026 13035	Three (3)
+T101	Form 13036 13042	Tablet
+T102	Route 13043 13045	PO
+T103	Frequency 13046 13051	DAILY
+T104	Drug 13065 13074	Ferrlecit
+T105	Strength 13075 13087	62.5 mg/5 mL
+T106	Form 13088 13096	Solution
+T107	Route 13097 13108	Intravenous
+T108	Drug 13113 13122	lorazepam
+T109	Strength 13123 13127	1 mg
+T110	Form 13128 13134	Tablet
+T111	Dosage 13140 13147	One (1)
+T112	Form 13148 13154	Tablet
+T113	Strength 1315 1320	10 mg
+T114	Route 13155 13157	PO
+T115	Frequency 13158 13161	BID
+T116	Drug 13193 13201	tramadol
+T117	Strength 13202 13207	50 mg
+T118	Form 13208 13214	Tablet
+T120	Dosage 13220 13223	1-2
+T121	Form 13224 13231	Tablets
+T122	Route 13232 13234	PO
+T123	Frequency 13235 13238	BID
+T124	Drug 1324 1333	Vitamin K
+T125	Reason 13269 13273	pain
+T126	Drug 13279 13289	omeprazole
+T127	Strength 13290 13295	20 mg
+T128	Form 13296 13326	Capsule, Delayed Release(E.C.)
+T129	Dosage 13332 13339	One (1)
+T130	Form 13341 13371	Capsule, Delayed Release(E.C.)
+T131	Route 13372 13374	PO
+T132	Frequency 13375 13386	twice a day
+T133	Drug 13392 13400	Voltaren
+T135	Form 13405 13408	Gel
+T136	Dosage 1341 1347	1 unit
+T137	Dosage 13414 13421	One (1)
+T138	Form 13422 13433	application
+T139	Route 13434 13441	Topical
+T141	Drug 1348 1351	FFP
+T142	Frequency 13490 13502	4times daily
+T143	Drug 13508 13514	Epogen
+T144	Form 13516 13525	Injection
+T145	Drug 13530 13544	insulin aspart
+T146	Strength 13545 13556	100 unit/mL
+T147	Form 13557 13565	Solution
+T148	Drug 1356 1361	PRBCs
+T149	Dosage 13571 13578	One (1)
+T150	Form 13579 13588	injection
+T151	Route 13589 13601	Subcutaneous
+T152	Frequency 13602 13618	four times a day
+T153	Dosage 13655 13668	sliding scale
+T154	Drug 13674 13687	hydromorphone
+T155	Strength 13688 13692	2 mg
+T156	Form 13693 13699	Tablet
+T157	Dosage 13705 13712	One (1)
+T158	Form 13713 13719	Tablet
+T159	Route 13720 13722	PO
+T160	Frequency 13723 13733;13734 13752	Q3H (every 3 hours) as needed
+T161	Reason 13757 13761	Pain
+T162	Drug 13767 13786	sevelamer carbonate
+T163	Strength 13787 13793	800 mg
+T164	Form 13794 13800	Tablet
+T165	Dosage 13806 13809	1.5
+T166	Form 13810 13817	Tablets
+T167	Route 13818 13820	PO
+T168	Frequency 13821 13824;13825 13832	TID W/MEALS
+T169	Drug 13865 13895	B complex-vitamin C-folic acid
+T170	Strength 13896 13900	1 mg
+T171	Form 13901 13908	Capsule
+T172	Dosage 13914 13921	One (1)
+T173	Form 13922 13925	Cap
+T174	Route 13927 13929	PO
+T175	Frequency 13930 13935	DAILY
+T176	Drug 13949 13962	acetaminophen
+T177	Strength 13963 13969	650 mg
+T178	Form 13970 13976	Tablet
+T179	Dosage 13982 13989	Two (2)
+T180	Form 13990 13996	Tablet
+T181	Route 13997 13999	PO
+T182	Frequency 14000 14007;14008 14021	twice a day as needed
+T183	Reason 14026 14030	Pain
+T184	Drug 14036 14043	aspirin
+T185	Strength 14044 14050	325 mg
+T186	Form 14051 14057	Tablet
+T187	Dosage 14063 14070	One (1)
+T188	Form 14071 14077	Tablet
+T189	Route 14078 14080	PO
+T190	Frequency 14081 14086	DAILY
+T191	Drug 14132 14145	nitroglycerin
+T192	Strength 14146 14152	0.3 mg
+T193	Form 14153 14171	Tablet, Sublingual
+T194	Dosage 14177 14184	One (1)
+T196	Route 14205 14215	Sublingual
+T197	Frequency 14216 14241	PRN (as needed) as needed
+T198	Reason 14246 14256	Chest pain
+T199	Dosage 14264 14265	1
+T200	Form 14266 14272	tablet
+T201	Route 14273 14289	under the tongue
+T202	Reason 14294 14308	chest pressure
+T203	Dosage 14315 14316	1
+T205	Duration 14341 14361	three times in a row
+T206	Drug 14411 14423	atorvastatin
+T207	Strength 14424 14429	80 mg
+T208	Form 14430 14436	Tablet
+T209	Dosage 14442 14449	One (1)
+T210	Form 14450 14456	Tablet
+T211	Route 14457 14459	PO
+T212	Frequency 14460 14462	HS
+T213	Drug 14513 14524	clopidogrel
+T214	Strength 14525 14530	75 mg
+T215	Form 14531 14537	Tablet
+T216	Dosage 14543 14550	One (1)
+T217	Form 14551 14557	Tablet
+T218	Route 14558 14560	PO
+T219	Frequency 14561 14566	DAILY
+T220	Drug 14580 14595	doxercalciferol
+T221	Route 14597 14608	Intravenous
+T222	Drug 14636 14646	Amiodarone
+T223	Strength 14647 14653	200 mg
+T224	Route 14654 14656	PO
+T225	Frequency 14657 14664	QTUTHSA
+T226	Drug 14679 14686	Aspirin
+T227	Strength 14687 14692	81 mg
+T228	Route 14693 14695	PO
+T229	Frequency 14696 14701	DAILY
+T230	Drug 14705 14717	Atorvastatin
+T231	Strength 14718 14723	80 mg
+T232	Route 14724 14726	PO
+T233	Frequency 14727 14732	DAILY
+T234	Drug 14736 14747	Clopidogrel
+T235	Strength 14748 14753	75 mg
+T236	Route 14754 14756	PO
+T237	Frequency 14757 14762	DAILY
+T238	Drug 14766 14776	Gabapentin
+T239	Strength 14777 14783	300 mg
+T240	Route 14784 14786	PO
+T241	Frequency 14787 14790	TID
+T242	Drug 14794 14807	HYDROmorphone
+T243	Drug 14809 14817	Dilaudid
+T244	Strength 14819 14823	2 mg
+T245	Route 14824 14826	PO
+T246	Frequency 14827 14834	Q3H:PRN
+T247	Reason 14835 14839	pain
+T248	Drug 14843 14850	Insulin
+T249	Route 14851 14853	SC
+T250	Dosage 14860 14873	Sliding Scale
+T251	Frequency 14887 14892	QACHS
+T252	Drug 14893 14900	Insulin
+T253	Route 14901 14903	SC
+T254	Dosage 14904 14917	Sliding Scale
+T255	Drug 14924 14935	HUM Insulin
+T256	Drug 14939 14948	Lorazepam
+T257	Strength 14949 14953	1 mg
+T258	Route 14954 14956	PO
+T259	Frequency 14957 14960	BID
+T260	Reason 14966 14973	anxiety
+T261	Drug 15005 15014	Mupirocin
+T262	Form 15015 15020	Cream
+T263	Strength 15021 15022	2
+T264	Dosage 15024 15025	1
+T265	Form 15026 15030	Appl
+T266	Route 15031 15033	TP
+T267	Frequency 15034 15036	QD
+T268	Drug 15041 15051	Nephrocaps
+T269	Dosage 15052 15053	1
+T270	Form 15054 15057	CAP
+T271	Route 15058 15060	PO
+T272	Frequency 15061 15066	DAILY
+T273	Drug 15071 15090	sevelamer CARBONATE
+T274	Strength 15091 15098	1200 mg
+T275	Route 15099 15101	PO
+T276	Frequency 15102 15113	TID W/MEALS
+T277	Drug 15118 15130	Pantoprazole
+T278	Strength 15131 15136	40 mg
+T279	Route 15137 15139	PO
+T280	Frequency 15140 15144	Q12H
+T281	Drug 15149 15161	pantoprazole
+T282	Strength 15162 15167	40 mg
+T283	Dosage 15168 15169	1
+T284	Form 15170 15176	Tablet
+T285	Route 15180 15188	by mouth
+T286	Frequency 15189 15200	twice a day
+T287	Drug 15234 15243	Diltiazem
+T288	Form 15244 15260	Extended-Release
+T289	Strength 15261 15267	360 mg
+T290	Route 15268 15270	PO
+T291	Frequency 15271 15274	QAM
+T292	Drug 15279 15288	Diltiazem
+T293	Form 15289 15305	Extended-Release
+T294	Strength 15306 15312	240 mg
+T295	Route 15313 15315	PO
+T296	Frequency 15316 15319	QPM
+T297	Drug 15324 15333	Diltiazem
+T298	Form 15334 15350	Extended-Release
+T299	Strength 15351 15357	360 mg
+T300	Route 15358 15360	PO
+T301	Frequency 15361 15364	QHS
+T302	Drug 15393 15403	Sertraline
+T303	Strength 15404 15410	150 mg
+T304	Route 15411 15413	PO
+T305	Frequency 15414 15419	DAILY
+T306	Drug 15424 15432	TraMADOL
+T307	Drug 15434 15440	Ultram
+T308	Strength 15442 15447	50 mg
+T309	Route 15448 15450	PO
+T310	Frequency 15451 15454	BID
+T311	Reason 15460 15464	pain
+T312	Drug 15469 15492	Metoprolol Succinate XL
+T313	Strength 15493 15499	200 mg
+T314	Route 15500 15502	PO
+T315	Frequency 15503 15506	BID
+T316	Drug 15511 15524	Nitroglycerin
+T317	Form 15525 15527	SL
+T318	Strength 15528 15534	0.3 mg
+T319	Route 15535 15537	SL
+T320	Frequency 15538 15541	PRN
+T321	Reason 15542 15552	chest pain
+T322	Dosage 15558 15561	one
+T323	Form 15562 15565	tab
+T324	Route 15566 15583	under your tongue
+T325	Reason 15596 15606	chest pain
+T326	Duration 15644 15655	three times
+T327	Drug 16235 16243	coumadin
+T329	Drug 16538 16546	Coumadin
+T330	Drug 16682 16689	aspirin
+T331	Strength 16693 16698	81 mg
+T332	Frequency 16699 16704	daily
+T333	Drug 167 170	Dye
+T334	Drug 16711 16723	pantoprazole
+T335	Strength 16724 16729	40 mg
+T336	Route 16730 16732	PO
+T337	Frequency 16733 16744	twice a day
+T338	Drug 16750 16760	Omeprazole
+T339	Drug 172 178	Iodine
+T340	Drug 192 198	Keflex
+T341	Drug 201 208	Codeine
+T342	Drug 211 220	Isoniazid
+T343	Drug 223 230	Indocin
+T344	Reason 2267 2270	PVD
+T345	Reason 2288 2303	stent placement
+T346	Drug 2307 2313	plavix
+T347	Drug 233 241	Percocet
+T348	Drug 244 251	Vicodin
+T349	Drug 887 894	aspirin
+T350	Drug 896 902	plavix
+T351	Drug 9057 9064	aspirin
+T352	Drug 9066 9072	plavix
+T353	Drug 9078 9086	coumadin
+T354	Drug 908 916	coumadin
+T355	Drug 9558 9564	iodine
+T356	Dosage 9740 9747	8 units
+T357	Drug 9751 9756	PRBCs
+T358	Dosage 9758 9765	3 units
+T359	Drug 9769 9772	FFP
+T360	Dosage 9778 9784	1 unit
+T361	Drug 9788 9797	platelets
+T362	Reason 9944 9963	Atrial fibrillation
+T5	Route 1321 1323	IV
+T82	Route 10183 10185	IV
+T119	Reason 10816 10824	stenting

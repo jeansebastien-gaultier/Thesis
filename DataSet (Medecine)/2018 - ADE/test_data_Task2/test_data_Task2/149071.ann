@@ -1,0 +1,229 @@
+T1	Reason 10785 10796	TACHYCARDIA
+T4	Drug 11013 11018	pRBCs
+T7	Drug 11082 11084	NS
+T8	Reason 11104 11110	anemia
+T9	Reason 11475 11481	ANEMIA
+T12	Drug 11600 11605	pRBCs
+T13	Drug 11643 11645	Fe
+T14	Reason 12050 12062	HYPERTENSION
+T15	Drug 12109 12119	amlodipine
+T16	Strength 12120 12125	10 mg
+T17	Route 12126 12128	PO
+T18	Frequency 12129 12134	daily
+T19	Drug 12136 12140	HCTZ
+T20	Strength 12141 12146	25 mg
+T21	Route 12147 12149	PO
+T22	Frequency 12150 12155	daily
+T23	Reason 12186 12200	HYPERLIPIDEMIA
+T24	Drug 12212 12224	rosuvastatin
+T25	Strength 12225 12230	10 mg
+T26	Route 12231 12233	PO
+T27	Frequency 12234 12237	QHS
+T28	Reason 12243 12253	DEPRESSION
+T29	Reason 12254 12261	ANXIETY
+T30	Drug 12307 12312	Xanax
+T31	Frequency 12318 12339	daily in the mornings
+T32	Drug 12351 12361	Effexor XR
+T33	Strength 12362 12365;12366 12368	150 mg
+T34	Route 12369 12371	PO
+T35	Frequency 12372 12377	daily
+T36	Drug 12389 12394	Xanax
+T37	Strength 12395 12401	0.5 mg
+T38	Route 12402 12404	PO
+T39	Frequency 12405 12410	daily
+T40	Reason 12424 12436	OSTEOPOROSIS
+T41	Drug 12448 12459	alendronate
+T42	Strength 12460 12465	70 mg
+T43	Route 12466 12468	PO
+T44	Frequency 12469 12475	Q week
+T45	Drug 12816 12827	Alendronate
+T46	Strength 12828 12833	70 mg
+T47	Route 12834 12836	PO
+T48	Frequency 12837 12854	Q week on Mondays
+T49	Drug 12857 12867	Alprazolam
+T50	Strength 12868 12874	0.5 mg
+T51	Route 12875 12877	PO
+T52	Frequency 12878 12888;12889 12905	PRN (takes once daily in AM
+T53	Drug 12909 12919	Amlodipine
+T54	Strength 12920 12925	10 mg
+T55	Route 12926 12928	PO
+T56	Frequency 12929 12934	daily
+T57	Drug 12937 12956	Hydrochlorothiazide
+T58	Strength 12957 12962	25 mg
+T59	Route 12963 12965	PO
+T60	Frequency 12966 12971	daily
+T61	Drug 12974 13001	Maalox:Benadryl:2%Lidocaine
+T62	Form 13002 13015	Mixture 1:1:1
+T63	Frequency 13016 13033;13034 13058	15 minutes before meals and at bedtime PRN
+T64	Drug 13077 13087	Olmesartan
+T65	Strength 13088 13093	40 mg
+T66	Route 13094 13096	PO
+T67	Frequency 13097 13102	daily
+T68	Drug 13105 13115	Odansetron
+T69	Strength 13116 13120	8 mg
+T70	Route 13121 13123	PO
+T71	Frequency 13124 13131	Q8H PRN
+T72	Reason 13132 13138	nausea
+T73	Drug 13157 13173	Prochlorperazine
+T74	Strength 13174 13179	10 mg
+T75	Route 13180 13182	PO
+T76	Frequency 13183 13186;13187 13190	Q8H PRN
+T77	Reason 13191 13197	nausea
+T78	Drug 13216 13228	Rosuvastatin
+T79	Strength 13229 13234	10 mg
+T80	Route 13235 13237	PO
+T81	Frequency 13238 13241	QHS
+T82	Drug 13244 13255	Venlafaxine
+T83	Form 13256 13264	ER-24 hr
+T84	Strength 13265 13271	150 mg
+T85	Route 13272 13274	PO
+T86	Frequency 13275 13280	daily
+T87	Drug 13283 13296	Acetaminophen
+T88	Strength 13297 13307	325-650 mg
+T89	Route 13308 13310	PO
+T90	Frequency 13311 13338	30 minutes before meals PRN
+T91	Reason 13339 13350	odynophagia
+T92	Drug 13369 13384	Ferrous sulfate
+T93	Strength 13385 13391	325 mg
+T94	Route 13392 13394	PO
+T95	Frequency 13395 13400	daily
+T96	Drug 13403 13419	Fish oil DHA EPA
+T97	Strength 13420 13435	1,200 mg-144 mg
+T98	Route 13436 13438	PO
+T99	Frequency 13439 13444	daily
+T100	Drug 13447 13462	Magnesium oxide
+T101	Strength 13463 13469	400 mg
+T102	Route 13470 13472	PO
+T103	Frequency 13473 13478	daily
+T104	Drug 13506 13521	ferrous sulfate
+T105	Strength 13522 13528	325 mg
+T106	Form 13542 13548	Tablet
+T107	Dosage 13554 13557;13558 13561	One (1)
+T108	Form 13562 13568	Tablet
+T109	Route 13569 13571	PO
+T110	Frequency 13572 13582	once a day
+T111	Drug 13587 13611	prochlorperazine maleate
+T112	Strength 13612 13617	10 mg
+T113	Form 13618 13624	Tablet
+T114	Dosage 13630 13633;13634 13637	One (1)
+T115	Form 13638 13644	Tablet
+T116	Route 13645 13647	PO
+T117	Frequency 13648 13651;13652 13677	Q8H (every 8 hours) as needed
+T118	Reason 13682 13688	nausea
+T119	Drug 13693 13705	rosuvastatin
+T120	Strength 13706 13711	10 mg
+T121	Form 13712 13718	Tablet
+T122	Dosage 13724 13727;13728 13731	One (1)
+T123	Form 13732 13738	Tablet
+T124	Route 13739 13741	PO
+T125	Frequency 13742 13752	at bedtime
+T126	Drug 13758 13769	alendronate
+T127	Strength 13770 13775	70 mg
+T128	Form 13776 13782	Tablet
+T129	Dosage 13788 13791;13792 13795	One (1)
+T130	Form 13796 13802	Tablet
+T131	Route 13803 13805	PO
+T132	Frequency 13806 13810	QMON
+T133	Drug 13830 13843	acetaminophen
+T134	Strength 13844 13850	325 mg
+T135	Form 13851 13857	Tablet
+T136	Dosage 13863 13866	1-2
+T137	Form 13867 13874	Tablets
+T138	Route 13875 13877	PO
+T139	Frequency 13878 13890;13891 13907	Q6H (every 6 hours) as needed
+T140	Reason 13912 13916	pain
+T141	Drug 13921 13943	halobetasol propionate
+T142	Strength 13944 13948	0.05 
+T143	Form 13951 13956	Cream
+T144	Dosage 13962 13965;13966 13969	One (1)
+T145	Form 13971 13978	Topical
+T146	Frequency 13979 13982	QID
+T147	Route 14013 14021	Dry skin
+T148	Drug 14026 14053	Maalox:Benadryl:2%Lidocaine
+T149	Form 14054 14061	Mixture
+T150	Dosage 14069 14072;14073 14076	One (1)
+T151	Frequency 14079 14081;14082 14117	15 minutes before meals and at bedtime
+T152	Drug 14122 14130	Fish Oil
+T153	Strength 14131 14147	1,200-144-216 mg
+T154	Form 14148 14155	Capsule
+T155	Dosage 14161 14168	One (1)
+T156	Form 14169 14176	Capsule
+T157	Route 14177 14179	PO
+T158	Frequency 14180 14190	once a day
+T159	Drug 14195 14210	magnesium oxide
+T160	Strength 14211 14217	400 mg
+T161	Form 14218 14224	Tablet
+T162	Dosage 14230 14237	One (1)
+T163	Form 14238 14244	Tablet
+T164	Route 14245 14247	PO
+T165	Frequency 14248 14254;14255 14258	once a day
+T166	Drug 14264 14274	alprazolam
+T167	Strength 14275 14281	0.5 mg
+T168	Form 14282 14288	Tablet
+T169	Dosage 14294 14301	One (1)
+T170	Form 14302 14308	Tablet
+T171	Route 14309 14311	PO
+T172	Frequency 14312 14322;14323 14332	once a day as needed
+T173	Reason 14337 14344	anxiety
+T174	Drug 14350 14360	amlodipine
+T175	Strength 14361 14366	10 mg
+T176	Form 14367 14373	Tablet
+T177	Dosage 14379 14386	One (1)
+T178	Form 14387 14393	Tablet
+T179	Route 14394 14396	PO
+T180	Frequency 14397 14407	once a day
+T181	Drug 14413 14432	hydrochlorothiazide
+T182	Strength 14433 14438	25 mg
+T183	Form 14439 14445	Tablet
+T184	Dosage 14451 14458	One (1)
+T185	Form 14459 14465	Tablet
+T186	Route 14466 14468	PO
+T187	Frequency 14469 14473;14474 14479	once a day
+T188	Drug 14485 14495	olmesartan
+T189	Strength 14496 14501	40 mg
+T190	Form 14502 14508	Tablet
+T191	Dosage 14514 14521	One (1)
+T192	Form 14522 14528	Tablet
+T193	Route 14529 14531	PO
+T194	Frequency 14532 14542	once a day
+T195	Drug 14548 14559	venlafaxine
+T196	Strength 14560 14566	150 mg
+T197	Form 14567 14593	Capsule, Ext Release 24 hr
+T198	Dosage 14599 14606	One (1)
+T199	Form 14607 14633	Capsule, Ext Release 24 hr
+T200	Route 14634 14636	PO
+T201	Frequency 14637 14647	once a day
+T202	Drug 14653 14664	ondansetron
+T203	Strength 14665 14669	8 mg
+T204	Form 14670 14692	Tablet, Rapid Dissolve
+T205	Dosage 14698 14705	One (1)
+T206	Form 14706 14713;14714 14728	Tablet, Rapid Dissolve
+T207	Route 14729 14731	PO
+T208	Frequency 14732 14763	every eight (8) hours as needed
+T209	Reason 14768 14774	nausea
+T210	Drug 179 186	Aspirin
+T211	Dosage 2380 2381;2382 2387	2 units
+T213	Drug 2388 2393	pRBCs
+T214	Reason 2398 2404	anemia
+T215	Reason 2949 2956	cancers
+T216	Reason 2985 2997	chemotherapy
+T217	Drug 3003 3012	cysplatin
+T218	Drug 3017 3027	paclitaxel
+T219	ADE 3251 3261	dark stool
+T220	Drug 3275 3279	iron
+T221	ADE 3422 3430	GI bleed
+T222	Drug 3434 3441	aspirin
+T223	Reason 4046 4072	Non-small cell lung cancer
+T224	Drug 4135 4144	cisplatin
+T225	Drug 4145 4155	paclitaxel
+T226	ADE 4209 4220	Esophagitis
+T227	Drug 4234 4239	chemo
+T228	ADE 4317 4339	gastrointestinal bleed
+T229	ADE 4345 4358	GI ulceration
+T230	Drug 4364 4371	aspirin
+T3	Drug 13536 13540	iron
+T6	Strength 13530 13535	65 mg
+T2	Dosage 11010 11012	2U
+T5	Dosage 11079 11081	1L
+T10	Drug 5141 5143	O2
+T11	Reason 11111 11122	hypovolemia

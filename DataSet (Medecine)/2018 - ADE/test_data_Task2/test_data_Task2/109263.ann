@@ -1,0 +1,132 @@
+T1	Drug 10013 10021	cellcept
+T2	Drug 10026 10033	valcyte
+T3	Drug 162 174	Erythromycin
+T4	Drug 185 192	Bactrim
+T5	Drug 195 206	Penicillins
+T6	Dosage 5314 5321	2 units
+T7	Drug 5325 5330	RBC's
+T8	Dosage 5365 5372	2 units
+T9	Drug 5373 5377	RBCs
+T10	Reason 6225 6242	Immunosuppression
+T11	Drug 6309 6317	Cellcept
+T12	Drug 6359 6366	Prograf
+T13	Drug 6387 6393	imuran
+T14	Drug 6455 6462	valcyte
+T15	Drug 6645 6655	antibiotic
+T16	Drug 6743 6751	Levaquin
+T17	Drug 6753 6758	Vanco
+T18	Drug 6763 6769	Flagyl
+T19	Drug 6802 6808	Flagyl
+T20	Drug 6826 6837	antibiotics
+T21	Duration 6975 6981	7 days
+T22	Drug 6985 6995	Filgrastim
+T23	Drug 7325 7335	FAMOTIDINE 
+T24	Strength 7338 7343	20 mg
+T25	Form 7344 7350	Tablet
+T26	Dosage 7353 7354	1
+T28	Form 7355 7364	Tablet(s)
+T29	Route 7365 7373	by mouth
+T30	Frequency 7374 7385	twice a day
+T31	Drug 7386 7398	FEXOFENADINE
+T32	Strength 7462 7465;7466 7468	180 mg
+T33	Form 7469 7475	Tablet
+T34	Dosage 7478 7479	1
+T35	Form 7480 7489	Tablet(s)
+T36	Route 7490 7498	by mouth
+T37	Frequency 7499 7509	once a day
+T38	Drug 7510 7532	METOCLOPRAMIDE [REGLAN
+T39	Strength 7570 7574	5 mg
+T40	Form 7575 7581	Tablet
+T41	Dosage 7584 7585	1
+T42	Form 7586 7595	Tablet(s)
+T43	Route 7596 7604	by mouth
+T44	Frequency 7605 7622	three times a day
+T45	Drug 7623 7644	MYCOPHENOLATE MOFETIL
+T46	Strength 7647 7653	500 mg
+T47	Form 7654 7660	Tablet
+T48	Dosage 7663 7664	1
+T49	Form 7665 7674	Tablet(s)
+T50	Route 7675 7683	by mouth
+T51	Frequency 7684 7688;7689 7700	four times a day
+T52	Drug 7701 7722	PENTAMIDINE [NEBUPENT
+T53	Strength 7726 7732	300 mg
+T54	Form 7733 7743	Recon Soln
+T55	Dosage 7746 7752	300 mg
+T56	Route 7753 7755	ih
+T57	Frequency 7756 7763	monthly
+T58	Dosage 7774 7778	6 ml
+T59	Drug 7782 7795	sterile water
+T60	Drug 7796 7824	SODIUM POLYSTYRENE SULFONATE
+T61	Form 7829 7835	Powder
+T62	Strength 7843 7849	15 gms
+T63	Reason 7870 7876	high k
+T64	Drug 7894 7904	TACROLIMUS
+T65	Strength 7940 7944	1 mg
+T66	Form 7945 7952	Capsule
+T67	Dosage 7955 7956	3
+T68	Form 7957 7967	Capsule(s)
+T69	Route 7968 7976	by mouth
+T70	Frequency 7977 7988	twice a day
+T71	Dosage 8000 8001	4
+T72	Form 8002 8010	capsules
+T73	Drug 8028 8038	TACROLIMUS
+T74	Strength 8074 8080	0.5 mg
+T75	Form 8081 8088	Capsule
+T76	Dosage 8091 8092	1
+T77	Form 8093 8103	Capsule(s)
+T78	Route 8104 8112	by mouth
+T79	Frequency 8113 8124	twice a day
+T80	Drug 8125 8148	VALGANCICLOVIR [VALCYTE
+T81	Strength 8152 8158	450 mg
+T82	Form 8159 8165	Tablet
+T83	Dosage 8168 8169	2
+T84	Form 8170 8179	Tablet(s)
+T85	Route 8180 8188	by mouth
+T86	Frequency 8189 8199	once a day
+T87	Drug 8227 8237	Famotidine
+T88	Strength 8238 8243	20 mg
+T89	Form 8244 8250	Tablet
+T90	Dosage 8256 8263	One (1)
+T91	Form 8264 8270	Tablet
+T92	Route 8271 8273	PO
+T93	Frequency 8274 8285	twice a day
+T94	Drug 8290 8302	Fexofenadine
+T95	Strength 8303 8309	180 mg
+T96	Form 8310 8316	Tablet
+T97	Dosage 8322 8329	One (1)
+T98	Form 8330 8336	Tablet
+T99	Route 8337 8339	PO
+T100	Frequency 8340 8350	once a day
+T101	Drug 8356 8370	Metoclopramide
+T102	Strength 8371 8375	5 mg
+T103	Form 8376 8382	Tablet
+T104	Dosage 8388 8395	One (1)
+T105	Form 8396 8402	Tablet
+T106	Route 8403 8405	PO
+T107	Frequency 8406 8417;8418 8423	three times a day
+T108	Drug 8428 8439	Pentamidine
+T109	Strength 8440 8446	300 mg
+T110	Form 8447 8457	Recon Soln
+T111	Dosage 8463 8470	One (1)
+T112	Route 8471 8481	inhalation
+T113	Route 8482 8492	Inhalation
+T114	Frequency 8493 8505	once a month
+T115	Drug 8510 8520	Tacrolimus
+T116	Strength 8521 8525	1 mg
+T117	Form 8526 8533	Capsule
+T118	Dosage 8539 8547	Four (4)
+T119	Form 8548 8555	Capsule
+T120	Route 8556 8558	PO
+T121	Frequency 8559 8571;8572 8582	every twelve (12) hours
+T122	Drug 8601 8611	tacrolimus
+T123	Drug 8667 8679	Azathioprine
+T124	Strength 8680 8685	50 mg
+T125	Form 8686 8692	Tablet
+T126	Dosage 8698 8705	One (1)
+T127	Form 8706 8712	Tablet
+T128	Route 8713 8715	PO
+T129	Frequency 8716 8721;8722 8729	DAILY (Daily)
+T130	Drug 8766 8774	Myfortic
+T131	Route 8776 8780	Oral
+T132	Drug 9051 9061	tacrolimus
+T27	Frequency 7862 7865	prn

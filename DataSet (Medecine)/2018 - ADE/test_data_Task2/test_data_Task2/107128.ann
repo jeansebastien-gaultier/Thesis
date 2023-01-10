@@ -1,0 +1,228 @@
+T1	Drug 10497 10507	Furosemide
+T2	Strength 10508 10513	40 mg
+T3	Form 10534 10540	Tablet
+T4	Route 10541 10543	PO
+T5	Drug 130 137	Heparin
+T6	Drug 9733 9742	Lactulose
+T7	Strength 9743 9747;9747 9753	10 g /15 mL
+T8	Route 9780 9782	PO
+T9	Drug 9095 9104	Lactulose
+T10	Strength 9105 9110	30 mg
+T11	Frequency 9114 9116;9117 9120	q8 prn
+T12	Route 9111 9113	po
+T13	Drug 6321 6332	simvastatin
+T14	Drug 8202 8212	argatroban
+T15	Drug 9498 9511	Acetaminophen
+T16	Strength 9512 9518	325 mg
+T17	Form 9535 9542	Tablets
+T18	Dosage 9531 9534	1-2
+T19	Route 9543 9545	PO
+T20	Drug 10139 10146	Aspirin
+T21	Strength 10147 10152	81 mg
+T22	Form 10183 10189;10189 10199	Tablet , Chewable
+T23	Drug 6554 6561	digoxin
+T24	Drug 9248 9263	Fludrocortisone
+T25	Strength 9264 9271	0.05 mg
+T26	Route 9272 9274	po
+T27	Drug 9121 9133	Pantoprazole
+T28	Strength 9134 9139	40 mg
+T29	Route 9140 9142	po
+T30	Drug 8611 8622	finasteride
+T31	Strength 10672 10676	5 mg
+T32	Form 10697 10703	Tablet
+T33	Route 10704 10706	PO
+T34	Drug 10660 10670;10670 10671	Finasterid e
+T35	Drug 935 940	Zosyn
+T36	Drug 11308 11315	Heparin
+T37	Drug 10930 10958	Aluminum-Magnesium Hydroxide
+T38	Drug 6579 6589	furosemide
+T39	Drug 10292 10302	Lisinopril
+T40	Strength 10303 10308	20 mg
+T41	Form 10329 10335	Tablet
+T42	Route 10336 10338	PO
+T43	Drug 8125 8135	argatroban
+T44	Drug 9280 9291	Simvastatin
+T45	Strength 9292 9297	40 mg
+T46	Route 9298 9300	po
+T47	Drug 9366 9377	Simvastatin
+T48	Strength 9378 9383	40 mg
+T49	Form 9384 9390	Tablet
+T50	Drug 9014 9028;9029 9031	Hydrocortisone Na
+T51	Strength 9032 9037	50 mg
+T52	Frequency 9041 9043	q6
+T54	Drug 10056 10065	Trazodone
+T55	Strength 10066 10071	50 mg
+T56	Form 10088 10094	Tablet
+T57	Dosage 10084 10087	0.5
+T58	Route 10095 10097	PO
+T59	Drug 10569 10577	Warfarin
+T60	Strength 10578 10582	5 mg
+T61	Form 10603 10609	Tablet
+T62	Route 10610 10612	PO
+T63	Drug 9935 9945;9946 9955	Metoprolol Succinate
+T64	Strength 9956 9961	25 mg
+T65	Form 9962 9968;9969 9991	Tablet Sustained Release 24HR
+T66	Drug 11985 11992	heparin
+T67	Drug 6563 6577	spironolactone
+T68	Drug 980 990	vancomycin
+T69	Drug 9432 9442	Amiodarone
+T70	Strength 9443 9449	200 mg
+T71	Form 9470 9476	Tablet
+T72	Route 9477 9479	PO
+T73	Drug 9049 9060	Ipratropium
+T74	Drug 9306 9313	Heparin
+T75	Drug 945 955	Vancomycin
+T76	Drug 5220 5234;5234 5245	hydrocortisone /fludrocort
+T77	Frequency 5711 5716;5717 5722	twice daily
+T78	Drug 10726 10735	Compazine
+T79	Strength 10736 10740	5 mg
+T80	Form 10761 10767	Tablet
+T81	Route 10768 10770	PO
+T82	Drug 9318 9323	Zosyn
+T83	Strength 9324 9331	2.25 mg
+T84	Frequency 9335 9337	q6
+T86	Drug 6695 6705	amiodarone
+T87	Drug 9194 9200	Colace
+T88	Strength 9201 9207	100 mg
+T89	Drug 8299 8307	coumadin
+T90	Drug 9069 9076	Tylenol
+T91	Drug 10222 10236	Spironolactone
+T92	Strength 10237 10242	25 mg
+T93	Form 10263 10269	Tablet
+T94	Route 10270 10272	PO
+T95	Drug 8175 8183	coumadin
+T96	Drug 9587 9595;9596 9602	Docusate Sodium
+T97	Strength 9603 9609	100 mg
+T98	Form 9631 9638	Capsule
+T99	Route 9639 9641	PO
+T100	Drug 9150 9160	Amiodarone
+T101	Strength 9161 9167	200 mg
+T102	Route 9168 9170	po
+T103	Drug 9081 9090	Albuterol
+T104	Drug 9851 9858	Digoxin
+T105	Strength 9859 9866	125 mcg
+T106	Form 9887 9893	Tablet
+T107	Route 9894 9896	PO
+T108	Drug 6783 6793	amiodarone
+T109	Reason 10128 10133	sleep
+T110	Reason 10473 10481	wheezing
+T111	Reason 10807 10813	nausea
+T112	Reason 11324 11340	thrombocytopenia
+T113	Drug 112 127	Benzodiazepines
+T114	Duration 5210 5216	7 days
+T115	Reason 5250 5273;5274 5278	sub-optimal response to ACTH
+T116	Drug 5723 5728	lasix
+T117	Reason 6273 6276	CAD
+T118	Drug 6316 6319	ASA
+T119	Drug 6334 6346	beta-blocker
+T120	Drug 6540 6552	beta-blocker
+T121	Reason 6525 6528	CHF
+T122	Drug 6534 6538	ACEi
+T123	Drug 7180 7183	PPI
+T125	Reason 8320 8337	Urinary retention
+T126	Drug 8646 8659	alpha-blocker
+T127	ADE 8684 8695	hypotension
+T128	Drug 9044 9048	RISS
+T129	Form 9061 9064	MDI
+T130	Frequency 9143 9149	q24 hr
+T131	Frequency 9171 9175	qday
+T132	Drug 9176 9179	ASA
+T133	Strength 9180 9185	81 mg
+T134	Route 9186 9188	po
+T135	Frequency 9189 9193	qday
+T136	Drug 9225 9230	Senna
+T137	Frequency 9275 9279	qday
+T138	Frequency 9301 9305	qday
+T139	Route 9314 9317	gtt
+T140	Dosage 9396 9403	One (1)
+T141	Form 9404 9410	Tablet
+T142	Route 9411 9413	PO
+T143	Frequency 9414 9419;9420 9427	DAILY (Daily)
+T144	Form 9450 9456	Tablet
+T145	Dosage 9462 9469	One (1)
+T146	Frequency 9480 9485;9486 9493	DAILY (Daily)
+T147	Form 9519 9525	Tablet
+T148	Frequency 9546 9558;9559 9582	Q4-6H (every 4 to 6 hours) as needed
+T149	Form 9610 9617	Capsule
+T150	Dosage 9623 9630	One (1)
+T151	Frequency 9642 9648;9649 9661	BID (2 times a day)
+T152	Drug 9666 9671	Senna
+T153	Strength 9672 9678	8.6 mg
+T154	Form 9679 9685	Tablet
+T155	Dosage 9691 9698	One (1)
+T156	Form 9699 9705	Tablet
+T157	Route 9706 9708	PO
+T158	Frequency 9709 9723;9724 9728	BID (2 times a day)
+T159	Form 9754 9759	Syrup
+T160	Dosage 9765 9779	Thirty (30) ML
+T161	Frequency 9783 9793;9794 9812	Q8H (every 8 hours) as needed
+T162	Form 9867 9873	Tablet
+T163	Dosage 9879 9886	One (1)
+T164	Frequency 9897 9912;9913 9930	EVERY OTHER DAY (Every Other Day)
+T165	Dosage 9997 10004	One (1)
+T166	Form 10005 10034	Tablet Sustained Release 24HR
+T167	Route 10035 10037	PO
+T168	Frequency 10038 10051	DAILY (Daily)
+T169	Form 10072 10078	Tablet
+T170	Frequency 10098 10116;10117 10123	HS (at bedtime) as needed
+T171	Form 10153 10169	Tablet, Chewable
+T172	Dosage 10175 10182	One (1)
+T173	Route 10200 10202	PO
+T174	Frequency 10203 10216	DAILY (Daily)
+T175	Form 10243 10249	Tablet
+T176	Dosage 10255 10262	One (1)
+T177	Frequency 10273 10278;10279 10286	DAILY (Daily)
+T178	Form 10309 10315	Tablet
+T179	Dosage 10321 10328	One (1)
+T180	Frequency 10339 10344;10345 10352	DAILY (Daily)
+T181	Drug 10376 10393	Albuterol Sulfate
+T182	Strength 10394 10401	0.083 %
+T183	Form 10402 10410	Solution
+T184	Dosage 10416 10423	One (1)
+T185	Form 10424 10427	neb
+T186	Route 10428 10438	Inhalation
+T187	Frequency 10439 10468	Q4H (every 4 hours) as needed
+T188	Reason 10483 10490	dyspnea
+T189	Form 10514 10520	Tablet
+T190	Dosage 10526 10533	One (1)
+T191	Frequency 10544 10556;10557 10563	BID (2 times a day)
+T192	Form 10583 10589	Tablet
+T193	Dosage 10595 10602	One (1)
+T194	Frequency 10613 10623	at bedtime
+T195	Form 10677 10683	Tablet
+T196	Dosage 10689 10696	One (1)
+T197	Frequency 10707 10712;10713 10720	DAILY (Daily)
+T198	Form 10741 10747	Tablet
+T199	Dosage 10753 10760	One (1)
+T200	Frequency 10771 10786;10787 10802	every eight (8) hours as needed
+T201	Strength 10959 10974	225-200 mg/5 mL
+T202	Form 10975 10985	Suspension
+T203	Route 11001 11003	PO
+T204	Frequency 11004 11033	QID (4 times a day) as needed
+T206	Drug 1194 1202	steroids
+T207	Reason 1227 1266	inappropriate cortisol stimulation test
+T208	Drug 4790 4797	heparin
+T209	ADE 4806 4822	thrombocytopenia
+T210	Drug 5183 5194	antibiotics
+T211	Reason 5087 5112	distributive/septic shock
+T212	Reason 6710 6724;6725 6737	maintenance of sinus rhythm
+T213	Drug 6924 6939	anticoagulation
+T214	Reason 6948 6954;6955 6967	atrial fibrillation
+T215	Drug 8239 8255	anti-coagulation
+T216	Reason 7851 7881	Thrombocytopenia - HIT type II
+T217	Dosage 10991 10996;10997 11000	15-30 MLs
+T219	Drug 11827 11838	antibiotics
+T220	ADE 11924 11949	a bleed into a hip muscle
+T221	ADE 11341 11391	Acute blood loss anemia from Psoas muscle hematoma
+T222	Reason 880 885	shock
+T223	Reason 4900 4905	Shock
+T224	Drug 4954 4966	vasopressors
+T225	Reason 5638 5653	pulmonary edema
+T226	Reason 6655 6661;6662 6682	atrial flutter/fibrillation
+T227	Frequency 9065 9068	prn
+T228	Frequency 9077 9080	prn
+T229	Frequency 9091 9094	prn
+T124	ADE 6842 6856	Upper GI bleed
+T230	Reason 6842 6856	Upper GI bleed
+T53	Route 9038 9040	IV
+T85	Route 9332 9334	IV

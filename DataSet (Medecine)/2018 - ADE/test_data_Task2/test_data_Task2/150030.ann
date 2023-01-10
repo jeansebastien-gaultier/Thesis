@@ -1,0 +1,76 @@
+T1	Drug 165 174	Thiazides
+T2	Drug 4513 4528	HCTZ/Triamtrene
+T3	Reason 4569 4572	HTN
+T4	ADE 4578 4590	Hyponatremia
+T5	Drug 4654 4662	diuretic
+T6	Reason 471 486	low-grade fever
+T7	Dosage 4858 4861;4862 4867	one liter
+T9	Drug 4871 4884	normal saline
+T10	Reason 488 493	cough
+T11	Reason 495 503	lethargy
+T12	Drug 5002 5008	saline
+T13	Drug 5252 5256	IVFs
+T15	Drug 536 547	amoxicillin
+T16	Drug 5408 5425	thiazide diuretic
+T17	ADE 5443 5449;5450 5462	severe hyponatremia
+T18	Drug 565 577	azithromycin
+T19	Drug 5760 5777	thiazide diuretic
+T20	ADE 5818 5837	severe hyponatremia
+T22	Drug 6079 6087	benadryl
+T23	Form 6097 6102	syrup
+T24	ADE 6136 6154	neurogenic bladder
+T25	Drug 626 630	IVFs
+T28	Reason 7059 7062	HTN
+T29	Drug 7118 7126	cardizem
+T30	Drug 7131 7138	dyazide
+T31	Drug 7180 7190	Metoprolol
+T32	Reason 7195 7205	BP control
+T34	Drug 7247 7263	dyazide diuretic
+T35	Drug 8013 8021	cardizem
+T36	Strength 8022 8027	180mg
+T37	Drug 8028 8035	dyazide
+T38	Dosage 8036 8037	2
+T39	Form 8037 8041	tabs
+T40	Frequency 8042 8045	day
+T41	Drug 8046 8053	xalatan
+T42	Strength 8054 8059	0.005
+T43	Dosage 8061 8062	1
+T44	Form 8063 8067	drop
+T45	Frequency 8068 8071	qhs
+T46	Drug 8072 8078	saline
+T47	Route 8079 8082	eye
+T48	Form 8083 8088	drops
+T49	Drug 8089 8096	lipitor
+T50	Strength 8097 8101	10mg
+T51	Frequency 8102 8104	qd
+T52	Drug 8105 8108	ASA
+T53	Strength 8109 8114	81 mg
+T54	Frequency 8115 8117	qd
+T55	Drug 8146 8158	Atorvastatin
+T56	Strength 8159 8164	20 mg
+T57	Form 8165 8171	Tablet
+T58	Dosage 8177 8184	One (1)
+T59	Form 8185 8191	Tablet
+T60	Route 8192 8194	PO
+T61	Frequency 8195 8200	DAILY
+T62	Drug 8245 8254	Toprol XL
+T63	Strength 8255 8261	100 mg
+T64	Form 8262 8291	Tablet Sustained Release 24HR
+T65	Dosage 8297 8304	One (1)
+T66	Strength 8305 8334	Tablet Sustained Release 24HR
+T67	Route 8335 8337	PO
+T68	Frequency 8338 8348	once a day
+T69	Drug 8408 8419	Latanoprost
+T70	Strength 8420 8425	0.005 
+T71	Form 8428 8433	Drops
+T72	Dosage 8439 8446	One (1)
+T73	Form 8447 8451	Drop
+T74	Route 8452 8462	Ophthalmic
+T75	Frequency 8464 8466	HS
+T76	ADE 8758 8770	hyponatremia
+T77	Drug 8782 8790	thiazide
+T78	Drug 9014 9021	aspirin
+T79	Drug 9196 9204	THIAZIDE
+T80	Reason 9249 9263;9264 9272	blood pressure lowering
+T81	Drug 9285 9291	Toprol
+T82	Drug 9492 9512	pneumococcal vaccine

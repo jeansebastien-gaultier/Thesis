@@ -1,0 +1,112 @@
+T1	Drug 6018 6026	dilaudid
+T2	Drug 4995 5005	famotidine
+T3	Drug 1092 1100	benadryl
+T4	Drug 5381 5389	benadryl
+T5	Drug 6918 6926	Benadryl
+T6	Strength 6927 6932	50 mg
+T7	Form 6954 6961	Capsule
+T8	Route 6962 6964	PO
+T9	Drug 6669 6677	Zolpidem
+T10	Strength 6678 6682	5 mg
+T11	Form 6703 6709	Tablet
+T12	Route 6710 6712	PO
+T13	Drug 6403 6409	folate
+T14	Strength 6410 6414	1 mg
+T15	Drug 6423 6430	Viokase
+T16	Form 6433 6440	tablets
+T17	Dosage 6431 6432	2
+T18	Drug 6111 6119	morphine
+T19	Drug 6753 6761;6762 6768	Docusate Sodium
+T20	Strength 6769 6775	100 mg
+T21	Form 6797 6804	Capsule
+T22	Route 6805 6807	PO
+T23	Drug 162 168	Iodine
+T24	Strength 6581 6587	325 mg
+T25	Form 6604 6611	Tablets
+T26	Dosage 6600 6603	1-2
+T27	Route 6612 6614	PO
+T28	Drug 6567 6579;6579 6580	Acetaminophe n
+T29	Strength 6388 6394	100 mg
+T30	Drug 6379 6386;6386 6387	thiamin e
+T31	Drug 6317 6325	Protonix
+T32	Strength 6326 6331	40 mg
+T33	Drug 6452 6460;6461 6468	morphine sulfate
+T34	Strength 6469 6474	15 mg
+T35	Form 6500 6507	tablets
+T36	Dosage 6498 6499	6
+T37	Drug 4985 4993	benadryl
+T39	Drug 6842 6850	Morphine
+T40	Strength 6851 6856	15 mg
+T41	Form 6873 6880	Tablets
+T42	Dosage 6869 6872	1-2
+T43	Route 6881 6883	PO
+T44	Reason 5398 5405	itching
+T45	Reason 6656 6664	Headache
+T46	Reason 6743 6748	sleep
+T49	Drug 972 980	contrast
+T50	ADE 995 1003	flushing
+T51	Reason 995 1003	flushing
+T52	ADE 1034 1039	hives
+T53	Reason 1034 1039	hives
+T54	ADE 1005 1029	periorbital/facial edema
+T55	Reason 1005 1029	periorbital/facial edema
+T56	Drug 1102 1112	solumedrol
+T57	Drug 1118 1128	H2 blocker
+T58	ADE 4640 4662	anaphylactoid reaction
+T59	Drug 4669 4681	contrast dye
+T61	ADE 4723 4731	flushing
+T62	ADE 4763 4768	hives
+T63	ADE 4733 4757	periorbital/facial edema
+T64	Drug 5011 5021	solumedrol
+T65	Reason 5409 5413	rash
+T67	Route 6106 6110	oral
+T68	Frequency 6332 6348	before breakfast
+T69	Drug 6349 6361	multivitamin
+T70	Dosage 6362 6363	1
+T71	Form 6364 6370	tablet
+T72	Frequency 6371 6378	per day
+T73	Frequency 6395 6402	per day
+T74	Frequency 6415 6422	per day
+T75	Frequency 6441 6451	with meals
+T76	Form 6475 6482	tablets
+T77	Frequency 6508 6515	per day
+T78	Form 6588 6594	Tablet
+T79	Frequency 6615 6627;6628 6651	Q4-6H (every 4 to 6 hours) as needed
+T80	Form 6683 6689	Tablet
+T81	Dosage 6695 6702	One (1)
+T82	Frequency 6713 6728;6729 6738	HS (at bedtime) as needed
+T83	Form 6776 6783	Capsule
+T84	Dosage 6789 6796	One (1)
+T85	Frequency 6808 6814;6815 6837	BID (2 times a day) as needed
+T86	Form 6857 6863	Tablet
+T87	Frequency 6884 6903;6904 6913	Q4H (every 4 hours) as needed
+T88	Dosage 6946 6953	One (1)
+T89	Form 6933 6940	Capsule
+T90	Frequency 6965 6978;6979 6994	every six (6) hours as needed
+T91	Reason 6999 7015	allergy symptoms
+T92	Drug 7133 7145	contrast dye
+T94	ADE 7105 7116	Anaphylaxis
+T95	Drug 1158 1160	O2
+T96	Route 1182 1185	NRB
+T98	Drug 4810 4818	benadryl
+T99	Drug 4849 4851	O2
+T100	Route 4864 4867	NRB
+T101	Frequency 5390 5393	prn
+T102	ADE 7364 7381	allergic reaction
+T104	Drug 7388 7400	contrast dye
+T105	Reason 4615 4626	Anaphylaxis
+T106	Reason 5990 5994	pain
+T107	Frequency 6517 6520	prn
+T108	Reason 6525 6539	abdominal pain
+T109	Reason 4763 4768	hives
+T110	Reason 4733 4757	periorbital/facial edema
+T111	Reason 4723 4731	flushing
+T38	Route 4807 4809	IV
+T47	Route 6015 6017	IV
+T48	Route 7130 7132	IV
+T60	Route 7385 7387	IV
+T66	Route 969 971	IV
+T93	Drug 4131 4139	contrast
+T97	Route 4128 4130	IV
+T103	Route 4982 4984	IV
+T112	Route 4666 4668	IV

@@ -1,0 +1,142 @@
+T1	Drug 11416 11428	chemotherapy
+T2	Drug 11516 11522	imuran
+T3	Reason 11527 11537	myasthenia
+T4	Drug 11714 11720	Imuran
+T5	Reason 1230 1241	cholangitis
+T6	Drug 1262 1268	Unasyn
+T7	Drug 13010 13016	Haldol
+T8	Drug 13017 13025	Seroquel
+T9	Reason 13030 13035	sleep
+T10	ADE 13051 13079	made the patient feel strage
+T11	Drug 13140 13146	ambien
+T12	Frequency 13156 13159	prn
+T13	Reason 13163 13166	HTN
+T14	Drug 13176 13185	Lopressor
+T15	Strength 13186 13192	100 mg
+T16	Frequency 13193 13196	TID
+T17	Drug 13248 13254	Imuran
+T18	Drug 13256 13263	Imitrex
+T19	Drug 13265 13276	Amoxicillin
+T20	Drug 13278 13287	Augmentin
+T21	Drug 13289 13299	Atovaquone
+T22	Drug 13301 13311	Azithromax
+T23	Drug 13339 13358	Metoprolol Tartrate
+T24	Strength 13359 13364	50 mg
+T25	Form 13365 13371	Tablet
+T26	Dosage 13377 13384	Two (2)
+T27	Form 13385 13391	Tablet
+T28	Route 13392 13394	PO
+T29	Frequency 13395 13398	TID
+T30	Drug 13452 13461	Meropenem
+T31	Strength 13462 13468	500 mg
+T32	Form 13469 13479	Recon Soln
+T33	Dosage 13485 13506	Five Hundred (500) mg
+T34	Route 13507 13518	Intravenous
+T35	Frequency 13520 13541	every eight (8) hours
+T36	Drug 13603 13616	Dexamethasone
+T37	Strength 13617 13621	4 mg
+T38	Form 13622 13628	Tablet
+T39	Dosage 13634 13637	2.5
+T40	Form 13638 13645	Tablets
+T41	Route 13646 13648	PO
+T42	Frequency 13649 13659	once a day
+T43	Strength 13673 13678	10 mg
+T44	Route 13679 13681	PO
+T45	Frequency 13682 13687	daily
+T46	Strength 13717 13721	5 mg
+T47	Route 13722 13724	po
+T48	Frequency 13725 13730	daily
+T49	Drug 13767 13780	Acetaminophen
+T50	Strength 13781 13787	325 mg
+T51	Form 13788 13794	Tablet
+T52	Dosage 13800 13807	One (1)
+T53	Form 13808 13814	Tablet
+T54	Route 13815 13817	PO
+T55	Frequency 13818 13823;13824 13854	Q4-6H (every 4 to 6 hours) as needed
+T56	Reason 13859 13864	fever
+T57	Drug 13901 13913	Pantoprazole
+T58	Strength 13914 13919	40 mg
+T59	Form 13920 13943	Tablet, Delayed Release
+T61	Dosage 13956 13959;13960 13963	One (1)
+T62	Form 13964 13987	Tablet, Delayed Release
+T63	Route 13995 13997	PO
+T64	Frequency 13998 14008	once a day
+T65	Reason 14010 14018;14019 14027	while on steroids
+T66	Drug 14019 14027	steroids
+T67	Dosage 1405 1411	1 Unit
+T68	Drug 14088 14106	Miconazole Nitrate
+T70	Form 14111 14117	Powder
+T71	Dosage 14123 14130	One (1)
+T72	Form 14131 14135	Appl
+T73	Route 14136 14143	Topical
+T74	Frequency 14145 14148;14149 14174	TID (3 times a day) as needed
+T75	Drug 1415 1421	PRBC's
+T76	Drug 14204 14212	Nystatin
+T77	Strength 14213 14227	100,000 unit/g
+T78	Form 14228 14233	Cream
+T79	Dosage 1423 1429	3 bags
+T80	Dosage 14239 14246	One (1)
+T81	Form 14247 14251	Appl
+T82	Route 14252 14259	Topical
+T83	Frequency 14279 14292	2 times a day
+T84	Drug 14323 14329	Ambien
+T85	Drug 1433 1436	FFP
+T86	Strength 14330 14334	5 mg
+T87	Form 14335 14341	Tablet
+T88	Dosage 14347 14354	One (1)
+T89	Form 14355 14361	Tablet
+T90	Route 14362 14364	PO
+T91	Frequency 14365 14378;14379 14385	at bedtime as needed
+T92	Reason 14390 14398	insomnia
+T93	Dosage 1442 1448	3 bags
+T94	Drug 14435 14446	Fluconazole
+T95	Strength 14447 14453	200 mg
+T96	Form 14454 14460	Tablet
+T97	Dosage 14466 14473	Two (2)
+T98	Form 14474 14480	Tablet
+T99	Route 14481 14483	PO
+T100	Frequency 14484 14494	once a day
+T101	Drug 1452 1456	plts
+T102	Reason 1545 1583	bilateral patchy pulmonary infiltrates
+T103	Reason 1596 1620	hemodynamically unstable
+T104	Drug 1643 1649	Norepi
+T105	Route 1650 1653	gtt
+T106	Drug 1677 1688	Ceftriaxone
+T107	Drug 1690 1700	Doxycyclin
+T108	Drug 1713 1718	Zosyn
+T109	Drug 1945 1955	Prednisone
+T110	ADE 1964 1976	osteoporosis
+T111	Drug 2501 2509	Fentanyl
+T112	Strength 2510 2513	125
+T113	Drug 2519 2524	Midaz
+T114	Reason 607 621	s/p thymectomy
+T115	Drug 625 631	Imuran
+T116	Reason 705 714	dry cough
+T117	Drug 728 739	Amoxicillin
+T118	Drug 744 753	Augmentin
+T119	Drug 7952 7957	Vanco
+T120	Drug 7958 7964	Ceftaz
+T121	Reason 7998 8009	Tm of 102.2
+T122	ADE 8352 8359	C. diff
+T123	Drug 8376 8379	ABX
+T124	Reason 8588 8622	Hemophagocytic Lymphohistiocytosis
+T125	Drug 8719 8728	etoposode
+T126	Drug 8730 8734	IVIG
+T128	Drug 8739 8747	decadron
+T129	Reason 8769 8781	pancytopenia
+T130	Drug 8804 8810	epogen
+T131	Drug 8815 8823	neupogen
+T132	Drug 8972 8975	MTX
+T133	Drug 9007 9014	steroid
+T134	Dosage 9015 9020	taper
+T135	Strength 9035 9040	10 mg
+T136	Drug 9041 9049	Decadron
+T138	Drug 9082 9091	Etoposide
+T139	Reason 9244 9255	EBV viremia
+T140	Drug 9261 9272	anti-virals
+T141	Drug 930 942	Azythromycin
+T142	Reason 9312 9327	EBSL klebsiella
+T143	Drug 9373 9382	meropenem
+T144	Duration 9383 9393	for 14 day
+T145	Drug 947 957	Atovaquone
+T146	Reason 962 976;977 990	suspected tick borne illness

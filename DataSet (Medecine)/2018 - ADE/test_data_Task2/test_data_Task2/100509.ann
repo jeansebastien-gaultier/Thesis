@@ -1,0 +1,121 @@
+T1	Drug 11841 11853	chemotherapy
+T2	Drug 12165 12177	chemotherapy
+T3	Duration 12178 12188	for 3 days
+T4	Drug 12649 12659	vancomycin
+T5	Drug 12661 12669	cefepime
+T6	Drug 12674 12687	ciprofloxacin
+T7	Duration 12713 12722	for 8 day
+T8	Reason 12735 12738	VAP
+T9	Drug 12740 12745	Vanco
+T10	Duration 13848 13854	3 days
+T11	Drug 13858 13870	chemotherapy
+T12	ADE 14217 14236	Acute Renal failure
+T13	Drug 14252 14257	chemo
+T14	Drug 14263 14274	carboplatin
+T15	Drug 14355 14367	chemotherapy
+T16	ADE 14383 14394;14395 14403	tumor lysis syndrome
+T17	Drug 15754 15770	anti-coagulation
+T18	Drug 15870 15875	fluid
+T19	Dosage 15876 15883	boluses
+T20	Reason 15980 16015	dehydration with free water deficit
+T21	Drug 16036 16039	D5W
+T22	Drug 17095 17107	chemotherapy
+T23	Reason 17112 17125	decompression
+T24	Drug 18005 18015	Metoprolol
+T25	Drug 18029 18037	glucagon
+T26	ADE 18068 18089	beta blocker toxicity
+T27	ADE 18334 18344	Leukopenia
+T28	ADE 18345 18361	thrombocytopenia
+T29	Drug 18388 18400	chemotherapy
+T30	Drug 18433 18441	neupogen
+T31	Drug 18737 18762	antiepileptic medications
+T32	Drug 18824 18834	Metoprolol
+T33	Drug 18835 18845	Omeprazole
+T34	Drug 18846 18859	Levetiracetam
+T35	Drug 18860 18869	Carbatrol
+T36	Drug 18944 18954	Furosemide
+T37	Strength 18955 18960	10 mg
+T39	Frequency 18964 18968	ONCE
+T40	Dosage 18979 18980	1
+T41	Drug 18987 19000	Carbamazepine
+T42	Strength 19001 19007	900 mg
+T43	Route 19008 19010	PO
+T44	Frequency 19011 19014	QPM
+T45	Drug 19015 19028	Carbamazepine
+T46	Strength 19029 19035	400 mg
+T47	Route 19036 19038	PO
+T48	Frequency 19039 19042	QAM
+T49	Drug 19043 19073	Artificial Tears Preserv. Free
+T50	Dosage 19074 19077	1-2
+T51	Form 19078 19082	DROP
+T52	Route 19088 19092	EYES
+T53	Frequency 19093 19096	PRN
+T54	Reason 19097 19105	dry eyes
+T55	Drug 19106 19125	Potassium Phosphate
+T57	Dosage 19129 19142	Sliding Scale
+T58	Drug 19143 19150	Insulin
+T59	Route 19151 19153	SC
+T60	Dosage 19154 19167	Sliding Scale
+T61	Drug 19168 19183	Insulin Regular
+T62	Dosage 19184 19191	10 UNIT
+T64	Frequency 19195 19199	ONCE
+T65	Drug 19201 19209	Dextrose
+T66	Strength 19210 19212	50
+T67	Strength 19214 19219	25 gm
+T69	Frequency 19223 19227	ONCE
+T70	Dosage 19238 19239	1
+T71	Drug 19259 19267	Propofol
+T72	Strength 19268 19284	20-50 mcg/kg/min
+T74	Route 19285 19287;19288 19292	IV DRIP
+T75	Reason 19304 19318;19319 19327	moderate/heavy sedation
+T76	Drug 19328 19351	Chlorhexidine Gluconate
+T77	Strength 19352 19356	0.12
+T78	Form 19358 19368	Oral Rinse
+T79	Dosage 19369 19374	15 mL
+T80	Route 19375 19379	ORAL
+T81	Drug 19397 19411	Hydrocortisone
+T82	Strength 19421 19427	100 mg
+T84	Frequency 19431 19434	Q8H
+T85	Drug 19435 19443	Nicotine
+T86	Form 19444 19449	Patch
+T87	Strength 19450 19455	14 mg
+T88	Route 19456 19458	TD
+T89	Frequency 19459 19464	DAILY
+T90	Drug 19465 19478	LeVETiracetam
+T91	Strength 19479 19485	500 mg
+T93	Frequency 19489 19492	BID
+T94	Drug 19493 19510	Magnesium Sulfate
+T96	Dosage 19514 19527	Sliding Scale
+T97	Drug 19528 19545	Calcium Gluconate
+T99	Dosage 19549 19562	Sliding Scale
+T100	Drug 19563 19581	Potassium Chloride
+T102	Dosage 19585 19598	Sliding Scale
+T103	Drug 19599 19620	Albuterol-Ipratropium
+T104	Form 19632 19636	PUFF
+T105	Route 19637 19639	IH
+T106	Frequency 19640 19643	Q6H
+T107	Drug 19644 19656	Pantoprazole
+T108	Strength 19657 19662	40 mg
+T110	Frequency 19666 19670	Q24H
+T111	Drug 19671 19678	Heparin
+T112	Dosage 19679 19688	5000 UNIT
+T113	Route 19689 19691	SC
+T114	Frequency 19692 19695	TID
+T115	Drug 19696 19712	Fentanyl Citrate
+T116	Strength 19713 19723	25-100 mcg
+T118	Frequency 19727 19734	Q6H:PRN
+T119	Reason 19735 19743	Sedation
+T120	Drug 2181 2189	steroids
+T121	Drug 642 654	Chemotherapy
+T122	Duration 656 661	3days
+T38	Route 18961 18963	IV
+T56	Route 19126 19128	IV
+T63	Route 19192 19194	IV
+T68	Route 19220 19222	IV
+T73	Route 19428 19430	IV
+T83	Route 19486 19488	IV
+T92	Route 19511 19513	IV
+T95	Route 19546 19548	IV
+T98	Route 19582 19584	IV
+T101	Route 19663 19665	IV
+T109	Route 19724 19726	IV

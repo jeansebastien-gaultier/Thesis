@@ -1,0 +1,173 @@
+T1	Drug 10279 10289	Famotidine
+T2	Reason 10294 10308	GI prophylaxis
+T3	Reason 10382 10389;10390 10400	alcohol withdrawal
+T4	Drug 10458 10464	Ativan
+T5	Drug 10480 10486	Valium
+T6	Frequency 10487 10490	q12
+T7	Drug 10511 10519	thiamine
+T8	Drug 10524 10530	folate
+T9	Drug 10620 10629	Trazadone
+T10	Reason 10634 10639	sleep
+T11	Reason 10838 10842	Pain
+T12	Drug 10860 10867	tylenol
+T13	Drug 10872 10881	oxycodone
+T14	Drug 10911 10921	amlodipine
+T15	Strength 10922 10925	5mg
+T16	Frequency 10926 10931	daily
+T17	Drug 10933 10943	omeprazole
+T18	Strength 10944 10948	20mg
+T19	Frequency 10949 10954	daily
+T20	Drug 10956 10964	atenolol
+T21	Strength 10965 10969	50mg
+T22	Frequency 10970 10975	daily
+T23	Drug 10977 10990	levothyroxine
+T24	Strength 10991 10996	50mcg
+T25	Frequency 10997 11002	daily
+T26	Drug 11004 11012	vit B-12
+T27	Strength 11013 11020	1000mcg
+T28	Frequency 11021 11026	daily
+T29	Drug 11028 11034	vit B1
+T30	Strength 11035 11040	100mg
+T31	Drug 11059 11069	folic acid
+T32	Strength 11070 11073	1mg
+T33	Frequency 11074 11079	daily
+T34	Drug 11108 11118	enoxaparin
+T35	Strength 11119 11131	40 mg/0.4 mL
+T36	Form 11132 11139	Syringe
+T37	Dosage 11145 11158	Forty (40) MG
+T38	Route 11159 11171	Subcutaneous
+T39	Frequency 11172 11185	DAILY (Daily)
+T40	Drug 11190 11195	senna
+T41	Strength 11196 11207	8.8 mg/5 mL
+T42	Form 11208 11213	Syrup
+T43	Dosage 11219 11230	Five (5) ML
+T44	Route 11231 11233	PO
+T45	Frequency 11234 11248;11249 11263	BID (2 times a day) as needed
+T46	Reason 11268 11280	constipation
+T47	Drug 11285 11300	docusate sodium
+T48	Strength 11301 11311	50 mg/5 mL
+T49	Form 11312 11318	Liquid
+T50	Dosage 11324 11335	Ten (10) ML
+T51	Route 11336 11338	PO
+T52	Frequency 11339 11345;11346 11358	BID (2 times a day)
+T53	Drug 11363 11372	bisacodyl
+T54	Strength 11373 11377	5 mg
+T55	Form 11378 11408	Tablet, Delayed Release (E.C.)
+T56	Dosage 11414 11421	Two (2)
+T57	Form 11422 11452	Tablet, Delayed Release (E.C.)
+T58	Route 11453 11455	PO
+T59	Frequency 11456 11479	DAILY (Daily) as needed
+T60	Reason 11484 11496	constipation
+T61	Drug 11501 11508	aspirin
+T62	Strength 11509 11515	325 mg
+T63	Form 11516 11522	Tablet
+T64	Dosage 11528 11535	One (1)
+T65	Form 11536 11542	Tablet
+T66	Route 11543 11545	PO
+T67	Frequency 11546 11559	DAILY (Daily)
+T68	Drug 11564 11577	acetaminophen
+T69	Strength 11578 11584	325 mg
+T70	Form 11585 11591	Tablet
+T71	Dosage 11597 11604	Two (2)
+T72	Form 11605 11611	Tablet
+T73	Route 11612 11614	PO
+T74	Frequency 11615 11625;11626 11644	Q4H (every 4 hours) as needed
+T75	Reason 11649 11653	pain
+T76	Drug 11658 11667	trazodone
+T77	Strength 11668 11673	50 mg
+T78	Form 11674 11680	Tablet
+T79	Dosage 11686 11693	One (1)
+T80	Form 11694 11700	Tablet
+T81	Route 11701 11703	PO
+T82	Frequency 11704 11719;11720 11729	HS (at bedtime) as needed
+T83	Reason 11734 11742	insomnia
+T84	Drug 11747 11759	thiamine HCl
+T85	Strength 11760 11766	100 mg
+T86	Form 11767 11773	Tablet
+T87	Dosage 11779 11786	One (1)
+T88	Form 11787 11793	Tablet
+T89	Route 11794 11796	PO
+T90	Frequency 11797 11802;11803 11810	DAILY (Daily)
+T91	Drug 11815 11825	folic acid
+T92	Strength 11826 11830	1 mg
+T93	Form 11831 11837	Tablet
+T94	Dosage 11843 11850	One (1)
+T95	Form 11851 11857	Tablet
+T96	Route 11858 11860	PO
+T97	Frequency 11861 11874	DAILY (Daily)
+T98	Drug 11881 11893	multivitamin
+T99	Form 11898 11904	Tablet
+T100	Dosage 11910 11917	One (1)
+T101	Form 11918 11924	Tablet
+T102	Route 11925 11927	PO
+T103	Frequency 11928 11933;11934 11941	DAILY (Daily)
+T104	Drug 11947 11957	famotidine
+T105	Strength 11958 11963	20 mg
+T106	Form 11964 11970	Tablet
+T107	Dosage 11976 11983	One (1)
+T108	Form 11984 11990	Tablet
+T109	Route 11991 11993	PO
+T110	Frequency 11994 12006;12007 12013	BID (2 times a day)
+T111	Drug 12019 12038	metoprolol tartrate
+T112	Strength 12039 12044	50 mg
+T113	Form 12045 12051	Tablet
+T114	Dosage 12057 12064	One (1)
+T115	Form 12065 12071	Tablet
+T116	Route 12072 12074	PO
+T117	Frequency 12075 12078;12079 12094	TID (3 times a day)
+T118	ADE 12373 12390	methemoglobinemia
+T119	Drug 12404 12414	benzocaine
+T120	Form 12415 12420	spray
+T121	Reason 12685 12691	stroke
+T122	Drug 12717 12720	TPA
+T123	Reason 12735 12760;12761 12766	break up the clot in your brain
+T124	ADE 12829 12837	bruising
+T125	Drug 12958 12965	Lovenox
+T126	Drug 12971 12978	Aspirin
+T127	Reason 12983 13008;13009 13016	prevent further clots and strokes
+T128	Drug 13045 13070	blood pressure medication
+T130	Drug 13409 13419	benzocaine
+T131	Form 13420 13425	spray
+T132	ADE 13434 13451	methemoglobinemia
+T133	Drug 1446 1449	tPA
+T135	Drug 366 369	tPA
+T136	Reason 7222 7242	acute embolic stroke
+T138	Drug 7389 7392	tPA
+T140	Drug 7439 7442	tPA
+T141	Drug 7485 7488	tPA
+T142	Form 7489 7497	infusion
+T143	Drug 7594 7597	tPA
+T144	Drug 7755 7758	tPA
+T145	ADE 7778 7787;7788 7843	hematomas of the right knee, left scalp, and left clavicular area
+T147	Drug 7851 7854	TPA
+T148	Drug 8183 8190	Aspirin
+T149	Strength 8191 8195	81mg
+T150	Drug 8200 8207	Lovenox
+T151	Strength 8208 8212	40mg
+T152	Frequency 8213 8218	daily
+T153	Reason 8235 8238	MDS
+T154	Reason 8531 8545	Blood pressure
+T155	Drug 8561 8571	metoprolol
+T156	Strength 8572 8576	25mg
+T157	Frequency 8577 8580	TID
+T158	Frequency 8585 8594	as needed
+T159	Drug 8595 8606	hydralazine
+T160	Drug 8613 8623	metoprolol
+T161	Strength 8641 8645	50mg
+T162	Frequency 8646 8649	TID
+T163	ADE 8986 9003	methemoglobinemia
+T1640	Reason 8986 9003	methemoglobinemia
+T164	Drug 9031 9041	benzocaine
+T165	Form 9042 9047	spray
+T166	Drug 9062 9076	Methylene blue
+T167	Strength 9077 9082	140mg
+T169	ADE 9627 9635	bleeding
+T170	Drug 9641 9644	tPA
+T171	Drug 9852 9855	epo
+T172	Drug 9859 9866	aranesp
+T129	Route 363 365	IV
+T134	Route 7386 7388	IV
+T137	Route 7436 7438	IV
+T139	Route 7848 7850	IV
+T146	Route 9083 9085	IV
+T168	Reason 8239 8249	malignancy

@@ -1,0 +1,146 @@
+T1	Drug 1020 1032	epinep2hrine
+T2	Reason 10345 10348	UTI
+T3	Drug 10353 10364	cefpodoxime
+T4	Drug 1037 1045	atropine
+T5	Drug 10427 10432	cipro
+T6	Drug 10595 10608	Acetaminophen
+T7	Frequency 10609 10612	prn
+T8	Drug 10613 10622	Bisacodyl
+T9	Frequency 10623 10626	prn
+T10	Drug 10627 10636	Oxycodone
+T11	Frequency 10637 10640	prn
+T12	Drug 10641 10650	Glyburide
+T13	Strength 10651 10657	2.5 mg
+T14	Frequency 10658 10663	daily
+T15	Drug 10664 10672	Docusate
+T16	Frequency 10673 10676	prn
+T17	Drug 10677 10687	Duloxetine
+T18	Strength 10688 10693	30 mg
+T19	Frequency 10694 10699	daily
+T20	Drug 10700 10708	Tramadol
+T21	Strength 10709 10714	25 mg
+T22	Frequency 10715 10718	prn
+T23	Drug 10719 10729	Tamsulosin
+T24	Strength 10730 10736	0.4 mg
+T25	Frequency 10737 10740	qhs
+T26	Drug 10741 10749	Warfarin
+T27	Drug 10777 10789	Lansoprazole
+T28	Strength 10790 10795	30 mg
+T29	Form 10796 10821	Tablet,Rapid Dissolve, DR
+T30	Dosage 10849 10856	One (1)
+T31	Form 10857 10882	Tablet,Rapid Dissolve, DR
+T32	Frequency 10909 10914	DAILY
+T33	Drug 10927 10938	Cefpodoxime
+T34	Strength 10939 10945	100 mg
+T35	Form 10946 10952	Tablet
+T36	Dosage 10980 10987	Two (2)
+T37	Form 10988 10994	Tablet
+T38	Route 10995 10997	PO
+T39	Frequency 10998 11002	Q24H
+T40	Duration 11020 11030	for 8 days
+T41	Drug 11035 11050	Docusate Sodium
+T42	Strength 11051 11057	100 mg
+T43	Form 11058 11065	Capsule
+T44	Dosage 11093 11100	One (1)
+T45	Form 11101 11108	Capsule
+T46	Route 11109 11111	PO
+T47	Frequency 11112 11115	BID
+T48	Drug 11136 11141	Senna
+T49	Strength 11142 11148	8.6 mg
+T50	Form 11149 11155	Tablet
+T51	Dosage 11183 11190	One (1)
+T52	Form 11191 11197	Tablet
+T53	Route 11198 11200	PO
+T54	Frequency 11201 11204	BID
+T55	Drug 11235 11241	Keppra
+T56	Strength 11242 11248	750 mg
+T57	Form 11249 11255	Tablet
+T58	Dosage 11283 11290	One (1)
+T59	Form 11291 11297	Tablet
+T60	Route 11298 11300	PO
+T61	Frequency 11301 11312	twice a day
+T62	Drug 11317 11331	Insulin Lispro
+T63	Strength 11332 11343	100 unit/mL
+T64	Form 11344 11352	Solution
+T65	Route 11388 11400	Subcutaneous
+T66	Frequency 11401 11406	ASDIR
+T67	Drug 11425 11449	Heparin (Porcine) in D5W
+T68	Strength 11450 11468	25,000 unit/250 mL
+T69	Form 11469 11479;11480 11488	Parenteral Solution
+T70	Route 11524 11535	Intravenous
+T71	Frequency 11536 11541	ASDIR
+T72	Drug 1157 1167	vancomycin
+T73	Drug 11576 11602	Polyvinyl Alcohol-Povidone
+T74	Strength 11603 11610	1.4-0.6 
+T75	Form 11613 11624	Dropperette
+T76	Form 11663 11668	Drops
+T77	Route 11669 11679	Ophthalmic
+T78	Frequency 11680 11683	PRN
+T79	Drug 1169 1177	pip-tazo
+T80	Drug 11700 11728	White Petrolatum-Mineral Oil
+T81	Strength 11729 11738	42.5-56.8 
+T82	Form 11741 11749	Ointment
+T83	Dosage 11772 11775;11776 11779	One (1)
+T84	Form 11780 11784	Appl
+T85	Route 11785 11795	Ophthalmic
+T86	Dosage 1179 1183	2.5L
+T87	Frequency 11796 11799	PRN
+T88	Drug 11817 11825	Warfarin
+T89	Strength 11826 11832	2.5 mg
+T90	Form 11833 11839	Tablet
+T91	Drug 1184 1186	NS
+T92	Dosage 11862 11869	One (1)
+T93	Form 11870 11876	Tablet
+T94	Route 11877 11879	PO
+T95	Drug 1188 1197	midazolam
+T96	Frequency 11880 11893;11894 11898	Once Daily at 4 PM
+T97	Drug 11904 11910	Keppra
+T98	Strength 11911 11917	750 mg
+T99	Form 11918 11924	Tablet
+T100	Dosage 11947 11954	One (1)
+T101	Form 11955 11961	Tablet
+T102	Route 11962 11964	PO
+T103	Frequency 11965 11976	twice a day
+T104	Drug 1199 1207	fentanyl
+T105	Drug 1209 1223	norepinephrine
+T106	Drug 12458 12469	Cefpodoxime
+T107	Drug 12505 12511	Keppra
+T108	Strength 12512 12517	750mg
+T109	Frequency 12518 12529	twice daily
+T110	Drug 12537 12549	Lansoprazole
+T111	Strength 12550 12554	30mg
+T112	Frequency 12555 12560	daily
+T113	Drug 12567 12576	Glyburide
+T114	Drug 12583 12593	Duloxetine
+T115	Drug 12600 12608	Tramadol
+T116	Drug 12613 12622	oxycodone
+T117	Drug 12629 12639	Tamsulosin
+T118	Route 1317 1321	oral
+T119	Drug 1322 1333	antibiotics
+T121	Duration 1381 1387	2-week
+T122	Drug 1398 1405	TMP/SMX
+T124	Reason 7761 7772	Hypotension
+T125	Drug 7829 7832	IVF
+T126	Drug 7848 7855	pressor
+T127	Drug 7869 7883	norepinephrine
+T128	Drug 8136 8144	pressors
+T129	Drug 8212 8222	tamsulosin
+T130	ADE 8236 8248	Coagulopathy
+T131	Drug 8282 8290	warfarin
+T132	Drug 8302 8312	antibiotic
+T133	Drug 8361 8370	vitamin K
+T134	Drug 8375 8378	FFP
+T135	Drug 8402 8405	hep
+T136	Form 8406 8409	gtt
+T137	Drug 8487 8495	coumadin
+T138	Drug 8526 8534	coumadin
+T139	Drug 8637 8644	heparin
+T140	Form 8645 8648	ggt
+T141	Reason 8653 8665	thrombus ppx
+T142	Drug 8681 8689	warfarin
+T143	Drug 8695 8702	heparin
+T144	Duration 8710 8720	for 2 days
+T145	Drug 895 906	epinephrine
+T146	Drug 911 919	atropine
+T147	Drug 9246 9252	Keppra
+T148	Reason 9303 9310	seizure

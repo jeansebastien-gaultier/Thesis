@@ -1,0 +1,108 @@
+T1	Drug 10013 10022	linezolid
+T2	Drug 10024 10032	cefepime
+T3	Drug 10037 10043	flagyl
+T4	Drug 10070 10074	vanc
+T5	Drug 10079 10087	levaquin
+T6	Route 10239 10241	PO
+T7	Drug 10242 10250	Augmetin
+T8	Duration 10251 10263	for one week
+T9	Drug 1037 1049	chemotherapy
+T10	Drug 10572 10574	BB
+T11	Drug 10640 10650	metoprolol
+T12	Drug 10705 10707	BB
+T13	Reason 11088 11100	Restless leg
+T14	Drug 11107 11114	mirapex
+T15	Reason 11119 11122	HTN
+T16	Drug 11129 11138	lopressor
+T17	Reason 11143 11147	GERD
+T18	Drug 11154 11162	prilosec
+T19	Drug 11201 11204	IVF
+T20	Form 11205 11212	boluses
+T21	Drug 11382 11390	prilosec
+T22	Form 11392 11397	sub q
+T23	Drug 11398 11405	heparin
+T24	Drug 11586 11593	Mirapex
+T25	Strength 11594 11602	0.125 mg
+T26	Frequency 11603 11606	qhs
+T27	Drug 11607 11615	Prilosec
+T28	Strength 11616 11621	20 mg
+T29	Frequency 11622 11625	qhs
+T30	Drug 11626 11635	Lopressor
+T31	Strength 11636 11642	12.5mg
+T32	Route 11643 11645	PO
+T33	Frequency 11646 11649	BID
+T34	Drug 11650 11659	pancrease
+T35	Dosage 11660 11663	2-3
+T36	Form 11664 11668	tabs
+T37	Frequency 11669 11679	with meals
+T38	Drug 11708 11718	Omeprazole
+T39	Strength 11719 11724	20 mg
+T40	Form 11725 11755	Capsule, Delayed Release(E.C.)
+T41	Dosage 11761 11768	One (1)
+T42	Form 11769 11799	Capsule, Delayed Release(E.C.)
+T43	Route 11800 11802	PO
+T44	Frequency 11803 11808	DAILY
+T45	Drug 11821 11844	Amylase-Lipase-Protease
+T46	Strength 11845 11870	20,000-4,500- 25,000 unit
+T47	Form 11871 11879;11880 11901	Capsule, Delayed Release(E.C.)
+T49	Dosage 11907 11914	Two (2)
+T50	Form 11915 11918	Cap
+T51	Route 11919 11921	PO
+T52	Frequency 11922 11944;11945 11960	TID W/MEALS (3 TIMES A DAY WITH MEALS)
+T53	Drug 11965 11976	Pramipexole
+T54	Strength 11977 11985	0.125 mg
+T55	Form 11986 11992	Tablet
+T56	Dosage 11998 12005	One (1)
+T57	Form 12006 12012	Tablet
+T58	Route 12013 12015	PO
+T59	Frequency 12016 12019	qhs
+T60	Drug 12027 12039	Augmentin XR
+T61	Strength 12040 12053	1,000-62.5 mg
+T62	Form 12054 12084	Tablet Sustained Release 12 hr
+T63	Dosage 12090 12097	One (1)
+T64	Form 12098 12128	Tablet Sustained Release 12 hr
+T65	Route 12129 12131	PO
+T66	Frequency 12132 12143	twice a day
+T67	Duration 12144 12149;12150 12154	for 7 days
+T68	Reason 12514 12520	sepsis
+T69	Drug 12567 12593	broad spectrum antibiotics
+T70	Route 12744 12748	oral
+T71	Drug 12749 12760	antibiotics
+T72	Drug 12834 12843	Augmentin
+T73	Form 12844 12846	XR
+T74	Frequency 12847 12858	twice a day
+T75	Duration 12859 12869	for 7 days
+T76	Drug 166 172	Iodine
+T77	Drug 174 191	Iodine Containing
+T78	Dosage 2041 2042	4
+T79	Form 2043 2049	liters
+T80	Drug 2050 2053	IVF
+T81	Drug 2118 2125	lovenox
+T82	Reason 2132 2134	PE
+T83	Drug 2215 2222	tylenol
+T84	Drug 2233 2237	vanc
+T85	Drug 2242 2250	levaquin
+T86	Drug 2280 2283	abx
+T87	ADE 2289 2301	lips swelled
+T88	ADE 2319 2324	hives
+T89	Drug 2338 2346	benadryl
+T90	Drug 2351 2357	pepcid
+T91	Drug 2399 2410	antibiotics
+T92	Drug 2491 2496	vanco
+T93	ADE 2517 2533	red man syndrome
+T94	Reason 3047 3053	sepsis
+T95	Drug 3103 3114	gemcitabine
+T96	Drug 3122 3125	5FU
+T97	Form 3137 3145	infusion
+T98	Drug 3174 3185	gemcitabine
+T99	Drug 3230 3241	gemcitabine
+T100	Reason 481 486	fever
+T101	Reason 765 794	supraventricular tacchycardia
+T102	Drug 809 818	adenosine
+T103	Drug 828 837	lopressor
+T104	Drug 875 879	vanc
+T105	Drug 884 895	ceftriaxone
+T106	Drug 905 918	ciprofloxacin
+T107	Drug 991 1003	chemotherapy
+T108	Drug 9927 9934;9935 9961	Empiric broad spectrum antibiotics
+T109	Reason 9975 9979;9980 10011	line infection/intrabdominal process

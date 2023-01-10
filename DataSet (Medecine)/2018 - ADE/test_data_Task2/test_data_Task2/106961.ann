@@ -1,0 +1,165 @@
+T1	Drug 10198 10204	keflex
+T2	Drug 10800 10809	torsemide
+T3	Frequency 10840 10855	every other day
+T4	Drug 11013 11023	metoprolol
+T5	Drug 11028 11037	diltiazem
+T6	Reason 11042 11054	rate control
+T7	Drug 11057 11065	Warfarin
+T8	Strength 11079 11082	6mg
+T9	Drug 11259 11267	Warfarin
+T10	Strength 11268 11272	2 mg
+T11	Route 11273 11275	PO
+T12	Frequency 11276 11281	DAILY
+T13	Drug 11287 11296	Torsemide
+T14	Strength 11297 11302	50 mg
+T15	Route 11303 11305	PO
+T16	Frequency 11306 11311	DAILY
+T17	Drug 11315 11324	OxycoDONE
+T19	Strength 11346 11350	5 mg
+T20	Route 11351 11353	PO
+T21	Frequency 11354 11361	BID:PRN
+T22	Reason 11362 11366	pain
+T23	Drug 11370 11393	Metoprolol Succinate XL
+T24	Strength 11394 11399	50 mg
+T25	Route 11400 11402	PO
+T26	Frequency 11403 11408	DAILY
+T27	Drug 11412 11423	Latanoprost
+T28	Strength 11424 11429	0.005
+T29	Form 11431 11442	Ophth. Soln
+T30	Dosage 11444 11445	1
+T31	Form 11446 11450	DROP
+T32	Route 11451 11459	LEFT EYE
+T33	Frequency 11460 11462	HS
+T34	Drug 11466 11475	Diltiazem
+T35	Form 11476 11492	Extended-Release
+T36	Strength 11493 11499	180 mg
+T37	Route 11500 11502	PO
+T38	Frequency 11503 11508	DAILY
+T39	Drug 11512 11519	Digoxin
+T40	Strength 11520 11528	0.125 mg
+T41	Route 11529 11531	PO
+T42	Frequency 11532 11537	DAILY
+T43	Drug 11541 11551	Cephalexin
+T44	Strength 11552 11558	500 mg
+T45	Route 11559 11561	PO
+T46	Frequency 11562 11565	Q6H
+T47	Drug 11593 11603	Cephalexin
+T48	Strength 11604 11610	500 mg
+T49	Route 11611 11613	PO
+T50	Frequency 11614 11617	Q6H
+T51	Drug 11621 11628	Digoxin
+T52	Strength 11629 11637	0.125 mg
+T53	Route 11638 11640	PO
+T54	Frequency 11641 11646	DAILY
+T55	Drug 11650 11661	Latanoprost
+T56	Strength 11662 11667	0.005
+T57	Form 11669 11680	Ophth. Soln
+T58	Dosage 11682 11683	1
+T59	Form 11684 11688	DROP
+T60	Route 11689 11698	BOTH EYES
+T61	Frequency 11699 11701	HS
+T62	Drug 11705 11714	OxycoDONE
+T63	Form 11715 11734	(Immediate Release)  
+T65	Strength 11736 11740	5 mg
+T66	Route 11741 11743	PO
+T67	Frequency 11744 11751	BID:PRN
+T68	Reason 11752 11756	pain
+T69	Drug 11760 11784	Oxycodone SR (OxyconTIN)
+T70	Strength 11785 11790	20 mg
+T71	Route 11791 11793	PO
+T72	Frequency 11794 11798	Q12H
+T73	Drug 11802 11811	Torsemide
+T74	Strength 11812 11817	20 mg
+T75	Route 11818 11820	PO
+T76	Frequency 11821 11836	EVERY OTHER DAY
+T77	ADE 11853 11861	SBP <100
+T78	Drug 11866 11873	Demadex
+T79	Strength 11874 11879	20 mg
+T80	Dosage 11880 11881	1
+T81	Form 11882 11891	tablet(s)
+T82	Route 11892 11900	by mouth
+T83	Frequency 11901 11916	every other day
+T84	Drug 11948 11956	Warfarin
+T85	Strength 11957 11961	6 mg
+T86	Route 11962 11964	PO
+T87	Frequency 11965 11970	DAILY
+T88	Drug 11976 11999	Metoprolol Succinate XL
+T89	Strength 12000 12006	100 mg
+T90	Route 12007 12009	PO
+T91	Frequency 12010 12015	DAILY
+T92	Drug 12020 12040	metoprolol succinate
+T93	Strength 12041 12047	100 mg
+T94	Dosage 12048 12049	1
+T95	Form 12050 12059	tablet(s)
+T96	Route 12060 12068	by mouth
+T97	Frequency 12069 12074	daily
+T98	Drug 12106 12115	Diltiazem
+T99	Form 12116 12132	Extended-Release
+T100	Strength 12133 12139	180 mg
+T101	Route 12140 12142	PO
+T102	Frequency 12143 12148	DAILY
+T103	Drug 12984 12993	torsemide
+T104	Drug 12994 13002	diuretic
+T105	Drug 13048 13057	torsemide
+T106	Drug 13108 13117	torsemide
+T107	Strength 13146 13151	20 mg
+T108	Frequency 13152 13167	every other day
+T110	Drug 13327 13333	fluids
+T111	Drug 13445 13453	coumadin
+T112	Strength 13486 13490	6 mg
+T113	Frequency 13491 13498	per day
+T114	Dosage 1474 1476	1L
+T115	Drug 1477 1479	NS
+T116	Drug 1505 1514	metorolol
+T117	Drug 1519 1528	diltiazem
+T118	Drug 1534 1541	digoxin
+T119	Drug 162 177	clindamycin HCl
+T120	Reason 6623 6642	atrial fibrillation
+T121	Drug 6646 6654	coumadin
+T122	Reason 665 697	extensive chronic LE ulcerations
+T123	ADE 6984 7008	hypovolemic hyponatremia
+T124	Drug 7043 7051	diuretic
+T125	Reason 7393 7417	hypovolemic hyponatremia
+T126	Drug 7483 7496	normal saline
+T127	Drug 7620 7629	torsemide
+T128	Drug 799 805	Keflex
+T129	Reason 8108 8138;8139 8147	systemic inflammatory response syndrome
+T130	Drug 8199 8209	vancomycin
+T131	Drug 8214 8220	unasyn
+T132	Drug 8331 8341	vancomycin
+T133	Drug 8346 8352	unysin
+T134	Drug 8374 8380	keflex
+T135	Drug 8593 8603	Metoprolol
+T136	Drug 8605 8612	digoxin
+T137	Drug 8618 8627	diltiazem
+T138	ADE 8642 8653	hypotension
+T139	Reason 8946 8957	tachycardia
+T140	Drug 8983 8990	digoxin
+T141	Drug 8992 9002	metoprolol
+T142	Drug 9008 9017	diltiazem
+T143	Drug 9038 9047	Torsemide
+T144	Frequency 9068 9083	every other day
+T145	Reason 9105 9124	ATRIAL FIBRILLATION
+T146	Drug 9144 9152	coumadin
+T147	Drug 9154 9164	metoprolol
+T148	Drug 9166 9174	diltizem
+T149	Drug 9180 9187	digoxin
+T150	ADE 9227 9238	hypotensive
+T151	Drug 9266 9274	pressors
+T152	Drug 9283 9293	metoprolol
+T153	Drug 9298 9307	diltiazem
+T154	Drug 9417 9427	metoprolol
+T155	Reason 9562 9578	his rate control
+T156	Reason 9584 9591;9592 9606	INR was subtherapeutic
+T157	Drug 9615 9623	warfarin
+T158	Strength 9641 9644	6mg
+T159	Drug 9646 9653	Digoxin
+T160	Reason 9697 9716	Acute kidney injury
+T161	Reason 9781 9792	hypotension
+T162	Drug 9827 9836	torsemide
+T163	Drug 9859 9862	IVF
+T165	Drug 9940 9946	fluids
+T166	Reason 9952 9969	STASIS DERMATITIS
+T18	Route 9937 9939	IV
+T64	Route 13324 13326	IV
+T109	Reason 9984 10008	SUPER IMPOSED CELLULITIS

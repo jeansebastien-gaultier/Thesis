@@ -1,0 +1,74 @@
+T1	Drug 193 201	Percocet
+T2	Drug 4550 4565	Fludrocortisone
+T3	Strength 4566 4572	0.1 mg
+T4	Route 4573 4575	po
+T5	Drug 204 210	Imuran
+T6	Drug 4372 4378	plavix
+T7	Strength 4379 4384	75 mg
+T8	Drug 213 220	Heparin
+T9	Drug 1116 1126	prednisone
+T10	Strength 1127 1133	125 mg
+T11	Drug 4509 4520;4520 4528	Dorzolamide -timolol
+T12	Strength 4496 4505	1,000 mcg
+T13	Drug 4579 4586	insulin
+T14	Drug 4388 4395	Anzemet
+T15	Strength 4396 4403	12.5 mg
+T16	Frequency 4404 4406	q8
+T17	Drug 167 178	Epinephrine
+T18	Drug 4465 4471	celexa
+T19	Strength 4472 4477	20 mg
+T20	Drug 181 190	Lidocaine
+T21	Drug 4407 4416	bisacodyl
+T22	Form 4417 4428	suppository
+T23	Drug 4344 4353	albuterol
+T24	Drug 4692 4706	Pyridostigmine
+T25	Strength 4707 4711	2 mg
+T26	Form 4712 4721	injection
+T27	Frequency 4722 4731	q 6 hours
+T28	Strength 4743 4748	25 mg
+T29	Drug 4732 4741;4741 4742	Quetiapin e
+T30	Drug 4605 4614	mupirocin
+T31	Form 4615 4620	cream
+T32	Drug 4671 4679	Protonix
+T33	Strength 4680 4685	40 mg
+T35	Drug 1716 1721	chemo
+T36	Reason 1666 1683	Esophageal cancer
+T37	Form 4354 4358	nebs
+T38	Drug 4359 4362	asa
+T39	Strength 4363 4368	81 mg
+T40	Frequency 4369 4371	QD
+T41	Frequency 4385 4387	QD
+T42	Drug 4429 4440	brimonidine
+T43	Strength 4441 4445	.15%
+T44	Dosage 4446 4447	1
+T45	Form 4448 4452	drop
+T46	Route 4453 4455	OU
+T47	Frequency 4456 4464	q 12 hrs
+T48	Frequency 4478 4480	QD
+T49	Drug 4481 4495	cyanocobalamin
+T50	Frequency 4506 4508	QD
+T51	Strength 4529 4535	2-0.5%
+T52	Dosage 4536 4537	1
+T53	Route 4538 4541	gtt
+T54	Route 4542 4544	OU
+T55	Frequency 4545 4549	q 12
+T56	Dosage 4587 4600	sliding scale
+T57	Frequency 4576 4578	QD
+T58	Drug 4601 4604	MOM
+T59	Frequency 4621 4623	QD
+T60	Route 4627 4631	nose
+T61	Drug 4632 4645	Mycophenylate
+T62	Strength 4646 4653	1000 mg
+T63	Frequency 4689 4691	QD
+T64	Frequency 4749 4752	QHS
+T65	Drug 4753 4761	Travatan
+T66	Strength 4762 4768	0.004%
+T67	Dosage 4769 4772	1-2
+T68	Route 4773 4776	gtt
+T69	Route 4777 4779	OU
+T70	Frequency 4780 4785	q MWF
+T71	Drug 1300 1311	antibiotics
+T72	Reason 1259 1262	UTI
+T73	Drug 3429 3441	chemotherapy
+T74	Dosage 1135 1142	Tapered
+T34	Route 4686 4688	IV

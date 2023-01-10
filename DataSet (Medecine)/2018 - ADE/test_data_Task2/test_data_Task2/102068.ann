@@ -1,0 +1,175 @@
+T1	Drug 10012 10019	lovenox
+T2	Reason 10023 10034	prevent DVT
+T3	Drug 10244 10250	Tricor
+T4	Strength 10251 10254	145
+T5	Frequency 10255 10257	QD
+T6	Drug 10258 10265	Crestor
+T7	Strength 10266 10268	40
+T8	Frequency 10269 10271	QD
+T9	Drug 10272 10278	Lantus
+T10	Form 10279 10286	80units
+T11	Frequency 10287 10290	QHS
+T12	Drug 10295 10302	Humalog
+T13	Dosage 10303 10316	sliding scale
+T14	Drug 10317 10330	Levothyroxine
+T15	Strength 10331 10337	100mcg
+T16	Frequency 10338 10340	QD
+T17	Drug 10368 10381	Levothyroxine
+T18	Strength 10382 10389	100 mcg
+T19	Form 10390 10396	Tablet
+T20	Dosage 10402 10405;10406 10409	One (1)
+T21	Form 10410 10416	Tablet
+T22	Route 10417 10419	PO
+T23	Frequency 10420 10425	DAILY
+T24	Drug 10491 10500	Lorazepam
+T25	Strength 10501 10507	0.5 mg
+T26	Form 10508 10514	Tablet
+T27	Dosage 10520 10523;10524 10527	One (1)
+T28	Form 10528 10534	Tablet
+T29	Route 10535 10537	PO
+T30	Frequency 10538 10540	HS
+T31	Reason 10568 10576	insomnia
+T32	Drug 10634 10649	Docusate Sodium
+T33	Strength 10650 10656	100 mg
+T34	Form 10657 10664	Capsule
+T35	Dosage 10670 10673;10674 10677	One (1)
+T36	Form 10678 10685	Capsule
+T37	Route 10686 10688	PO
+T38	Frequency 10689 10692	BID
+T39	Drug 10767 10777	Enoxaparin
+T40	Strength 10778 10790	40 mg/0.4 mL
+T41	Form 10791 10798	Syringe
+T42	Dosage 10804 10807;10808 10811	One (1)
+T43	Form 10812 10815	inj
+T44	Route 10816 10828	Subcutaneous
+T45	Frequency 10829 10839	once a day
+T46	Drug 10891 10915	Polyethylene Glycol 3350
+T47	Strength 10916 10928	17 gram/dose
+T48	Form 10929 10935	Powder
+T49	Dosage 10941 10944;10945 10948	One (1)
+T50	Form 10949 10955	packet
+T51	Route 10956 10958	PO
+T52	Frequency 10959 10964	DAILY
+T53	Drug 11027 11046	Magnesium Hydroxide
+T54	Strength 11047 11058	400 mg/5 mL
+T55	Form 11059 11069	Suspension
+T57	Route 11090 11092	PO
+T58	Frequency 11093 11096;11097 11122	Q6H (every 6 hours) as needed
+T59	Reason 11127 11139	constipation
+T60	Drug 11144 11156	Levofloxacin
+T61	Strength 11157 11163	500 mg
+T62	Form 11164 11170	Tablet
+T63	Dosage 11176 11183	One (1)
+T64	Form 11184 11190	Tablet
+T65	Route 11191 11193	PO
+T66	Frequency 11194 11198	Q24H
+T67	Duration 11216 11226	for 8 days
+T68	Drug 11283 11296	Metronidazole
+T69	Strength 11297 11303	500 mg
+T70	Form 11304 11310	Tablet
+T71	Dosage 11316 11319;11320 11323	One (1)
+T72	Form 11324 11330	Tablet
+T73	Route 11331 11333	PO
+T74	Frequency 11334 11337	Q8H
+T75	Duration 11354 11364	for 8 days
+T76	Drug 11422 11431	Oxycodone
+T77	Strength 11432 11436	5 mg
+T78	Form 11437 11443	Tablet
+T79	Dosage 11449 11452	1-2
+T80	Form 11453 11460	Tablets
+T81	Route 11461 11463	PO
+T82	Frequency 11464 11483;11484 11493	Q4H (every 4 hours) as needed
+T83	Reason 11498 11502	pain
+T84	Drug 11561 11574	Acetaminophen
+T85	Strength 11575 11581	500 mg
+T86	Form 11582 11588	Tablet
+T87	Dosage 11594 11597;11598 11601	Two (2)
+T88	Form 11602 11608	Tablet
+T89	Route 11609 11611	PO
+T90	Frequency 11612 11616;11617 11638	four times a day as needed
+T91	Reason 11643 11647	pain
+T92	Drug 11653 11669	Insulin Glargine
+T93	Strength 11670 11681	100 unit/mL
+T94	Form 11682 11690	Solution
+T96	Route 11719 11731	Subcutaneous
+T97	Frequency 11732 11742	once a day
+T98	Reason 12077 12093	Diabetes, Type 2
+T99	Drug 12097 12104	insulin
+T100	Reason 12357 12379	bacteria in your blood
+T101	Drug 12409 12420	antibiotics
+T102	Drug 165 176	Penicillins
+T103	Drug 179 185	Iodine
+T104	Drug 188 206	Platinum Complexes
+T105	Drug 1950 1960	antibiotic
+T106	Drug 2078 2088	vancomycin
+T107	Strength 2089 2091	1g
+T108	Drug 209 216	Aspirin
+T109	Drug 2093 2101	cefepime
+T110	Drug 2106 2119	metronidazole
+T111	Strength 2120 2125	500mg
+T112	Drug 2128 2131	Mag
+T113	Strength 2170 2172	2g
+T116	Drug 2260 2265	fluid
+T117	Drug 2384 2390	Zofran
+T118	Drug 2395 2402	tylenol
+T119	Drug 3232 3237	doxil
+T120	Drug 3308 3314	Alimta
+T121	Frequency 3366 3372	Weekly
+T122	Drug 3373 3378	taxol
+T123	Drug 3384 3391	Avastin
+T124	ADE 3418 3428	neuropathy
+T125	Drug 3434 3439	taxol
+T126	Frequency 3455 3461	weekly
+T127	Drug 3462 3470	taxotere
+T128	Drug 3635 3641	gemzar
+T129	Drug 3677 3686	Topotecan
+T131	Drug 498 510	chemotherapy
+T132	Drug 6054 6065	CLINDAMYCIN
+T133	Drug 6085 6097	ERYTHROMYCIN
+T134	Drug 6116 6128	LEVOFLOXACIN
+T135	Drug 6147 6159	PENICILLIN G
+T136	Drug 6178 6188	VANCOMYCIN
+T137	Drug 6247 6255	CONTRAST
+T138	Drug 699 710	ixabepilone
+T139	Reason 7223 7227	SIRS
+T140	Drug 7337 7348	antibiotics
+T141	Drug 8084 8095	antibiotics
+T142	Route 8112 8116	oral
+T143	Drug 8117 8123	flagyl
+T144	Drug 8128 8140	levofloxacin
+T145	Duration 8315 8321	2 week
+T146	Drug 8332 8343	antibiotics
+T147	Drug 8561 8571	antibiotic
+T148	Reason 9108 9110	DM
+T149	ADE 9140 9152	hypoglycemia
+T150	Drug 9156 9162	lantus
+T151	Drug 9198 9204	lantus
+T152	Drug 9380 9386	lantus
+T153	Reason 9419 9433	Hypothyroidism
+T154	Drug 9445 9454	synthroid
+T155	Reason 9459 9472	Hyperlipdemia
+T156	Drug 9480 9486	statin
+T157	Drug 9491 9497	Tricor
+T158	Reason 9641 9653	constipation
+T159	Drug 9676 9683	Miralax
+T160	Drug 9767 9782	stool softeners
+T161	Drug 9788 9795	Miralax
+T162	Reason 9833 9845	constipation
+T163	Drug 9879 9895	milk of magnesia
+T164	Frequency 9996 10001	daily
+T165	Route 482 497	intraperitoneal
+T115	Drug 2924 2936	chemotherapy
+T167	Route 2908 2923	intraperitoneal
+T168	Frequency 9904 9913	as needed
+T169	Form 10465 10474	Tablet(s)
+T170	Form 10608 10617	Tablet(s)
+T171	Form 10740 10750	Capsule(s)
+T172	Form 10871 10874	inj
+T56	Dosage 11075 11086;11087 11089	Thirty (30) ML
+T173	Form 11257 11266	Tablet(s)
+T174	Form 11396 11405	Tablet(s)
+T175	Form 11534 11543	Tablet(s)
+T95	Dosage 11696 11712;11713 11718	Thirty Five (35) units
+T114	Route 475 477	IV
+T130	Route 2901 2903	iv
+T166	Reason 7228 7234;7235 7240	septic shock

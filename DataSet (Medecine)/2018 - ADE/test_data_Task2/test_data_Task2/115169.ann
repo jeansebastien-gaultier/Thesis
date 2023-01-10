@@ -1,0 +1,208 @@
+T1	Drug 12035 12043	percocet
+T2	Drug 12011 12017	ativan
+T3	Strength 12018 12023	0.5mg
+T4	Drug 12171 12178	renagel
+T5	Strength 12179 12185	2400mg
+T6	Frequency 12186 12189;12190 12192	tid ac
+T7	Drug 13464 13473	Minoxidil
+T8	Strength 13474 13480	2.5 mg
+T9	Form 13501 13507	Tablet
+T10	Route 13508 13510	PO
+T11	Drug 13362 13372	Nifedipine
+T12	Strength 13373 13378	90 mg
+T13	Form 13379 13385;13386 13403	Tablet Sustained Release
+T14	Drug 1432 1439	tylenol
+T15	Strength 1440 1443	1gm
+T16	Strength 12467 12472	10 mg
+T17	Form 12493 12499	Tablet
+T18	Route 12500 12502	PO
+T19	Drug 12455 12465;12465 12466	Simvastati n
+T20	Drug 12193 12199	phoslo
+T21	Strength 12200 12206	1334mg
+T22	Frequency 12211 12214;12215 12217	tid ac
+T23	Strength 12334 12340	325 mg
+T24	Drug 12326 12332;12332 12333	Aspiri n
+T25	Drug 8433 8446	Ciprofloxacin
+T26	Drug 8564 8572	propofol
+T28	Drug 1586 1591	zosyn
+T29	Drug 1114 1119	zosyn
+T30	Strength 1120 1126	2.25gm
+T32	Drug 12937 12948;12949 12952	Hydroxyzine HCl
+T33	Strength 12953 12958	25 mg
+T34	Form 12979 12985	Tablet
+T35	Route 12986 12988	PO
+T36	Drug 1081 1087	reglan
+T37	Strength 1088 1092	10mg
+T40	Drug 12094 12103	minoxidil
+T41	Form 12149 12153	tabs
+T42	Dosage 12147 12148	2
+T43	Drug 13627 13634;13635 13642	Calcium Acetate
+T44	Strength 13643 13649	667 mg
+T45	Form 13671 13678	Capsule
+T46	Route 13679 13681	PO
+T47	Drug 12218 12229	simvastatin
+T48	Strength 12230 12234	20mg
+T49	Drug 1097 1105	morphine
+T50	Strength 1106 1109	6mg
+T52	Drug 10831 10836	Zosyn
+T53	Drug 8272 8277	zosyn
+T54	Drug 12241 12247	plavix
+T55	Strength 12248 12252	75mg
+T56	Drug 8658 8666	propofol
+T57	Drug 1571 1581	vancomycin
+T59	Drug 11990 11998	sensipar
+T60	Strength 11999 12004	120mg
+T61	Drug 984 995	ceftazidime
+T62	Drug 164 169	Zosyn
+T63	Drug 13530 13539;13540 13543	Sevelamer HCl
+T64	Strength 13544 13550	800 mg
+T65	Form 13573 13579	Tablet
+T66	Route 13580 13582	PO
+T67	Drug 8411 8416	Zosyn
+T68	Drug 12894 12901	Renagel
+T69	Drug 11362 11369	aspirin
+T70	Drug 12259 12266	aspirin
+T71	Strength 12267 12272	325mg
+T72	Form 12592 12598;12599 12622	Tablet Sustained Release 24 hr
+T73	Route 12623 12625	PO
+T74	Strength 12401 12406	75 mg
+T75	Form 12427 12433	Tablet
+T76	Route 12434 12436	PO
+T77	Drug 12389 12399;12399 12400	Clopidogre l
+T78	Drug 12776 12789	Ciprofloxacin
+T79	Strength 12790 12796	750 mg
+T80	Form 12817 12823	Tablet
+T81	Frequency 12827 12833;12834 12837	once a day
+T82	Route 12824 12826	PO
+T83	Drug 12521 12531;12532 12541	Metoprolol Succinate
+T84	Strength 12542 12547	50 mg
+T85	Form 12548 12554;12555 12578	Tablet Sustained Release 24 hr
+T86	Drug 8171 8181	vancomycin
+T88	Drug 12644 12652;12652 12659	Camphor- Menthol
+T89	Form 12670 12676	Lotion
+T90	Route 12695 12702	Topical
+T91	Drug 11374 11380	plavix
+T92	Drug 13295 13305	Cinacalcet
+T93	Strength 13306 13311	30 mg
+T94	Form 13333 13339	Tablet
+T95	Route 13340 13342	PO
+T96	Drug 8690 8696	versed
+T97	Drug 8820 8830	vecuronium
+T98	Drug 8182 8188	unasyn
+T99	Drug 8681 8689	fentanyl
+T100	Reason 8204 8211	synergy
+T101	ADE 8789 8800	hypotensive
+T102	Reason 13023 13030	itching
+T103	Reason 13214 13218	rash
+T104	Drug 978 983	vanco
+T105	Drug 1063 1071	benedryl
+T106	Strength 1072 1076	25mg
+T108	Dosage 1368 1370	3L
+T109	Drug 1371 1374	IVF
+T110	Reason 1379 1389	SBP 77-111
+T111	Dosage 1561 1563	2L
+T112	Drug 1564 1566	NS
+T113	Drug 8116 8124	pressors
+T114	Drug 8189 8199	gentamycin
+T115	Reason 8239 8251	enterobacter
+T116	ADE 8477 8486	drug rash
+T117	Route 8573 8577	drip
+T118	ADE 8596 8607	hypotensive
+T119	Reason 8596 8607	hypotensive
+T121	Drug 8634 8640	fluids
+T122	Reason 8701 8709	sedation
+T123	Strength 8815 8819	10mg
+T124	Drug 10150 10163	Beta-blockers
+T126	Reason 10956 10959	CAD
+T127	Frequency 12005 12010	daily
+T128	Frequency 12024 12027	prn
+T129	Frequency 12044 12047	prn
+T130	Drug 12055 12067	nifedipineER
+T131	Strength 12068 12070	90
+T132	Frequency 12071 12076	daily
+T133	Dosage 12169 12170	1
+T134	Frequency 12235 12240	daily
+T135	Frequency 12253 12258	daily
+T136	Frequency 12273 12278	daily
+T137	Drug 12279 12287	toprolXL
+T138	Strength 12288 12292	50mg
+T139	Frequency 12293 12298	daily
+T140	Form 12341 12347	Tablet
+T141	Dosage 12353 12360	One (1)
+T142	Form 12361 12367	Tablet
+T143	Frequency 12371 12384	DAILY (Daily)
+T144	Route 12368 12370	PO
+T145	Form 12407 12413	Tablet
+T146	Dosage 12419 12426	One (1)
+T147	Frequency 12437 12442;12443 12450	DAILY (Daily)
+T148	Form 12473 12479	Tablet
+T149	Dosage 12485 12492	Two (2)
+T150	Frequency 12503 12508;12509 12516	DAILY (Daily)
+T151	Dosage 12584 12591	One (1)
+T152	Frequency 12626 12639	DAILY (Daily)
+T153	Strength 12660 12669	0.5-0.5 %
+T154	Dosage 12682 12689	One (1)
+T155	Form 12690 12694	Appl
+T156	Frequency 12720 12745	(2 times a day) as needed
+T157	Dosage 12809 12816	One (1)
+T158	Form 12797 12803	Tablet
+T159	Duration 12838 12848	for 5 days
+T160	Form 12959 12965	Tablet
+T161	Dosage 12971 12978	One (1)
+T162	Frequency 12989 12995;12996 13018	TID (3 times a day) as needed
+T163	Drug 13115 13127	Fluocinonide
+T164	Strength 13128 13134	0.05 %
+T165	Form 13135 13140	Cream
+T166	Dosage 13146 13153	One (1)
+T167	Form 13154 13158	Appl
+T168	Route 13159 13166	Topical
+T169	Frequency 13184 13186;13187 13209	(2 times a day) as needed
+T170	Duration 13219 13230	for 12 days
+T171	Form 13312 13318	Tablet
+T172	Dosage 13324 13332	Four (4)
+T173	Frequency 13343 13348;13349 13356	DAILY (Daily)
+T174	Dosage 13409 13416	One (1)
+T175	Form 13417 13441	Tablet Sustained Release
+T176	Route 13442 13444	PO
+T177	Frequency 13445 13458	DAILY (Daily)
+T178	Form 13481 13487	Tablet
+T179	Dosage 13493 13500	Two (2)
+T180	Frequency 13511 13516;13517 13524	DAILY (Daily)
+T181	Form 13551 13557	Tablet
+T182	Dosage 13563 13572	Three (3)
+T183	Frequency 13583 13586;13587 13621	TID W/MEALS (3 TIMES A DAY WITH MEALS)
+T184	Form 13650 13657	Capsule
+T185	Dosage 13663 13670	Two (2)
+T186	Frequency 13682 13685;13686 13720	TID W/MEALS (3 TIMES A DAY WITH MEALS)
+T187	Drug 11975 11983	fish oil
+T188	Strength 11984 11989	daily
+T189	Reason 906 940	febrile with rigors to temp of 103
+T190	Route 1512 1533	right IJ central line
+T191	Drug 1873 1876	ppx
+T192	Reason 1815 1819	gout
+T193	Reason 8141 8150	infection
+T197	Reason 8835 8862;8863 8892	paralyzed for arterial line placement and foley placement
+T198	Drug 9878 9889	antibiotics
+T199	Reason 9858 9876	stent was replaced
+T200	Reason 10086 10098	hypertensive
+T201	Drug 10569 10571	O2
+T202	Reason 10449 10456	Hypoxia
+T203	ADE 10608 10617	Drug Rash
+T207	Duration 13232 13250;13251 13264	Only use while you have the rash
+T208	Drug 14249 14255	fluids
+T209	Drug 14257 14268	antibiotics
+T210	Route 14237 14248	intravenous
+T211	Reason 14205 14213	infected
+T212	Reason 14136 14151;14152 14176	blockage in the area of your gallbladder
+T213	Drug 14460 14487	antibiotics (Ciprofloxacin)
+T217	ADE 10647 10670	petticheal/macular rash
+T31	Duration 13047 13057;13058 13078	as long as your rash is itching
+T27	Route 1077 1079	iv
+T38	Route 1093 1095	iv
+T39	Route 1110 1112	iv
+T51	Route 1127 1129	iv
+T58	Route 1568 1570	IV
+T87	Route 8168 8170	IV
+T107	Route 8631 8633	IV
+T120	Reason 1395 1403	HR 100's
+T125	Reason 1409 1417	Tm 101.5
