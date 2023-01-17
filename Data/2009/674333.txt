@@ -1,9 +1,7 @@
 RECORD #674333
 
 
-662587058 | PH | 59624946 | | 
- 268606 | 10/2/1991 12:00:00 AM | Discharge Summary | Unsig
-ned | DIS | Admission Date: 0/15/1991 Report Status: Unsigned
+662587058 | PH | 59624946 | | 268606 | 10/2/1991 12:00:00 AM | Discharge Summary | Unsigned | DIS | Admission Date: 0/15/1991 Report Status: Unsigned
 
 Discharge Date: 8/19/1991
 PRINCIPLE DIAGNOSIS: ACUTE BRONCHITIS.

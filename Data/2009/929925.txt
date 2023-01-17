@@ -1,9 +1,7 @@
 RECORD #929925
 
 
-209460258 | IH | 34602174 | | 
- 2116277 | 8/25/2005 12:00:00 AM | LEFT FEMUR FRACTURE | Si
-gned | DIS | Admission Date: 1/1/2005 Report Status: Signed
+209460258 | IH | 34602174 | | 2116277 | 8/25/2005 12:00:00 AM | LEFT FEMUR FRACTURE | Signed | DIS | Admission Date: 1/1/2005 Report Status: Signed
 
 Discharge Date: 7/9/2005
 ATTENDING: GABBY , TROY M.D.
