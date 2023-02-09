@@ -41,7 +41,7 @@
             "delimSup": "RECORD #",
             "delimInf": "[report_end]",
             "type": "Single",
-            "extension": "txt",
+            "extension": "None",
             "pattern": "None",
             "baseDossier": "Data/2009_Bis",
             "takeName": "False"
@@ -68,7 +68,7 @@
             "type": "Single",
             "extension": "txt",
             "pattern": "None",
-            "baseDossier": "2010 - Relations",
+            "baseDossier": "Data/2010",
             "takeName": "False"
         },
         
@@ -86,7 +86,7 @@
             "type": "Single",
             "extension": "txt",
             "pattern": "None",
-            "baseDossier": "2011 - Coreference",
+            "baseDossier": "Data/2011",
             "takeName": "False"
         },
         
@@ -104,7 +104,7 @@
             "type": "Single",
             "extension": "xml",
             "pattern": "None",
-            "baseDossier": "2012 - Temporal Relations",
+            "baseDossier": "Data/2012",
             "takeName": "False"
         },
         
@@ -123,7 +123,7 @@
             "type": "Single",
             "extension": "xml",
             "pattern": "None",
-            "baseDossier": "2014 - Deidentification & Heart Disease",
+            "baseDossier": "Data/2014",
             "takeName": "False"
         },
         
@@ -134,11 +134,10 @@
            "testing-RiskFactors-Complete-MAE",
            "testing-RiskFactors-Gold",
            "testing-RiskFactors-noTags",
-           "Track1-de-indentification/PHI",
-           "Track2-RiskFactors/complete",
            "training-PHI-Gold-Set1",
            "training-PHI-Gold-Set2",
            "training-RiskFactors-Complete-Set1",
+           "training-RiskFactors-Complete-Set2",
            "training-RiskFactors-Complete-Set1-MAE",
            "training-RiskFactors-Complete-Set2-MAE",
            "training-RiskFactors-Gold-Set1",
@@ -152,7 +151,7 @@
             "type": "Multiple",
             "extension": "xml",
             "pattern": "None",
-            "baseDossier": "2018 (Track 1) - Clinical Trial Cohort Selection",
+            "baseDossier": "Data/2018_1",
             "takeName": "True"
         },
         
@@ -169,16 +168,14 @@
             "type": "Single",
             "extension": "txt",
             "pattern": "None",
-            "baseDossier": "2018 (Track 2) - Adverse Drug Events and Medication Extraction",
+            "baseDossier": "Data/2018_2",
             "takeName": "False"
         },
         
         "dossiers":[
            "training_20180910",
            "test_data_Tasks1&3",
-           "test_data_Task2",
-           "test",
-           "data_sample"
+           "test_data_Task2"
         ]
     }
 }
